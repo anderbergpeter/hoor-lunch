@@ -1,31 +1,50 @@
 {
-  "updatedAt": "2026-01-27T23:10:00+01:00",
+  "updatedAt": "2026-01-27T23:15:00+01:00",
   "radiusKm": 5,
   "center": { "name": "Höör, Sweden" },
   "places": [
     {
       "id": "akersberg",
       "name": "Stiftsgården Åkersberg",
-      "source": {
-        "type": "akersberg-html",
-        "url": "https://akersberg.se/mat-dryck/"
-      }
+      "address": "Åkersbergsgatan 3, Höör",
+      "source": { "type": "akersberg-html", "url": "https://akersberg.se/mat-dryck/" }
     },
     {
       "id": "caferalsen",
       "name": "Café Rälsen",
-      "source": {
-        "type": "ralsen-html",
-        "url": "https://www.caferalsen.se/var-meny/"
-      }
+      "address": "Järnvägsgatan 1, Höör",
+      "source": { "type": "ralsen-html", "url": "https://www.caferalsen.se/var-meny/" }
     },
     {
       "id": "hoors-gastis",
       "name": "Höörs Gästgifwaregård",
-      "source": {
-        "type": "gastis-image",
-        "pageUrl": "https://hoorsgastis.se/restaurang/lunch/"
-      }
+      "address": "Gamla Torg 4, Höör",
+      "source": { "type": "gastis-image", "pageUrl": "https://hoorsgastis.se/restaurang/lunch/" }
+    },
+
+    {
+      "id": "mirekas",
+      "name": "Mirekas Fik & Lunchrestaurang",
+      "address": "Pumpvägen 2, Höör",
+      "source": { "type": "facebook-or-down", "note": "mireka.se verkar nere; meny troligen på Facebook" }
+    },
+    {
+      "id": "tais",
+      "name": "Tai’s restaurang",
+      "address": "Friluftsvägen 14, Höör",
+      "source": { "type": "facebook", "note": "meny verkar ligga på Facebook" }
+    },
+    {
+      "id": "hoorkules",
+      "name": "Restaurang Höörkules",
+      "address": "Höör (oklar adress)",
+      "source": { "type": "unknown", "note": "hittade ingen tydlig lunchmeny på sajt" }
+    },
+    {
+      "id": "frostavallen",
+      "name": "Frostavallen",
+      "address": "Frostavallen, Höör",
+      "source": { "type": "seasonal", "url": "https://frostavallen.se/mat.html", "note": "mest event/kiosk, inte tydlig veckolunch" }
     }
   ]
 }

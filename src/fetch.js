@@ -66,7 +66,8 @@ async function buildMenus(sources) {
         continue;
       }
 
-      results.push({ ...base, ok: false, error: 'unsupported_source_type' });
+      // Keep unknown sources in the dataset so the UI can list them.
+      results.push({ ...base, ok: false, error: 'unsupported_source_type', raw: { note: p.source?.note || null } });
     } catch (err) {
       results.push({ ...base, ok: false, error: err?.message || String(err) });
     }
