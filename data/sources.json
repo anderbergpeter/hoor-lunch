@@ -1,6 +1,15 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-01-27T22:50:00+01:00",
   "radiusKm": 5,
   "center": { "name": "Höör, Sweden" },
-  "places": []
+  "places": [
+    {
+      "id": "hoors-gastis",
+      "name": "Höörs Gästgifwaregård",
+      "source": {
+        "type": "gastis-image",
+        "pageUrl": "https://hoorsgastis.se/restaurang/lunch/"
+      }
+    }
+  ]
 }

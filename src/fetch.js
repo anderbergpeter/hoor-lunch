@@ -26,21 +26,46 @@ async function loadSources() {
   }
 }
 
-/**
- * Placeholder fetcher.
- * Next step: implement per-source adapters (website, Facebook, PDF, etc.)
- */
+import { fetchGastisMenu } from './adapters/gastis.js';
+
 async function buildMenus(sources) {
   const results = [];
   for (const p of sources.places || []) {
-    results.push({
+    const base = {
       placeId: p.id,
       placeName: p.name,
       fetchedAt: nowIso(),
       ok: false,
-      error: 'fetcher-not-implemented',
-      week: null
-    });
+      error: null,
+      source: p.source || null,
+      week: null,
+      raw: null
+    };
+
+    try {
+      if (p.source?.type === 'gastis-image') {
+        const out = await fetchGastisMenu({ pageUrl: p.source.pageUrl });
+        if (!out.ok) {
+          results.push({ ...base, ok: false, error: out.error, raw: out });
+        } else {
+          // NOTE: parsing into structured week comes next; for now store OCR output.
+          results.push({
+            ...base,
+            ok: true,
+            raw: {
+              pageUrl: out.pageUrl,
+              imageUrl: out.imageUrl,
+              ocrText: out.ocrText
+            }
+          });
+        }
+        continue;
+      }
+
+      results.push({ ...base, ok: false, error: 'unsupported_source_type' });
+    } catch (err) {
+      results.push({ ...base, ok: false, error: err?.message || String(err) });
+    }
   }
   return results;
 }
