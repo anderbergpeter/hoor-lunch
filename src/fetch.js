@@ -27,6 +27,8 @@ async function loadSources() {
 }
 
 import { fetchGastisMenu } from './adapters/gastis.js';
+import { fetchAkersbergMenu } from './adapters/akersberg.js';
+import { fetchRalsenMenu } from './adapters/ralsen.js';
 
 async function buildMenus(sources) {
   const results = [];
@@ -45,20 +47,22 @@ async function buildMenus(sources) {
     try {
       if (p.source?.type === 'gastis-image') {
         const out = await fetchGastisMenu({ pageUrl: p.source.pageUrl });
-        if (!out.ok) {
-          results.push({ ...base, ok: false, error: out.error, raw: out });
-        } else {
-          // NOTE: parsing into structured week comes next; for now store OCR output.
-          results.push({
-            ...base,
-            ok: true,
-            raw: {
-              pageUrl: out.pageUrl,
-              imageUrl: out.imageUrl,
-              ocrText: out.ocrText
-            }
-          });
-        }
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { pageUrl: out.pageUrl, imageUrl: out.imageUrl, ocrText: out.ocrText } });
+        continue;
+      }
+
+      if (p.source?.type === 'akersberg-html') {
+        const out = await fetchAkersbergMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (p.source?.type === 'ralsen-html') {
+        const out = await fetchRalsenMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
         continue;
       }
 

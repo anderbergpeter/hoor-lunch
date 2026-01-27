@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-01-27T22:50:00+01:00",
+  "updatedAt": "2026-01-27T23:10:00+01:00",
   "radiusKm": 5,
   "center": { "name": "Höör, Sweden" },
   "places": [
+    {
+      "id": "akersberg",
+      "name": "Stiftsgården Åkersberg",
+      "source": {
+        "type": "akersberg-html",
+        "url": "https://akersberg.se/mat-dryck/"
+      }
+    },
+    {
+      "id": "caferalsen",
+      "name": "Café Rälsen",
+      "source": {
+        "type": "ralsen-html",
+        "url": "https://www.caferalsen.se/var-meny/"
+      }
+    },
     {
       "id": "hoors-gastis",
       "name": "Höörs Gästgifwaregård",
