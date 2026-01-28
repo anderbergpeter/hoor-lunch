@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Lunch i Höör</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:16px;max-width:900px}
+    h1{margin:0 0 8px}
+    .muted{color:#666}
+    .card{border:1px solid #ddd;border-radius:10px;padding:12px;margin:12px 0}
+    .row{display:flex;gap:12px;flex-wrap:wrap}
+    .pill{display:inline-block;padding:2px 8px;border:1px solid #ccc;border-radius:999px;font-size:12px;color:#444}
+    pre{background:#f7f7f7;padding:10px;border-radius:8px;overflow:auto}
+  </style>
+</head>
+<body>
+  <h1>Lunch i Höör</h1>
+  <div class="muted">Visar veckomenyer (auto-uppdatering måndagar 10:00).</div>
+
+  <div class="card">
+    <div class="row">
+      <span class="pill" id="generatedAt">Laddar…</span>
+      <span class="pill" id="count"></span>
+    </div>
+  </div>
+
+  <div id="content"></div>
+
+<script>
+function el(tag, attrs={}, children=[]) {
+  const n = document.createElement(tag);
+  for (const [k,v] of Object.entries(attrs)) {
+    if (k === 'class') n.className = v;
+    else n.setAttribute(k, v);
+  }
+  for (const c of children) n.appendChild(typeof c === 'string' ? document.createTextNode(c) : c);
+  return n;
+}
+
+function statusPill(ok, error) {
+  if (ok) return el('span', { class: 'pill' }, ['OK']);
+  return el('span', { class: 'pill' }, [error || 'fel']);
+}
+
+async function main(){
+  // Relative path so GitHub Pages (served under /<repo>/) works.
+  const res = await fetch('data/menus.json', { cache: 'no-store' });
+  const json = await res.json();
+  document.getElementById('generatedAt').textContent = 'Genererad: ' + (json.generatedAt || '?');
+  document.getElementById('count').textContent = 'Ställen: ' + (json.results?.length || 0);
+
+  const root = document.getElementById('content');
+  root.innerHTML = '';
+
+  for (const r of (json.results || [])) {
+    const card = el('div', { class: 'card' }, [
+      el('div', { class: 'row' }, [
+        el('strong', {}, [r.placeName || r.placeId || 'Okänt ställe']),
+        statusPill(r.ok, r.error)
+      ]),
+      el('div', { class: 'muted' }, [r.source?.url || r.source?.pageUrl || r.raw?.url || '']),
+      el('pre', {}, [r.ok ? (r.raw?.text || r.raw?.ocrText || '(hämtad, men ingen text)') : (r.raw?.note || 'Ingen maskinläsbar meny ännu')])
+    ]);
+    root.appendChild(card);
+  }
+}
+main().catch(err => {
+  const root = document.getElementById('content');
+  root.textContent = String(err);
+});
+</script>
+</body>
+</html>

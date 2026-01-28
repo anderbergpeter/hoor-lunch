@@ -1,0 +1,54 @@
+name: Update lunch menus
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day 07:00 Europe/Stockholm == 06:00 UTC (winter time). Keep it simple; adjust if needed.
+    - cron: '0 6 * * *'
+    # Mondays 10:00 Europe/Stockholm == 09:00 UTC (winter time)
+    - cron: '0 9 * * 1'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-menus
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Fetch menus
+        run: npm run fetch
+
+      - name: Copy menus into GitHub Pages folder
+        run: |
+          mkdir -p docs/data
+          cp -f data/menus.json docs/data/menus.json
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet -- docs/data/menus.json; then
+            echo "No changes to menus.json"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add docs/data/menus.json
+          git commit -m "chore: update menus.json"
+          git push
