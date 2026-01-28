@@ -41,6 +41,24 @@
       margin: .85rem 0;
       box-shadow: 0 1px 0 rgba(0,0,0,.04);
     }
+
+    .today {
+      border-left: 4px solid var(--pico-primary);
+      padding-left: .85rem;
+      margin-top: .6rem;
+    }
+    .today h4 {
+      margin: .25rem 0 .5rem;
+      font-size: 1rem;
+      letter-spacing: .01em;
+    }
+    .today .line { margin: .25rem 0; }
+    .week {
+      margin-top: .85rem;
+      opacity: .85;
+    }
+    .week summary { color: var(--pico-muted-color); }
+    .week pre.menu { opacity: .9; }
     details.card summary {
       cursor: pointer;
       list-style: none;
@@ -84,7 +102,7 @@
   <main class="container">
     <header class="hero">
       <h1>Lunch i Höör</h1>
-      <p class="subtle">Snabb översikt av menyer i Höör (+~5km). Uppdateras automatiskt.</p>
+      <p class="subtle">Snabb översikt av menyer i Höör (+~5km). Dagens lunch lyfts upp, resten av veckan visas mer subtilt.</p>
 
       <div class="gridTop">
         <article style="margin:0">
@@ -148,18 +166,133 @@ function textForResult(r){
     ' ' + (r.placeName || '') + ' ' + (r.source?.url || r.source?.pageUrl || '');
 }
 
+function pad2(n){ return String(n).padStart(2,'0'); }
+function ymd(d){ return `${d.getFullYear()}-${pad2(d.getMonth()+1)}-${pad2(d.getDate())}`; }
+
+function stockholmNow(){
+  // Best-effort conversion without external libs.
+  // Uses Intl to format in Europe/Stockholm.
+  const parts = new Intl.DateTimeFormat('sv-SE', {
+    timeZone: 'Europe/Stockholm',
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    weekday: 'long'
+  }).formatToParts(new Date());
+  const get = (t) => parts.find(p => p.type === t)?.value;
+  const year = Number(get('year'));
+  const month = Number(get('month'));
+  const day = Number(get('day'));
+  const weekday = (get('weekday') || '').toLowerCase();
+  return { date: new Date(Date.UTC(year, month-1, day)), ymd: `${year}-${pad2(month)}-${pad2(day)}`, weekday };
+}
+
+const weekdaySv = ['söndag','måndag','tisdag','onsdag','torsdag','fredag','lördag'];
+const weekdaySvUpper = ['SÖNDAG','MÅNDAG','TISDAG','ONSDAG','TORSDAG','FREDAG','LÖRDAG'];
+
+function normalizeMenuText(r){
+  return safeText(r.ok ? (r.raw?.text || r.raw?.ocrText) : (r.raw?.note));
+}
+
+function parseAkersberg(text){
+  // Matches: "Måndag 26/1 ..." style.
+  const re = /(Måndag|Tisdag|Onsdag|Torsdag|Fredag|Lördag|Söndag)\s+(\d{1,2})\/(\d{1,2})\s*/g;
+  const chunks = [];
+  let m;
+  while ((m = re.exec(text))){
+    chunks.push({ idx: m.index, wd: m[1], d: Number(m[2]), mo: Number(m[3]) });
+  }
+  if (!chunks.length) return null;
+  const out = {};
+  for (let i=0;i<chunks.length;i++){
+    const a = chunks[i];
+    const b = chunks[i+1];
+    const body = text.slice(a.idx + a.wd.length, b ? b.idx : text.length).trim();
+    const key = `${a.d}/${a.mo}`;
+    out[key] = body.replace(/^\d{1,2}\/\d{1,2}/,'').trim();
+  }
+  return out;
+}
+
+function parseGastis(text){
+  // OCR style: "TORSDAG: ..." and a separate "VEG." line.
+  const dayRe = /^(MÅNDAG|TISDAG|ONSDAG|TORSDAG|FREDAG|LÖRDAG|SÖNDAG)\s*:\s*(.+)$/gmi;
+  const out = {};
+  let m;
+  while ((m = dayRe.exec(text))){
+    out[m[1].toUpperCase()] = m[2].trim();
+  }
+  const veg = (text.match(/\bVEG\.?\s*[:.]?\s*(.+)$/im) || [])[1]?.trim();
+  return Object.keys(out).length ? { days: out, veg } : null;
+}
+
+function parseRalsen(text){
+  // "DAGENS RÄTT - ONS 28/1 2026!\nPersiljekorv ..."
+  const re = /DAGENS\s+RÄTT\s*-\s*([A-ZÅÄÖ]{3})\s*(\d{1,2})\/(\d{1,2})\s*(\d{4})?\s*!/i;
+  const m = text.match(re);
+  if (!m) return null;
+  const dd = Number(m[2]);
+  const mm = Number(m[3]);
+  // Find dish line right after match
+  const after = text.slice(text.toUpperCase().indexOf(m[0].toUpperCase()) + m[0].length);
+  const dish = after.split(/\r?\n/).map(s=>s.trim()).filter(Boolean)[0] || '';
+  return { dateKey: `${dd}/${mm}`, dish };
+}
+
+function pickToday(r, now){
+  if (!r.ok) return { today: null, week: null, note: r.raw?.note || 'Ingen maskinläsbar meny ännu' };
+
+  const text = normalizeMenuText(r);
+  const day = now.date; // UTC midnight of Stockholm date
+  const dd = day.getUTCDate();
+  const mm = day.getUTCMonth()+1;
+  const key = `${dd}/${mm}`;
+  const wdUpper = weekdaySvUpper[weekdaySv.indexOf(now.weekday)] || '';
+
+  // Source-specific heuristics
+  if ((r.source?.type || '').includes('akersberg')){
+    const map = parseAkersberg(text);
+    if (!map) return { today: null, week: text, note: null };
+    return { today: map[key] || null, week: Object.entries(map).map(([k,v])=>`${k}: ${v}`).join('\n\n'), note: null };
+  }
+
+  if ((r.source?.type || '').includes('gastis')){
+    const parsed = parseGastis(text);
+    if (!parsed) return { today: null, week: text, note: null };
+    const todayMain = wdUpper ? parsed.days[wdUpper] : null;
+    const today = [todayMain, parsed.veg ? `Veg: ${parsed.veg}` : null].filter(Boolean).join('\n') || null;
+    const week = Object.entries(parsed.days)
+      .map(([k,v]) => `${k[0] + k.slice(1).toLowerCase()}: ${v}`)
+      .join('\n');
+    return { today, week, note: null };
+  }
+
+  if ((r.source?.type || '').includes('ralsen')){
+    const parsed = parseRalsen(text);
+    const isToday = parsed && parsed.dateKey === key;
+    const today = isToday ? parsed.dish : null;
+    // Week: keep subtle (their page isn't a week menu)
+    const week = text;
+    return { today, week, note: isToday ? null : `Ingen uppdaterad dagsrätt för idag (senast: ${parsed?.dateKey || 'okänt datum'})` };
+  }
+
+  // Fallback
+  return { today: null, week: text, note: null };
+}
+
 function render(results, q='') {
   const root = document.getElementById('content');
   root.innerHTML = '';
 
   const query = q.trim().toLowerCase();
   const filtered = !query ? results : results.filter(r => textForResult(r).toLowerCase().includes(query));
-
   document.getElementById('filterInfo').textContent = query ? `Visar ${filtered.length} av ${results.length}` : '';
+
+  const now = stockholmNow();
 
   for (const r of filtered) {
     const title = r.placeName || r.placeId || 'Okänt ställe';
     const src = r.source?.url || r.source?.pageUrl || r.raw?.url || '';
+
+    const picked = pickToday(r, now);
 
     const details = el('details', { class: 'card', open: false }, [
       el('summary', {}, [
@@ -169,10 +302,18 @@ function render(results, q='') {
         ]),
         asLink(src)
       ]),
-      el('pre', { class: 'menu' }, [
-        r.ok
-          ? (r.raw?.text || r.raw?.ocrText || '(hämtad, men ingen text)')
-          : (r.raw?.note || 'Ingen maskinläsbar meny ännu')
+
+      el('div', { class: 'today' }, [
+        el('h4', {}, ['Dagens lunch']),
+        ...(picked.today
+          ? picked.today.split(/\r?\n/).filter(Boolean).map(line => el('div', { class: 'line' }, [line]))
+          : [el('div', { class: 'subtle line' }, [picked.note || 'Ingen tydlig “dagens” hittad i menyn'])]
+        )
+      ]),
+
+      el('details', { class: 'week' }, [
+        el('summary', {}, ['Resten av veckan / detaljer']),
+        el('pre', { class: 'menu' }, [picked.week || normalizeMenuText(r) || ''])
       ])
     ]);
 
