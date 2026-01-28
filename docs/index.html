@@ -4,70 +4,211 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Lunch i Höör</title>
+
+  <!-- Pico.css: clean, modern defaults with dark-mode support -->
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  />
+
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:16px;max-width:900px}
-    h1{margin:0 0 8px}
-    .muted{color:#666}
-    .card{border:1px solid #ddd;border-radius:10px;padding:12px;margin:12px 0}
-    .row{display:flex;gap:12px;flex-wrap:wrap}
-    .pill{display:inline-block;padding:2px 8px;border:1px solid #ccc;border-radius:999px;font-size:12px;color:#444}
-    pre{background:#f7f7f7;padding:10px;border-radius:8px;overflow:auto}
+    :root { --pico-font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; }
+    header.hero {
+      padding: 2.25rem 0 1rem;
+      border-bottom: 1px solid var(--pico-muted-border-color);
+      margin-bottom: 1.25rem;
+    }
+    .subtle { color: var(--pico-muted-color); }
+    .meta { display:flex; gap:.5rem; flex-wrap:wrap; align-items:center; }
+    .badge {
+      display:inline-flex; align-items:center; gap:.4rem;
+      padding: .25rem .6rem;
+      border-radius: 999px;
+      border: 1px solid var(--pico-muted-border-color);
+      font-size: .85rem;
+      color: var(--pico-muted-color);
+      background: var(--pico-card-background-color);
+    }
+    .dot { width:.55rem; height:.55rem; border-radius:999px; background: var(--pico-muted-color); display:inline-block; }
+    .dot.ok { background: #2ecc71; }
+    .dot.bad { background: #e74c3c; }
+
+    details.card {
+      border: 1px solid var(--pico-muted-border-color);
+      border-radius: var(--pico-border-radius);
+      background: var(--pico-card-background-color);
+      padding: .9rem 1rem;
+      margin: .85rem 0;
+      box-shadow: 0 1px 0 rgba(0,0,0,.04);
+    }
+    details.card summary {
+      cursor: pointer;
+      list-style: none;
+      display:flex;
+      align-items:center;
+      justify-content: space-between;
+      gap: 1rem;
+      margin: 0;
+    }
+    details.card summary::-webkit-details-marker { display:none; }
+
+    .titleRow { display:flex; align-items:center; gap:.7rem; min-width:0; }
+    .titleRow strong { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+
+    .sourceLink { font-size: .9rem; }
+    pre.menu {
+      white-space: pre-wrap;
+      background: rgba(127,127,127,.08);
+      border: 1px solid var(--pico-muted-border-color);
+      border-radius: var(--pico-border-radius);
+      padding: .9rem;
+      margin-top: .75rem;
+      font-size: .92rem;
+      line-height: 1.35;
+    }
+
+    .gridTop {
+      display:grid;
+      grid-template-columns: 1fr;
+      gap: .75rem;
+      margin: 1rem 0 1.25rem;
+    }
+    @media (min-width: 700px) {
+      .gridTop { grid-template-columns: 1.4fr .6fr; }
+    }
+
+    footer { margin: 2rem 0 2.5rem; }
   </style>
 </head>
 <body>
-  <h1>Lunch i Höör</h1>
-  <div class="muted">Visar veckomenyer (auto-uppdatering måndagar 10:00).</div>
+  <main class="container">
+    <header class="hero">
+      <h1>Lunch i Höör</h1>
+      <p class="subtle">Snabb översikt av menyer i Höör (+~5km). Uppdateras automatiskt.</p>
 
-  <div class="card">
-    <div class="row">
-      <span class="pill" id="generatedAt">Laddar…</span>
-      <span class="pill" id="count"></span>
-    </div>
-  </div>
+      <div class="gridTop">
+        <article style="margin:0">
+          <div class="meta">
+            <span class="badge" id="generatedAt"><span class="dot"></span> Laddar…</span>
+            <span class="badge" id="count"></span>
+            <span class="badge" id="okCount"></span>
+          </div>
+          <small class="subtle">Tips: klicka på ett ställe för att fälla ut menyn.</small>
+        </article>
 
-  <div id="content"></div>
+        <article style="margin:0">
+          <label for="q">Sök</label>
+          <input id="q" type="search" placeholder="Sök efter restaurang eller text…" autocomplete="off" />
+          <small class="subtle" id="filterInfo"></small>
+        </article>
+      </div>
+    </header>
+
+    <section id="content" aria-live="polite"></section>
+
+    <footer class="subtle">
+      <small>
+        Källor: respektive restaurangs webbplats (se länkar per ställe). Vissa menyer kan vara bild/OCR eller saknas.
+      </small>
+    </footer>
+  </main>
 
 <script>
 function el(tag, attrs={}, children=[]) {
   const n = document.createElement(tag);
   for (const [k,v] of Object.entries(attrs)) {
     if (k === 'class') n.className = v;
+    else if (k === 'html') n.innerHTML = v;
     else n.setAttribute(k, v);
   }
   for (const c of children) n.appendChild(typeof c === 'string' ? document.createTextNode(c) : c);
   return n;
 }
 
-function statusPill(ok, error) {
-  if (ok) return el('span', { class: 'pill' }, ['OK']);
-  return el('span', { class: 'pill' }, [error || 'fel']);
+function safeText(x){ return (x == null) ? '' : String(x); }
+
+function statusBadge(ok, error) {
+  const dot = el('span', { class: 'dot ' + (ok ? 'ok' : 'bad') });
+  const label = ok ? 'OK' : (error || 'fel');
+  return el('span', { class: 'badge', title: label }, [dot, label]);
+}
+
+function asLink(url) {
+  if (!url) return el('span', { class: 'subtle' }, ['']);
+  try {
+    const u = new URL(url);
+    return el('a', { href: u.toString(), target: '_blank', rel: 'noreferrer', class: 'sourceLink' }, [u.hostname]);
+  } catch {
+    return el('span', { class: 'subtle sourceLink' }, [url]);
+  }
+}
+
+function textForResult(r){
+  return (r.ok ? (r.raw?.text || r.raw?.ocrText || '') : (r.raw?.note || '')) +
+    ' ' + (r.placeName || '') + ' ' + (r.source?.url || r.source?.pageUrl || '');
+}
+
+function render(results, q='') {
+  const root = document.getElementById('content');
+  root.innerHTML = '';
+
+  const query = q.trim().toLowerCase();
+  const filtered = !query ? results : results.filter(r => textForResult(r).toLowerCase().includes(query));
+
+  document.getElementById('filterInfo').textContent = query ? `Visar ${filtered.length} av ${results.length}` : '';
+
+  for (const r of filtered) {
+    const title = r.placeName || r.placeId || 'Okänt ställe';
+    const src = r.source?.url || r.source?.pageUrl || r.raw?.url || '';
+
+    const details = el('details', { class: 'card', open: false }, [
+      el('summary', {}, [
+        el('div', { class: 'titleRow' }, [
+          el('strong', {}, [title]),
+          statusBadge(r.ok, r.error)
+        ]),
+        asLink(src)
+      ]),
+      el('pre', { class: 'menu' }, [
+        r.ok
+          ? (r.raw?.text || r.raw?.ocrText || '(hämtad, men ingen text)')
+          : (r.raw?.note || 'Ingen maskinläsbar meny ännu')
+      ])
+    ]);
+
+    root.appendChild(details);
+  }
 }
 
 async function main(){
   // Relative path so GitHub Pages (served under /<repo>/) works.
   const res = await fetch('data/menus.json', { cache: 'no-store' });
   const json = await res.json();
-  document.getElementById('generatedAt').textContent = 'Genererad: ' + (json.generatedAt || '?');
-  document.getElementById('count').textContent = 'Ställen: ' + (json.results?.length || 0);
 
-  const root = document.getElementById('content');
-  root.innerHTML = '';
+  const results = (json.results || []).slice().sort((a,b) =>
+    safeText(a.placeName || a.placeId).localeCompare(safeText(b.placeName || b.placeId), 'sv')
+  );
 
-  for (const r of (json.results || [])) {
-    const card = el('div', { class: 'card' }, [
-      el('div', { class: 'row' }, [
-        el('strong', {}, [r.placeName || r.placeId || 'Okänt ställe']),
-        statusPill(r.ok, r.error)
-      ]),
-      el('div', { class: 'muted' }, [r.source?.url || r.source?.pageUrl || r.raw?.url || '']),
-      el('pre', {}, [r.ok ? (r.raw?.text || r.raw?.ocrText || '(hämtad, men ingen text)') : (r.raw?.note || 'Ingen maskinläsbar meny ännu')])
-    ]);
-    root.appendChild(card);
-  }
+  const ok = results.filter(r => r.ok).length;
+
+  const gen = json.generatedAt ? new Date(json.generatedAt) : null;
+  document.getElementById('generatedAt').textContent = 'Genererad: ' + (gen ? gen.toLocaleString('sv-SE') : '?');
+  document.getElementById('count').textContent = 'Ställen: ' + results.length;
+  document.getElementById('okCount').textContent = 'OK: ' + ok + ' / ' + results.length;
+
+  const q = document.getElementById('q');
+  q.addEventListener('input', () => render(results, q.value));
+
+  render(results, '');
 }
+
 main().catch(err => {
   const root = document.getElementById('content');
-  root.textContent = String(err);
+  root.innerHTML = '';
+  root.appendChild(el('article', {}, [
+    el('h3', {}, ['Fel']),
+    el('p', { class: 'subtle' }, [String(err)])
+  ]));
 });
 </script>
 </body>
