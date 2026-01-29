@@ -38,6 +38,12 @@
       "source": { "type": "facebook", "note": "meny verkar ligga på Facebook" }
     },
     {
+      "id": "old-fashion",
+      "name": "Café Old Fashion Höör",
+      "address": "Höör",
+      "source": { "type": "facebook", "note": "meny verkar finnas på Facebook (behöver URL)" }
+    },
+    {
       "id": "hoorkules",
       "name": "Restaurang Höörkules",
       "address": "Höör (oklar adress)",
