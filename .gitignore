@@ -1,4 +1,3 @@
 node_modules/
 data/menus.json
-node_modules/
-data/menus.json
+*.traineddata

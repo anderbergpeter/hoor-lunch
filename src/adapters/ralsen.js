@@ -19,11 +19,31 @@ function stripTagsKeepLines(html) {
 }
 
 function extractDagensRatt(text) {
-  const lines = text.split('\n');
-  const startIdx = lines.findIndex(l => /dagens\s*r(ä|a)tt/i.test(l));
+  const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+
+  // Prefer the explicit daily header used on the page.
+  let startIdx = lines.findIndex(l => /^DAGENS\s*R(Ä|A)TT\s*-\s*/i.test(l));
+
+  // Fallback: find the "Dagens Rätt" section and then the next daily header beneath it.
+  if (startIdx === -1) {
+    const sectionIdx = lines.findIndex(l => /^Dagens\s*R(Ä|A)tt\b/i.test(l));
+    if (sectionIdx !== -1) {
+      const window = lines.slice(sectionIdx, sectionIdx + 30);
+      const rel = window.findIndex(l => /^DAGENS\s*R(Ä|A)TT\s*-\s*/i.test(l));
+      if (rel !== -1) startIdx = sectionIdx + rel;
+      else startIdx = sectionIdx;
+    }
+  }
+
   if (startIdx === -1) return null;
-  // take next ~20 lines
-  return lines.slice(startIdx, Math.min(lines.length, startIdx + 25)).join('\n');
+
+  // Take the header + a few descriptive lines; stop early if we hit the next big section.
+  const out = [];
+  for (const l of lines.slice(startIdx, startIdx + 12)) {
+    if (/^Populära\b/i.test(l) || /^VARMA\s+R(Ä|A)TTER/i.test(l) || /^Baguetter/i.test(l)) break;
+    out.push(l);
+  }
+  return out.join('\n').trim() || null;
 }
 
 export async function fetchRalsenMenu({ url = 'https://www.caferalsen.se/var-meny/' } = {}) {
