@@ -70,12 +70,12 @@
     }
     details.card summary::-webkit-details-marker { display:none; }
 
-    .titleRow { display:flex; align-items:center; gap:.7rem; min-width:0; }
-    .titleRow strong { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .titleRow { display:flex; align-items:center; gap:.6rem; min-width:0; flex-wrap:wrap; }
+    .titleRow strong { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width: 60vw; }
 
-    .sourceLink { font-size: .9rem; }
+    .sourceLink { font-size: .86rem; }
 
-    .rightCol { display:flex; align-items:center; justify-content:flex-end; gap:.5rem; min-width: 10ch; }
+    .rightCol { display:flex; align-items:center; justify-content:flex-end; gap:.5rem; min-width: 2ch; }
     .todayPill {
       display:inline-block;
       font-size: .72rem;
@@ -318,11 +318,12 @@ function render(results, q='') {
       el('summary', {}, [
         el('div', { class: 'titleRow' }, [
           el('strong', {}, [title]),
+          asLink(src),
           statusBadge(r.ok, r.error),
           ...(hasToday ? [el('span', { class: 'todayPill', title: 'Har tydlig dagens lunch' }, ['IDAG'])] : [])
         ]),
         el('div', { class: 'rightCol' }, [
-          asLink(src)
+          el('span', { class: 'subtle' }, [''])
         ])
       ]),
 
