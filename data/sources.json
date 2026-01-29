@@ -41,7 +41,11 @@
       "id": "old-fashion",
       "name": "Café Old Fashion Höör",
       "address": "Höör",
-      "source": { "type": "facebook", "note": "meny verkar finnas på Facebook (behöver URL)" }
+      "source": {
+        "type": "facebook",
+        "pageUrl": "https://www.facebook.com/cafeoldfashion/?locale=sv_SE",
+        "note": "meny verkar finnas på Facebook"
+      }
     },
     {
       "id": "hoorkules",
