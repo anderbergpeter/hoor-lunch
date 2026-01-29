@@ -29,6 +29,7 @@ async function loadSources() {
 import { fetchGastisMenu } from './adapters/gastis.js';
 import { fetchAkersbergMenu } from './adapters/akersberg.js';
 import { fetchRalsenMenu } from './adapters/ralsen.js';
+import { fetchFacebookMenu } from './adapters/facebook.js';
 
 async function buildMenus(sources) {
   const results = [];
@@ -68,6 +69,13 @@ async function buildMenus(sources) {
         const out = await fetchRalsenMenu({ url: p.source.url });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
         else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (p.source?.type === 'facebook' && p.source?.pageUrl) {
+        const out = await fetchFacebookMenu({ pageUrl: p.source.pageUrl });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.postUrl || out.pageUrl, text: out.text } });
         continue;
       }
 
