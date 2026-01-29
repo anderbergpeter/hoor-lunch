@@ -33,6 +33,23 @@
     .dot.ok { background: #2ecc71; }
     .dot.bad { background: #e74c3c; }
 
+    .score {
+      display:inline-flex;
+      align-items:center;
+      gap:.35rem;
+      padding: .22rem .55rem;
+      border-radius: 999px;
+      border: 1px solid var(--pico-muted-border-color);
+      font-size: .82rem;
+      background: var(--pico-card-background-color);
+      color: var(--pico-muted-color);
+      white-space: nowrap;
+    }
+    .score .dot { width:.5rem; height:.5rem; }
+    .score.good { border-color: rgba(46,204,113,.45); }
+    .score.mid  { border-color: rgba(241,196,15,.55); }
+    .score.bad  { border-color: rgba(231,76,60,.45); }
+
     details.card {
       border: 1px solid var(--pico-muted-border-color);
       border-radius: var(--pico-border-radius);
@@ -59,6 +76,11 @@
     }
     .week summary { color: var(--pico-muted-color); }
     .week pre.menu { opacity: .9; }
+
+    .why {
+      margin-top: .75rem;
+    }
+    .why summary { color: var(--pico-muted-color); }
     details.card summary {
       cursor: pointer;
       list-style: none;
@@ -176,6 +198,47 @@ function asLink(url) {
 function textForResult(r){
   return (r.ok ? (r.raw?.text || r.raw?.ocrText || '') : (r.raw?.note || '')) +
     ' ' + (r.placeName || '') + ' ' + (r.source?.url || r.source?.pageUrl || '');
+}
+
+function clamp(n, a, b){ return Math.max(a, Math.min(b, n)); }
+
+function blueprintScoreLine(line){
+  // Heuristic, Swedish keywords. 0-100.
+  const s = safeText(line).toLowerCase();
+  if (!s.trim()) return { score: null, why: [] };
+
+  let score = 55;
+  const why = [];
+
+  const add = (pts, reason) => { score += pts; if (reason) why.push(reason); };
+
+  // Strong positives
+  if (/(bön|bönor|linser|kikär|ärtor)/.test(s)) add(+15, 'baljväxter');
+  if (/(kål|broccoli|blomkål|spenat|grönkål|sallad|coleslaw|grönsak|tomat|gurk|paprika|lök)/.test(s)) add(+10, 'grönsaker');
+  if (/(svamp)/.test(s)) add(+3, 'svamp');
+  if (/(fisk|lax|torsk|kummel)/.test(s)) add(+8, 'fisk');
+  if (/(quinoa|fullkorn|råg|havre)/.test(s)) add(+8, 'fullkorn');
+  if (/(olivolja)/.test(s)) add(+6, 'olivolja');
+
+  // Negatives
+  if (/(friter|panerad|pommes|chips)/.test(s)) add(-18, 'friterat/panerat');
+  if (/(grädde|smör|ost|beurre|cr[eè]me|sås)/.test(s)) add(-8, 'mycket sås/mejeri (ofta mer mättat fett)');
+  if (/(bacon|fläsk|korv|k[aå]lv? ?korv|pannbiff)/.test(s)) add(-14, 'processat/rött kött');
+  if (/(pannkak|våffl|bröd|baguett|pizza|pasta)/.test(s)) add(-12, 'raffinerade kolhydrater');
+  if (/(socker|sylt|glass|kaka|dessert)/.test(s)) add(-12, 'tillsatt socker');
+
+  // Moderation: potatoes are fine but not a "super veggie".
+  if (/(potatis|raggmunk)/.test(s)) add(-2, 'potatis (neutral/ok)');
+
+  score = clamp(Math.round(score), 0, 100);
+  return { score, why };
+}
+
+function scoreBadge(score){
+  if (score == null) return null;
+  const cls = score >= 70 ? 'good' : score >= 50 ? 'mid' : 'bad';
+  const dot = el('span', { class: 'dot ' + (score >= 70 ? 'ok' : score >= 50 ? '' : 'bad') });
+  return el('span', { class: 'score ' + cls, title: `Blueprint-match (heuristik): ${score}%` }, [dot, `${score}%`]);
 }
 
 function truncate(s, n=140){
@@ -312,6 +375,9 @@ function render(results, q='') {
 
     const picked = pickToday(r, now);
 
+    const todayLines = (picked.today || '').split(/\r?\n/).map(s=>s.trim()).filter(Boolean);
+    const scored = todayLines.map(line => ({ line, ...blueprintScoreLine(line) })).filter(x => x.score != null);
+    const bestScore = scored.length ? Math.max(...scored.map(x => x.score)) : null;
     const hasToday = Boolean(picked.today);
 
     const details = el('details', { class: 'card', open: false }, [
@@ -320,7 +386,8 @@ function render(results, q='') {
           el('strong', {}, [title]),
           asLink(src),
           statusBadge(r.ok, r.error),
-          ...(hasToday ? [el('span', { class: 'todayPill', title: 'Har tydlig dagens lunch' }, ['IDAG'])] : [])
+          ...(hasToday ? [el('span', { class: 'todayPill', title: 'Har tydlig dagens lunch' }, ['IDAG'])] : []),
+          ...(bestScore != null ? [scoreBadge(bestScore)] : [])
         ]),
         el('div', { class: 'rightCol' }, [
           el('span', { class: 'subtle' }, [''])
@@ -330,8 +397,29 @@ function render(results, q='') {
       el('div', { class: 'today' }, [
         el('h4', {}, ['Dagens lunch']),
         ...(picked.today
-          ? picked.today.split(/\r?\n/).filter(Boolean).map(line => el('div', { class: 'line' }, [line]))
+          ? todayLines.map(line => {
+              const s = blueprintScoreLine(line);
+              const badge = scoreBadge(s.score);
+              return el('div', { class: 'line' }, [
+                ...(badge ? [badge, ' '] : []),
+                line
+              ]);
+            })
           : [el('div', { class: 'subtle line' }, [picked.note || 'Ingen tydlig “dagens” hittad i menyn'])]
+        )
+      ]),
+
+      el('details', { class: 'why' }, [
+        el('summary', {}, ['Varför denna score? (klicka)']),
+        el('div', { class: 'subtle', style: 'margin-top:.5rem' }, [
+          'Score är en heuristik mot Bryan Johnsons Blueprint-stil (näringstäta råvaror, mycket grönsaker/baljväxter, minimalt processat, lite socker).'
+        ]),
+        ...(scored.length
+          ? scored.map(x => el('div', { class: 'subtle', style: 'margin-top:.35rem' }, [
+              `${x.score}% – ${x.line}`,
+              x.why?.length ? ` (signal: ${x.why.join(', ')})` : ''
+            ]))
+          : [el('div', { class: 'subtle', style: 'margin-top:.35rem' }, ['Ingen scoring (saknar tydliga rader).'])]
         )
       ]),
 
