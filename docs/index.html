@@ -74,6 +74,28 @@
     .titleRow strong { white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
 
     .sourceLink { font-size: .9rem; }
+
+    .rightCol { display:flex; flex-direction:column; align-items:flex-end; gap:.25rem; min-width: 10ch; }
+    .todayPreview {
+      text-align: right;
+      font-size: .88rem;
+      color: var(--pico-muted-color);
+      max-width: 52ch;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .todayPill {
+      display:inline-block;
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .04em;
+      padding: .12rem .45rem;
+      border-radius: 999px;
+      border: 1px solid var(--pico-primary-border);
+      color: var(--pico-primary);
+      margin-right: .35rem;
+    }
     pre.menu {
       white-space: pre-wrap;
       background: rgba(127,127,127,.08);
@@ -164,6 +186,12 @@ function asLink(url) {
 function textForResult(r){
   return (r.ok ? (r.raw?.text || r.raw?.ocrText || '') : (r.raw?.note || '')) +
     ' ' + (r.placeName || '') + ' ' + (r.source?.url || r.source?.pageUrl || '');
+}
+
+function truncate(s, n=140){
+  s = safeText(s).replace(/\s+/g,' ').trim();
+  if (s.length <= n) return s;
+  return s.slice(0, n-1).trimEnd() + '…';
 }
 
 function pad2(n){ return String(n).padStart(2,'0'); }
@@ -294,13 +322,23 @@ function render(results, q='') {
 
     const picked = pickToday(r, now);
 
+    const previewText = picked.today
+      ? truncate(picked.today.split(/\r?\n/).filter(Boolean)[0] || '')
+      : truncate(picked.note || 'Ingen tydlig “dagens” hittad');
+
     const details = el('details', { class: 'card', open: false }, [
       el('summary', {}, [
         el('div', { class: 'titleRow' }, [
           el('strong', {}, [title]),
           statusBadge(r.ok, r.error)
         ]),
-        asLink(src)
+        el('div', { class: 'rightCol' }, [
+          asLink(src),
+          el('div', { class: 'todayPreview' }, [
+            el('span', { class: 'todayPill' }, ['IDAG']),
+            previewText
+          ])
+        ])
       ]),
 
       el('div', { class: 'today' }, [

@@ -14,6 +14,19 @@ npm i
 npm run dev
 ```
 
+### Windows note (PowerShell execution policy)
+Om `npm run dev` failar med “running scripts is disabled”, kör servern direkt (funkar alltid):
+
+```bash
+node src/server.js
+```
+
+Alternativt: kör kommandot från **cmd.exe** i stället för PowerShell, eller sätt:
+
+```powershell
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+```
+
 ## Run fetcher
 ```bash
 npm run fetch
