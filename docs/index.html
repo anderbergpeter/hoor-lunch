@@ -78,12 +78,9 @@
     .rightCol { display:flex; flex-direction:column; align-items:flex-end; gap:.25rem; min-width: 10ch; }
     .todayPreview {
       text-align: right;
-      font-size: .88rem;
+      font-size: .8rem;
       color: var(--pico-muted-color);
-      max-width: 52ch;
       white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
     .todayPill {
       display:inline-block;
@@ -334,9 +331,8 @@ function render(results, q='') {
         ]),
         el('div', { class: 'rightCol' }, [
           asLink(src),
-          el('div', { class: 'todayPreview' }, [
-            el('span', { class: 'todayPill' }, ['IDAG']),
-            previewText
+          el('div', { class: 'todayPreview', title: previewText }, [
+            el('span', { class: 'todayPill' }, ['IDAG'])
           ])
         ])
       ]),
