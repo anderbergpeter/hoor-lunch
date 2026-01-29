@@ -33,6 +33,11 @@ import { fetchRalsenMenu } from './adapters/ralsen.js';
 async function buildMenus(sources) {
   const results = [];
   for (const p of sources.places || []) {
+    // Allow curation: keep places in sources.json but exclude from menus if they don't serve lunch / are closed.
+    if (p.active === false || p.hasLunch === false) {
+      continue;
+    }
+
     const base = {
       placeId: p.id,
       placeName: p.name,

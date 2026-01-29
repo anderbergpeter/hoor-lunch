@@ -26,6 +26,9 @@
       "id": "mirekas",
       "name": "Mirekas Fik & Lunchrestaurang",
       "address": "Pumpvägen 2, Höör",
+      "active": false,
+      "hasLunch": false,
+      "note": "Enligt Peter: nerlagd sedan flera år (exkluderas från listan)",
       "source": { "type": "facebook-or-down", "note": "mireka.se verkar nere; meny troligen på Facebook" }
     },
     {
@@ -44,6 +47,9 @@
       "id": "frostavallen",
       "name": "Frostavallen",
       "address": "Frostavallen, Höör",
+      "active": false,
+      "hasLunch": false,
+      "note": "Enligt Peter: har inte lunch (exkluderas från listan)",
       "source": { "type": "seasonal", "url": "https://frostavallen.se/mat.html", "note": "mest event/kiosk, inte tydlig veckolunch" }
     }
   ]
