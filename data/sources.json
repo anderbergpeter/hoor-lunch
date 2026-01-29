@@ -35,7 +35,11 @@
       "id": "tais",
       "name": "Tai’s restaurang",
       "address": "Friluftsvägen 14, Höör",
-      "source": { "type": "facebook", "note": "meny verkar ligga på Facebook" }
+      "source": {
+        "type": "facebook",
+        "pageUrl": "https://www.facebook.com/p/Tais-restaurang-100054351798414/",
+        "note": "meny verkar ligga på Facebook"
+      }
     },
     {
       "id": "old-fashion",

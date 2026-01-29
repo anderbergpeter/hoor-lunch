@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-01-29T09:28:02.598Z",
+  "generatedAt": "2026-01-29T15:53:03.950Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-01-29T09:27:54.088Z",
+      "fetchedAt": "2026-01-29T15:53:00.467Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-01-29T09:27:55.059Z",
+      "fetchedAt": "2026-01-29T15:53:00.621Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "Baguetter, Mackor, Grillade Mackor, Dagens Rätt, Andra hemlagade varma rätter, Hembakat, samt en härlig Kaffemeny:\nBaguetter-avnjut på plats eller ta med! Ägg, Majo, Grönt 89 kr\nSalami/ Brie 89 kr\nBrie/Pesto 95 kr Ost och Skinka 85 kr\nOst och Grönsaker 85 kr\nKöttbullar och srödbetssallad 89 kr\n⁸Dagens Rätt\n140 kr inkl bordsdricka och kaffe\nHemlagad mat med rötterna i husmanskosten, som tagit vägen om det Danska köket och landat i en härlig modern prisvärd lunch som mättar både själ och mage.\nDAGENS RÄTT - ONS 28/1 2026!\nPersiljekorv med stekt potatis.\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!\nPopulära val av Varma rätter\nVARMA RÄTTER ( förutom Dagens )\nHemlagad Pannbiff med stekt el kokt potatis och Rälsens Gräddsås 159 kr\nKycklingfilé med Fräddsås och stekt potatis. 159 kr\nScrambled Eggs med Sallad och grovt bröd. 99 kr\nVegetariskt alternativ - fråga kocken\n135 kr\nPopulära Mackor\nPannbiffsmacka med stekt ägg - Grovt bröd med hemgjord Pannbiff och Stekt Ägg, ett el två ägg. 99 kr\nGRILLAD MACKA/ CIABATTA\nSalami/ Brie/ Tomat, eller Ost/ Skinka/ senap/ Tomat eller Brie/ Pesto/ tomat 95/ 99 kr"
+        "text": "DAGENS RÄTT - TORS 29/1 2026\nRälsen- stek med Rosmarindoftande Gräddsås, potatis och grönt bjuds det denna den sista torsdagen i januari. Vår i sikte med andra ord🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-01-29T09:27:56.552Z",
+      "fetchedAt": "2026-01-29T15:53:00.939Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,24 +55,27 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-01-29T09:28:02.151Z",
+      "fetchedAt": "2026-01-29T15:53:03.563Z",
       "ok": false,
-      "error": "unsupported_source_type",
+      "error": "facebook_http_400",
       "source": {
         "type": "facebook",
+        "pageUrl": "https://www.facebook.com/p/Tais-restaurang-100054351798414/",
         "note": "meny verkar ligga på Facebook"
       },
       "week": null,
       "raw": {
-        "note": "meny verkar ligga på Facebook"
+        "ok": false,
+        "error": "facebook_http_400",
+        "pageUrl": "https://mbasic.facebook.com/p/Tais-restaurang-100054351798414/"
       }
     },
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-01-29T09:28:02.151Z",
+      "fetchedAt": "2026-01-29T15:53:03.755Z",
       "ok": false,
-      "error": "facebook_no_menu_found",
+      "error": "facebook_http_400",
       "source": {
         "type": "facebook",
         "pageUrl": "https://www.facebook.com/cafeoldfashion/?locale=sv_SE",
@@ -81,7 +84,7 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "facebook_no_menu_found",
+        "error": "facebook_http_400",
         "pageUrl": "https://mbasic.facebook.com/cafeoldfashion/"
       }
     }
