@@ -332,7 +332,9 @@ function pickToday(r, now){
   if ((r.source?.type || '').includes('akersberg')){
     const map = parseAkersberg(text);
     if (!map) return { today: null, week: text, note: null };
-    return { today: map[key] || null, week: Object.entries(map).map(([k,v])=>`${k}: ${v}`).join('\n\n'), note: null };
+    const todayRaw = map[key] || null;
+    const today = todayRaw ? todayRaw.replace(/\s*Vegetarisk:\s*/gi, '\nVegetarisk: ') : null;
+    return { today, week: Object.entries(map).map(([k,v])=>`${k}: ${v}`).join('\n\n'), note: null };
   }
 
   if ((r.source?.type || '').includes('gastis')){
