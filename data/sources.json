@@ -41,6 +41,9 @@
       "id": "hoorkules",
       "name": "Restaurang Höörkules",
       "address": "Höör (oklar adress)",
+      "active": false,
+      "hasLunch": false,
+      "note": "Enligt Peter: ej öppet runt lunch (ca 12), exkluderas",
       "source": { "type": "unknown", "note": "hittade ingen tydlig lunchmeny på sajt" }
     },
     {
