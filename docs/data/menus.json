@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-01-29T15:53:03.950Z",
+  "generatedAt": "2026-01-29T16:31:22.901Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-01-29T15:53:00.467Z",
+      "fetchedAt": "2026-01-29T16:31:18.238Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-01-29T15:53:00.621Z",
+      "fetchedAt": "2026-01-29T16:31:18.396Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-01-29T15:53:00.939Z",
+      "fetchedAt": "2026-01-29T16:31:19.540Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,37 +55,37 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-01-29T15:53:03.563Z",
+      "fetchedAt": "2026-01-29T16:31:22.521Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
         "type": "facebook",
-        "pageUrl": "https://www.facebook.com/p/Tais-restaurang-100054351798414/",
+        "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414",
         "note": "meny verkar ligga på Facebook"
       },
       "week": null,
       "raw": {
         "ok": false,
         "error": "facebook_http_400",
-        "pageUrl": "https://mbasic.facebook.com/p/Tais-restaurang-100054351798414/"
+        "pageUrl": "https://mbasic.facebook.com/profile.php?id=100054351798414"
       }
     },
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-01-29T15:53:03.755Z",
+      "fetchedAt": "2026-01-29T16:31:22.725Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
         "type": "facebook",
-        "pageUrl": "https://www.facebook.com/cafeoldfashion/?locale=sv_SE",
+        "pageUrl": "https://www.facebook.com/profile.php?id=100063670235147",
         "note": "meny verkar finnas på Facebook"
       },
       "week": null,
       "raw": {
         "ok": false,
         "error": "facebook_http_400",
-        "pageUrl": "https://mbasic.facebook.com/cafeoldfashion/"
+        "pageUrl": "https://mbasic.facebook.com/profile.php?id=100063670235147"
       }
     }
   ]
