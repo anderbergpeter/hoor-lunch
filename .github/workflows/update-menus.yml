@@ -3,8 +3,9 @@ name: Update lunch menus
 on:
   workflow_dispatch:
   schedule:
-    # Every day 07:00 Europe/Stockholm == 06:00 UTC (winter time). Keep it simple; adjust if needed.
-    - cron: '0 6 * * *'
+    # Every day 09:50 Europe/Stockholm.
+    # In winter time this is 08:50 UTC. (Adjust if DST shifts and you care.)
+    - cron: '50 8 * * *'
     # Mondays 10:00 Europe/Stockholm == 09:00 UTC (winter time)
     - cron: '0 9 * * 1'
 
