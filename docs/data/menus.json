@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-01-28T20:30:17.630Z",
+  "generatedAt": "2026-01-29T06:37:00.020Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-01-28T20:30:14.099Z",
+      "fetchedAt": "2026-01-29T06:36:52.453Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-01-28T20:30:14.256Z",
+      "fetchedAt": "2026-01-29T06:36:53.273Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-01-28T20:30:15.068Z",
+      "fetchedAt": "2026-01-29T06:36:54.707Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "mirekas",
       "placeName": "Mirekas Fik & Lunchrestaurang",
-      "fetchedAt": "2026-01-28T20:30:17.630Z",
+      "fetchedAt": "2026-01-29T06:37:00.020Z",
       "ok": false,
       "error": "unsupported_source_type",
       "source": {
@@ -70,7 +70,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-01-28T20:30:17.630Z",
+      "fetchedAt": "2026-01-29T06:37:00.020Z",
       "ok": false,
       "error": "unsupported_source_type",
       "source": {
@@ -85,7 +85,7 @@
     {
       "placeId": "hoorkules",
       "placeName": "Restaurang Höörkules",
-      "fetchedAt": "2026-01-28T20:30:17.630Z",
+      "fetchedAt": "2026-01-29T06:37:00.020Z",
       "ok": false,
       "error": "unsupported_source_type",
       "source": {
@@ -100,7 +100,7 @@
     {
       "placeId": "frostavallen",
       "placeName": "Frostavallen",
-      "fetchedAt": "2026-01-28T20:30:17.630Z",
+      "fetchedAt": "2026-01-29T06:37:00.020Z",
       "ok": false,
       "error": "unsupported_source_type",
       "source": {
