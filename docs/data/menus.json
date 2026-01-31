@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-01-30T09:25:14.604Z",
+  "generatedAt": "2026-01-31T09:14:07.574Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-01-30T09:25:04.097Z",
+      "fetchedAt": "2026-01-31T09:14:00.547Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-01-30T09:25:04.977Z",
+      "fetchedAt": "2026-01-31T09:14:01.286Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TORS 29/1 2026\nRälsen- stek med Rosmarindoftande Gräddsås, potatis och grönt bjuds det denna den sista torsdagen i januari. Vår i sikte med andra ord🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TORS 30/1 2026\nÅhh så mysigt det ändå är med snön som ger ljus. Här firar vi fredag med en värmande Cowboygryta med bl.a. färs, potatis, Grädde och en massa kryddyddkärlek som gifter sig i grytan och gottar till sig!\nHjärtans Välkommen är du🥰!&lt;\n/p&gt;\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-01-30T09:25:07.338Z",
+      "fetchedAt": "2026-01-31T09:14:02.441Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-01-30T09:25:14.134Z",
+      "fetchedAt": "2026-01-31T09:14:07.090Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-01-30T09:25:14.472Z",
+      "fetchedAt": "2026-01-31T09:14:07.427Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
