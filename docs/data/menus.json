@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-10T09:44:42.117Z",
+  "generatedAt": "2026-02-11T09:38:46.170Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-10T09:44:36.769Z",
+      "fetchedAt": "2026-02-11T09:38:38.381Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-10T09:44:37.543Z",
+      "fetchedAt": "2026-02-11T09:38:39.321Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TIS 10/2 2026\nEn mustig Ajvarkyckling i gräddig sås med ris bjuds det idag vänner🥰!\nHjärtans Välkommen är du🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - ONS 11/2 2026\nRälsens Pasta Carbonara bjuds det idag vänner🥰!\nHjärtans Välkommen är du🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-10T09:44:39.047Z",
+      "fetchedAt": "2026-02-11T09:38:40.989Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-10T09:44:41.720Z",
+      "fetchedAt": "2026-02-11T09:38:45.792Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-10T09:44:41.984Z",
+      "fetchedAt": "2026-02-11T09:38:46.024Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
