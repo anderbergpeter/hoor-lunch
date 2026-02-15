@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-14T09:16:30.574Z",
+  "generatedAt": "2026-02-15T09:17:07.045Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-14T09:16:21.120Z",
+      "fetchedAt": "2026-02-15T09:16:59.909Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-14T09:16:23.585Z",
+      "fetchedAt": "2026-02-15T09:17:01.963Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-14T09:16:25.324Z",
+      "fetchedAt": "2026-02-15T09:17:03.414Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/02/dagens-v7-2026-pdf.jpg",
-        "ocrText": "ANN\nLÄN\nCN SN LUNCH Vv 17\nbh []\nTTT m mm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12år, 85:-\nTisdag Fredag kl. II.30-13.30 Pris 150:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG:  Griljerad kyckling, dijonstompad potatis, skysås & syltlök\nONSDAG: Kotlett,choronsås, gröna bönor & stekt potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Fredagsbuffé\nLÖRDAG:  Nattbakad högrev, rostade rotfrukter & skysås\nVEG. Tzayspett, grillad zucchini & paprika samt vitlökseréme\ni; TD HÖÖRS\nEj an pe gr Re Fn\na. sad sng Anno 1692\nBoka på 0413-220 10 eller infoohoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/02/dagens-v8-2026_01-pdf.jpg",
+        "ocrText": "Em LUNCH v.8\nis hh LJ\nTITT een m mm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12år, 85:-\n7adag -Fhedag kl. I.30-13.30 Pris I50:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG: Köttfärslimpa, kokt potatis, gräddsås & lingon\nONSDAG: Skånsk kalops, potatis & inlagda rödbetor\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Danskfleskesteg med klassiska tillbehör\nLÖRDAG: Kycklingspett, griljerade grönsaker, bearnaisesås & tzatziki\nVEG. Rödbetsbiffar med fetaosteråme & bulgursallad\näthnchhososs! Under hela sportiowsveckan -\nAE a vdÖRs\nNS, Mister nuraneåpamenisert: ÖA KS &\nSS Forge are on ANNO 1692\nEgen Pan — Satgfoaregård\nBoka på 0413-220 10 eller infoohoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-14T09:16:30.258Z",
+      "fetchedAt": "2026-02-15T09:17:06.531Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-14T09:16:30.458Z",
+      "fetchedAt": "2026-02-15T09:17:06.737Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
