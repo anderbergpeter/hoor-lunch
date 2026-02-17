@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-16T09:51:15.569Z",
+  "generatedAt": "2026-02-17T09:34:08.762Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-16T09:51:06.996Z",
+      "fetchedAt": "2026-02-17T09:34:00.256Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-16T09:51:07.841Z",
+      "fetchedAt": "2026-02-17T09:34:01.419Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 13/2 2026\nRälsens Ostgratinerade Senapsfisk med kokt potatis firar vi fredag med här vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 17/2 2026\nRälsens Köttbullar med Gräddsås, kokt potatis och Lingonsylt bjuds det idag vänner, när solen äntligen kikar fram.i kylan🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-16T09:51:10.425Z",
+      "fetchedAt": "2026-02-17T09:34:03.393Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-16T09:51:15.217Z",
+      "fetchedAt": "2026-02-17T09:34:08.396Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-16T09:51:15.464Z",
+      "fetchedAt": "2026-02-17T09:34:08.648Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
