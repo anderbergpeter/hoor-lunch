@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-18T09:32:56.797Z",
+  "generatedAt": "2026-02-19T09:31:46.024Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-18T09:32:49.582Z",
+      "fetchedAt": "2026-02-19T09:31:38.531Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-18T09:32:50.584Z",
+      "fetchedAt": "2026-02-19T09:31:39.572Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - ONS 18/2 2026\nRälsens Krämiga Pastagratäng med Rökt Skinka,Purjo, Persilja, Pasta, Tomat, samt en härligt Gräddig sås med ost över bjuds det idag vänner.🍆🥬🥒🫑🌶🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TORS 19/2 2026\nEn mustig Chilli Con Carne får vi ha idag att fira ljuset med,och att värma oss med, i det Vackra vinterlandskapet🙏⛈️🌞🌞☃️❄️🌞!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-18T09:32:52.259Z",
+      "fetchedAt": "2026-02-19T09:31:41.307Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-18T09:32:56.288Z",
+      "fetchedAt": "2026-02-19T09:31:45.707Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-18T09:32:56.624Z",
+      "fetchedAt": "2026-02-19T09:31:45.901Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
