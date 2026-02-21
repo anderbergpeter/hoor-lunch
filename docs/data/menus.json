@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-20T09:27:45.243Z",
+  "generatedAt": "2026-02-21T09:15:35.158Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-20T09:27:38.786Z",
+      "fetchedAt": "2026-02-21T09:15:28.618Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 8 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 16/2 Dagens: Stekt rimmad fläsk, löksås, kokt potatis, persilja Vegetarisk: Karamelliserad löksoppa, linser, crèmefraiche, ostkrutonger Tisdag 17/2 Lunch: Stekt kalkonlår, rostade rotfrukter, Dijonsås, bacon och lök smul, spenat Vegetarisk: Risotto, svamp, grönkål, grana padana Onsdag 18/2 Lunch: Havets wallenbergare, friterad kapris, brynt ansjovissmör, potatisstomp, purjolök Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Torsdag 19/2 Lunch: Klassisk biff Stroganoff, potatismos, saltgurka, crèmefraiche Vegetarisk: Vegetarisk Stroganoff, haloumi, potatismos, saltgurka Fredag 20/2 Lunch: Pytt Bellman, stekt ägg, picklade rödbetor, persilja Vegetarisk: Vegetarisk Pytt Bellman, stekt ägg, saltgurka, picklade rödbetor Lördag 21/2 Lunch: Parmesan grillad kycklingfilé, potatisgratäng, timjansky, bakad tomat Vegetarisk: Parmesan grillad aubergine, potatisgratäng, timjansky, bakad tomat Söndag 22/2 Lunch: Örtbakad kolja, vitvinssås, kokt potatis, räkor, bakad fänkål Vegetarisk: Stekt fetaost, oliver, kapris, ljummen couscoussallad A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter, välj en eller flera Kammussla"
+        "text": "Lunchmeny v. 8 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 16/2 Dagens: Stekt rimmad fläsk, löksås, kokt potatis, persilja Vegetarisk: Karamelliserad löksoppa, linser, crèmefraiche, ostkrutonger Tisdag 17/2 Lunch: Stekt kalkonlår, rostade rotfrukter, Dijonsås, bacon och lök smul, spenat Vegetarisk: Risotto, svamp, grönkål, grana padana Onsdag 18/2 Lunch: Havets wallenbergare, friterad kapris, brynt ansjovissmör, potatisstomp, purjolök Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Torsdag 19/2 Lunch: Klassisk biff Stroganoff, potatismos, saltgurka, crèmefraiche Vegetarisk: Vegetarisk Stroganoff, haloumi, potatismos, saltgurka Fredag 20/2 Lunch: Pytt Bellman, stekt ägg, picklade rödbetor, persilja Vegetarisk: Vegetarisk Pytt Bellman, stekt ägg, saltgurka, picklade rödbetor Lördag 21/2 Lunch: Parmesan grillad kycklingfilé, potatisgratäng, timjansky, bakad tomat Vegetarisk: Parmesan grillad aubergine, potatisgratäng, timjansky, bakad tomat Söndag 22/2 Lunch: Örtbakad kolja, vitvinssås, kokt potatis, räkor, bakad fänkål Vegetarisk: Stekt fetaost, oliver, kapris, ljummen couscoussallad Lunchmeny v. 9 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 23/2 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Tisdag 24/2 Lunch: Ugnsbakad kalkonbröst, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: F"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-20T09:27:39.635Z",
+      "fetchedAt": "2026-02-21T09:15:29.467Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-20T09:27:40.693Z",
+      "fetchedAt": "2026-02-21T09:15:31.107Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-20T09:27:44.811Z",
+      "fetchedAt": "2026-02-21T09:15:34.857Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-20T09:27:44.952Z",
+      "fetchedAt": "2026-02-21T09:15:35.018Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
