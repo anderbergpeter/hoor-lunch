@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-22T09:16:04.908Z",
+  "generatedAt": "2026-02-23T09:38:50.928Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-22T09:15:58.271Z",
+      "fetchedAt": "2026-02-23T09:38:44.765Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 8 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 16/2 Dagens: Stekt rimmad fläsk, löksås, kokt potatis, persilja Vegetarisk: Karamelliserad löksoppa, linser, crèmefraiche, ostkrutonger Tisdag 17/2 Lunch: Stekt kalkonlår, rostade rotfrukter, Dijonsås, bacon och lök smul, spenat Vegetarisk: Risotto, svamp, grönkål, grana padana Onsdag 18/2 Lunch: Havets wallenbergare, friterad kapris, brynt ansjovissmör, potatisstomp, purjolök Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Torsdag 19/2 Lunch: Klassisk biff Stroganoff, potatismos, saltgurka, crèmefraiche Vegetarisk: Vegetarisk Stroganoff, haloumi, potatismos, saltgurka Fredag 20/2 Lunch: Pytt Bellman, stekt ägg, picklade rödbetor, persilja Vegetarisk: Vegetarisk Pytt Bellman, stekt ägg, saltgurka, picklade rödbetor Lördag 21/2 Lunch: Parmesan grillad kycklingfilé, potatisgratäng, timjansky, bakad tomat Vegetarisk: Parmesan grillad aubergine, potatisgratäng, timjansky, bakad tomat Söndag 22/2 Lunch: Örtbakad kolja, vitvinssås, kokt potatis, räkor, bakad fänkål Vegetarisk: Stekt fetaost, oliver, kapris, ljummen couscoussallad Lunchmeny v. 9 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 23/2 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Tisdag 24/2 Lunch: Ugnsbakad kalkonbröst, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: F"
+        "text": "Lunchmeny v. 9 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 23/2 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Tisdag 24/2 Lunch: Ugnsbakad kalkonbröst, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: Friterad panoummi, ratatouille, rostad potatis, fetaost, kapris, oliver Onsdag 25/2 Lunch: Ugnsbakad fisk, saffransås, aioli, musslor, krossad dillpotatis, friterad brysselkål Vegetarisk: Rödbetsfalafel, vitlökssås, fetaost, ljummen couscoussallad Torsdag 26/2 Lunch: Nattbakad fläskkarré, kantarellsås, timjanstekt potatis, svartvinbärsgelé Vegetarisk: Spenat och ricotta fylld tortellini, grönsaker, krämig pestosås Fredag 27/2 Lunch: Högrevschili, friterad bakpotatis, nachos, crèmefraiche Vegetarisk: Bönchili, friterad bakpotatis, nachos, crèmefraiche Lördag 28/2 Lunch: Stekt kycklingfilé, gnocchi, rostad tomatsås, mozzarella, basilika Vegetarisk: Mozzarella gratinerad Quorn, rostad tomatsås, gnocchi, basilika Söndag 1/3 Smaker frän Åkersberg A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter, välj en eller flera Kammussla Kallrökt kammussla, pepparrot och dillsås,"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-22T09:15:59.308Z",
+      "fetchedAt": "2026-02-23T09:38:45.527Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 20/2 2026\nFläskpannkaka med Lingonsylt bjuds denna fredag vänner 🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 23/2 2026\nKassler i en gräddig Chilli och-Spenatsås med ris till bjuds det idag vänner!🥰\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-22T09:16:00.949Z",
+      "fetchedAt": "2026-02-23T09:38:46.384Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/02/dagens-v8-2026_01-pdf.jpg",
-        "ocrText": "Em LUNCH v.8\nis hh LJ\nTITT een m mm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12år, 85:-\n7adag -Fhedag kl. I.30-13.30 Pris I50:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG: Köttfärslimpa, kokt potatis, gräddsås & lingon\nONSDAG: Skånsk kalops, potatis & inlagda rödbetor\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Danskfleskesteg med klassiska tillbehör\nLÖRDAG: Kycklingspett, griljerade grönsaker, bearnaisesås & tzatziki\nVEG. Rödbetsbiffar med fetaosteråme & bulgursallad\näthnchhososs! Under hela sportiowsveckan -\nAE a vdÖRs\nNS, Mister nuraneåpamenisert: ÖA KS &\nSS Forge are on ANNO 1692\nEgen Pan — Satgfoaregård\nBoka på 0413-220 10 eller infoohoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/02/IMG_0036.jpeg",
+        "ocrText": "a”\nHae\n«<<< LUNGH v.g\nMS qv :\n— rg Vårfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\n/isdag-Fredag kl. II.30-13.30 Pris I50.-\nlördag 12-14 Prua I75.- Välkomna!\nTISDAG:  Färsbiffigräddsås, potatis, pressgurka & lingon\nONSDAG: Asiatisk fläskkarré med ris\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Kyckling piccata, stekt potatis, tomatsås & basilikacréme\nLÖRDAG: Kyckling piccata, stekt potatis, tomatsås & basilikacréme\nVEG. Selleristeak, stekt potatis, rödvinssås & grönt\nJORS GÅSIGIFV, are i T 2 NER ER\n5 TOR ON CO (0 0 HÖORS\nANN Se\nPSA Gatgfoarsgård\nBoka på 0413-220 10 eller infoehoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-22T09:16:04.583Z",
+      "fetchedAt": "2026-02-23T09:38:50.683Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-22T09:16:04.689Z",
+      "fetchedAt": "2026-02-23T09:38:50.849Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
