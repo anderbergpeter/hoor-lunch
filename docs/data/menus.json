@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-02-26T09:34:48.385Z",
+  "generatedAt": "2026-02-27T09:27:10.663Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-02-26T09:34:41.732Z",
+      "fetchedAt": "2026-02-27T09:27:02.988Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-02-26T09:34:42.479Z",
+      "fetchedAt": "2026-02-27T09:27:04.166Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-02-26T09:34:43.999Z",
+      "fetchedAt": "2026-02-27T09:27:05.219Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-02-26T09:34:47.976Z",
+      "fetchedAt": "2026-02-27T09:27:10.147Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-02-26T09:34:48.242Z",
+      "fetchedAt": "2026-02-27T09:27:10.491Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
