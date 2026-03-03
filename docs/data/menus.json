@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-02T09:44:14.657Z",
+  "generatedAt": "2026-03-03T09:27:54.553Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-02T09:44:07.450Z",
+      "fetchedAt": "2026-03-03T09:27:47.652Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 10 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 2/3 Dagens: Örtbakad fläskfilé, grönpepparsås, rostade rotfrukter, haricotsverts Vegetarisk: Fylld zucchini, purjolök, bönor, timjan, fetaost Tisdag 3/3 Lunch: Pulled pork, sirachamajo, jasminris, tomat & bönsalsa Vegetarisk: Pulled oumph, sirachamajo, jasminris, tomat, bönsalsa Onsdag 4/3 Lunch: Ugnsbakad fisk, sandefjordsås, räkor, dillkokt potatis Vegetarisk: Pasta, bakad portabello, soltorkad tomat, spenat, grana padana Torsdag 5/3 Lunch: Köttfärslimpa, gräddsås, pressgurka, lingon, kokt potatis, persilja Vegetarisk: Morot & panoumibiffar, friterad potatis, tartarsås Fredag 6/3 Lunch: Schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Vegetarisk: Selleri schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Lördag 7/3 Lunch: ”Kyckling Bourgogne”, mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Vegetarisk linsgryta, timjan, svamp, morot, syltlök, potatispuré Söndag 8/3 Lunch: Ugnsbakad lax, hollandaisesås, gurka och kålrabbisallad, kokt potatis Vegetarisk: Risotto på risoni, champinjoner, grönkål, sojabönor Påsken på Åkersberg Serveras 11.30–14.30 En generös buffé med klassiska påskfavoriter och vårens smaker. 325 kr/person • 165 kr/barn I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Långfredag Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås och nypotatis. Påskafton Mowitz kyckling, säsongens grönsaker, rödvinssås och örtemulsion. Påskdagen Lammstek med rotfru"
+        "text": "Lunchmeny v. 10 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 2/3 Dagens: Örtbakad fläskfilé, grönpepparsås, rostade rotfrukter, haricotsverts Vegetarisk: Fylld zucchini, purjolök, bönor, timjan, fetaost Tisdag 3/3 Lunch: Pulled pork, sirachamajo, jasminris, tomat & bönsalsa Vegetarisk: Pulled oumph, sirachamajo, jasminris, tomat, bönsalsa Onsdag 4/3 Lunch: Ugnsbakad fisk, sandefjordsås, räkor, dillkokt potatis Vegetarisk: Pasta, bakad portabello, soltorkad tomat, spenat, grana padana Torsdag 5/3 Lunch: Köttfärslimpa, gräddsås, pressgurka, lingon, kokt potatis, persilja Vegetarisk: Morot & panoumibiffar, friterad potatis, tartarsås Fredag 6/3 Lunch: Schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Vegetarisk: Selleri schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Lördag 7/3 Lunch: ”Kyckling Bourgogne”, mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Vegetarisk linsgryta, timjan, svamp, morot, syltlök, potatispuré Söndag 8/3 Lunch: Ugnsbakad lax, hollandaisesås, gurka och kålrabbisallad, kokt potatis Vegetarisk: Risotto på risoni, champinjoner, grönkål, sojabönor Lunchmeny v. 11 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 9/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 10/3 Lunch: Stekt kalkonlår, rostade rotfrukter, dragoncrème, stekt bacon, pi"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-02T09:44:08.434Z",
+      "fetchedAt": "2026-03-03T09:27:48.385Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - MÅN 2/3 2026\nHelstekt Fläsksida med Grönpepparsås, kokt potatis och grönt bjuds det idag vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 3/4 2026\nKyckling I Mango- Chutney sås med Curry och Sambal i sällskap av ris, bjuds det idag vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-02T09:44:09.537Z",
+      "fetchedAt": "2026-03-03T09:27:49.712Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/02/IMG_0036.jpeg",
-        "ocrText": "a”\nHae\n«<<< LUNGH v.g\nMS qv :\n— rg Vårfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\n/isdag-Fredag kl. II.30-13.30 Pris I50.-\nlördag 12-14 Prua I75.- Välkomna!\nTISDAG:  Färsbiffigräddsås, potatis, pressgurka & lingon\nONSDAG: Asiatisk fläskkarré med ris\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Kyckling piccata, stekt potatis, tomatsås & basilikacréme\nLÖRDAG: Kyckling piccata, stekt potatis, tomatsås & basilikacréme\nVEG. Selleristeak, stekt potatis, rödvinssås & grönt\nJORS GÅSIGIFV, are i T 2 NER ER\n5 TOR ON CO (0 0 HÖORS\nANN Se\nPSA Gatgfoarsgård\nBoka på 0413-220 10 eller infoehoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/03/IMG_0068.jpeg",
+        "ocrText": "fann Tar V 1\n\"NäR : |\nin 3 ; E |\n| SS årfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTiadag-Fredag kl. Il.30-13.30 Pria 150:-\nLördag 12-14 Paia I75:- Välkomna!\nTISDAG: = Thaikyckling, ris & Pak choi\nONSDAG: Kålpudding, gräddsås, lingon & potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFRE & LÖR: Sesamstekt schnitzel, Sriracha mayo, asiatisk pressgurka,\n& stekt potatis\nVEG. Mukimameburgare, sallad, tomat, rödlök, saltgurka,\ndijonmayo, pommes\na SS ORSTÖ 1 I Lå Lä so\ndd + KIL nn ; anOORS a\nLLA ; Fa UA ANNO Ko 1692\nEra AT + bGäsgspvaregård\noka på 0413-220 10 aller infochoorsgastis.se |"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-02T09:44:14.356Z",
+      "fetchedAt": "2026-03-03T09:27:54.168Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-02T09:44:14.557Z",
+      "fetchedAt": "2026-03-03T09:27:54.425Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
