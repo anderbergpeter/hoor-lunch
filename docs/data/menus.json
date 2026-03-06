@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-05T09:29:11.757Z",
+  "generatedAt": "2026-03-06T09:24:11.401Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-05T09:29:00.253Z",
+      "fetchedAt": "2026-03-06T09:24:02.227Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-05T09:29:01.216Z",
+      "fetchedAt": "2026-03-06T09:24:04.349Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TORS 5/4 2026\nTa det Rätta, ta en Spätta😂, med Rälsens Remoulaaadesås till lunch🥰🐋🐬🐋🐋🐟🐟🐟!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - FRE 6/3 2026\nBaconfylld köttfärslimpa med Gräddsås och kokt potatis bjuds det idag i solskenet denna fredag vänner!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-05T09:29:06.300Z",
+      "fetchedAt": "2026-03-06T09:24:05.972Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-05T09:29:11.170Z",
+      "fetchedAt": "2026-03-06T09:24:11.059Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-05T09:29:11.575Z",
+      "fetchedAt": "2026-03-06T09:24:11.298Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
