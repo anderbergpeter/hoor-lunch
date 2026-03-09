@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-08T09:14:28.428Z",
+  "generatedAt": "2026-03-09T09:34:07.231Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-08T09:14:22.205Z",
+      "fetchedAt": "2026-03-09T09:33:59.343Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-08T09:14:22.953Z",
+      "fetchedAt": "2026-03-09T09:34:00.093Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 6/3 2026\nBaconfylld köttfärslimpa med Gräddsås och kokt potatis bjuds det idag i solskenet denna fredag vänner!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 9/3 2026\nEn mustig Karréköttgryta med Citron- och Timjansås bjuds det denna måndag vänner🍆🥑🍋‍🟩🍇🍓🍛🍛🍛🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-08T09:14:24.549Z",
+      "fetchedAt": "2026-03-09T09:34:02.268Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/03/IMG_0068.jpeg",
-        "ocrText": "fann Tar V 1\n\"NäR : |\nin 3 ; E |\n| SS årfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTiadag-Fredag kl. Il.30-13.30 Pria 150:-\nLördag 12-14 Paia I75:- Välkomna!\nTISDAG: = Thaikyckling, ris & Pak choi\nONSDAG: Kålpudding, gräddsås, lingon & potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFRE & LÖR: Sesamstekt schnitzel, Sriracha mayo, asiatisk pressgurka,\n& stekt potatis\nVEG. Mukimameburgare, sallad, tomat, rödlök, saltgurka,\ndijonmayo, pommes\na SS ORSTÖ 1 I Lå Lä so\ndd + KIL nn ; anOORS a\nLLA ; Fa UA ANNO Ko 1692\nEra AT + bGäsgspvaregård\noka på 0413-220 10 aller infochoorsgastis.se |"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/03/IMG_0094.jpeg",
+        "ocrText": "SCLUNGH v.11\nln > =\n| == Vårfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. II.30-13.30 Pris 150:-\nlördag 12-149 Pris I75.- Välkomna!\nTISDAG: = Långbakad kotlett, stekt potatis & svampsås\nONSDAG: Kyckling itomatsås med kapris, oliver & potatisstomp\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFRE & LÖR: Pannbiff, potatis, löksky & lingon\nVEG. Spenat- och Ricottatortellini, grön pestocreéme\noch stekta grönsaker\n—— SES. OAS TON KH mv ” su\nma fela. anOERS ae\nLÄG h Ja UVA ANNO Ko 1692\nAT kö / Gäsgspvaregård\noka nå 0413-270. 10 etter infocchoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-08T09:14:28.180Z",
+      "fetchedAt": "2026-03-09T09:34:06.948Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-08T09:14:28.328Z",
+      "fetchedAt": "2026-03-09T09:34:07.114Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
