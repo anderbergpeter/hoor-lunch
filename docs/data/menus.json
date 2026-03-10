@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-09T09:45:42.085Z",
+  "generatedAt": "2026-03-10T09:30:15.087Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-09T09:45:33.432Z",
+      "fetchedAt": "2026-03-10T09:30:08.075Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 10 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 2/3 Dagens: Örtbakad fläskfilé, grönpepparsås, rostade rotfrukter, haricotsverts Vegetarisk: Fylld zucchini, purjolök, bönor, timjan, fetaost Tisdag 3/3 Lunch: Pulled pork, sirachamajo, jasminris, tomat & bönsalsa Vegetarisk: Pulled oumph, sirachamajo, jasminris, tomat, bönsalsa Onsdag 4/3 Lunch: Ugnsbakad fisk, sandefjordsås, räkor, dillkokt potatis Vegetarisk: Pasta, bakad portabello, soltorkad tomat, spenat, grana padana Torsdag 5/3 Lunch: Köttfärslimpa, gräddsås, pressgurka, lingon, kokt potatis, persilja Vegetarisk: Morot & panoumibiffar, friterad potatis, tartarsås Fredag 6/3 Lunch: Schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Vegetarisk: Selleri schnitzel, skysås, kryddsmör, gröna ärter, råstekt potatis Lördag 7/3 Lunch: ”Kyckling Bourgogne”, mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Vegetarisk linsgryta, timjan, svamp, morot, syltlök, potatispuré Söndag 8/3 Lunch: Ugnsbakad lax, hollandaisesås, gurka och kålrabbisallad, kokt potatis Vegetarisk: Risotto på risoni, champinjoner, grönkål, sojabönor Lunchmeny v. 11 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 9/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 10/3 Lunch: Stekt kalkonlår, rostade rotfrukter, dragoncrème, stekt bacon, pi"
+        "text": "Lunchmeny v. 11 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 9/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 10/3 Lunch: Stekt kalkonlår, rostade rotfrukter, dragoncrème, stekt bacon, picklad rödlök Vegetarisk: Risotto, svamp, grönkål, grana padana, picklad rödlök Onsdag 11/3 Lunch: Ugnsbakad fisk, hackat ägg, vitvinssås, smörstekta rädisor, kokt potatis Vegetarisk: Krämig blomkålssoppa, rostad blomkål, tryffel Torsdag 12/3 Lunch: Kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Vegetarisk: Vegetarisk kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Fredag 13/3 Lunch: Helstekt kotlettrad, svampsås, potatispuré, svartvinbärsgelé Vegetarisk: Gnocchi, krämig tomatsås, hasselnötter, burrat Lördag 14/3 Lunch: Caesarsallad, helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad, stekt Quorn, friterad panoummi, krutonger Söndag 15/3 Lunch: Pankopanerad kolja, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Pankopanerad pannoumi, tartarsås, fänkål och dill crudité Påsken på Åkersberg Boka bord Serveras 11.30–14.30 En generös buffé med klassiska påskfavoriter och vårens smaker. 325 kr/person • 165 kr/barn I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Långfredag Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås och nypotatis. Påskafton Mowitz kyckling, säsongens grönsaker, rödvinssås och örtemul"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-09T09:45:34.733Z",
+      "fetchedAt": "2026-03-10T09:30:09.001Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - MÅN 9/3 2026\nEn mustig Karréköttgryta med Citron- och Timjansås bjuds det denna måndag vänner🍆🥑🍋‍🟩🍇🍓🍛🍛🍛🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 10/3 2026\nHärliga Pannbiffar med Förskostsås, Stekt lök och Kokt potatis bjuds det idag vänner🥰. Och solen lyser dessutom🌞🌞🌞!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-09T09:45:36.463Z",
+      "fetchedAt": "2026-03-10T09:30:10.094Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-09T09:45:41.679Z",
+      "fetchedAt": "2026-03-10T09:30:14.812Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-09T09:45:41.948Z",
+      "fetchedAt": "2026-03-10T09:30:15.006Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
