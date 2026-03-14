@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-13T09:25:43.265Z",
+  "generatedAt": "2026-03-14T09:18:32.552Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-13T09:25:36.719Z",
+      "fetchedAt": "2026-03-14T09:18:22.423Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 11 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 9/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 10/3 Lunch: Stekt kalkonlår, rostade rotfrukter, dragoncrème, stekt bacon, picklad rödlök Vegetarisk: Risotto, svamp, grönkål, grana padana, picklad rödlök Onsdag 11/3 Lunch: Ugnsbakad fisk, hackat ägg, vitvinssås, smörstekta rädisor, kokt potatis Vegetarisk: Krämig blomkålssoppa, rostad blomkål, tryffel Torsdag 12/3 Lunch: Kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Vegetarisk: Vegetarisk kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Fredag 13/3 Lunch: Helstekt kotlettrad, svampsås, potatispuré, svartvinbärsgelé Vegetarisk: Gnocchi, krämig tomatsås, hasselnötter, burrat Lördag 14/3 Lunch: Caesarsallad, helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad, stekt Quorn, friterad panoummi, krutonger Söndag 15/3 Lunch: Pankopanerad kolja, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Pankopanerad pannoumi, tartarsås, fänkål och dill crudité Påsken på Åkersberg Boka bord Serveras 11.30–14.30 En generös buffé med klassiska påskfavoriter och vårens smaker. 325 kr/person • 165 kr/barn I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Långfredag Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås och nypotatis. Påskafton Mowitz kyckling, säsongens grönsaker, rödvinssås och örtemul"
+        "text": "Lunchmeny v. 11 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 9/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 10/3 Lunch: Stekt kalkonlår, rostade rotfrukter, dragoncrème, stekt bacon, picklad rödlök Vegetarisk: Risotto, svamp, grönkål, grana padana, picklad rödlök Onsdag 11/3 Lunch: Ugnsbakad fisk, hackat ägg, vitvinssås, smörstekta rädisor, kokt potatis Vegetarisk: Krämig blomkålssoppa, rostad blomkål, tryffel Torsdag 12/3 Lunch: Kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Vegetarisk: Vegetarisk kålpudding, gräddsky, rårörda lingon, kokt potatis, persilja Fredag 13/3 Lunch: Helstekt kotlettrad, svampsås, potatispuré, svartvinbärsgelé Vegetarisk: Gnocchi, krämig tomatsås, hasselnötter, burrat Lördag 14/3 Lunch: Caesarsallad, helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad, stekt Quorn, friterad panoummi, krutonger Söndag 15/3 Lunch: Pankopanerad kolja, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Pankopanerad pannoumi, tartarsås, fänkål och dill crudité Lunchmeny v. 12 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 16/3 Dagens: Ungersk Gulasch gryta på biff, vispad crèmefraiche, potatispuré, saltgurka Vegetarisk: Vegetarisk gulasch, crèmefraiche, saltgurka, potatispuré Tisdag 17/3 Lunch: Ingefära marinerad fläsksida, gochuja"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-13T09:25:37.490Z",
+      "fetchedAt": "2026-03-14T09:18:23.500Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-13T09:25:38.936Z",
+      "fetchedAt": "2026-03-14T09:18:28.328Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-13T09:25:42.909Z",
+      "fetchedAt": "2026-03-14T09:18:32.332Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-13T09:25:43.121Z",
+      "fetchedAt": "2026-03-14T09:18:32.499Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
