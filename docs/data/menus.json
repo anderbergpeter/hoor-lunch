@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-23T09:47:34.893Z",
+  "generatedAt": "2026-03-23T09:59:09.855Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-23T09:47:28.386Z",
+      "fetchedAt": "2026-03-23T09:59:02.796Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-23T09:47:29.180Z",
+      "fetchedAt": "2026-03-23T09:59:03.952Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 20/4 2026\nGratinerad Fläskfilé i en Underbar sås med ris till firar vi fredag med här på Rälsen 🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 23/4 2026\nFlygande Jacob bjuds det som måndagsdagens vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-23T09:47:29.882Z",
+      "fetchedAt": "2026-03-23T09:59:04.774Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-23T09:47:34.694Z",
+      "fetchedAt": "2026-03-23T09:59:09.495Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-23T09:47:34.812Z",
+      "fetchedAt": "2026-03-23T09:59:09.726Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
