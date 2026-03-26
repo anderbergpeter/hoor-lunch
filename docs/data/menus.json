@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-25T09:39:03.090Z",
+  "generatedAt": "2026-03-26T09:46:31.852Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-25T09:38:55.825Z",
+      "fetchedAt": "2026-03-26T09:46:24.062Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-25T09:38:56.835Z",
+      "fetchedAt": "2026-03-26T09:46:26.335Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TIS 24/3 2026\nRälsens Spagetti Bolognese bjuds det idag vänner!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TORS 26/3 2026\nBaconfylld Köttfärslimpa med Gräddsås, kokt potatis och Lingonsylt bjuder Dagens på idag vänner!😘🥰😘\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-25T09:38:57.808Z",
+      "fetchedAt": "2026-03-26T09:46:27.169Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-25T09:39:02.707Z",
+      "fetchedAt": "2026-03-26T09:46:31.006Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-25T09:39:02.954Z",
+      "fetchedAt": "2026-03-26T09:46:31.566Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
