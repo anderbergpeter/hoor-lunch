@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-27T09:39:57.176Z",
+  "generatedAt": "2026-03-28T09:22:44.622Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-27T09:39:51.267Z",
+      "fetchedAt": "2026-03-28T09:22:38.742Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 13 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 23/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Risotto, svamp, grönkål, grana padana, picklad rödlök Tisdag 24/3 Lunch: Kyckling i grön curry, grönsaker, pak choi, rostade cashewnötter, jasminris Vegetarisk: Oumph i grön curry, grönsaker, pak choi, rostade cashewnötter, jasminris Onsdag 25/3 Lunch: Ugnsbakad lax, citron och dillcrème, ljummen potatissallad, spenat, citron Vegetarisk: Morotsbiffar, citron och dillcrème, ljummen potatissallad, spenat Torsdag 26/3 Lunch: Kalvfärsbiffar, skirat smör, rårörda lingon, gröna ärtor, potatispuré Vegetarisk: Rödbetsfalafel, humus, tomatsallad, bulgur Fredag 27/3 Lunch: Örtmarinerad kalkonbröst, rosmaringräddsås, rostade rotfrukter, svartvinbärsgelé Vegetarisk: Grillad polenta, soltorkade tomater, gremolata, örtsallad Lördag 28/3 ABONNERAD Söndag 29/3 Lunch: Ugnsbakad kummel, potatis, ljummen gubbröra, kapris, brynt smör, dill Vegetarisk: Stekt fetaost, oliver, kapris, ljummen couscoussallad Påsken på Åkersberg Boka bord Serveras 11.30–14.30 En generös buffé med klassiska påskfavoriter och vårens smaker. 325 kr/person • 165 kr/barn I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Långfredag Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås och nypotatis. Påskafton Mowitz kyckling, säsongens grönsaker, rödvinssås och örtemulsion. Påskdagen Lammstek med rotfruktsgratäng, viltsås, betor och fetaostkräm. Annandag påsk Gratinerad lå"
+        "text": "Lunchmeny v. 13 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Dagens söta 95 kr I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 23/3 Dagens: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Risotto, svamp, grönkål, grana padana, picklad rödlök Tisdag 24/3 Lunch: Kyckling i grön curry, grönsaker, pak choi, rostade cashewnötter, jasminris Vegetarisk: Oumph i grön curry, grönsaker, pak choi, rostade cashewnötter, jasminris Onsdag 25/3 Lunch: Ugnsbakad lax, citron och dillcrème, ljummen potatissallad, spenat, citron Vegetarisk: Morotsbiffar, citron och dillcrème, ljummen potatissallad, spenat Torsdag 26/3 Lunch: Kalvfärsbiffar, skirat smör, rårörda lingon, gröna ärtor, potatispuré Vegetarisk: Rödbetsfalafel, humus, tomatsallad, bulgur Fredag 27/3 Lunch: Örtmarinerad kalkonbröst, rosmaringräddsås, rostade rotfrukter, svartvinbärsgelé Vegetarisk: Grillad polenta, soltorkade tomater, gremolata, örtsallad Lördag 28/3 ABONNERAD Söndag 29/3 Lunch: Ugnsbakad kummel, potatis, ljummen gubbröra, kapris, brynt smör, dill Vegetarisk: Stekt fetaost, oliver, kapris, ljummen couscoussallad Lunchmeny v. 14 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30, 150 kr Lördag, söndag och helgdagar 11:30 &#8211; 14:00, 185 kr Påsk lunch &#8211; 325 kr Dagens söta 95 kr &#8211; gäller inte under Påskhelgen I lunchmeny ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 30/3 Dagens: Bakad fläskkarré, plommongräddsås, persilja bakad morot, kokt potatis, äppelkompott Vegetarisk: Potatis gnocchi, spenat, örtcrème, stekt pannoumi Tisdag 31/3 Lunch: Kyckling Garam Masala, basmatiris, mangochutney Vegetarisk: Vegetarisk Garam M"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-27T09:39:52.079Z",
+      "fetchedAt": "2026-03-28T09:22:39.412Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-27T09:39:53.064Z",
+      "fetchedAt": "2026-03-28T09:22:40.389Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-27T09:39:56.862Z",
+      "fetchedAt": "2026-03-28T09:22:44.286Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-27T09:39:57.065Z",
+      "fetchedAt": "2026-03-28T09:22:44.477Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
