@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-30T10:13:58.852Z",
+  "generatedAt": "2026-03-31T09:49:26.895Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-30T10:13:53.749Z",
+      "fetchedAt": "2026-03-31T09:49:21.778Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 14 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr, utgår vid påsken. Dagens söta 95 kr &#8211; gäller inte under Påskhelgen I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Påsk lunch &#8211; 325 kr I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Måndag 30/3 Dagens: Bakad fläskkarré, plommongräddsås, persilja bakad morot, kokt potatis, äppelkompott Vegetarisk: Potatis gnocchi, spenat, örtcrème, stekt pannoumi Tisdag 31/3 Lunch: Kyckling Garam Masala, basmatiris, mangochutney Vegetarisk: Vegetarisk Garam Masala, basmatiris, mangochutney Onsdag 1/4 Lunch: Panerad kolja, örtremoulad, citron, gröna ärtor, potatisstomp med dill Vegetarisk: Frittata, svamp, zucchini, lök, spenat, ost, avokadocrème Torsdag 2/4 Lunch: Baconlindad köttfärslimpa, stekt potatis, senapssås, stekta haricotsverts Vegetarisk: Vegetarisk Anammabiff, stekt potatis, senapssås, stekta haricotsverts Långfredag 3/4 – Påsk lunch Lunch: Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås, nypotatis Vegetarisk: Grillad polenta, soltorkade tomater, gremolata, örtsallad Lördag 4/4 – Påsk lunch Lunch: Mowitz kyckling, säsongens grönsaker, rödvinssås, örtemulsion Söndag 5/4 – Påsk lunch Lunch: Lammstek, rotfruktsgratäng, vilt sås, betor, fetaostcrème Måndag 6/4 – Påsk lunch Lunch: Gratinerad Långa, potatispuré, smörpocherade ärtor Påsken på Åkersberg Boka bord Serveras 11.30–14.30 En generös buffé med klassiska påskfavoriter och vårens smaker. 325 kr/person • 165 kr/barn I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, "
+        "text": "Lunchmeny v. 14 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr, utgår vid påsken. Dagens söta 95 kr &#8211; gäller inte under Påskhelgen I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Påsk lunch &#8211; 325 kr I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Måndag 30/3 Dagens: Bakad fläskkarré, plommongräddsås, persilja bakad morot, kokt potatis, äppelkompott Vegetarisk: Potatis gnocchi, spenat, örtcrème, stekt pannoumi Tisdag 31/3 Lunch: Kyckling Garam Masala, basmatiris, mangochutney Vegetarisk: Vegetarisk Garam Masala, basmatiris, mangochutney Onsdag 1/4 Lunch: Panerad kolja, örtremoulad, citron, gröna ärtor, potatisstomp med dill Vegetarisk: Frittata, svamp, zucchini, lök, spenat, ost, avokadocrème Torsdag 2/4 Lunch: Baconlindad köttfärslimpa, stekt potatis, senapssås, stekta haricotsverts Vegetarisk: Vegetarisk Anammabiff, stekt potatis, senapssås, stekta haricotsverts Långfredag 3/4 – Påsk lunch Lunch: Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås, nypotatis Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Lördag 4/4 – Påsk lunch Lunch: Mowitz kyckling, säsongens grönsaker, rödvinssås, örtemulsion Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Söndag 5/4 – Påsk lunch Lunch: Lammstek, rotfruktsgratäng, vilt sås, betor, fetaostcrème Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Måndag 6/4 – Påsk lunch Lunch: Gratinerad Långa, potatispuré, smörpocherade ärtor Vegetarisk: He"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-30T10:13:54.560Z",
+      "fetchedAt": "2026-03-31T09:49:22.547Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - MÅN 30/3 2026\nI det ruggiga måndagsvädret får vi trösta oss med Kyckling i en härlig Fransk Senapssås som Dagens vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 31/3 2026🥰!\nRälsens mustiga Färs- o Svamppasta med Grädde och Kryddkärlek bjuds det idag vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-30T10:13:55.258Z",
+      "fetchedAt": "2026-03-31T09:49:23.229Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-30T10:13:58.569Z",
+      "fetchedAt": "2026-03-31T09:49:26.675Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-30T10:13:58.780Z",
+      "fetchedAt": "2026-03-31T09:49:26.821Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
