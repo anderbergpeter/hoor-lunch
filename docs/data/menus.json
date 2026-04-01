@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-03-31T09:49:26.895Z",
+  "generatedAt": "2026-04-01T09:53:45.124Z",
   "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-03-31T09:49:21.778Z",
+      "fetchedAt": "2026-04-01T09:53:39.356Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-03-31T09:49:22.547Z",
+      "fetchedAt": "2026-04-01T09:53:40.147Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TIS 31/3 2026🥰!\nRälsens mustiga Färs- o Svamppasta med Grädde och Kryddkärlek bjuds det idag vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - ONS 1/4 2026\nPepparrot- och Dillkorv bjuds det idag i solskenet som Dagens vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-03-31T09:49:23.229Z",
+      "fetchedAt": "2026-04-01T09:53:41.122Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-03-31T09:49:26.675Z",
+      "fetchedAt": "2026-04-01T09:53:44.835Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-03-31T09:49:26.821Z",
+      "fetchedAt": "2026-04-01T09:53:45.045Z",
       "ok": false,
       "error": "facebook_http_400",
       "source": {
