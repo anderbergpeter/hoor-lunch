@@ -68,7 +68,8 @@
       "source": {
         "type": "wp-api",
         "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
-        "slug": "meny"
+        "slug": "meny",
+        "pageUrl": "https://hoor.pizzeriavikingen.se/"
       }
     },
     {
