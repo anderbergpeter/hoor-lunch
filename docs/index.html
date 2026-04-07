@@ -190,13 +190,8 @@ function asLink(url) {
   try {
     var u = new URL(url);
     var host = u.hostname;
-    try { host = decodeURIComponent(host); } catch(e){}
-    // Manual punycode decode for known Swedish chars
-    if (host.indexOf('xn--') !== -1) {
-      var a = document.createElement('a');
-      a.href = url;
-      host = a.hostname;
-    }
+    var punycodeMap = {'xn--mrtenpizzeria-pfb.se': 'mårtenspizzeria.se'};
+    if (punycodeMap[host]) host = punycodeMap[host];
     return el('a', { href: u.toString(), target: '_blank', rel: 'noreferrer', class: 'sourceLink' }, [host]);
   } catch(e) {
     return el('span', { class: 'subtle sourceLink' }, [url]);
