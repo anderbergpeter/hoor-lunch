@@ -3,11 +3,10 @@ name: Update lunch menus
 on:
   workflow_dispatch:
   schedule:
-    # Every day 09:50 Europe/Stockholm.
-    # In winter time this is 08:50 UTC. (Adjust if DST shifts and you care.)
-    - cron: '50 8 * * *'
-    # Mondays 10:00 Europe/Stockholm == 09:00 UTC (winter time)
-    - cron: '0 9 * * 1'
+    # Weekdays 10:30 Europe/Stockholm (08:30 UTC in summer, 09:30 UTC in winter)
+    - cron: '30 8 * * 1-5'
+    # Weekdays 06:30 Europe/Stockholm (early update for early risers)
+    - cron: '30 4 * * 1-5'
 
 permissions:
   contents: write
@@ -42,7 +41,7 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          if git diff --quiet -- docs/data/menus.json; then
+          if git diff --quiet -- docs/data/menus.json data/menus.json; then
             echo "No changes to menus.json"
             exit 0
           fi
@@ -50,6 +49,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add docs/data/menus.json
-          git commit -m "chore: update menus.json"
+          git add docs/data/menus.json data/menus.json
+          git commit -m "chore: update menus.json [$(date -u +%Y-%m-%dT%H:%MZ)]"
           git push

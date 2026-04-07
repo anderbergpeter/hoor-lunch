@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-06T10:06:10.012Z",
-  "sourcesUpdatedAt": "2026-01-27T23:15:00+01:00",
+  "generatedAt": "2026-04-07T08:08:09.410Z",
+  "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-06T10:06:03.637Z",
+      "fetchedAt": "2026-04-07T08:07:52.280Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 14 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr, utgår vid påsken. Dagens söta 95 kr &#8211; gäller inte under Påskhelgen I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Påsk lunch &#8211; 325 kr I Påsk buffé ingår: Två sorters hemlagad sill, ägg och räkor, kallrökt lax, sallader samt hembakat bröd, svensk brieost, bordsvatten, kaffe och liten kaka. Måndag 30/3 Dagens: Bakad fläskkarré, plommongräddsås, persilja bakad morot, kokt potatis, äppelkompott Vegetarisk: Potatis gnocchi, spenat, örtcrème, stekt pannoumi Tisdag 31/3 Lunch: Kyckling Garam Masala, basmatiris, mangochutney Vegetarisk: Vegetarisk Garam Masala, basmatiris, mangochutney Onsdag 1/4 Lunch: Panerad kolja, örtremoulad, citron, gröna ärtor, potatisstomp med dill Vegetarisk: Frittata, svamp, zucchini, lök, spenat, ost, avokadocrème Torsdag 2/4 Lunch: Baconlindad köttfärslimpa, stekt potatis, senapssås, stekta haricotsverts Vegetarisk: Vegetarisk Anammabiff, stekt potatis, senapssås, stekta haricotsverts Långfredag 3/4 – Påsk lunch Lunch: Bakad lax från Skagen, smörstekta rädisor, örtsallad, vitvinssås, nypotatis Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Lördag 4/4 – Påsk lunch Lunch: Mowitz kyckling, säsongens grönsaker, rödvinssås, örtemulsion Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Söndag 5/4 – Påsk lunch Lunch: Lammstek, rotfruktsgratäng, vilt sås, betor, fetaostcrème Vegetarisk: Hemlagade lins- och svampbollar serveras med lingon och krämig potatispuré Måndag 6/4 – Påsk lunch Lunch: Gratinerad Långa, potatispuré, smörpocherade ärtor Vegetarisk: He"
+        "text": "Lunchmeny v. 15 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Tisdag 7/4 Lunch: Stekt fläsk, löksås, rårörda lingon, persilja, kokt potatis Vegetarisk: Bakad blomkål, rostad mandel, chimichurri, yoghurtsås Onsdag 8/4 Lunch: Gräddig fiskgryta, saffran, fänkål, morot, räkor, musslor, aioli, nybakad focaccia Vegetarisk: Pasta med tomatsås, oliver, kapris, burrata, olivolja, ruccola Torsdag 9/4 Lunch: Fläsksida med Ancho, BBQ sås, spicy coleslaw, rostad potatis Vegetarisk: BBQ Oumph med Ancho, BBQ sås, spicy coleslaw, rostad potatis Fredag 10/4 Lunch: ” Jägarschnitzel”, krämig svampsås, råstekt purjolökspotatis, gröna ärtor, citron Vegetarisk: Frasig sellerischnitzel, krämig svampsås, råstekt purjolökspotatis, gröna ärtor, citron Lördag 11/4 Lunch: Stekt tuppfilé, ramslöksemulsion, friterad klyftpotatis, tomat och löksallad Vegetarisk: Stekt Quorn, ramslöksemulsion, rostad potatis, tomat, löksallad Söndag 12/4 Lunch: Ugnsbakad fisk med hackat ägg, vitvinssås, ärtor, dill & pepparrot, kokt potatis Vegetarisk: Spenat & ricotta fylld tortellini med stekta grönsaker, pesto A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter, välj en eller flera Kam"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-06T10:06:04.698Z",
+      "fetchedAt": "2026-04-07T08:07:52.527Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - SKÄRTORS 2/4 2026\nEn härligt krämig Potatis-och- Köttfärsgratäng med bl.a. Purjo, Rödlök, vitlök och massa grädde och ost firar vi Skärtorsdag med som Dagens vänner🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 7/4 2026\nRälsen Fiskgratäng med Dill och Gräslökssås samt Potatismos bjuds det idag vänner!🐠🐟🐠🥰!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-06T10:06:05.628Z",
+      "fetchedAt": "2026-04-07T08:07:52.696Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,44 +48,194 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/03/IMG_0194-1024x1004.jpeg",
-        "ocrText": "TAS |\nHär! |\nSSSLUNGH v.14\nhr SR E\n| == årfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTia-Tora kl. II.30-13.30 Pris 150.-\nTISDAG: = Grillad fläskfilé & kycklingfilé, potatis & ramslöksbea\nONSDAG: Färsbiffar, gräddsås, lingon, pressgurka & potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Brunch 12-14, 365 kr\nLÖRDAG: Brunch 12-14, 365 kr\nVEG Ramslöksrisotto, saltrostad mandel, parmesan, krasse\nUT VA Gt H mv w ou\nmg fal 2\nLIC Ju VA ANNO Ko 1692\n= 0 TN Gästysfvarcgård\noka på 0413-270 10 eler infdehdorssastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/04/IMG_0219-1024x1015.jpeg",
+        "ocrText": "NA\nLUNCH v.15\n\"NäR: FT\nSR ch E\nne == Vårfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. Il.30-13.30 Pris 50-\nlördag 12-14 Plus I75.- Välkomna!\nTISDAG: Grillad kyckling, bulgur & fetacréme\nONSDAG: Köttfärslimpa, svampsås, potatis & lingon\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillad karré, potatisgratäng & skysås\nLÖRDAG: Grillad karré, potatisgratäng & skysås\nVEG Vegobiffar, bulgur & fetacréme\nmm Val = HR, Hö\nme ala s PAR\nRH ; : Mm tv ANN Ko 692\n2 AN < s Sästgsfvaregård\n3oka på 0413-220 108 ör infochoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
-      "placeName": "Tai’s restaurang",
-      "fetchedAt": "2026-04-06T10:06:09.627Z",
+      "placeName": "Tai's restaurang",
+      "fetchedAt": "2026-04-07T08:07:55.622Z",
       "ok": false,
-      "error": "facebook_http_400",
+      "error": "facebook_all_attempts_failed",
       "source": {
         "type": "facebook",
         "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414",
-        "note": "meny verkar ligga på Facebook"
+        "note": "Meny ligger på Facebook"
       },
       "week": null,
       "raw": {
         "ok": false,
-        "error": "facebook_http_400",
-        "pageUrl": "https://mbasic.facebook.com/profile.php?id=100054351798414"
+        "error": "facebook_all_attempts_failed",
+        "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414"
       }
     },
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-06T10:06:09.886Z",
+      "fetchedAt": "2026-04-07T08:08:00.422Z",
       "ok": false,
-      "error": "facebook_http_400",
+      "error": "facebook_all_attempts_failed",
       "source": {
         "type": "facebook",
-        "pageUrl": "https://www.facebook.com/profile.php?id=100063670235147",
-        "note": "meny verkar finnas på Facebook"
+        "pageUrl": "https://www.facebook.com/cafeoldfashion/",
+        "note": "Meny ligger på Facebook/Instagram"
       },
       "week": null,
       "raw": {
         "ok": false,
-        "error": "facebook_http_400",
-        "pageUrl": "https://mbasic.facebook.com/profile.php?id=100063670235147"
+        "error": "facebook_all_attempts_failed",
+        "pageUrl": "https://www.facebook.com/cafeoldfashion/"
+      }
+    },
+    {
+      "placeId": "kreta",
+      "placeName": "Pizzeria Kreta",
+      "fetchedAt": "2026-04-07T08:08:05.586Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "kreta-html",
+        "url": "https://pizzeriakreta.se/meny/"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://pizzeriakreta.se/meny/",
+        "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis"
+      }
+    },
+    {
+      "placeId": "viking",
+      "placeName": "Pizzeria Viking",
+      "fetchedAt": "2026-04-07T08:08:05.629Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "wp-api",
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
+        "slug": "meny"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
+        "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny"
+      }
+    },
+    {
+      "placeId": "martens",
+      "placeName": "Mårtens Pizzeria",
+      "fetchedAt": "2026-04-07T08:08:06.192Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "wp-api",
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
+        "slug": "home"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
+        "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning"
+      }
+    },
+    {
+      "placeId": "frosta",
+      "placeName": "Frosta Pizzeria",
+      "fetchedAt": "2026-04-07T08:08:06.547Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "eatsmart-api",
+        "restaurantUid": "ee482b23-e912-48f4-9abf-046f90d12d55"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://www.eatsmart.se/api/restaurant/ee482b23-e912-48f4-9abf-046f90d12d55/menu",
+        "text": "--- Pizza ---\nMargarita – 110 kr\n  Tomatsås , ost\nCaruso – 110 kr\n  Tomatsås , ost , salami\nMilano – 110 kr\n  Tomatsås , ost , pepperonikorv\nVesuvio – 110 kr\n  Tomatsås , ost , skinka\nCapricciosa – 115 kr\n  Tomatsås , ost , skinka , champinjoner\nHawaii – 115 kr\n  Tomatsås , ost , skinka , ananas\nBussola – 115 kr\n  Tomatsås , ost , skinka , räkor\nLa Maffia – 120 kr\n  Tomatsås , ost , bacon , lök , ägg , svartpeppar\nDansk – 120 kr\n  Tomatsås , ost , skinka , pepperonikorv , bacon\nBomba – 125 kr\n  Tomatsås , ost , skinka , champinjoner , bacon , räkor , färska tomater , lök\nBella – 125 kr\n  Tomatsås , ost , skinka , champinjoner , bacon , salami , ägg , lök\nPrincessa – 125 kr\n  Tomatsås , ost , skinka , räkor , ananas\nJohan Special – 130 kr\n  Tomatsås , ost , skinka , pommes , valfri sås\nAtmosfär – 120 kr\n  Tomatsås , ost , salami , oliver , gorgonzola\nStjärna – 120 kr\n  Tomatsås , ost , skinka , salami , gorgonzola\nOlympia – 120 kr\n  Tomatsås , ost , skinka , räkor , champinjoner\nTropicana – 120 kr\n  Tomatsås , ost , skinka , ananas , banan , curry\n\n--- Vegetarisk Pizzor ---\nFunghi – 110 kr\n  Tomatsås , ost , champinjoner\nAfrikana – 120 kr\n  Tomatsås , ost , banan , ananas , jordnötter , curry\nVegetariana – 125 kr\n  Tomatsås , ost , champinjoner , ananas , oliver , paprika , lök , färska tomater\nEko Special – 125 kr\n  Tomatsås , ost , champinjoner , lök , soltorkade tomater , salladsost , vitlöksås\nVenezia – 125 kr\n  Tomatsås , ost , salladsost , oliver , sparris , lök , kronärtskocka\nVizo – 125 kr\n  Tomatsås , ost , salladsost , ruccola , soltorkade tomater , pesto , parmesanost\n\n--- Inbakade Pizzor ---\nCalzone – 115 kr\n  Tomatsås , ost , skinka\nCalzone Special – 130 kr\n  Tomatsås , ost , skinka , champinjoner , räkor\nThomas Special – 130 kr\n  Tomatsås , ost , skinka , kebabkött , valfri sås\nVerona – 125 kr\n  Tomatsås , ost , skinka , gorgonzola\nBias Båt – 130 kr\n  Tomatsås , ost , (halvinbakad) kebab , champinjoner , valfri sås\nCiao Ciao – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , lök , färsk vitlök , bearnaisesås\nTefat – 135 kr\n  Tomatsås , ost , (dubbelinbakad) skinka , räkor , champinjoner\n\n--- Kycklingpizzor ---\nKycklingpizza – 125 kr\n  Tomatsås , ost , kyckling\nKycklingpizza Special – 135 kr\n  Tomatsås , ost , kyckling , sallad , lök , gurka , feferoni , tomat\nPamela – 135 kr\n  Tomatsås , ost , kyckling , pommes , valfri sås\nIndiana – 130 kr\n  Tomatsås , ost , kyckling , ananas , curry\nHote – 130 kr\n  Tomatsås , ost , kyckling , banan , jordnötter , curry\n\n--- Kebabpizzor ---\nKebabpizza – 125 kr\n  Tomatsås , ost , kebabkött , valfri sås\nKebabpizza Special – 135 kr\n  Tomatsås , ost , kebabkött , sallad , gurka , feferoni , tomat , lök , valfri sås\nHöör Special – 135 kr\n  Tomatsås , ost , kebabkött , champinjoner , lök , paprika , jalapeno , valfri sås\nKing – 135 kr\n  Tomatsås , ost , kebabkött , pommes , valfri sås\nLunda Special – 135 kr\n  Tomatsås , ost , skinka , lök , färska tomater , kebabkött , chili , färsk vitlök , valfri sås\nFrosta Special – 135 kr\n  Tomatsås , ost , skinka , kebabkött , pommes , valfri sås\nPepperoni Special – 135 kr\n  Tomatsås , ost , kebabkött , skinka , pepperonikorv , jalapeno , valfri sås\nMamma Rosa – 135 kr\n  Tomatsås , ost , kebabkött , lök , färska tomater , feferoni , valfri sås\nAthena – 135 kr\n  Tomatsås , ost , kebabkött , salladsost , feferoni , valfri sås\n\n--- Fisk & Skaldjurspizzor ---\nPescatore – 115 kr\n  Tomatsås , ost , tonfisk , lök\nMarinara – 115 kr\n  Tomatsås , ost , räkor , musslor\nQuattro Stagioni – 120 kr\n  Tomatsås , ost , skinka , musslor , räkor , champinjoner , kronärtskocka\nFrutti Di Mare – 130 kr\n  Tomatsås , ost , tonfisk , räkor , musslor , krabba , rökt lax\nSiciliana – 120 kr\n  Tomatsås , ost , sardeller , oliver , färsk vitlök , kapris\n\n--- Kräftpizzor ---\nPärla – 125 kr\n  Tomatsås , ost , kräftor , räkor , curry , vitlökssås\nNellie Special – 130 kr\n  Tomatsås , ost , kräftor , räkor , crabfish , lök , paprika\nPicasso – 135 kr\n  Tomatsås , ost , kräftor , oxfilé , sparris , bearnaisesås\n\n--- Mexikanska pizzor ---\nTacopizza – 125 kr\n  Tomatsås , ost , bacon , pepperonikorv , jalapeno , tacosås , svartpeppar\nAzteka – 120 kr\n  Tomatsås , ost , skinka , jalapeno , tacosås , vitlökssås\nMexicana – 125 kr\n  Tomatsås , ost , köttfärs , tacos , jalapeno , lök , chili , färsk vitlök\nAcapulco – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , tacos , färsk vitlök , jalapeno , ruccola , lök , bearnaisesås\nDen Gode – 130 kr\n  Tomatsås , ost , kyckling , paprika , ananas , tacosås , jalapeno , curry , vitlökssås\nDon Pedro – 130 kr\n  Tomatsås , ost , kebabkött , bacon , tacosås , lök , feferoni , svartpeppar , tabasco\n\n--- Veganska pizzor ---\nVegan Margerita – 120 kr\n  Tomatsås , veganost\nVegan Vesuvio – 120 kr\n  Tomatsås , veganost , veganskinka\nVegan Hawaii – 130 kr\n  Tomatsås , veganost , veganskinka , ananas\nVegan Capricciosa – 130 kr\n  Tomatsås , veganost , veganskinka , svamp\nVegan Kebabpizza – 135 kr\n  Tomatsås , veganost , vegankebab , lök\nVEGAN KEBAB SPECIAL – 145 kr\n  ebabkött, sallad, lök, gurka, feferoni, tomat, valfri sås\n\n--- Oxfilépizzor ---\nCasablanca – 135 kr\n  Tomatsås , ost , skinka , oxfilé , champinjoner , bearnaisesås\nProvencale – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , bacon , färsk vitlök , färska tomater , bearnaisesås\nFavoriten – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , färska tomater , lök , bearnaisesås\nGalaxen – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , lök , sparris , bearnaisesås\nGorgonzola – 135 kr\n  Tomatsås , ost , oxfilé , gorgonzola , färska tomater , oliver , lök\nAmor – 135 kr\n  Tomatsås , ost , oxfilé , champinjoner , lök , paprika , färska tomater , bearnaisesås\n\n--- Köttfärspizza ---\nBolognese – 115 kr\n  Tomatsås , ost , köttfärs , lök , färsk vitlök\nSalami Special – 125 kr\n  Tomatsås , ost , salami , köttfärs , lök , paprika\nRingsjö Special – 125 kr\n  Tomatsås , ost , skinka , köttfärs , champinjoner , bacon\n\n--- Gourmetpizzor ---\nFratelli – 140 kr\n  Tomatsås , mozzarella , skinka , ruccola , rödlök , kalamtaoliver , pesto , parmesanost , körsbärstomater\nParma – 140 kr\n  Tomatsås , mozzarella , skinka , ruccola , basilika , pesto , parmesanost\nBacon Special – 140 kr\n  Tomatsås , mozzarella , bacon , salami , pepperonikorv , basilika , gorgonzola\nQuattro Formaggio – 140 kr\n  Tomatsås , mozzarella , gorgonzola , salladsost , parmesanost , basilika , körsbärstomater\nVegetale – 140 kr\n  Tomatsås , mozzarella , paprika , champinjoner , soltorkade tomater , sparris , parmesanost , ruccola\nMatador – 140 kr\n  Tomatsås , mozzarella , oxfilé , lök , champinjoner , salladsost , färska tomater , vitlöksås\nToscana – 140 kr\n  Tomatsås , mozzarella , kyckling , champinjoner , soltorkade tomater , ruccola , färsk vitlök , paprika , parmesanost\n\n--- Barnmeny Pizza ---\nMargarita (BARN) – 100 kr\n  Tomatsås , ost\nCaruso (BARN) – 100 kr\n  Tomatsås , ost , salami\nMilano (BARN) – 100 kr\n  Tomatsås , ost , pepperonikorv\nVesuvio (BARN) – 100 kr\n  Tomatsås , ost , skinka\nCapricciosa (BARN) – 100 kr\n  Tomatsås , ost , skinka , champinjoner\nHawaii (BARN) – 100 kr\n  Tomatsås , ost , skinka , ananas\nBussola (BARN) – 100 kr\n  Tomatsås , ost , skinka , räkor\nKebabpizza (BARN) – 115 kr\n  Tomatsås , ost , kebabkött , valfri sås\nKycklingpizza (BARN) – 115 kr\n  Tomatsås , ost , kyckling\nBolognese (BARN) – 105 kr\n  Tomatsås , ost , köttfärs , lök , färsk vitlök\n\n--- A La Carté ---\nSchnitzel – 140 kr\n  Bearnaisesås , pommes\nLövbiff – 140 kr\n  Bearnaisesås , pommes\nRödspättafilé – 140 kr\n  Remouladsås , pommes\nKycklingfilé – 160 kr\n  Bearnaisesås , pommes\nRyggbiff 200gr – 170 kr\n  Bearnaisesås , pommes\nEntrecote 200gr – 170 kr\n  Entrecote 200gr\n\n--- Kebab ---\nKebab i Bröd – 110 kr\n  Kebabkött , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nKebabrulle – 120 kr\n  Kebabkött , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nKebabtallrik – 125 kr\n  Kebabkött , isbergssallad , tomat , gurka , lök , feferoni , pommes frites , valfri sås\nVegansk Kebabtallrik – 140 kr\n  Vegankebab , isbergssallad , tomat , gurka , lök , feferoni , pommes frites , valfri sås\nVIKINGRULLE – 135 kr\n  kebab, pommes, grönsaker\n\n--- Kyckling ---\nKyckling i Bröd – 110 kr\n  Kyckling , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nKycklingrulle – 120 kr\n  Kyckling , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nKycklingtallrik – 125 kr\n  Kyckling , isbergssallad , tomat , gurka , lök , feferoni , pommes frites , valfri sås\n\n--- Falafel ---\nFalafel i Bröd – 95 kr\n  Falafel , isbergssallad , tomat , lök , gurka , feferoni , valfri sås\nFalafelrulle – 100 kr\n  Falafel , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nFalafeltallrik – 105 kr\n  Falafel , isbergssallad , tomat , gurka , lök , feferoni , pommes frites , valfri sås\n\n--- Halloumi ---\nHalloumi i Bröd – 105 kr\n  Halloumi , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nHalloumirulle – 110 kr\n  Halloumi , isbergssallad , tomat , gurka , lök , feferoni , valfri sås\nHalloumitallrik – 120 kr\n  Halloumi , isbergssallad , tomat , gurka , lök , feferoni , pommes frites , valfri sås\n\n--- Snacks ---\nCrispy Chicken 3st – 50 kr\nCrispy Chicken 6st – 80 kr\nCrispy Chicken 9st – 100 kr\nChicken Wings 4st – 55 kr\nChicken Wings 8st – 75 kr\nChicken Wings 12st – 95 kr\nMozzarella Sticks 3st – 40 kr\nMozzarella Sticks 6st – 60 kr\nMozzarella Sticks 9st – 75 kr\nLökringar 4st – 40 kr\nLökringar 7st – 55 kr\nLökringar 11st – 75 kr\nChili Cheese 4st – 45 kr\nChili Cheese 6st – 55 kr\n\n--- Sallader ---\nKycklingsallad – 125 kr\n  Kyckling , isbergssallad , tomat , gurka , lök , ananas , majs , nybakat bröd , valfri sås\nGrekisk Sallad – 125 kr\n  Salladsost , isbergssallad , tomat , gurka , lök , paprika , majs , oliver , feferoni , nybakat bröd , valfri sås\nRäksallad – 125 kr\n  Räkor , ägg , isbergssallad , tomat , gurka , lök , majs , citron , nybakat bröd , valfri sås\nTonfisksallad – 125 kr\n  Tonfisk , ägg , isbergssallad , tomat , gurka , lök , majs , citron , nybakat bröd , valfri sås\nAmerikansk Sallad – 125 kr\n  Skinka , ost , isbergssallad , tomat , gurka , lök , ananas , majs , nybakat bröd , valfri sås\nSkaldjurssallad – 125 kr\n  Räkor , musslor , crabfish , isbergssallad , tomat , gurka , lök , majs , nybakat bröd , valfri sås\nKebabsallad – 125 kr\n  Kebabkött , isbergssallad , tomat , gurka , lök , feferoni , nybakat bröd , valfri sås\nFalafelsallad – 125 kr\n  Falafel , isbergssallad , tomat , gurka , lök , feferoni , nybakat bröd , valfri sås\nAvokadosallad – 130 kr\n  Räkor , ägg , ost , isbergssallad , tomat , gurka , lök , avokado , majs , citron , nybakat bröd , valfri sås\nHusets Sallad – 130 kr\n  Kyckling , salladsost , isbergssallad , tomat , gurka , rödlök , avokado , majs , nybakat bröd , valfri sås\n\n--- Sandwhich ---\nKebab Sandwich – 120 kr\n  Isbergssallad , tomat , lök , gurka , kebabkött, valfri sås\nHalloumi Sandwich – 120 kr\n  Isbergssallad , tomat , lök , gurka , halloumi, valfri sås\nKyckling Sandwich – 120 kr\n  Isbergssallad , tomat , lök , gurka , kyckling, valfri sås\nFalafel Sandwich – 120 kr\n  Isbergssallad , tomat , lök , gurka , falafel, valfri sås\n\n--- Hamburgermeny ---\nHamburgare 90gr – 75 kr\n  Isbergssallad , lök , tomat , gurka , dressing , ketchup\nHamburgertallrik 90gr – 90 kr\n  Isbergssallad , lök , tomat , gurka , dressing , pommes , ketchup\nHamburgare 150gr – 85 kr\n  Isbergssallad , lök , tomat , gurka , dressing , ketchup\nHamburgertallrik 150gr – 105 kr\n  Isbergssallad , lök , tomat , gurka , dressing , pommes , ketchup\n\n--- Mixrätter ---\nMixrulle – 135 kr\n  Isbergssallad , tomat , lök , gurka , feferoni , valfri sås\nMixtallrik – 140 kr\n  Isbergssallad , tomat , lök , gurka , feferoni , valfri sås\n\n--- Övriga Rätter ---\nPommes tallrik – 35 kr\n  Valfri sås\nNuggets 6st – 95 kr\n  Pommes , isbergssallad , tomat , gurka , ketchup , valfri sås\nKöttbullar – 95 kr\n  Pommes , isbergssallad , tomat , gurka , lingonsylt\nKebabbox – 95 kr\n  33cl dryck , valfri sås\nKycklingbox – 95 kr\n  33cl dryck , valfri sås\n\n--- Tillbehör ---\nPizzasallad – 10 kr\n\n--- Såser ---\nKebabsås mild (i burk) – 15 kr\nKebabsås stark (i burk) – 15 kr\nMild & Stark blandad (i burk) – 15 kr\nVitlök & stark blandad (i burk) – 15 kr\nBearnaisesås (i burk) – 15 kr\nVitlökssås (i burk) – 15 kr\n\n--- Dryck ---\nCoca-Cola 33 cl – 15 kr\nCoca-Cola Zero 33 cl – 15 kr\nFanta 33 cl – 15 kr\nFanta Exotic 33 cl – 15 kr\nFanta Strawberry & Kiwi 33 cl – 15 kr\nFanta Lemon & Elderflower 33 cl – 15 kr\nFanta Lemon 33 cl – 15 kr\nZingo 33 cl – 15 kr\nPepsi 33 cl – 15 kr\nPepsi Max 33 c – 15 kr\nSprite 33 cl – 15 kr\n7UP 33 cl – 15 kr\nBonaqua Citron/Lime 33 cl – 15 kr\nBonaqua Naturell 33 cl – 15 kr\nPowerking 33 cl – 15 kr\nAquaDor – 15 kr\nFestis Apelsin 20 cl – 10 kr\nFestis Jordgubb 20 cl – 10 kr\nFestis Päron 20 cl – 10 kr\nVimto Fizzy 33 cl – 15 kr\nCoca-Cola 2 L – 40 kr\nCoca-Cola Zero 2 L – 40 kr\nFanta 2 L – 40 kr\nSprite 2 L – 40 kr\nCoca Cola 50 Cl – 20 kr\nCoca Zero 50 cl – 20 kr\nFanta 50 cl – 20 kr\nFanta Exotisk 50 cl – 20 kr\nPepsi Max 50 cl – 20 kr"
+      }
+    },
+    {
+      "placeId": "onuma",
+      "placeName": "On-Uma Thai Mat",
+      "fetchedAt": "2026-04-07T08:08:06.900Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "generic-html",
+        "url": "https://onuma.se/",
+        "note": "Helmenyn (ingen separat lunch)"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://onuma.se/",
+        "text": "Meny | On-Uma Thai Restaurang & Take Away\nMeny\nFacebook\nÖppettider\n30/4 Stängd\n1/5 Stängd\n2/5 Öppet 11-20\nTHAI RESTAURANG & TAKE AWAY, HOOR\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Ghäng Kiao Wan.\nG"
+      }
+    },
+    {
+      "placeId": "elisefarm",
+      "placeName": "Elisefarm",
+      "fetchedAt": "2026-04-07T08:08:06.992Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "elisefarm-pdf",
+        "url": "https://elisefarm.se/restaurang/lunch/"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://elisefarm.se/restaurang/",
+        "text": "lunchmeny och varje månad en ny à la carte, formad i nära samarbete mellan våra kockar för att ge variation och matglädje. Råvarorna är noggrant utvalda med fokus på närproducerat och hållbarhet. Genom nära samarbeten med lokala producenter, som Bodil på Gustavslund, förädlar vi ekologiska grönsaker och lamm till rätter av hög kvalitet. Vilt från egna marker, gös från Ringsjön samt hembakat bröd och bakverk är några exempel på hur vi lyfter regionens bästa smaker. Egenrökta produkter och hemlagade fonder speglar vårt genuina matlagningshantverk. På Orangeriet ser vi samspelet mellan mat och dryck som en konstform. Varje rätt finslipas genom noggranna provsmakningar, där vår sommelier omsorgsfullt väljer drycker som lyfter och fördjupar smakerna. Vid varje besök strävar vi efter att skapa en helhetsupplevelse som engagerar alla sinnen. Välkommen till oss – där tradition möter innovation och varje måltid får berätta sin egen historia. magiska ögonblick Evenemang på Elisefarm Vi erbjuder evenemang under hela året anpassade efter säsong. Upplev magin under vår Skaldjursafton, koppla av med familjen i vår spaavdelning under skollovet, eller fira Mors Dag med brunch! alla evenemang Brunch Söndagar 11 januari - 6 juni Första maj - Lunch 1 maj Kristi Himmelfärdsdag - Lunch 14 maj Morsdagbrunch 31 maj alla evenemang Öppet varje dag Boka bord Frukost Frukostmeny Boka bord Brunch Söndagar 11:30–15:00, Pris: 425kr Speciella Helgdagar 11:30-16:00, Pris 475kr Brunch på Elisefarm är inte ba"
+      }
+    },
+    {
+      "placeId": "hardys",
+      "placeName": "Hardys",
+      "fetchedAt": "2026-04-07T08:08:08.493Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "generic-html",
+        "url": "https://hardys.nu/",
+        "note": "Gatukök med husman"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://hardys.nu/",
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nÄntligen! Idag 20 mars öppnar vi Glassbaren igen! Välkomna!\nTessans Special!\nHalloumiburgare 90 gram med sweet chili dressing, sallad, rödlök,\nfärsk gurka, tomat & pepper cheese. Strips och dryck ingår i priset."
+      }
+    },
+    {
+      "placeId": "matokaka",
+      "placeName": "MAT & KaKa",
+      "fetchedAt": "2026-04-07T08:08:09.212Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "wix-site",
+        "url": "https://www.matokaka.se/meny-1",
+        "note": "Wix SPA, svår att scrapa"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://www.matokaka.se/meny-1",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 15: 7-10 /4 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny & påskmeny se längre ner:\nDagens:\nMåndag:​\nse påskmeny\n​ ​\nTisdag:\nHelstekt kotlett med svampsås, potatis & grönsaker.\n​\nOnsdag:\nOxrullad med skinka, senap & lök i tomatsås serveras med potatis.\n​\nTorsdag:\nFylld spättfil&eacute; med kokt potatis & vitvinsås .\n​\nFredag:\n​\nköttbullar med gräddsås, kokt potatis , pressgurka & lingon.\n​\nHela veckan:\nRäksmörgås. 209:-\nPytt i panna med inlagda rödbetor & stekt ägg . 165:-\nHelgmeny: 11-12 april kl 11,30-13,30,\nR estaurangen är öppen kl,10-14,00\n​ ​\n​\nP&Aring;SKMENY 3-6 april, kl 11,30-14,30\nSilltallrik med kokt ägg & potatis ( mindre rätt) 170kr,\nkan fås som förrätt. 105kr\nGravad lax med hovmästarsås & kokt potatis. 195kr.\nRäksmörgås. 209kr\nHögrevsburgare med pommes.( 100g) 165kr\nHögrevsburgare med pommes. ( 200g) 225kr\n(sallad, dressing, syltad lök& inlagd gurka)\nTuppballotine fylld med ramslök, med potatis & citronsås. 205kr\n​\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\nbottom of page"
+      }
+    },
+    {
+      "placeId": "eddisgrill",
+      "placeName": "Eddi's Grill",
+      "fetchedAt": "2026-04-07T08:08:09.380Z",
+      "ok": true,
+      "error": null,
+      "source": {
+        "type": "generic-html",
+        "url": "https://eddisgrill.se/",
+        "note": "Gatukök, meny via TrueOrder"
+      },
+      "week": null,
+      "raw": {
+        "url": "https://eddisgrill.se/",
+        "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill"
       }
     }
   ]

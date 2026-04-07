@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T23:15:00+01:00",
+  "updatedAt": "2026-04-07T12:00:00+02:00",
   "radiusKm": 5,
   "center": { "name": "Höör, Sweden" },
   "places": [
@@ -21,44 +21,97 @@
       "address": "Gamla Torg 4, Höör",
       "source": { "type": "gastis-image", "pageUrl": "https://hoorsgastis.se/restaurang/lunch/" }
     },
-
+    {
+      "id": "tais",
+      "name": "Tai's restaurang",
+      "address": "Friluftsvägen 14, Höör",
+      "source": {
+        "type": "facebook",
+        "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414",
+        "note": "Meny ligger på Facebook"
+      }
+    },
+    {
+      "id": "old-fashion",
+      "name": "Café Old Fashion Höör",
+      "address": "Storgatan 29, Höör",
+      "source": {
+        "type": "facebook",
+        "pageUrl": "https://www.facebook.com/cafeoldfashion/",
+        "note": "Meny ligger på Facebook/Instagram"
+      }
+    },
+    {
+      "id": "kreta",
+      "name": "Pizzeria Kreta",
+      "address": "Södra Torggatan 1, Höör",
+      "source": { "type": "kreta-html", "url": "https://pizzeriakreta.se/meny/" }
+    },
+    {
+      "id": "viking",
+      "name": "Pizzeria Viking",
+      "address": "Järnvägsgatan 4, Höör",
+      "source": { "type": "wp-api", "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages", "slug": "meny" }
+    },
+    {
+      "id": "martens",
+      "name": "Mårtens Pizzeria",
+      "address": "Storgatan 35, Höör",
+      "source": { "type": "wp-api", "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages", "slug": "home" }
+    },
+    {
+      "id": "frosta",
+      "name": "Frosta Pizzeria",
+      "address": "Industrigatan 1, Höör",
+      "source": { "type": "eatsmart-api", "restaurantUid": "ee482b23-e912-48f4-9abf-046f90d12d55" }
+    },
+    {
+      "id": "onuma",
+      "name": "On-Uma Thai Mat",
+      "address": "Industrigatan 16, Höör",
+      "source": { "type": "generic-html", "url": "https://onuma.se/", "note": "Helmenyn (ingen separat lunch)" }
+    },
+    {
+      "id": "elisefarm",
+      "name": "Elisefarm",
+      "address": "Elisefarm, Höör",
+      "source": { "type": "elisefarm-pdf", "url": "https://elisefarm.se/restaurang/lunch/" }
+    },
+    {
+      "id": "hardys",
+      "name": "Hardys",
+      "address": "Frostavägen 2, Höör",
+      "source": { "type": "generic-html", "url": "https://hardys.nu/", "note": "Gatukök med husman" }
+    },
+    {
+      "id": "matokaka",
+      "name": "MAT & KaKa",
+      "address": "Bosjökloster 101, Höör",
+      "source": { "type": "wix-site", "url": "https://www.matokaka.se/meny-1", "note": "Wix SPA, svår att scrapa" }
+    },
     {
       "id": "mirekas",
       "name": "Mirekas Fik & Lunchrestaurang",
       "address": "Pumpvägen 2, Höör",
       "active": false,
       "hasLunch": false,
-      "note": "Enligt Peter: nerlagd sedan flera år (exkluderas från listan)",
-      "source": { "type": "facebook-or-down", "note": "mireka.se verkar nere; meny troligen på Facebook" }
+      "note": "Nerlagd sedan flera år"
     },
     {
-      "id": "tais",
-      "name": "Tai’s restaurang",
-      "address": "Friluftsvägen 14, Höör",
-      "source": {
-        "type": "facebook",
-        "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414",
-        "note": "meny verkar ligga på Facebook"
-      }
-    },
-    {
-      "id": "old-fashion",
-      "name": "Café Old Fashion Höör",
-      "address": "Höör",
-      "source": {
-        "type": "facebook",
-        "pageUrl": "https://www.facebook.com/profile.php?id=100063670235147",
-        "note": "meny verkar finnas på Facebook"
-      }
+      "id": "elan",
+      "name": "Restaurang Elan",
+      "address": "Lilla Torg 7, Höör",
+      "active": false,
+      "hasLunch": false,
+      "note": "Öppnar kl 16, serverar ej lunch"
     },
     {
       "id": "hoorkules",
       "name": "Restaurang Höörkules",
-      "address": "Höör (oklar adress)",
+      "address": "Höör",
       "active": false,
       "hasLunch": false,
-      "note": "Enligt Peter: ej öppet runt lunch (ca 12), exkluderas",
-      "source": { "type": "unknown", "note": "hittade ingen tydlig lunchmeny på sajt" }
+      "note": "Ej öppet runt lunch"
     },
     {
       "id": "frostavallen",
@@ -66,8 +119,21 @@
       "address": "Frostavallen, Höör",
       "active": false,
       "hasLunch": false,
-      "note": "Enligt Peter: har inte lunch (exkluderas från listan)",
-      "source": { "type": "seasonal", "url": "https://frostavallen.se/mat.html", "note": "mest event/kiosk, inte tydlig veckolunch" }
+      "note": "Har inte lunch, mest event/kiosk"
+    },
+    {
+      "id": "papizz",
+      "name": "Papizz Restaurang",
+      "address": "Nya Torg 9, Höör",
+      "active": false,
+      "hasLunch": false,
+      "note": "Hemsida nere (papizz.se), kan ej scrapar"
+    },
+    {
+      "id": "eddisgrill",
+      "name": "Eddi's Grill",
+      "address": "Gamla Jägersb.v 5, Höör",
+      "source": { "type": "generic-html", "url": "https://eddisgrill.se/", "note": "Gatukök, meny via TrueOrder" }
     }
   ]
 }

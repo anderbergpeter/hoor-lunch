@@ -30,11 +30,15 @@ import { fetchGastisMenu } from './adapters/gastis.js';
 import { fetchAkersbergMenu } from './adapters/akersberg.js';
 import { fetchRalsenMenu } from './adapters/ralsen.js';
 import { fetchFacebookMenu } from './adapters/facebook.js';
+import { fetchKretaMenu } from './adapters/kreta.js';
+import { fetchWpApiMenu } from './adapters/wpapi.js';
+import { fetchEatsmartMenu } from './adapters/eatsmart.js';
+import { fetchGenericMenu } from './adapters/generic.js';
+import { fetchElisefarmMenu } from './adapters/elisefarm.js';
 
 async function buildMenus(sources) {
   const results = [];
   for (const p of sources.places || []) {
-    // Allow curation: keep places in sources.json but exclude from menus if they don't serve lunch / are closed.
     if (p.active === false || p.hasLunch === false) {
       continue;
     }
@@ -51,35 +55,79 @@ async function buildMenus(sources) {
     };
 
     try {
-      if (p.source?.type === 'gastis-image') {
+      const type = p.source?.type;
+
+      if (type === 'gastis-image') {
         const out = await fetchGastisMenu({ pageUrl: p.source.pageUrl });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
         else results.push({ ...base, ok: true, raw: { pageUrl: out.pageUrl, imageUrl: out.imageUrl, ocrText: out.ocrText } });
         continue;
       }
 
-      if (p.source?.type === 'akersberg-html') {
+      if (type === 'akersberg-html') {
         const out = await fetchAkersbergMenu({ url: p.source.url });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
         else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
         continue;
       }
 
-      if (p.source?.type === 'ralsen-html') {
+      if (type === 'ralsen-html') {
         const out = await fetchRalsenMenu({ url: p.source.url });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
         else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
         continue;
       }
 
-      if (p.source?.type === 'facebook' && p.source?.pageUrl) {
+      if (type === 'facebook' && p.source?.pageUrl) {
         const out = await fetchFacebookMenu({ pageUrl: p.source.pageUrl });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
         else results.push({ ...base, ok: true, raw: { url: out.postUrl || out.pageUrl, text: out.text } });
         continue;
       }
 
-      // Keep unknown sources in the dataset so the UI can list them.
+      if (type === 'kreta-html') {
+        const out = await fetchKretaMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (type === 'wp-api') {
+        const out = await fetchWpApiMenu({ url: p.source.url, slug: p.source.slug });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (type === 'eatsmart-api') {
+        const out = await fetchEatsmartMenu({ restaurantUid: p.source.restaurantUid });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (type === 'elisefarm-pdf') {
+        const out = await fetchElisefarmMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url || out.imageUrl, text: out.text || out.ocrText, imageUrl: out.imageUrl } });
+        continue;
+      }
+
+      if (type === 'generic-html') {
+        const out = await fetchGenericMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
+      if (type === 'wix-site') {
+        // Wix sites are JS-rendered; try generic fetch as best-effort
+        const out = await fetchGenericMenu({ url: p.source.url });
+        if (!out.ok) results.push({ ...base, ok: false, error: out.error || 'wix_js_rendered', raw: out });
+        else results.push({ ...base, ok: true, raw: { url: out.url, text: out.text } });
+        continue;
+      }
+
       results.push({ ...base, ok: false, error: 'unsupported_source_type', raw: { note: p.source?.note || null } });
     } catch (err) {
       results.push({ ...base, ok: false, error: err?.message || String(err) });
@@ -99,7 +147,14 @@ async function main() {
     results: menus
   };
   await fs.writeFile(menusPath, JSON.stringify(payload, null, 2), 'utf8');
-  console.log(`Wrote ${menusPath} (${payload.results.length} places)`);
+
+  // Also copy to docs/data for GitHub Pages
+  const docsDataDir = path.join(__dirname, '..', 'docs', 'data');
+  await fs.mkdir(docsDataDir, { recursive: true });
+  await fs.copyFile(menusPath, path.join(docsDataDir, 'menus.json'));
+
+  const okCount = payload.results.filter(r => r.ok).length;
+  console.log(`Wrote menus.json (${okCount}/${payload.results.length} OK)`);
 }
 
 main().catch((err) => {

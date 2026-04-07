@@ -21,86 +21,92 @@ function looksLikeLunch(text) {
   return /(lunch|dagens|meny|lunchmeny|veckans|v\.?\s?\d{1,2})/.test(s);
 }
 
-function normalizeToMbasic(url) {
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',
+  'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1',
+];
+
+async function tryFetch(url, headers) {
   try {
-    const u = new URL(url);
-    // prefer mbasic (most parseable)
-    u.hostname = 'mbasic.facebook.com';
-    // strip locale to reduce variants
+    const res = await fetch(url, { headers, redirect: 'follow', timeout: 10000 });
+    if (!res.ok) return { ok: false, status: res.status };
+    const html = await res.text();
+    if (/Sorry,\s+something went wrong/i.test(html) || /error facebook/i.test(html)) {
+      return { ok: false, status: 'blocked' };
+    }
+    return { ok: true, html };
+  } catch (err) {
+    return { ok: false, status: err?.message || String(err) };
+  }
+}
+
+function normalizeUrl(pageUrl, variant) {
+  try {
+    const u = new URL(pageUrl);
+    u.hostname = variant;
     u.searchParams.delete('locale');
     return u.toString();
   } catch {
-    return url;
+    return pageUrl;
   }
 }
 
 export async function fetchFacebookMenu({ pageUrl }) {
-  const url = normalizeToMbasic(pageUrl);
-  const headers = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'accept-language': 'sv-SE,sv;q=0.9,en;q=0.7',
-  };
+  // Try multiple Facebook variants (mbasic, m, www, touch)
+  const variants = ['mbasic.facebook.com', 'm.facebook.com', 'touch.facebook.com', 'www.facebook.com'];
 
-  try {
-    // First try the page root
-    const res = await fetch(url, { headers, redirect: 'follow' });
-    const html = await res.text();
+  for (const variant of variants) {
+    const url = normalizeUrl(pageUrl, variant);
 
-    if (!res.ok) {
-      return { ok: false, error: `facebook_http_${res.status}`, pageUrl: url };
-    }
+    for (const ua of USER_AGENTS) {
+      const headers = {
+        'user-agent': ua,
+        'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'accept-language': 'sv-SE,sv;q=0.9,en;q=0.7',
+        'cache-control': 'no-cache',
+      };
 
-    // Facebook often blocks automated requests with a generic "Sorry" page.
-    if (/Sorry,\s+something went wrong/i.test(html) || /error facebook/i.test(html)) {
-      return { ok: false, error: 'facebook_blocked', pageUrl: url };
-    }
+      const result = await tryFetch(url, headers);
+      if (!result.ok) continue;
 
-    // Extract candidate post links; mbasic uses /story.php?story_fbid=... or /permalink.php
-    const links = Array.from(html.matchAll(/href="(\/story\.php\?[^\"]+|\/permalink\.php\?[^\"]+)"/g)).map(m => m[1]);
+      const html = result.html;
 
-    // Also try "posts" tab if available
-    const postsTab = (html.match(/href="(\/[^\"]+\/?\?v=timeline[^\"]*)"/i) || [])[1];
+      // Extract post links from the page
+      const links = Array.from(html.matchAll(/href="(\/story\.php\?[^\"]+|\/permalink\.php\?[^\"]+|\/[^\"]*\/posts\/[^\"]+)"/g))
+        .map(m => m[1]);
 
-    const candidates = [];
-    for (const l of links.slice(0, 25)) candidates.push('https://mbasic.facebook.com' + l.replace(/&amp;/g, '&'));
-    if (postsTab) candidates.unshift('https://mbasic.facebook.com' + postsTab.replace(/&amp;/g, '&'));
-
-    // Visit candidates and look for lunch/menu text.
-    for (const c of candidates.slice(0, 12)) {
-      let r;
-      try {
-        r = await fetch(c, { headers, redirect: 'follow' });
-      } catch {
-        continue;
+      // Check root page first
+      const rootText = stripTags(html);
+      if (looksLikeLunch(rootText)) {
+        // Try to extract just the relevant part
+        const lines = rootText.split(/\r?\n/).map(x => x.trim()).filter(Boolean);
+        const body = lines.slice(0, 80).join('\n');
+        if (looksLikeLunch(body)) {
+          return { ok: true, pageUrl, postUrl: url, text: body };
+        }
       }
-      const h = await r.text();
-      if (!r.ok) continue;
-      if (/Sorry,\s+something went wrong/i.test(h) || /error facebook/i.test(h)) continue;
 
-      const text = stripTags(h);
-      // Keep only somewhat short-ish excerpt to avoid dumping entire page chrome.
-      const lines = text.split(/\r?\n/).map(x => x.trim()).filter(Boolean);
-      const body = lines.slice(0, 80).join('\n');
+      // Visit post links looking for lunch content
+      const candidates = links.slice(0, 15).map(l => {
+        const base = `https://${variant}`;
+        return l.startsWith('http') ? l : base + l.replace(/&amp;/g, '&');
+      });
 
-      if (looksLikeLunch(body)) {
-        return {
-          ok: true,
-          pageUrl: url,
-          postUrl: c,
-          text: body
-        };
+      for (const c of candidates) {
+        const postResult = await tryFetch(c, headers);
+        if (!postResult.ok) continue;
+
+        const text = stripTags(postResult.html);
+        const lines = text.split(/\r?\n/).map(x => x.trim()).filter(Boolean);
+        const body = lines.slice(0, 80).join('\n');
+
+        if (looksLikeLunch(body)) {
+          return { ok: true, pageUrl, postUrl: c, text: body };
+        }
       }
     }
-
-    // Fallback: strip the root page.
-    const rootText = stripTags(html);
-    if (looksLikeLunch(rootText)) {
-      return { ok: true, pageUrl: url, postUrl: url, text: rootText.slice(0, 2500) };
-    }
-
-    return { ok: false, error: 'facebook_no_menu_found', pageUrl: url };
-  } catch (err) {
-    return { ok: false, error: err?.message || String(err), pageUrl: url };
   }
+
+  return { ok: false, error: 'facebook_all_attempts_failed', pageUrl };
 }

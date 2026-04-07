@@ -319,46 +319,60 @@ function parseRalsen(text){
 }
 
 function pickToday(r, now){
-  if (!r.ok) return { today: null, week: null, note: r.raw?.note || 'Ingen maskinläsbar meny ännu' };
+  if (!r.ok) {
+    if ((r.error || '').includes('facebook')) {
+      return { today: null, week: null, note: 'Menyn finns bara på Facebook och kan inte hämtas automatiskt. Besök restaurangens Facebook-sida.' };
+    }
+    return { today: null, week: null, note: r.raw?.note || 'Ingen maskinläsbar meny ännu' };
+  }
 
   const text = normalizeMenuText(r);
-  const day = now.date; // UTC midnight of Stockholm date
+  const day = now.date;
   const dd = day.getUTCDate();
   const mm = day.getUTCMonth()+1;
-  const key = `${dd}/${mm}`;
+  const key = dd + '/' + mm;
   const wdUpper = weekdaySvUpper[weekdaySv.indexOf(now.weekday)] || '';
 
-  // Source-specific heuristics
-  if ((r.source?.type || '').includes('akersberg')){
+  const sourceType = r.source?.type || '';
+
+  if (sourceType.includes('akersberg')){
     const map = parseAkersberg(text);
     if (!map) return { today: null, week: text, note: null };
     const todayRaw = map[key] || null;
-    const today = todayRaw ? todayRaw.replace(/\s*Vegetarisk:\s*/gi, '\nVegetarisk: ') : null;
-    return { today, week: Object.entries(map).map(([k,v])=>`${k}: ${v}`).join('\n\n'), note: null };
+    const today = todayRaw ? todayRaw.replace(/s*Vegetarisk:s*/gi, '
+Vegetarisk: ') : null;
+    return { today, week: Object.entries(map).map(([k,v])=>k+': '+v).join('
+
+'), note: null };
   }
 
-  if ((r.source?.type || '').includes('gastis')){
+  if (sourceType.includes('gastis')){
     const parsed = parseGastis(text);
     if (!parsed) return { today: null, week: text, note: null };
     const todayMain = wdUpper ? parsed.days[wdUpper] : null;
-    const today = [todayMain, parsed.veg ? `Veg: ${parsed.veg}` : null].filter(Boolean).join('\n') || null;
+    const today = [todayMain, parsed.veg ? 'Veg: '+parsed.veg : null].filter(Boolean).join('
+') || null;
     const week = Object.entries(parsed.days)
-      .map(([k,v]) => `${k[0] + k.slice(1).toLowerCase()}: ${v}`)
-      .join('\n');
+      .map(([k,v]) => k[0] + k.slice(1).toLowerCase() + ': ' + v)
+      .join('
+');
     return { today, week, note: null };
   }
 
-  if ((r.source?.type || '').includes('ralsen')){
+  if (sourceType.includes('ralsen')){
     const parsed = parseRalsen(text);
     const isToday = parsed && parsed.dateKey === key;
     const today = isToday ? parsed.dish : null;
-    // Week: keep subtle (their page isn't a week menu)
     const week = text;
-    return { today, week, note: isToday ? null : `Ingen uppdaterad dagsrätt för idag (senast: ${parsed?.dateKey || 'okänt datum'})` };
+    return { today, week, note: isToday ? null : 'Ingen uppdaterad dagsrätt för idag (senast: '+(parsed?.dateKey || 'okänt datum')+')' };
   }
 
-  // Fallback
+  if (sourceType === 'kreta-html' || sourceType === 'eatsmart-api' || sourceType === 'wp-api') {
+    return { today: null, week: text, note: 'Fast lunchmeny (ej dagsrätt)' };
+  }
+
   return { today: null, week: text, note: null };
+};
 }
 
 function render(results, q='') {
