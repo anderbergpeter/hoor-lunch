@@ -296,32 +296,30 @@ function parseMatokaka(text){
 }
 
 function parseElisefarm(text){
-  var dayMap = {MONDAY:'MÅNDAG',TUESDAY:'TISDAG',WEDNESDAY:'ONSDAG',THURSDAY:'TORSDAG',FRIDAY:'FREDAG',SATURDAY:'LÖRDAG',SUNDAY:'SÖNDAG'};
-  var dayNames = Object.keys(dayMap);
+  var dayNames = ['MÅNDAG','TISDAG','ONSDAG','TORSDAG','FREDAG','LÖRDAG','SÖNDAG'];
+  var lines = text.split(/s{2,}/).map(function(l){return l.trim();}).filter(Boolean);
   var out = {};
-  for (var di = 0; di < dayNames.length; di++) {
-    var d = dayNames[di];
-    var idx = text.toUpperCase().indexOf(d);
-    if (idx === -1) continue;
-    var nextIdx = text.length;
-    for (var dj = 0; dj < dayNames.length; dj++) {
-      if (dj === di) continue;
-      var ni = text.toUpperCase().indexOf(dayNames[dj], idx + d.length);
-      if (ni !== -1 && ni < nextIdx) nextIdx = ni;
+  var currentDay = null;
+  for (var i = 0; i < lines.length; i++) {
+    var line = lines[i];
+    var upper = line.toUpperCase().trim();
+    var matched = dayNames.find(function(d){ return upper === d || upper.indexOf(d) === 0; });
+    if (matched) {
+      currentDay = matched;
+      continue;
     }
-    var weeklyIdx = text.toUpperCase().indexOf('WEEKLY', idx + d.length);
-    if (weeklyIdx !== -1 && weeklyIdx < nextIdx) nextIdx = weeklyIdx;
-    var weekendIdx = text.toUpperCase().indexOf('WEEKEND', idx + d.length);
-    if (weekendIdx !== -1 && weekendIdx < nextIdx) nextIdx = weekendIdx;
-    var dish = text.slice(idx + d.length, nextIdx).replace(/[^a-zA-ZåäöÅÄÖéè ,.'()-]/g, ' ').replace(/  +/g, ' ').trim();
-    if (dish) out[dayMap[d]] = dish;
-  }
-  var vegIdx = text.toUpperCase().indexOf('WEEKLY VEGETARIAN');
-  if (vegIdx !== -1) {
-    var vegEnd = text.indexOf('elisefarm', vegIdx + 17);
-    if (vegEnd === -1) vegEnd = text.length;
-    var vegDish = text.slice(vegIdx + 17, vegEnd).replace(/[^a-zA-ZåäöÅÄÖéè ,.'()-]/g, ' ').replace(/  +/g, ' ').trim();
-    if (vegDish) out['VEG'] = vegDish;
+    if (upper === 'VECKANS VEGETARISKA' || upper === 'WEEKLY VEGETARIAN') {
+      currentDay = 'VEG';
+      continue;
+    }
+    if (upper.indexOf('HELG') === 0 || upper.indexOf('WEEKEND') === 0 || upper.indexOf('HEMGJORDA') === 0 || upper.indexOf('HOMEMADE') === 0 || upper.indexOf('YNGRE') === 0) {
+      currentDay = null;
+      continue;
+    }
+    if (currentDay && line.length > 3) {
+      var existing = out[currentDay] || '';
+      out[currentDay] = existing ? existing + ', ' + line : line;
+    }
   }
   return Object.keys(out).length ? out : null;
 }

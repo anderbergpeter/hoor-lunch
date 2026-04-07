@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-07T08:41:38.485Z",
+  "generatedAt": "2026-04-07T08:46:51.860Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-07T08:41:24.892Z",
+      "fetchedAt": "2026-04-07T08:46:36.715Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-07T08:41:25.050Z",
+      "fetchedAt": "2026-04-07T08:46:36.873Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-07T08:41:25.247Z",
+      "fetchedAt": "2026-04-07T08:46:37.027Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-07T08:41:27.164Z",
+      "fetchedAt": "2026-04-07T08:46:38.888Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-07T08:41:32.110Z",
+      "fetchedAt": "2026-04-07T08:46:44.092Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-07T08:41:35.424Z",
+      "fetchedAt": "2026-04-07T08:46:47.390Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-07T08:41:35.458Z",
+      "fetchedAt": "2026-04-07T08:46:47.431Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-07T08:41:35.917Z",
+      "fetchedAt": "2026-04-07T08:46:48.192Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-07T08:41:36.251Z",
+      "fetchedAt": "2026-04-07T08:46:48.573Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-07T08:41:36.752Z",
+      "fetchedAt": "2026-04-07T08:46:49.191Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,24 +177,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-07T08:41:36.837Z",
+      "fetchedAt": "2026-04-07T08:46:49.286Z",
       "ok": true,
       "error": null,
       "source": {
         "type": "elisefarm-pdf",
-        "url": "https://elisefarm.se/restaurang/lunch/",
+        "url": "https://elisefarm.se/restaurang/",
         "pageUrl": "https://elisefarm.se/restaurang/"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/restaurang/lunch/",
-        "text": "Kindly inform our staff of any allergies or dietary restrictions.  Monday  Braised Swedish pluma (pork) with  thyme jus, roasted potatoes, black  garlic emulsion, baked parsley root,  red onion chutney  Tuesday  Baked pollock fillet with green peas,  Scanian mustard sauce, potato purée,  lemon, pickled fennel, dill  Wednesday  Beef patties with caramelized onions,  new potatoes, cream sauce, stirred  lingonberries, pressed cucumber,  parsley, carrot  Thursday swedish holliday  185:-  Baked fish with dill velouté, buttered  potatoes, pickled red onion, green  asparagus, almonds  Friday  Roasted cockerel thigh with pepper  sauce, roasted potatoes, balsamic  emulsion, baked red onion, pickled  cherry tomatoes  Weekly vegetarian  Curry and coriander stew with lentils,  fried potatoes, salted roasted cashew nuts,  spring onion  e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s  e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s   Est. 2005  week 22  Today's Special  Served 11:30 AM-2:00 PM, SEK 160  Weekend at Elisefarm  Served 11:30 AM-3:00 PM  Saturday  Main Course , SEK 185  Beef shoulder fillet with buttered red wine  sauce, smoked pork belly, pickled pearl  onions, fried capers, potato purée, grilled  romaine lettuce  Sunday  B runch, SEK 395  A bountiful selection of cold cuts, hot  and cold dishes, cheeses, fresh fruit,  desserts and more! NEWS: Waffles  Homemade sweets  Glazed chocolate cake 55 kr | Carrot cake white chocolate cream 55 kr  Biskvi 45 kr | Chocolate ball 35 kr | Two chocolate truffles 35 kr\nBaked beets  Goat cheese butter, crispy panko, balsamic  SEK 85  Cheese & charcuterie board  Skåne charcuteries, seed crispbread, Skåne Grana  Padano, blue cheese, marmalade, seed crispbread,  cornichons, pork crackling  SEK 120  Shrimp sandwich  Hand-peeled shrimp, buttermilk bread, dill mayonnaise,  pickled cucumber & red onion, lemon, egg, dill  Small: SEK 120kr  Large: SEK 195  Caesar salad  Chicken or shrimp with thyme-confit vine tomatoes,  Caesar dressing, croutons, bacon, Parmesan  Small: SEK 110  Large : SEK 175  Flap steak  Chimichurri cream cheese, fried baked potato, Marcona  almonds, red wine sauce, butter-baked celeriac  SEK 195  Hamburger  Beef from Blentarp in Skåne, brioche bun, truffle  emulsion, Västerbotten cheese, bacon jam, salted pickle,  pickled red onion, lettuce  SEK 215  Vegetarian hamburger  Black bean burger, brioche bun, truffle emulsion, tomato  chutney, pickled red onion, lettuce, cheddar cheese  SEK 215  e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s  e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s   Est. 2005  Always at Elisefarm  Monday-Friday 11:30 AM-2:00 PM  Saturday 11:30 AM-3:00 PM  Kindly inform our staff of any allergies or dietary restrictions."
+        "url": "https://elisefarm.se/wp-content/uploads/2026/03/Lunch122.pdf",
+        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Påsklunch  Tisdag  Fiskgryta med krämig vitvin- och  purjolökssås, potatispuré, kräftstjärtar,  bakad morot och fänkål, mandelkrisp  Onsdag  Rostad svensk kycklingklubbfilé med  citronsås, misorostad broccoli, syrad rödlök,  pumpacrème  Torsdag  Halstrad regnbåge med  pepparrotscrème fraiche, dillolja,  pankocrisp, vitvinssås, slungad morot,  spenat och potatis  Fredag  Viltwallenbergare på hjort från egen jakt  med potatiscrème, sauterad spetskål,  vinägersyrad gurka, viltsky med lingon  Veckans vegetariska  Krämig risotto med ramslök, rostad tomat,  kanderade pistagenötter, parmesan, syrad  morot e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 15  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Helstekt ryggbiff med portvinssky, stekt  potatisbrioche, rostad rotsellericrème,  vinbärsgel, bakad lök, pistagenötskrisp  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-07T08:41:37.516Z",
+      "fetchedAt": "2026-04-07T08:46:50.986Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-07T08:41:38.246Z",
+      "fetchedAt": "2026-04-07T08:46:51.682Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-07T08:41:38.461Z",
+      "fetchedAt": "2026-04-07T08:46:51.834Z",
       "ok": true,
       "error": null,
       "source": {
