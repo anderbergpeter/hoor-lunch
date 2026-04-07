@@ -78,7 +78,8 @@
       "source": {
         "type": "wp-api",
         "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
-        "slug": "home"
+        "slug": "home",
+        "pageUrl": "https://xn--mrtenpizzeria-pfb.se/"
       }
     },
     {
