@@ -108,7 +108,8 @@
       "address": "Elisefarm, Höör",
       "source": {
         "type": "elisefarm-pdf",
-        "url": "https://elisefarm.se/restaurang/lunch/"
+        "url": "https://elisefarm.se/restaurang/lunch/",
+        "pageUrl": "https://elisefarm.se/restaurang/"
       }
     },
     {

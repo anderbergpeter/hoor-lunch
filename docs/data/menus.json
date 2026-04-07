@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-07T08:24:59.459Z",
+  "generatedAt": "2026-04-07T08:37:12.785Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-07T08:24:45.315Z",
+      "fetchedAt": "2026-04-07T08:36:57.770Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-07T08:24:45.484Z",
+      "fetchedAt": "2026-04-07T08:36:57.940Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-07T08:24:45.668Z",
+      "fetchedAt": "2026-04-07T08:36:58.148Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-07T08:24:47.739Z",
+      "fetchedAt": "2026-04-07T08:37:00.225Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-07T08:24:52.468Z",
+      "fetchedAt": "2026-04-07T08:37:05.517Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-07T08:24:55.744Z",
+      "fetchedAt": "2026-04-07T08:37:08.958Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-07T08:24:55.780Z",
+      "fetchedAt": "2026-04-07T08:37:09.020Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-07T08:24:56.352Z",
+      "fetchedAt": "2026-04-07T08:37:09.556Z",
       "ok": true,
       "error": null,
       "source": {
@@ -142,7 +142,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-07T08:24:56.674Z",
+      "fetchedAt": "2026-04-07T08:37:09.940Z",
       "ok": true,
       "error": null,
       "source": {
@@ -159,7 +159,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-07T08:24:57.287Z",
+      "fetchedAt": "2026-04-07T08:37:10.837Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,23 +176,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-07T08:24:57.375Z",
+      "fetchedAt": "2026-04-07T08:37:10.949Z",
       "ok": true,
       "error": null,
       "source": {
         "type": "elisefarm-pdf",
-        "url": "https://elisefarm.se/restaurang/lunch/"
+        "url": "https://elisefarm.se/restaurang/lunch/",
+        "pageUrl": "https://elisefarm.se/restaurang/"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/restaurang/",
-        "text": "lunchmeny och varje månad en ny à la carte, formad i nära samarbete mellan våra kockar för att ge variation och matglädje. Råvarorna är noggrant utvalda med fokus på närproducerat och hållbarhet. Genom nära samarbeten med lokala producenter, som Bodil på Gustavslund, förädlar vi ekologiska grönsaker och lamm till rätter av hög kvalitet. Vilt från egna marker, gös från Ringsjön samt hembakat bröd och bakverk är några exempel på hur vi lyfter regionens bästa smaker. Egenrökta produkter och hemlagade fonder speglar vårt genuina matlagningshantverk. På Orangeriet ser vi samspelet mellan mat och dryck som en konstform. Varje rätt finslipas genom noggranna provsmakningar, där vår sommelier omsorgsfullt väljer drycker som lyfter och fördjupar smakerna. Vid varje besök strävar vi efter att skapa en helhetsupplevelse som engagerar alla sinnen. Välkommen till oss – där tradition möter innovation och varje måltid får berätta sin egen historia. magiska ögonblick Evenemang på Elisefarm Vi erbjuder evenemang under hela året anpassade efter säsong. Upplev magin under vår Skaldjursafton, koppla av med familjen i vår spaavdelning under skollovet, eller fira Mors Dag med brunch! alla evenemang Brunch Söndagar 11 januari - 6 juni Första maj - Lunch 1 maj Kristi Himmelfärdsdag - Lunch 14 maj Morsdagbrunch 31 maj alla evenemang Öppet varje dag Boka bord Frukost Frukostmeny Boka bord Brunch Söndagar 11:30–15:00, Pris: 425kr Speciella Helgdagar 11:30-16:00, Pris 475kr Brunch på Elisefarm är inte ba"
+        "url": "https://elisefarm.se/restaurang/lunch/",
+        "text": "Kindly inform our staff of any allergies or dietary restrictions.  Monday  Braised Swedish pluma (pork) with  thyme jus, roasted potatoes, black  garlic emulsion, baked parsley root,  red onion chutney  Tuesday  Baked pollock fillet with green peas,  Scanian mustard sauce, potato purée,  lemon, pickled fennel, dill  Wednesday  Beef patties with caramelized onions,  new potatoes, cream sauce, stirred  lingonberries, pressed cucumber,  parsley, carrot  Thursday swedish holliday  185:-  Baked fish with dill velouté, buttered  potatoes, pickled red onion, green  asparagus, almonds  Friday  Roasted cockerel thigh with pepper  sauce, roasted potatoes, balsamic  emulsion, baked red onion, pickled  cherry tomatoes  Weekly vegetarian  Curry and coriander stew with lentils,  fried potatoes, salted roasted cashew nuts,  spring onion  e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s  e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s   Est. 2005  week 22  Today's Special  Served 11:30 AM-2:00 PM, SEK 160  Weekend at Elisefarm  Served 11:30 AM-3:00 PM  Saturday  Main Course , SEK 185  Beef shoulder fillet with buttered red wine  sauce, smoked pork belly, pickled pearl  onions, fried capers, potato purée, grilled  romaine lettuce  Sunday  B runch, SEK 395  A bountiful selection of cold cuts, hot  and cold dishes, cheeses, fresh fruit,  desserts and more! NEWS: Waffles  Homemade sweets  Glazed chocolate cake 55 kr | Carrot cake white chocolate cream 55 kr  Biskvi 45 kr | Chocolate ball 35 kr | Two chocolate truffles 35 kr\nBaked beets  Goat cheese butter, crispy panko, balsamic  SEK 85  Cheese & charcuterie board  Skåne charcuteries, seed crispbread, Skåne Grana  Padano, blue cheese, marmalade, seed crispbread,  cornichons, pork crackling  SEK 120  Shrimp sandwich  Hand-peeled shrimp, buttermilk bread, dill mayonnaise,  pickled cucumber & red onion, lemon, egg, dill  Small: SEK 120kr  Large: SEK 195  Caesar salad  Chicken or shrimp with thyme-confit vine tomatoes,  Caesar dressing, croutons, bacon, Parmesan  Small: SEK 110  Large : SEK 175  Flap steak  Chimichurri cream cheese, fried baked potato, Marcona  almonds, red wine sauce, butter-baked celeriac  SEK 195  Hamburger  Beef from Blentarp in Skåne, brioche bun, truffle  emulsion, Västerbotten cheese, bacon jam, salted pickle,  pickled red onion, lettuce  SEK 215  Vegetarian hamburger  Black bean burger, brioche bun, truffle emulsion, tomato  chutney, pickled red onion, lettuce, cheddar cheese  SEK 215  e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s  e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s   Est. 2005  Always at Elisefarm  Monday-Friday 11:30 AM-2:00 PM  Saturday 11:30 AM-3:00 PM  Kindly inform our staff of any allergies or dietary restrictions."
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-07T08:24:58.554Z",
+      "fetchedAt": "2026-04-07T08:37:11.786Z",
       "ok": true,
       "error": null,
       "source": {
@@ -209,7 +210,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-07T08:24:59.270Z",
+      "fetchedAt": "2026-04-07T08:37:12.536Z",
       "ok": true,
       "error": null,
       "source": {
@@ -226,7 +227,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-07T08:24:59.433Z",
+      "fetchedAt": "2026-04-07T08:37:12.739Z",
       "ok": true,
       "error": null,
       "source": {

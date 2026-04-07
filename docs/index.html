@@ -333,6 +333,37 @@ function parseMatokaka(text){
   return Object.keys(out).length ? out : null;
 }
 
+function parseElisefarm(text){
+  var dayMap = {MONDAY:'MÅNDAG',TUESDAY:'TISDAG',WEDNESDAY:'ONSDAG',THURSDAY:'TORSDAG',FRIDAY:'FREDAG',SATURDAY:'LÖRDAG',SUNDAY:'SÖNDAG'};
+  var dayNames = Object.keys(dayMap);
+  var out = {};
+  for (var di = 0; di < dayNames.length; di++) {
+    var d = dayNames[di];
+    var idx = text.toUpperCase().indexOf(d);
+    if (idx === -1) continue;
+    var nextIdx = text.length;
+    for (var dj = 0; dj < dayNames.length; dj++) {
+      if (dj === di) continue;
+      var ni = text.toUpperCase().indexOf(dayNames[dj], idx + d.length);
+      if (ni !== -1 && ni < nextIdx) nextIdx = ni;
+    }
+    var weeklyIdx = text.toUpperCase().indexOf('WEEKLY', idx + d.length);
+    if (weeklyIdx !== -1 && weeklyIdx < nextIdx) nextIdx = weeklyIdx;
+    var weekendIdx = text.toUpperCase().indexOf('WEEKEND', idx + d.length);
+    if (weekendIdx !== -1 && weekendIdx < nextIdx) nextIdx = weekendIdx;
+    var dish = text.slice(idx + d.length, nextIdx).replace(/[^a-zA-ZåäöÅÄÖéè ,.'()-]/g, ' ').replace(/  +/g, ' ').trim();
+    if (dish) out[dayMap[d]] = dish;
+  }
+  var vegIdx = text.toUpperCase().indexOf('WEEKLY VEGETARIAN');
+  if (vegIdx !== -1) {
+    var vegEnd = text.indexOf('elisefarm', vegIdx + 17);
+    if (vegEnd === -1) vegEnd = text.length;
+    var vegDish = text.slice(vegIdx + 17, vegEnd).replace(/[^a-zA-ZåäöÅÄÖéè ,.'()-]/g, ' ').replace(/  +/g, ' ').trim();
+    if (vegDish) out['VEG'] = vegDish;
+  }
+  return Object.keys(out).length ? out : null;
+}
+
 function pickToday(r, now){
   if (!r.ok) {
     if ((r.error || '').includes('facebook')) {
@@ -379,6 +410,22 @@ function pickToday(r, now){
 
   if (sourceType === 'kreta-html' || sourceType === 'eatsmart-api' || sourceType === 'wp-api') {
     return { today: null, week: text, note: 'Fast lunchmeny (ej dagsr\u00e4tt)' };
+  }
+
+  if (sourceType === 'elisefarm-pdf') {
+    var parsed = parseElisefarm(text);
+    if (parsed) {
+      var todayDish = wdUpper ? parsed[wdUpper] : null;
+      var vegDish = parsed['VEG'] || null;
+      var todayFull = [todayDish, vegDish ? 'Veg: ' + vegDish : null].filter(Boolean).join(String.fromCharCode(10));
+      var weekParts = [];
+      var keys = Object.keys(parsed);
+      for (var ei = 0; ei < keys.length; ei++) {
+        weekParts.push(keys[ei][0] + keys[ei].slice(1).toLowerCase() + ': ' + parsed[keys[ei]]);
+      }
+      return { today: todayFull || null, week: weekParts.join(String.fromCharCode(10)) || text, note: null };
+    }
+    return { today: null, week: text, note: null };
   }
 
   if (sourceType === 'wix-site') {

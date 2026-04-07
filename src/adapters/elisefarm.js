@@ -1,43 +1,42 @@
 import fetch from 'node-fetch';
 
+async function extractPdfText(buffer) {
+  const pdfjsLib = await import('pdfjs-dist/legacy/build/pdf.mjs');
+  const data = new Uint8Array(buffer);
+  const doc = await pdfjsLib.getDocument({ data }).promise;
+  let fullText = '';
+  for (let i = 1; i <= doc.numPages; i++) {
+    const page = await doc.getPage(i);
+    const content = await page.getTextContent();
+    const pageText = content.items.map(item => item.str).join(' ');
+    fullText += pageText + '\n';
+  }
+  return fullText.trim();
+}
+
 export async function fetchElisefarmMenu({ url = 'https://elisefarm.se/restaurang/lunch/' } = {}) {
   try {
-    // Try the restaurang page for text content
-    const pageRes = await fetch('https://elisefarm.se/restaurang/', {
+    const res = await fetch(url, {
       headers: { 'user-agent': 'hoor-lunch/0.1 (+local)' },
       redirect: 'follow'
     });
 
-    if (pageRes.ok) {
-      const html = await pageRes.text();
-      const stripped = html
-        .replace(/<script[\s\S]*?<\/script>/gi, ' ')
-        .replace(/<style[\s\S]*?<\/style>/gi, ' ')
-        .replace(/<br\s*\/?\s*>/gi, '\n')
-        .replace(/<\/p>/gi, '\n')
-        .replace(/<[^>]+>/g, ' ')
-        .replace(/&nbsp;/g, ' ')
-        .replace(/&amp;/g, '&')
-        .replace(/\s+/g, ' ')
-        .trim();
-
-      const lower = stripped.toLowerCase();
-      const idx = lower.search(/lunch|dagens|business/);
-      if (idx !== -1) {
-        const block = stripped.slice(idx, idx + 1500).trim();
-        if (block.length > 30) {
-          return { ok: true, url: 'https://elisefarm.se/restaurang/', text: block };
-        }
-      }
+    if (!res.ok) {
+      return { ok: false, error: `fetch_failed:${res.status}`, url };
     }
 
-    // If we can't find text, note it's a PDF
-    return {
-      ok: false,
-      error: 'pdf_menu_only',
-      url,
-      note: 'Menyn finns som PDF/bild på elisefarm.se/restaurang/lunch/'
-    };
+    const contentType = res.headers.get('content-type') || '';
+
+    if (contentType.includes('pdf')) {
+      const buffer = await res.arrayBuffer();
+      const text = await extractPdfText(buffer);
+      if (text.length > 30) {
+        return { ok: true, url, text };
+      }
+      return { ok: false, error: 'pdf_empty', url };
+    }
+
+    return { ok: false, error: 'not_a_pdf', url };
   } catch (err) {
     return { ok: false, error: err?.message || String(err), url };
   }
