@@ -109,7 +109,7 @@ async function buildMenus(sources) {
       if (type === 'elisefarm-pdf') {
         const out = await fetchElisefarmMenu({ url: p.source.url });
         if (!out.ok) results.push({ ...base, ok: false, error: out.error, raw: out });
-        else results.push({ ...base, ok: true, raw: { url: out.url || out.imageUrl, text: out.text || out.ocrText, imageUrl: out.imageUrl } });
+        else results.push({ ...base, ok: true, source: { ...base.source, pageUrl: out.url }, raw: { url: out.url, text: out.text } });
         continue;
       }
 
