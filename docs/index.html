@@ -338,7 +338,7 @@ function parseElisefarm(text){
       currentDay = 'VEG';
       continue;
     }
-    if (upper.indexOf('HELG') === 0 || upper.indexOf('WEEKEND') === 0 || upper.indexOf('HEMGJORDA') === 0 || upper.indexOf('HOMEMADE') === 0 || upper.indexOf('YNGRE') === 0) {
+    if (upper.indexOf('HELG') === 0 || upper.indexOf('WEEKEND') === 0 || upper.indexOf('HEMGJORDA') === 0 || upper.indexOf('HOMEMADE') === 0 || upper.indexOf('YNGRE') === 0 || upper.indexOf('EST.') !== -1 || upper.indexOf('VECKA') !== -1 || upper.indexOf('WEEK') !== -1 || upper.indexOf('DAGENS LUNCH') === 0 || upper.indexOf('TODAY') === 0 || upper.indexOf('SERVERAS') === 0 || upper.indexOf('ALWAYS') === 0 || upper.indexOf('ELISEFARM') !== -1) {
       currentDay = null;
       continue;
     }
