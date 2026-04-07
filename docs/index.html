@@ -380,7 +380,20 @@ function render(results, q='') {
 
   const now = stockholmNow();
 
-  for (const r of filtered) {
+  // Pre-compute score per restaurant and sort: OK first, then by score desc
+  const enriched = filtered.map(r => {
+    const text = (r.ok ? (r.raw?.text || r.raw?.ocrText || '') : '');
+    const allLines = text.split(String.fromCharCode(10)).map(s=>s.trim()).filter(Boolean);
+    const scores = allLines.map(line => blueprintScoreLine(line).score).filter(s => s != null);
+    const bestScore = scores.length ? Math.max(...scores) : -1;
+    return { r, bestScore };
+  });
+  enriched.sort((a, b) => {
+    if (a.r.ok !== b.r.ok) return a.r.ok ? -1 : 1;
+    return b.bestScore - a.bestScore;
+  });
+
+  for (const { r } of enriched) {
     const title = r.placeName || r.placeId || 'Okänt ställe';
     const src = r.source?.url || r.source?.pageUrl || r.raw?.url || '';
 
