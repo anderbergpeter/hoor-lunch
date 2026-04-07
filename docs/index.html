@@ -307,7 +307,7 @@ function parseGastis(text){
 
 function parseRalsen(text){
   // "DAGENS RÄTT - ONS 28/1 2026!\nPersiljekorv ..."
-  const re = /DAGENS\s+RÄTT\s*-\s*([A-ZÅÄÖ]{3})\s*(\d{1,2})\/(\d{1,2})\s*(\d{4})?\s*!/i;
+  const re = /DAGENS\s+RÄTT\s*-\s*([A-ZÅÄÖ]{3,7})\s*(\d{1,2})\/(\d{1,2})\s*(\d{4})?\s*!?/i;
   const m = text.match(re);
   if (!m) return null;
   const dd = Number(m[2]);
@@ -316,6 +316,21 @@ function parseRalsen(text){
   const after = text.slice(text.toUpperCase().indexOf(m[0].toUpperCase()) + m[0].length);
   const dish = after.split(/\r?\n/).map(s=>s.trim()).filter(Boolean)[0] || '';
   return { dateKey: `${dd}/${mm}`, dish };
+}
+
+function parseMatokaka(text){
+  var dayRe = /(M.ndag|Tisdag|Onsdag|Torsdag|Fredag|L.rdag|S.ndag):/gi;
+  var matches = [];
+  var m;
+  while ((m = dayRe.exec(text))) matches.push({ day: m[1].toUpperCase(), idx: m.index + m[0].length });
+  if (!matches.length) return null;
+  var out = {};
+  for (var i = 0; i < matches.length; i++) {
+    var end = (i + 1 < matches.length) ? matches[i+1].idx - matches[i+1].day.length - 1 : text.length;
+    var dish = text.slice(matches[i].idx, end).split(String.fromCharCode(10)).join(" ").split(String.fromCharCode(13)).join("").trim()
+    if (dish && dish.toLowerCase() !== "se påskmeny") out[matches[i].day] = dish;
+  }
+  return Object.keys(out).length ? out : null;
 }
 
 function pickToday(r, now){
@@ -364,6 +379,19 @@ function pickToday(r, now){
 
   if (sourceType === 'kreta-html' || sourceType === 'eatsmart-api' || sourceType === 'wp-api') {
     return { today: null, week: text, note: 'Fast lunchmeny (ej dagsr\u00e4tt)' };
+  }
+
+  if (sourceType === 'wix-site') {
+    var parsed = parseMatokaka(text);
+    if (parsed) {
+      var todayDish = wdUpper ? parsed[wdUpper] : null;
+      var weekParts = [];
+      var keys = Object.keys(parsed);
+      for (var wi = 0; wi < keys.length; wi++) {
+        weekParts.push(keys[wi][0] + keys[wi].slice(1).toLowerCase() + ': ' + parsed[keys[wi]]);
+      }
+      return { today: todayDish || null, week: weekParts.join(String.fromCharCode(10)) || text, note: todayDish ? null : null };
+    }
   }
 
   return { today: null, week: text, note: null };
