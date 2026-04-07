@@ -188,57 +188,19 @@ function statusBadge(ok, error) {
 function asLink(url) {
   if (!url) return el('span', { class: 'subtle' }, ['']);
   try {
-    const u = new URL(url);
-    return el('a', { href: u.toString(), target: '_blank', rel: 'noreferrer', class: 'sourceLink' }, [u.hostname]);
-  } catch {
+    var u = new URL(url);
+    var host = u.hostname;
+    try { host = decodeURIComponent(host); } catch(e){}
+    // Manual punycode decode for known Swedish chars
+    if (host.indexOf('xn--') !== -1) {
+      var a = document.createElement('a');
+      a.href = url;
+      host = a.hostname;
+    }
+    return el('a', { href: u.toString(), target: '_blank', rel: 'noreferrer', class: 'sourceLink' }, [host]);
+  } catch(e) {
     return el('span', { class: 'subtle sourceLink' }, [url]);
   }
-}
-
-function textForResult(r){
-  return (r.ok ? (r.raw?.text || r.raw?.ocrText || '') : (r.raw?.note || '')) +
-    ' ' + (r.placeName || '') + ' ' + (r.source?.url || r.source?.pageUrl || '');
-}
-
-function clamp(n, a, b){ return Math.max(a, Math.min(b, n)); }
-
-function blueprintScoreLine(line){
-  // Heuristic, Swedish keywords. 0-100.
-  const s = safeText(line).toLowerCase();
-  if (!s.trim()) return { score: null, why: [] };
-
-  let score = 55;
-  const why = [];
-
-  const add = (pts, reason) => { score += pts; if (reason) why.push(reason); };
-
-  // Strong positives
-  if (/(bön|bönor|linser|kikär|ärtor)/.test(s)) add(+15, 'baljväxter');
-  if (/(kål|broccoli|blomkål|spenat|grönkål|sallad|coleslaw|grönsak|tomat|gurk|paprika|lök)/.test(s)) add(+10, 'grönsaker');
-  if (/(svamp)/.test(s)) add(+3, 'svamp');
-  if (/(fisk|lax|torsk|kummel)/.test(s)) add(+8, 'fisk');
-  if (/(quinoa|fullkorn|råg|havre)/.test(s)) add(+8, 'fullkorn');
-  if (/(olivolja)/.test(s)) add(+6, 'olivolja');
-
-  // Negatives
-  if (/(friter|panerad|pommes|chips)/.test(s)) add(-18, 'friterat/panerat');
-  if (/(grädde|smör|ost|beurre|cr[eè]me|sås)/.test(s)) add(-8, 'mycket sås/mejeri (ofta mer mättat fett)');
-  if (/(bacon|fläsk|korv|k[aå]lv? ?korv|pannbiff)/.test(s)) add(-14, 'processat/rött kött');
-  if (/(pannkak|våffl|bröd|baguett|pizza|pasta)/.test(s)) add(-12, 'raffinerade kolhydrater');
-  if (/(socker|sylt|glass|kaka|dessert)/.test(s)) add(-12, 'tillsatt socker');
-
-  // Moderation: potatoes are fine but not a "super veggie".
-  if (/(potatis|raggmunk)/.test(s)) add(-2, 'potatis (neutral/ok)');
-
-  score = clamp(Math.round(score), 0, 100);
-  return { score, why };
-}
-
-function scoreBadge(score){
-  if (score == null) return null;
-  const cls = score >= 70 ? 'good' : score >= 50 ? 'mid' : 'bad';
-  const dot = el('span', { class: 'dot ' + (score >= 70 ? 'ok' : score >= 50 ? '' : 'bad') });
-  return el('span', { class: 'score ' + cls, title: `Blueprint-match (heuristik): ${score}%` }, [dot, `${score}%`]);
 }
 
 function truncate(s, n=140){
