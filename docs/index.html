@@ -395,7 +395,7 @@ function render(results, q='') {
 
   for (const { r } of enriched) {
     const title = r.placeName || r.placeId || 'Okänt ställe';
-    const src = r.source?.url || r.source?.pageUrl || r.raw?.url || '';
+    const src = r.source?.pageUrl || r.source?.url || r.raw?.url || '';
 
     const picked = pickToday(r, now);
 

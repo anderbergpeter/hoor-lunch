@@ -1,25 +1,36 @@
 {
   "updatedAt": "2026-04-07T12:00:00+02:00",
   "radiusKm": 5,
-  "center": { "name": "Höör, Sweden" },
+  "center": {
+    "name": "Höör, Sweden"
+  },
   "places": [
     {
       "id": "akersberg",
       "name": "Stiftsgården Åkersberg",
       "address": "Åkersbergsgatan 3, Höör",
-      "source": { "type": "akersberg-html", "url": "https://akersberg.se/mat-dryck/" }
+      "source": {
+        "type": "akersberg-html",
+        "url": "https://akersberg.se/mat-dryck/"
+      }
     },
     {
       "id": "caferalsen",
       "name": "Café Rälsen",
       "address": "Järnvägsgatan 1, Höör",
-      "source": { "type": "ralsen-html", "url": "https://www.caferalsen.se/var-meny/" }
+      "source": {
+        "type": "ralsen-html",
+        "url": "https://www.caferalsen.se/var-meny/"
+      }
     },
     {
       "id": "hoors-gastis",
       "name": "Höörs Gästgifwaregård",
       "address": "Gamla Torg 4, Höör",
-      "source": { "type": "gastis-image", "pageUrl": "https://hoorsgastis.se/restaurang/lunch/" }
+      "source": {
+        "type": "gastis-image",
+        "pageUrl": "https://hoorsgastis.se/restaurang/lunch/"
+      }
     },
     {
       "id": "tais",
@@ -45,49 +56,79 @@
       "id": "kreta",
       "name": "Pizzeria Kreta",
       "address": "Södra Torggatan 1, Höör",
-      "source": { "type": "kreta-html", "url": "https://pizzeriakreta.se/meny/" }
+      "source": {
+        "type": "kreta-html",
+        "url": "https://pizzeriakreta.se/meny/"
+      }
     },
     {
       "id": "viking",
       "name": "Pizzeria Viking",
       "address": "Järnvägsgatan 4, Höör",
-      "source": { "type": "wp-api", "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages", "slug": "meny" }
+      "source": {
+        "type": "wp-api",
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
+        "slug": "meny"
+      }
     },
     {
       "id": "martens",
       "name": "Mårtens Pizzeria",
       "address": "Storgatan 35, Höör",
-      "source": { "type": "wp-api", "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages", "slug": "home" }
+      "source": {
+        "type": "wp-api",
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
+        "slug": "home"
+      }
     },
     {
       "id": "frosta",
       "name": "Frosta Pizzeria",
       "address": "Industrigatan 1, Höör",
-      "source": { "type": "eatsmart-api", "restaurantUid": "ee482b23-e912-48f4-9abf-046f90d12d55" }
+      "source": {
+        "type": "eatsmart-api",
+        "restaurantUid": "ee482b23-e912-48f4-9abf-046f90d12d55",
+        "pageUrl": "https://frostapizzeria.com/"
+      }
     },
     {
       "id": "onuma",
       "name": "On-Uma Thai Mat",
       "address": "Industrigatan 16, Höör",
-      "source": { "type": "generic-html", "url": "https://onuma.se/", "note": "Helmenyn (ingen separat lunch)" }
+      "source": {
+        "type": "generic-html",
+        "url": "https://onuma.se/",
+        "note": "Helmenyn (ingen separat lunch)"
+      }
     },
     {
       "id": "elisefarm",
       "name": "Elisefarm",
       "address": "Elisefarm, Höör",
-      "source": { "type": "elisefarm-pdf", "url": "https://elisefarm.se/restaurang/lunch/" }
+      "source": {
+        "type": "elisefarm-pdf",
+        "url": "https://elisefarm.se/restaurang/lunch/"
+      }
     },
     {
       "id": "hardys",
       "name": "Hardys",
       "address": "Frostavägen 2, Höör",
-      "source": { "type": "generic-html", "url": "https://hardys.nu/", "note": "Gatukök med husman" }
+      "source": {
+        "type": "generic-html",
+        "url": "https://hardys.nu/",
+        "note": "Gatukök med husman"
+      }
     },
     {
       "id": "matokaka",
       "name": "MAT & KaKa",
       "address": "Bosjökloster 101, Höör",
-      "source": { "type": "wix-site", "url": "https://www.matokaka.se/meny-1", "note": "Wix SPA, svår att scrapa" }
+      "source": {
+        "type": "wix-site",
+        "url": "https://www.matokaka.se/meny-1",
+        "note": "Wix SPA, svår att scrapa"
+      }
     },
     {
       "id": "mirekas",
@@ -133,7 +174,11 @@
       "id": "eddisgrill",
       "name": "Eddi's Grill",
       "address": "Gamla Jägersb.v 5, Höör",
-      "source": { "type": "generic-html", "url": "https://eddisgrill.se/", "note": "Gatukök, meny via TrueOrder" }
+      "source": {
+        "type": "generic-html",
+        "url": "https://eddisgrill.se/",
+        "note": "Gatukök, meny via TrueOrder"
+      }
     }
   ]
 }
