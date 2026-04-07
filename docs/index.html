@@ -321,9 +321,9 @@ function parseRalsen(text){
 function pickToday(r, now){
   if (!r.ok) {
     if ((r.error || '').includes('facebook')) {
-      return { today: null, week: null, note: 'Menyn finns bara på Facebook och kan inte hämtas automatiskt. Besök restaurangens Facebook-sida.' };
+      return { today: null, week: null, note: 'Menyn finns bara p\u00e5 Facebook och kan inte h\u00e4mtas automatiskt. Bes\u00f6k restaurangens Facebook-sida.' };
     }
-    return { today: null, week: null, note: r.raw?.note || 'Ingen maskinläsbar meny ännu' };
+    return { today: null, week: null, note: r.raw?.note || 'Ingen maskinl\u00e4sbar meny \u00e4nnu' };
   }
 
   const text = normalizeMenuText(r);
@@ -339,23 +339,18 @@ function pickToday(r, now){
     const map = parseAkersberg(text);
     if (!map) return { today: null, week: text, note: null };
     const todayRaw = map[key] || null;
-    const today = todayRaw ? todayRaw.replace(/s*Vegetarisk:s*/gi, '
-Vegetarisk: ') : null;
-    return { today, week: Object.entries(map).map(([k,v])=>k+': '+v).join('
-
-'), note: null };
+    const today = todayRaw ? todayRaw.replace(/\s*Vegetarisk:\s*/gi, '\nVegetarisk: ') : null;
+    return { today, week: Object.entries(map).map(([k,v])=>k+': '+v).join('\n\n'), note: null };
   }
 
   if (sourceType.includes('gastis')){
     const parsed = parseGastis(text);
     if (!parsed) return { today: null, week: text, note: null };
     const todayMain = wdUpper ? parsed.days[wdUpper] : null;
-    const today = [todayMain, parsed.veg ? 'Veg: '+parsed.veg : null].filter(Boolean).join('
-') || null;
+    const today = [todayMain, parsed.veg ? 'Veg: '+parsed.veg : null].filter(Boolean).join('\n') || null;
     const week = Object.entries(parsed.days)
       .map(([k,v]) => k[0] + k.slice(1).toLowerCase() + ': ' + v)
-      .join('
-');
+      .join('\n');
     return { today, week, note: null };
   }
 
@@ -364,16 +359,16 @@ Vegetarisk: ') : null;
     const isToday = parsed && parsed.dateKey === key;
     const today = isToday ? parsed.dish : null;
     const week = text;
-    return { today, week, note: isToday ? null : 'Ingen uppdaterad dagsrätt för idag (senast: '+(parsed?.dateKey || 'okänt datum')+')' };
+    return { today, week, note: isToday ? null : 'Ingen uppdaterad dagsr\u00e4tt f\u00f6r idag (senast: '+(parsed?.dateKey || 'ok\u00e4nt datum')+')' };
   }
 
   if (sourceType === 'kreta-html' || sourceType === 'eatsmart-api' || sourceType === 'wp-api') {
-    return { today: null, week: text, note: 'Fast lunchmeny (ej dagsrätt)' };
+    return { today: null, week: text, note: 'Fast lunchmeny (ej dagsr\u00e4tt)' };
   }
 
   return { today: null, week: text, note: null };
-};
 }
+
 
 function render(results, q='') {
   const root = document.getElementById('content');
