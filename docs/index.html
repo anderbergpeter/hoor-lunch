@@ -328,7 +328,7 @@ function parseMatokaka(text){
 
 function parseElisefarm(text){
   var dayNames = ['MÅNDAG','TISDAG','ONSDAG','TORSDAG','FREDAG','LÖRDAG','SÖNDAG'];
-  var lines = text.split(/s{2,}/).map(function(l){return l.trim();}).filter(Boolean);
+  var lines = text.split(/  +/).map(function(l){return l.trim();}).filter(Boolean);
   var out = {};
   var currentDay = null;
   for (var i = 0; i < lines.length; i++) {
