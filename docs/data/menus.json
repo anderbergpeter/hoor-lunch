@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-08T09:46:41.117Z",
+  "generatedAt": "2026-04-09T06:06:32.014Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-08T09:46:17.465Z",
+      "fetchedAt": "2026-04-09T06:06:07.277Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-08T09:46:18.227Z",
+      "fetchedAt": "2026-04-09T06:06:08.040Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-08T09:46:19.180Z",
+      "fetchedAt": "2026-04-09T06:06:08.868Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-08T09:46:22.892Z",
+      "fetchedAt": "2026-04-09T06:06:12.496Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-08T09:46:25.871Z",
+      "fetchedAt": "2026-04-09T06:06:15.522Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-08T09:46:29.832Z",
+      "fetchedAt": "2026-04-09T06:06:19.711Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-08T09:46:30.385Z",
+      "fetchedAt": "2026-04-09T06:06:20.268Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-08T09:46:32.131Z",
+      "fetchedAt": "2026-04-09T06:06:21.541Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-08T09:46:32.866Z",
+      "fetchedAt": "2026-04-09T06:06:22.409Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-08T09:46:33.290Z",
+      "fetchedAt": "2026-04-09T06:06:22.862Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-08T09:46:33.966Z",
+      "fetchedAt": "2026-04-09T06:06:23.378Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +194,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-08T09:46:38.001Z",
+      "fetchedAt": "2026-04-09T06:06:27.821Z",
       "ok": true,
       "error": null,
       "source": {
@@ -205,13 +205,13 @@
       "week": null,
       "raw": {
         "url": "https://hardys.nu/",
-        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nÄntligen! Idag 20 mars öppnar vi Glassbaren igen! Välkomna!\nTessans Special!\nHalloumiburgare 90 gram med sweet chili dressing, sallad, rödlök,\nfärsk gurka, tomat & pepper cheese. Strips och dryck ingår i priset."
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nÄntligen! Idag 20 mars öppnar vi Glassbaren igen! Välkomna!"
       }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-08T09:46:39.758Z",
+      "fetchedAt": "2026-04-09T06:06:29.738Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-08T09:46:40.661Z",
+      "fetchedAt": "2026-04-09T06:06:31.463Z",
       "ok": true,
       "error": null,
       "source": {
