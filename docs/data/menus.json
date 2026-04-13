@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-13T06:30:57.585Z",
+  "generatedAt": "2026-04-13T10:17:38.419Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-13T06:30:32.684Z",
+      "fetchedAt": "2026-04-13T10:16:54.792Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 15 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Tisdag 7/4 Lunch: Stekt fläsk, löksås, rårörda lingon, persilja, kokt potatis Vegetarisk: Bakad blomkål, rostad mandel, chimichurri, yoghurtsås Onsdag 8/4 Lunch: Gräddig fiskgryta, saffran, fänkål, morot, räkor, musslor, aioli, nybakad focaccia Vegetarisk: Pasta med tomatsås, oliver, kapris, burrata, olivolja, ruccola Torsdag 9/4 Lunch: Fläsksida med Ancho, BBQ sås, spicy coleslaw, rostad potatis Vegetarisk: BBQ Oumph med Ancho, BBQ sås, spicy coleslaw, rostad potatis Fredag 10/4 Lunch: ” Jägarschnitzel”, krämig svampsås, råstekt purjolökspotatis, gröna ärtor, citron Vegetarisk: Frasig sellerischnitzel, krämig svampsås, råstekt purjolökspotatis, gröna ärtor, citron Lördag 11/4 Lunch: Stekt tuppfilé, ramslöksemulsion, friterad klyftpotatis, tomat och löksallad Vegetarisk: Stekt Quorn, ramslöksemulsion, rostad potatis, tomat, löksallad Söndag 12/4 Lunch: Ugnsbakad fisk med hackat ägg, vitvinssås, ärtor, dill & pepparrot, kokt potatis Vegetarisk: Spenat & ricotta fylld tortellini med stekta grönsaker, pesto Lunchmeny v. 16 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 13/4 Lunch: Stekt kalkonlår, rostade rotfrukter, dragonsås, bacon och lök smul, spenat Vegetarisk: Rödbetsfalafel, humus, tomatsallad, tortillabröd, sallad Tisdag 14/4 Lunch: Karré, kimchi fred rice, sallads"
+        "text": "Lunchmeny v. 16 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 13/4 Lunch: Stekt kalkonlår, rostade rotfrukter, dragonsås, bacon och lök smul, spenat Vegetarisk: Rödbetsfalafel, humus, tomatsallad, tortillabröd, sallad Tisdag 14/4 Lunch: Karré, kimchi stekt ris, salladslök, soja och ingefäramajonnäs, kålsallad med chili, rostade sesamfrö Vegetarisk: Tofu, kimchi, stekt ris, salladslök, soja och ingefäramajonnäs, kålsallad med chili, rostade sesamfrö Onsdag 15/4 Lunch: Bakad sej, skaldjurssås, färsk potatiskompott, rädisor, spenat Vegetarisk: Linsgryta, tomat, kapris, oliver, med crèmefraiche, vitlöksbröd Torsdag 16/4 Lunch: Färsbiff i mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Vegetarisk pannbiff, ost, timjansky, morot, syltlök, potatispuré Fredag 17/4 Lunch: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Risotto, svamp, spenat, grana padana, picklad rödlök Lördag 18/4 Lunch: Parmesan grillad kycklingfilé, rostad tomat sås, gnocchi, basilikaolja, grana padana Vegetarisk: Parmesan grillad aubergine, potatisgratäng, timjansky, bakad tomat Söndag 19/4 Lunch: Ugnsbakad laxrygg, cesarsallad, picklad tomat, parmesan, färsk potatis Vegetarisk: Pankopanerad pannoumi, cesarsallad, picklad tomat, parmesan, färsk potatis A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinp"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-13T06:30:33.485Z",
+      "fetchedAt": "2026-04-13T10:16:55.476Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 10/4 2026\nFredag🎉🥳🥳🥳, Solsken, och Stekt Fläsk med Löksås vänner🥰!\nOch så hemgjord glass i stora lass för den som är sugen 🍧🍧🍧!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 13/4 2026\nVåren kikar fram mellan solstrålarna, Baguette och Macksäsongen är i full gång😄🥖🫓🥯, och Lasagne som \"måndags- Dagens\".\nLåt Livet Le vänner🌞🌞🌞!\nHjärtans Välkommen är Du🥰!\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-13T06:30:34.495Z",
+      "fetchedAt": "2026-04-13T10:16:56.292Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-13T06:30:38.174Z",
+      "fetchedAt": "2026-04-13T10:17:00.588Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-13T06:30:40.757Z",
+      "fetchedAt": "2026-04-13T10:17:13.433Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-13T06:30:45.311Z",
+      "fetchedAt": "2026-04-13T10:17:29.099Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-13T06:30:45.908Z",
+      "fetchedAt": "2026-04-13T10:17:30.086Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-13T06:30:48.744Z",
+      "fetchedAt": "2026-04-13T10:17:31.326Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-13T06:30:49.701Z",
+      "fetchedAt": "2026-04-13T10:17:32.557Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-13T06:30:50.403Z",
+      "fetchedAt": "2026-04-13T10:17:33.067Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,24 +177,25 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-13T06:30:51.070Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-04-13T10:17:33.666Z",
+      "ok": false,
+      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf"
+        "pageUrl": "https://elisefarm.se/restaurang/"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf",
-        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Confiterat kycklinglår med tomat- och  örtsås, potatiscrème, varmrökt sidfläsk,  bakad svamp och lök  Tisdag  Halstrad lax med skaldjurssås,  ramslöksslungad potatis och pak choi,  picklad röd spetskål, mandel- och  persiljecrumble  Onsdag  Ragu på oxe med potatisstomp, syrade röda  steklökar, dijonnaise, rostad morot, smetana  Torsdag  Dagens fisk med rökt sandefjordsås,  kokt potatis, citrongel, bakad vårlök,  saltrostade hasselnötter  Fredag  Helstekt kotlettrad med barbecuesås,  rotfruktsgratäng, persiljeemulsion,  cajunrostad majs, koriander  Veckans vegetariska  Panerad rotsellerischnitzel med rostad  potatis, kapris, bakade betor, brynt smör,  rökt persiljesmör e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 16  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Stekt kalvpicanha med hallon- och  vitlöksemulsion, sotad roscofflök, grön  sparris, hallonsky, friterad potatis  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
+        "ok": false,
+        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+        "url": "https://elisefarm.se/restaurang/"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-13T06:30:54.049Z",
+      "fetchedAt": "2026-04-13T10:17:34.304Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +212,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-13T06:30:56.039Z",
+      "fetchedAt": "2026-04-13T10:17:36.433Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +229,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-13T06:30:57.006Z",
+      "fetchedAt": "2026-04-13T10:17:37.955Z",
       "ok": true,
       "error": null,
       "source": {
