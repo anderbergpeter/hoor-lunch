@@ -379,11 +379,11 @@ function pickToday(r, now){
     const parsed = parseGastis(text);
     if (!parsed) return { today: null, week: text, note: null };
     const todayMain = wdUpper ? parsed.days[wdUpper] : null;
-    const today = [todayMain, parsed.veg ? 'Veg: '+parsed.veg : null].filter(Boolean).join('\n') || null;
+    const today = todayMain ? [todayMain, parsed.veg ? 'Veg: '+parsed.veg : null].filter(Boolean).join('\n') : null;
     const week = Object.entries(parsed.days)
       .map(([k,v]) => k[0] + k.slice(1).toLowerCase() + ': ' + v)
       .join('\n');
-    return { today, week, note: null };
+    return { today, week, note: todayMain ? null : 'Ingen lunch serveras idag' };
   }
 
   if (sourceType.includes('ralsen')){
@@ -403,13 +403,13 @@ function pickToday(r, now){
     if (parsed) {
       var todayDish = wdUpper ? parsed[wdUpper] : null;
       var vegDish = parsed['VEG'] || null;
-      var todayFull = [todayDish, vegDish ? 'Veg: ' + vegDish : null].filter(Boolean).join(String.fromCharCode(10));
+      var todayFull = todayDish ? [todayDish, vegDish ? 'Veg: ' + vegDish : null].filter(Boolean).join(String.fromCharCode(10)) : null;
       var weekParts = [];
       var keys = Object.keys(parsed);
       for (var ei = 0; ei < keys.length; ei++) {
         weekParts.push(keys[ei][0] + keys[ei].slice(1).toLowerCase() + ': ' + parsed[keys[ei]]);
       }
-      return { today: todayFull || null, week: weekParts.join(String.fromCharCode(10)) || text, note: null };
+      return { today: todayFull, week: weekParts.join(String.fromCharCode(10)) || text, note: todayDish ? null : 'Ingen lunch serveras idag' };
     }
     return { today: null, week: text, note: null };
   }
