@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-13T10:17:38.419Z",
+  "generatedAt": "2026-04-14T06:16:13.066Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-13T10:16:54.792Z",
+      "fetchedAt": "2026-04-14T06:15:50.553Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-13T10:16:55.476Z",
+      "fetchedAt": "2026-04-14T06:15:51.325Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-13T10:16:56.292Z",
+      "fetchedAt": "2026-04-14T06:15:52.251Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/04/IMG_0219-1024x1015.jpeg",
-        "ocrText": "NA\nLUNCH v.15\n\"NäR: FT\nSR ch E\nne == Vårfräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. Il.30-13.30 Pris 50-\nlördag 12-14 Plus I75.- Välkomna!\nTISDAG: Grillad kyckling, bulgur & fetacréme\nONSDAG: Köttfärslimpa, svampsås, potatis & lingon\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillad karré, potatisgratäng & skysås\nLÖRDAG: Grillad karré, potatisgratäng & skysås\nVEG Vegobiffar, bulgur & fetacréme\nmm Val = HR, Hö\nme ala s PAR\nRH ; : Mm tv ANN Ko 692\n2 AN < s Sästgsfvaregård\n3oka på 0413-220 108 ör infochoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/04/dagens-v16-2026_-002-pdf.jpg",
+        "ocrText": "|\nag CC €\nSu LÖN Vv\n- b -\nTITS emm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag Fredag kl. II.30-13.30 Pris 150:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG:  Wallenbergare med klassiska tillbehör\nONSDAG: Fleskesteg, rödkål, brysselkål, stekt potatis & skysås\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Jägarschnitzel, svampsås, potatispuré & gröna ärtor\nLÖRDAG: Jägarschnitzel,svampsås, potatispuré & gröna ärtor\nVEG Gulasch gjord på Oumph, gnocchi & creme fraiche\nve 55\nnö HÖÖRS\nCs Esd agn\na ANNO 1692\nPE Gasgfoarcgård\nHoka på 0413-220 10 Stör infochoarsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-13T10:17:00.588Z",
+      "fetchedAt": "2026-04-14T06:15:55.082Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-13T10:17:13.433Z",
+      "fetchedAt": "2026-04-14T06:15:59.908Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-13T10:17:29.099Z",
+      "fetchedAt": "2026-04-14T06:16:03.834Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-13T10:17:30.086Z",
+      "fetchedAt": "2026-04-14T06:16:04.787Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-13T10:17:31.326Z",
+      "fetchedAt": "2026-04-14T06:16:05.908Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-13T10:17:32.557Z",
+      "fetchedAt": "2026-04-14T06:16:06.686Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-13T10:17:33.067Z",
+      "fetchedAt": "2026-04-14T06:16:07.226Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,25 +177,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-13T10:17:33.666Z",
-      "ok": false,
-      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+      "fetchedAt": "2026-04-14T06:16:07.846Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/restaurang/"
+        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
-        "url": "https://elisefarm.se/restaurang/"
+        "url": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf",
+        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Confiterat kycklinglår med tomat- och  örtsås, potatiscrème, varmrökt sidfläsk,  bakad svamp och lök  Tisdag  Halstrad lax med skaldjurssås,  ramslöksslungad potatis och pak choi,  picklad röd spetskål, mandel- och  persiljecrumble  Onsdag  Ragu på oxe med potatisstomp, syrade röda  steklökar, dijonnaise, rostad morot, smetana  Torsdag  Dagens fisk med rökt sandefjordsås,  kokt potatis, citrongel, bakad vårlök,  saltrostade hasselnötter  Fredag  Helstekt kotlettrad med barbecuesås,  rotfruktsgratäng, persiljeemulsion,  cajunrostad majs, koriander  Veckans vegetariska  Panerad rotsellerischnitzel med rostad  potatis, kapris, bakade betor, brynt smör,  rökt persiljesmör e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 16  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Stekt kalvpicanha med hallon- och  vitlöksemulsion, sotad roscofflök, grön  sparris, hallonsky, friterad potatis  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-13T10:17:34.304Z",
+      "fetchedAt": "2026-04-14T06:16:10.651Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-13T10:17:36.433Z",
+      "fetchedAt": "2026-04-14T06:16:12.521Z",
       "ok": true,
       "error": null,
       "source": {
@@ -229,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-13T10:17:37.955Z",
+      "fetchedAt": "2026-04-14T06:16:12.613Z",
       "ok": true,
       "error": null,
       "source": {
