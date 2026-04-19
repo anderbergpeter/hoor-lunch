@@ -203,21 +203,66 @@ function clamp(n, a, b){ return Math.max(a, Math.min(b, n)); }
 function blueprintScoreLine(line){
   const s = safeText(line).toLowerCase();
   if (!s.trim()) return { score: null, why: [] };
-  let score = 55;
+  let score = 35;
   const why = [];
   const add = (pts, reason) => { score += pts; if (reason) why.push(reason); };
-  if (/(bön|bönor|linser|kikär|ärtor)/.test(s)) add(+15, 'baljväxter');
-  if (/(kål|broccoli|blomkål|spenat|grönkål|sallad|coleslaw|grönsak|tomat|gurk|paprika|lök)/.test(s)) add(+10, 'grönsaker');
-  if (/(svamp)/.test(s)) add(+3, 'svamp');
-  if (/(fisk|lax|torsk|kummel|kolja|regnbåge|sejfilé)/.test(s)) add(+8, 'fisk');
-  if (/(quinoa|fullkorn|råg|havre)/.test(s)) add(+8, 'fullkorn');
-  if (/(olivolja)/.test(s)) add(+6, 'olivolja');
-  if (/(friter|panerad|pommes|chips)/.test(s)) add(-18, 'friterat/panerat');
-  if (/(grädde|smör|ost|beurre|cr[eè]me|sås)/.test(s)) add(-8, 'sås/mejeri');
-  if (/(bacon|fläsk|korv|k[aå]lv? ?korv|pannbiff)/.test(s)) add(-14, 'processat kött');
-  if (/(pannkak|våffl|bröd|baguett|pizza|pasta)/.test(s)) add(-12, 'raff. kolhydrater');
-  if (/(socker|sylt|glass|kaka|dessert)/.test(s)) add(-12, 'socker');
-  if (/(potatis|raggmunk)/.test(s)) add(-2, 'potatis');
+
+  // === POSITIVT (Blueprint-alignerat) ===
+  // Baljväxter – daglig stapelvara (svarta linser, bönor)
+  if (/(bön|bönor|lins|linser|kikärt|kikärtor|ärtor|ärta|hummus|humus)/.test(s)) add(+16, 'baljväxter');
+  // Grönsaker – basen i Blueprint
+  if (/(broccoli|blomkål|spenat|grönkål|sallad|ruccola|rucola|grönsak|tomat|gurk|paprika|morot|rotfrukt|fänkål|selleri|purjolök|zucchini|aubergine|mangold|kronärtskocka)/.test(s)) add(+12, 'grönsaker');
+  // Kål (separat – undvika falska matchningar)
+  if (/\bkål\b/.test(s)) add(+6, 'kål');
+  // Lök (som grönsak, inte som del av annat ord)
+  if (/\blök\b/.test(s) && !/purjolök/.test(s)) add(+3, 'lök');
+  // Svamp – daglig Blueprint-ingrediens
+  if (/(svamp|champinjon|shiitake|karl johan)/.test(s)) add(+8, 'svamp');
+  // Nötter & frön – Blueprint-pelare (valnötter, macadamia, frön)
+  if (/(nötter|valnöt|macadamia|cashew|mandel|frö|frön|linfrö|sesamfrö|pinje)/.test(s)) add(+10, 'nötter/frön');
+  // Olivolja / EVOO – primär fettkälla
+  if (/(olivolja)/.test(s)) add(+8, 'olivolja');
+  // Växtprotein (quorn, oumph, tofu, tempeh, falafel, bönbiff)
+  if (/(quorn|oumph|tofu|tempeh|falafel|bönbiff|växtbaserad|vegansk)/.test(s)) add(+12, 'växtprotein');
+  // Fullkorn – i måttlig mängd positivt
+  if (/(quinoa|fullkorn|råg|havre|bulgur|bovete)/.test(s)) add(+6, 'fullkorn');
+  // Fisk – acceptabelt, särskilt liten/fet fisk
+  if (/(fisk|lax|torsk|kummel|kolja|regnbåge|sejfilé|sej|sill|sardiner|makrill|abborre)/.test(s)) add(+6, 'fisk');
+  // Bär – polyfenolrika, Blueprint-favorit
+  if (/(blåbär|hallon|jordgubb|lingon|bär\b)/.test(s)) add(+5, 'bär');
+  // Vitlök & ingefära – dagliga Blueprint-ingredienser
+  if (/(vitlök|ingefära|gurkmeja)/.test(s)) add(+4, 'vitlök/ingefära');
+  // Avokado – bra fett
+  if (/(avokado)/.test(s)) add(+5, 'avokado');
+
+  // === NEGATIVT (anti-Blueprint) ===
+  // Friterat / panerat – aldrig i Blueprint
+  if (/(friter|panera|pommes|chips|fritös|stekt\s+i\s+olja)/.test(s)) add(-20, 'friterat/panerat');
+  // Processat kött – helt uteslutet
+  if (/(bacon|korv|köttbullar?|pannbiff|kebab|salami|skinka)/.test(s)) add(-18, 'processat kött');
+  // Rött kött – uteslutet i Blueprint
+  if (/(nötfärs|nötkött|biff|entrecôte|entrecote|oxfilé|oxkött|kalv|lamm|fläsk|karré|revben|ryggbiff|högrev|bog\b)/.test(s) && !/(bönbiff)/.test(s)) add(-14, 'rött kött');
+  // Kyckling/fågel – mestadels undvikt
+  if (/(kyckling|kalkon|tupp|anka|fågel|höns)/.test(s)) add(-6, 'fågel');
+  // Mejeri – helt uteslutet (grädde, smör, ost, crème)
+  if (/(grädd|smör\b|ost\b|cream|beurre|cr[eè]me|béarnaise|hollandaise|burrata|mozzarella|parmesan|ricotta|mascarpone|yoghurt)/.test(s)) add(-12, 'mejeri');
+  // Raffinerade kolhydrater – uteslutet
+  if (/(pannkak|våffl|baguett|pizza|vitt bröd|focaccia|tortilla)/.test(s)) add(-12, 'raff. kolhydrater');
+  // Pasta – negativt om inte fullkorn
+  if (/\bpasta\b/.test(s) && !/fullkorn/.test(s)) add(-8, 'pasta');
+  // Bröd – svagt negativt (kan vara fullkorn)
+  if (/\bbröd\b/.test(s) && !/fullkorn/.test(s) && !/baguett|focaccia/.test(s)) add(-4, 'bröd');
+  // Socker/sötsaker – helt uteslutet
+  if (/(socker|sylt|glass|kaka|dessert|choklad|godis)/.test(s)) add(-14, 'socker');
+  // Vit potatis – svagt negativt
+  if (/(potatis|raggmunk)/.test(s) && !/sötpotatis/.test(s)) add(-2, 'potatis');
+  // Sötpotatis – neutral till svagt positivt
+  if (/(sötpotatis)/.test(s)) add(+3, 'sötpotatis');
+  // Ris – svagt negativt om inte fullkorn
+  if (/\bris\b/.test(s) && !/fullkorn/.test(s)) add(-4, 'vitt ris');
+  // Sås – bara negativt om det signalerar mejeri/fett
+  if (/(gräddsås|löksås|bearnaisesås|smörsås)/.test(s) && !/(grädd|smör)/.test(s)) add(-6, 'tung sås');
+
   score = clamp(Math.round(score), 0, 100);
   return { score, why };
 }
