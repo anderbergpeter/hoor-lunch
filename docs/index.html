@@ -524,7 +524,7 @@ function pickToday(r, now){
       if (isWeekend && parsed['_helg']) {
         var helg = parsed['_helg'];
         if (dd >= helg.dayStart && dd <= helg.dayEnd && mm === helg.month) {
-          todayDish = 'Helgmeny:' + String.fromCharCode(10) + helg.dishes.join(String.fromCharCode(10));
+          todayDish = helg.dishes.join(String.fromCharCode(10));
         }
       } else if (!isWeekend) {
         todayDish = wdUpper ? parsed[wdUpper] : null;
