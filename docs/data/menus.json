@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-04-17T09:56:30.233Z",
+  "generatedAt": "2026-04-19T08:30:24.838Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-04-17T09:56:04.933Z",
+      "fetchedAt": "2026-04-19T08:30:00.556Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-04-17T09:56:05.820Z",
+      "fetchedAt": "2026-04-19T08:30:01.534Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-04-17T09:56:06.482Z",
+      "fetchedAt": "2026-04-19T08:30:02.582Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-04-17T09:56:10.147Z",
+      "fetchedAt": "2026-04-19T08:30:06.932Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-04-17T09:56:14.964Z",
+      "fetchedAt": "2026-04-19T08:30:11.315Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-04-17T09:56:20.396Z",
+      "fetchedAt": "2026-04-19T08:30:16.296Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,9 +107,9 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-04-17T09:56:21.104Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-04-19T08:30:17.023Z",
+      "ok": false,
+      "error": "wp_api_failed:415",
       "source": {
         "type": "wp-api",
         "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
@@ -118,16 +118,17 @@
       },
       "week": null,
       "raw": {
-        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
-        "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny"
+        "ok": false,
+        "error": "wp_api_failed:415",
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages"
       }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-04-17T09:56:22.419Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-04-19T08:30:18.201Z",
+      "ok": false,
+      "error": "wp_api_failed:415",
       "source": {
         "type": "wp-api",
         "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
@@ -136,14 +137,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
-        "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning"
+        "ok": false,
+        "error": "wp_api_failed:415",
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages"
       }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-04-17T09:56:23.362Z",
+      "fetchedAt": "2026-04-19T08:30:19.107Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +162,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-04-17T09:56:23.960Z",
+      "fetchedAt": "2026-04-19T08:30:19.954Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,26 +179,27 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-04-17T09:56:24.689Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-04-19T08:30:20.764Z",
+      "ok": false,
+      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf"
+        "pageUrl": "https://elisefarm.se/restaurang/"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/wp-content/uploads/2026/04/Lunch-V.16-SVE.pdf",
-        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Confiterat kycklinglår med tomat- och  örtsås, potatiscrème, varmrökt sidfläsk,  bakad svamp och lök  Tisdag  Halstrad lax med skaldjurssås,  ramslöksslungad potatis och pak choi,  picklad röd spetskål, mandel- och  persiljecrumble  Onsdag  Ragu på oxe med potatisstomp, syrade röda  steklökar, dijonnaise, rostad morot, smetana  Torsdag  Dagens fisk med rökt sandefjordsås,  kokt potatis, citrongel, bakad vårlök,  saltrostade hasselnötter  Fredag  Helstekt kotlettrad med barbecuesås,  rotfruktsgratäng, persiljeemulsion,  cajunrostad majs, koriander  Veckans vegetariska  Panerad rotsellerischnitzel med rostad  potatis, kapris, bakade betor, brynt smör,  rökt persiljesmör e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 16  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Stekt kalvpicanha med hallon- och  vitlöksemulsion, sotad roscofflök, grön  sparris, hallonsky, friterad potatis  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
+        "ok": false,
+        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+        "url": "https://elisefarm.se/restaurang/"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-04-17T09:56:27.521Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-04-19T08:30:21.371Z",
+      "ok": false,
+      "error": "page_fetch_failed:415",
       "source": {
         "type": "generic-html",
         "url": "https://hardys.nu/",
@@ -204,14 +207,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://hardys.nu/",
-        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nÄntligen! Idag 20 mars öppnar vi Glassbaren igen! Välkomna!"
+        "ok": false,
+        "error": "page_fetch_failed:415",
+        "url": "https://hardys.nu/"
       }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-04-17T09:56:29.617Z",
+      "fetchedAt": "2026-04-19T08:30:22.684Z",
       "ok": true,
       "error": null,
       "source": {
@@ -222,13 +226,13 @@
       "week": null,
       "raw": {
         "url": "https://www.matokaka.se/meny-1",
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 16: 13-17 /4 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 11-12 april se längre ner:\nDagens:\nMåndag:​\nAlaska pollak med senapsås, kokt potatis & grönt.\n​ ​\nTisdag:\nDansk fläskstek på vårt vis, med rödkål, potatis, sås& äpplemos.\n​\nOnsdag:\nPannbiff med lök, potatis, gräddsås & lingon.\n​\nTorsdag:\nPytt i panna med stekt ägg och inlagda rödbetor.\n​\nFredag:\n​\nStekt fläsk med löksås, kokt potatis & lingon.\n​\nHela veckan:\nRäksmörgås. 209:-\nPankopanerad kyckling med caesarsallad. 185:-\nHelgmeny: 11-12 april kl 11,30-13,30,\nR estaurangen är öppen kl,10-14,00\n​ ​Torsk med räkor & vitvinsås, kokt potatis och grönt. 235:-\nPanerad schnitzel, ugnsbakad potatis & jägarsås och grönsaker. 230:-\nRäksmörgås. 209:-\nStekt blomkål med senapsmarinerad sallad & citronsås. 190:-\n​ ​ ​\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\nbottom of page"
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 17: 20-24 /4 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 18-19 april se längre ner:\nDagens:\nMåndag:​\nKyckling i sötsuras serveras med ris .\n​ ​\nTisdag:\nKålpudding med rårörda lingon eller Pasta bolognese .\n​\nOnsdag:\nKalops på vårt vis med kokt potatis & rödbetor.\n​\nTorsdag:\nRaggmunk med stekt fläsk & kokt potatis, lingon.\n​\nFredag:\n​\nPasta med grönsaker & fläskfil&eacute; i krämig sås . ( kan fås med potatis.)\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nAlaska pollack med senapsås, potatis & grönt. 165:-\nHelgmeny: 18-19 april kl 11,30-14,00,\nR estaurangen är öppen kl,8,30-14,30\n​ ​Bakad lax med kokt potatis & kall dillsås och grönt. 235:-\nRyggbiff med pepparsås, ugnsbakad potatis & grönsaker. 245:-\nRäksmörgås. 209:-\nChili sin carn&eacute; ( vegetarisk ) serveras med ris. 180:-\nCeasarsallad med varmrökt tupp eller räkor. 180:-/209:-\n​ ​ ​\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\nbottom of page"
       }
     },
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-04-17T09:56:29.770Z",
+      "fetchedAt": "2026-04-19T08:30:24.142Z",
       "ok": true,
       "error": null,
       "source": {
