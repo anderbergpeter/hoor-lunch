@@ -214,7 +214,7 @@ function blueprintScoreLine(line){
   // Baljväxter – daglig stapelvara (svarta linser, bönor)
   if (/(bön|bönor|lins|linser|kikärt|kikärtor|ärtor|ärta|hummus|humus)/.test(s)) add(+18, 'baljväxter');
   // Grönsaker – basen i Blueprint
-  if (/(broccoli|blomkål|spenat|grönkål|sallad|ruccola|rucola|grönsak|tomat|gurk|paprika|morot|rotfrukt|fänkål|selleri|purjolök|zucchini|aubergine|mangold|kronärtskocka)/.test(s)) add(+14, 'grönsaker');
+  if (/(broccoli|blomkål|spenat|grönkål|sallad|ruccola|rucola|grönsak|tomat|gurk|paprika|morot|rotfrukt|fänkål|selleri|purjolök|zucchini|aubergine|mangold|kronärtskocka|betor|rödbeta|rödbets|sparris|pak choi)/.test(s)) add(+14, 'grönsaker');
   // Kål (separat – undvika falska matchningar)
   if (/\bkål\b/.test(s)) add(+5, 'kål');
   // Lök (som grönsak, inte som del av annat ord)
@@ -239,18 +239,20 @@ function blueprintScoreLine(line){
   if (/(avokado)/.test(s)) add(+6, 'avokado');
 
   // === NEGATIVT (anti-Blueprint) ===
-  // Friterat / panerat – aldrig i Blueprint
-  if (/(friter|panera|pommes|chips|fritös|stekt\s+i\s+olja)/.test(s)) add(-20, 'friterat/panerat');
+  // Friterat – pommes, chips, fritös (värst)
+  if (/(friter|pommes|chips|fritös|stekt\s+i\s+olja)/.test(s)) add(-18, 'friterat');
+  // Panerat – negativt men mildare än fritering
+  if (/(panera)/.test(s) && !/(friter|pommes|chips|fritös)/.test(s)) add(-10, 'panerat');
   // Processat kött – helt uteslutet
   if (/(bacon|korv|köttbullar?|pannbiff|kebab|salami|skinka)/.test(s)) add(-18, 'processat kött');
   // Rött kött – uteslutet i Blueprint
   if (/(nötfärs|nötkött|biff|entrecôte|entrecote|oxfilé|oxkött|kalv|lamm|fläsk|karré|revben|ryggbiff|högrev|bog\b)/.test(s) && !/(bönbiff)/.test(s)) add(-14, 'rött kött');
   // Kyckling/fågel – mestadels undvikt
   if (/(kyckling|kalkon|tupp|anka|fågel|höns)/.test(s)) add(-6, 'fågel');
-  // Tung mejeri – grädde, smör, créme (helt uteslutet i Blueprint)
-  if (/(grädd|smör\b|cream|beurre|cr[eè]me|béarnaise|hollandaise)/.test(s)) add(-12, 'tung mejeri');
-  // Ost / lätt mejeri – garnering (mindre negativt)
-  if (/(ost\b|parmesan|mozzarella|burrata|ricotta|mascarpone|yoghurt)/.test(s)) add(-6, 'ost/mejeri');
+  // Tung mejeri – grädde, créme (helt uteslutet i Blueprint)
+  if (/(grädd|cream|beurre|cr[eè]me|béarnaise|hollandaise)/.test(s)) add(-12, 'tung mejeri');
+  // Smör / ost / lätt mejeri – garnering (mindre negativt)
+  if (/(smör\b|ost\b|parmesan|mozzarella|burrata|ricotta|mascarpone|yoghurt)/.test(s)) add(-6, 'smör/ost');
   // Raffinerade kolhydrater – uteslutet
   if (/(pannkak|våffl|baguett|pizza|vitt bröd|focaccia|tortilla)/.test(s)) add(-12, 'raff. kolhydrater');
   // Pasta – negativt om inte fullkorn
