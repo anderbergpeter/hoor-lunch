@@ -206,7 +206,7 @@ function blueprintScoreLine(line){
   // Brunch/buffé kan inte scoreas – beror på vad man väljer
   if (/(brunch|buffé|bufféfrukost)/.test(s)) return { score: null, why: ['Buffé/brunch \u2013 score varierar beroende p\u00e5 vad du v\u00e4ljer'] };
 
-  let score = 40;
+  let score = 50;
   const why = [];
   const add = (pts, reason) => { score += pts; if (reason) why.push(reason); };
 
