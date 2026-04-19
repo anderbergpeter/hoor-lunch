@@ -276,7 +276,10 @@ function parseAkersberg(text){
     const b = chunks[i+1];
     const body = text.slice(a.idx + a.wd.length, b ? b.idx : text.length).trim();
     const key = `${a.d}/${a.mo}`;
-    out[key] = body.replace(/^\d{1,2}\/\d{1,2}/,'').trim();
+    var clean = body.replace(/^\d{1,2}\/\d{1,2}/,'').trim();
+    var footerIdx = clean.indexOf('Lunchmeny v.');
+    if (footerIdx > 0) clean = clean.substring(0, footerIdx).trim();
+    out[key] = clean;
   }
   return out;
 }
