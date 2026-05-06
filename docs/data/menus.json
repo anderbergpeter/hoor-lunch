@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-06T07:15:12.750Z",
+  "generatedAt": "2026-05-06T10:37:19.120Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-06T07:14:50.076Z",
+      "fetchedAt": "2026-05-06T10:34:41.504Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-06T07:14:50.822Z",
+      "fetchedAt": "2026-05-06T10:34:42.139Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-06T07:14:51.706Z",
+      "fetchedAt": "2026-05-06T10:34:42.939Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-06T07:14:55.064Z",
+      "fetchedAt": "2026-05-06T10:34:46.358Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-06T07:14:59.829Z",
+      "fetchedAt": "2026-05-06T10:34:51.466Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-06T07:15:05.194Z",
+      "fetchedAt": "2026-05-06T10:34:55.555Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-06T07:15:05.888Z",
+      "fetchedAt": "2026-05-06T10:34:56.085Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-06T07:15:07.178Z",
+      "fetchedAt": "2026-05-06T10:34:57.274Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-06T07:15:07.985Z",
+      "fetchedAt": "2026-05-06T10:34:58.022Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,9 +160,9 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-06T07:15:08.511Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-05-06T10:34:58.464Z",
+      "ok": false,
+      "error": "request to https://onuma.se/ failed, reason: connect ETIMEDOUT 185.76.64.223:443",
       "source": {
         "type": "generic-html",
         "url": "https://onuma.se/",
@@ -170,14 +170,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://onuma.se/",
-        "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nNr.21 Rödcurry gryta\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Ghäng Kiao Wan.\nGryta med grönsaker, bambuskott, kokosmjölk o"
+        "ok": false,
+        "error": "request to https://onuma.se/ failed, reason: connect ETIMEDOUT 185.76.64.223:443",
+        "url": "https://onuma.se/"
       }
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-06T07:15:09.288Z",
+      "fetchedAt": "2026-05-06T10:37:14.768Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -195,7 +196,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-06T07:15:09.701Z",
+      "fetchedAt": "2026-05-06T10:37:15.367Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +213,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-06T07:15:11.980Z",
+      "fetchedAt": "2026-05-06T10:37:17.145Z",
       "ok": true,
       "error": null,
       "source": {
@@ -229,7 +230,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-06T07:15:12.265Z",
+      "fetchedAt": "2026-05-06T10:37:18.627Z",
       "ok": true,
       "error": null,
       "source": {
