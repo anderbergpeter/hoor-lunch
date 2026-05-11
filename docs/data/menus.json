@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-09T08:18:04.635Z",
+  "generatedAt": "2026-05-11T08:00:51.865Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-09T08:17:36.285Z",
+      "fetchedAt": "2026-05-11T08:00:26.327Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-09T08:17:37.131Z",
+      "fetchedAt": "2026-05-11T08:00:27.083Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - FRE 8/5 2026\nIdag firar vi fredag med Rälsens mustiga Gulaschgryta🥰 🌶🫑🌶!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 11/5 2026\nIdag bjuds det på Kålpudding vänner 🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-09T08:17:37.951Z",
+      "fetchedAt": "2026-05-11T08:00:27.749Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-09T08:17:41.698Z",
+      "fetchedAt": "2026-05-11T08:00:31.199Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-09T08:17:48.484Z",
+      "fetchedAt": "2026-05-11T08:00:36.198Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-09T08:17:55.436Z",
+      "fetchedAt": "2026-05-11T08:00:41.547Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-09T08:17:56.168Z",
+      "fetchedAt": "2026-05-11T08:00:42.131Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-09T08:17:58.502Z",
+      "fetchedAt": "2026-05-11T08:00:44.483Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-09T08:17:59.325Z",
+      "fetchedAt": "2026-05-11T08:00:46.627Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-09T08:17:59.965Z",
+      "fetchedAt": "2026-05-11T08:00:47.075Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-09T08:18:00.776Z",
+      "fetchedAt": "2026-05-11T08:00:47.793Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -195,7 +195,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-09T08:18:01.381Z",
+      "fetchedAt": "2026-05-11T08:00:48.354Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +212,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-09T08:18:03.462Z",
+      "fetchedAt": "2026-05-11T08:00:50.372Z",
       "ok": true,
       "error": null,
       "source": {
@@ -223,13 +223,13 @@
       "week": null,
       "raw": {
         "url": "https://www.matokaka.se/meny-1",
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 19: 4-8 /5 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 9-10 MAJ kommer snart:\nDagens:\nMåndag:\nFläskytterfil&eacute; fylld med ramslök & färskost, potatis & grönt .\n​ ​\nTisdag:\nKorv i ugn med lök, senap serveras med klyftpotatis & krämig sås. eller\nStekt falukorv med stuvad blomkål.\n​\nOnsdag:\nMarinerade kamben med barbecuesås, marinerad rödkål.\n​\nTorsdag:\nStekt fläsk med löksås, potatis & lingon .\n​\nFredag:\n​\nMarinerad pluma med ramslökschimichurri &potatis\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nPocherad kolja med pepparrotsås & kokt potatis, grönt. 170:-\nHelgmeny: 9-10 maj kl 11,30-14,00.\nR estaurangen är öppen från 8,30\nUgnsbakad forell med sandelsås, kokt potatis & grönt. 230kr\nPulled pork burgare med pommes. 220kr\n( sallad, dressing, tomat, gurka & syltad lök)\nHalloumiburgare med pommes. 195kr\n( sallad, citrondressing, tomat & syltad lök)\nRäksmörgås. 209kr\nCeasarsallad med bacon& varmrökt tupp eller räkor. 180kr/205kr. ​ ​ ​ ​ ​ ​\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nMORSDAG 31 maj kl, 11,30-15,00\nBoka bord på info@matokaka.se och skriv önskad tid.\nNamn, antal & telefonnummer.\nVi bekräftar inom 24 timmar\nRösti med Kalix Löjrom, creme fraiche & hackad rödlök\n#\nHjortfil&eacute; med potatiskaka, sparris & madeirasås\neller\nRödtungsfil&eacute; med sandefjordsås & kokt potatis och sparris.\nKaffe\n390kr\nValrhona chokladdessert med rabarber. 98kr\n​\nbottom of page"
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 20: 11-15/5 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 14 MAJ se nedan:\nDagens:\nMåndag:\nSkånsk äggakaka med stekt fläsk och rårörda lingon.\n​ ​\nTisdag:\nBlandfärsbiff med soltorkad tomat & lök, potatis & gräddsås.\n​\nOnsdag:\nPanerad spätta med remoulad och kokt potatis.\n​\nTorsdag:\nSe nedan meny .\n​\nFredag:\n​\nMarinerad kamben med potatis & bbq-sås.\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nTorsk med senapsås & potatis och sparris från Vidablick. . 185:-\nHelgmeny: 14 maj kl 11,30-14,00.\nR estaurangen är öppen från 8,30\nTorsk med senapsås, kokt potatis & sparris från Vidablick. 185kr\nWallenbergare med rårörda lingon, potatis & sås. 190kr\nChili sin Carn&eacute; (vegetarisk). 165kr\nRäksmörgås. 209kr\nCeasarsallad med bacon& varmrökt tupp eller räkor. 180kr/205kr. ​ ​ ​ ​ ​ ​\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nMORSDAG 31 maj kl, 11,30-15,00\nBoka bord på info@matokaka.se och skriv önskad tid.\nNamn, antal & telefonnummer.\nVi bekräftar inom 24 timmar\nRösti med Kalix Löjrom, creme fraiche & hackad rödlök\n#\nHjortfil&eacute; med potatiskaka, sparris & madeirasås\neller\nRödtungsfil&eacute; med sandefjordsås & kokt potatis och sparris.\nKaffe\n390kr\nValrhona chokladdessert med rabarber. 98kr\n​\nbottom of page"
       }
     },
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-09T08:18:03.861Z",
+      "fetchedAt": "2026-05-11T08:00:51.401Z",
       "ok": true,
       "error": null,
       "source": {
