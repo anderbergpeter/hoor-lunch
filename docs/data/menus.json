@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-19T08:02:11.834Z",
+  "generatedAt": "2026-05-19T11:40:57.126Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-19T08:01:33.086Z",
+      "fetchedAt": "2026-05-19T11:40:33.775Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-19T08:01:34.067Z",
+      "fetchedAt": "2026-05-19T11:40:35.039Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-19T08:01:35.245Z",
+      "fetchedAt": "2026-05-19T11:40:35.807Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/05/IMG_0470.jpeg",
-        "ocrText": "| SEEN | sm\nHan G\nfame Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nMiadag-Fredag kl. II.30-13.30 Pris 150.-\nlördag 12-14 Pra I75.- Välkomna!\nTISDAG:  Kotlett, choronsås, stekt potatis & gröna bönor\nONSDAG: Schnitzel, skysås, potatis, ärtor, citron & örtsmör\nTORSDAG: Stängt\nFREDAG: Fredagsbuffé\nLÖRDAG:  Griljerad kycklingklubbfilé, bulgursallad &fetaostcréme\nVEG Grön sparrisrisotto, mandel, bakad tomat & parmesan\nON a Jå ” so\nLU NN . a UA ANNO Ko 1692\na AT < Gäsgspvaregård\n\"Boka på 0413-220 10 eller infochoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/05/dagens-v21-2026-pdf.jpg",
+        "ocrText": "TA\nLi\nSS na\nMmm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12.år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris (50:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG:  Färsbiff, gräddsås, lingon, potatis & pressgurka\nONSDAG: Kyckling iröd curry med basmatiris\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillad karré, örtereme & rostad potatis. .\nLÖRDAG: Grillad karré, örtereme & rostad potatis. Alt. Äggakaka med\nstekt fläsk & lingon (225:-)\nVEG Blomkålsteak, tryffelcreme, picklad rödlök & rostade kikärtor\nsms Pg TSE == i;\nmy\nf HÖÖRS\nHOT )E a aah\nFa ANNO 1692\nFER Saugfoarogård\n”Poka på 0413-220 10 Stör infochoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-19T08:01:39.473Z",
+      "fetchedAt": "2026-05-19T11:40:39.281Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-19T08:01:47.026Z",
+      "fetchedAt": "2026-05-19T11:40:43.213Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-19T08:01:58.402Z",
+      "fetchedAt": "2026-05-19T11:40:48.081Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-19T08:02:00.520Z",
+      "fetchedAt": "2026-05-19T11:40:48.695Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-19T08:02:02.208Z",
+      "fetchedAt": "2026-05-19T11:40:50.161Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-19T08:02:03.645Z",
+      "fetchedAt": "2026-05-19T11:40:51.020Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-19T08:02:04.426Z",
+      "fetchedAt": "2026-05-19T11:40:51.313Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-19T08:02:05.329Z",
+      "fetchedAt": "2026-05-19T11:40:52.033Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +194,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-19T08:02:08.894Z",
+      "fetchedAt": "2026-05-19T11:40:54.712Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-19T08:02:10.925Z",
+      "fetchedAt": "2026-05-19T11:40:56.417Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-19T08:02:11.141Z",
+      "fetchedAt": "2026-05-19T11:40:56.620Z",
       "ok": true,
       "error": null,
       "source": {
