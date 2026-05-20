@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-19T11:40:57.126Z",
+  "generatedAt": "2026-05-20T08:01:11.035Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-19T11:40:33.775Z",
+      "fetchedAt": "2026-05-20T08:00:45.917Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-19T11:40:35.039Z",
+      "fetchedAt": "2026-05-20T08:00:46.517Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TIS 19/5 2026\nPanerad Spätta med Rälsens Remouladesås och kokt/ stekt potatis bjuds det idag vänner, och ett väder som blir lite varmare för var dag som går🐠🐟🐠🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - ONS 20/5 2026\nRÄLSEN- STEK TILL LUNCH😄!\nÖrtbakad Fläsksida av Rapsgris med Gräddsås och kokt / stekt potatis bjuds det idag vänner. Och Solsken i långa banor🙏🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-19T11:40:35.807Z",
+      "fetchedAt": "2026-05-20T08:00:47.552Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-19T11:40:39.281Z",
+      "fetchedAt": "2026-05-20T08:00:50.829Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-19T11:40:43.213Z",
+      "fetchedAt": "2026-05-20T08:00:55.937Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-19T11:40:48.081Z",
+      "fetchedAt": "2026-05-20T08:01:00.608Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-19T11:40:48.695Z",
+      "fetchedAt": "2026-05-20T08:01:01.072Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-19T11:40:50.161Z",
+      "fetchedAt": "2026-05-20T08:01:02.471Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-19T11:40:51.020Z",
+      "fetchedAt": "2026-05-20T08:01:03.331Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-19T11:40:51.313Z",
+      "fetchedAt": "2026-05-20T08:01:03.802Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-19T11:40:52.033Z",
+      "fetchedAt": "2026-05-20T08:01:04.401Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +194,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-19T11:40:54.712Z",
+      "fetchedAt": "2026-05-20T08:01:07.929Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-19T11:40:56.417Z",
+      "fetchedAt": "2026-05-20T08:01:10.229Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-19T11:40:56.620Z",
+      "fetchedAt": "2026-05-20T08:01:10.402Z",
       "ok": true,
       "error": null,
       "source": {
