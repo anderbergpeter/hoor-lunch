@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-21T08:07:45.250Z",
+  "generatedAt": "2026-05-21T11:49:13.241Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-21T08:07:21.700Z",
+      "fetchedAt": "2026-05-21T11:48:41.485Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-21T08:07:22.929Z",
+      "fetchedAt": "2026-05-21T11:48:42.331Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-21T08:07:23.668Z",
+      "fetchedAt": "2026-05-21T11:48:43.286Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-21T08:07:27.282Z",
+      "fetchedAt": "2026-05-21T11:48:47.509Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-21T08:07:32.629Z",
+      "fetchedAt": "2026-05-21T11:48:52.788Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-21T08:07:38.589Z",
+      "fetchedAt": "2026-05-21T11:48:57.968Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-21T08:07:39.219Z",
+      "fetchedAt": "2026-05-21T11:48:58.939Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-21T08:07:40.412Z",
+      "fetchedAt": "2026-05-21T11:49:02.251Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-21T08:07:41.346Z",
+      "fetchedAt": "2026-05-21T11:49:03.111Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-21T08:07:41.821Z",
+      "fetchedAt": "2026-05-21T11:49:04.096Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,25 +177,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-21T08:07:42.477Z",
-      "ok": false,
-      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+      "fetchedAt": "2026-05-21T11:49:05.088Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/restaurang/"
+        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-21-SVE-1.pdf"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
-        "url": "https://elisefarm.se/restaurang/"
+        "url": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-21-SVE-1.pdf",
+        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Mörbakad svensk fläskkarré med  barbecuesås, rostad majs, potatis, melon-  och gurksalsa med chili och koriander,  rostade sesamfrön  Tisdag  Örtbakad sejfilé med ris, citrongräs-  och chilimajonnäs, dillpanko, kokos-  och limevelouté, jordnötter, pak choi  och morot  Onsdag  Lammfärsbiffar med fetaost, picklad röd  spetskål, myntamarinerad gurka,  potatispuré, harissayoghurt  Torsdag  Menuierstekt fisk med dill- och  vitvinssås, syrad gurka, potatisstomp,  rostad pumpakärnsemulsion, rostad  butternutpumpa  Fredag  Cordon Bleu på kyckling med vitvinssky,  potatis, haricot verte, svamp, purjolök,  citronemulsion  Veckans vegetariska  Honungsgratinerad chevré med  saltrostade valnötter, rödbetshummus,  ruccola balsamico e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 21  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00 Lördag  Varmrätt 225kr  Stekt svensk pluma med pepparsky,  basilikaemulsion, jordgubb- och  chilichutney, timjanbakad palsternacka,  potatiskaka, friterad lök  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-21T08:07:42.965Z",
+      "fetchedAt": "2026-05-21T11:49:09.022Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-21T08:07:44.716Z",
+      "fetchedAt": "2026-05-21T11:49:11.185Z",
       "ok": true,
       "error": null,
       "source": {
@@ -229,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-21T08:07:44.783Z",
+      "fetchedAt": "2026-05-21T11:49:12.526Z",
       "ok": true,
       "error": null,
       "source": {
