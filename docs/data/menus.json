@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-22T16:31:29.720Z",
+  "generatedAt": "2026-05-23T08:36:03.416Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-22T16:31:01.296Z",
+      "fetchedAt": "2026-05-23T08:35:33.042Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 21 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 18/5 Lunch: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 19/5 Lunch: Kyckling i gröncurry med kokos, morot, paprika, blomkål, Pak Choi, rostade cashewnötter, jasminris Vegetarisk: Tofu i gröncurry med kokos, morot, paprika, blomkål rostade cashewnötter, jasminris Onsdag 20/5 Lunch: Ugnsbakad kolja, tomat och saffransås, aioli, räkor, kokt färskpotatis, bakad fänkål Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Torsdag 21/5 Lunch: Ugnsbakad kalkonlårfilé, potatisstomp, salviagräddsås, svartvinbärsgelé, gröna bönor Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Fredag 22/5 Lunch: Rimmad oxbringa, rostade rotfrukter, picklad rödlök, färskpotatis, senaps crème Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Lördag 23/5 Lunch: Kalvfärsbiffar, brynt smör, gröna ärtor, rårörda lingon, potatispuré Vegetarisk: Vegetariska Wallenbergare, brynt smör, gröna ärtor, rårörda lingon, potatispuré Söndag 24/5 Lunch: Panko panerad spätta, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Bakad portabello, soltorkad tomat, fröer, grana padana A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med någo"
+        "text": "Lunchmeny v. 21 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 18/5 Lunch: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 19/5 Lunch: Kyckling i gröncurry med kokos, morot, paprika, blomkål, Pak Choi, rostade cashewnötter, jasminris Vegetarisk: Tofu i gröncurry med kokos, morot, paprika, blomkål rostade cashewnötter, jasminris Onsdag 20/5 Lunch: Ugnsbakad kolja, tomat och saffransås, aioli, räkor, kokt färskpotatis, bakad fänkål Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Torsdag 21/5 Lunch: Ugnsbakad kalkonlårfilé, potatisstomp, salviagräddsås, svartvinbärsgelé, gröna bönor Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Fredag 22/5 Lunch: Rimmad oxbringa, rostade rotfrukter, picklad rödlök, färskpotatis, senaps crème Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Lördag 23/5 Lunch: Kalvfärsbiffar, brynt smör, gröna ärtor, rårörda lingon, potatispuré Vegetarisk: Vegetariska Wallenbergare, brynt smör, gröna ärtor, rårörda lingon, potatispuré Söndag 24/5 Lunch: Panko panerad spätta, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Bakad portabello, soltorkad tomat, fröer, grana padana Lunchmeny v. 22 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 25/5 Lunch"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-22T16:31:02.478Z",
+      "fetchedAt": "2026-05-23T08:35:33.719Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-22T16:31:03.216Z",
+      "fetchedAt": "2026-05-23T08:35:34.363Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-22T16:31:06.322Z",
+      "fetchedAt": "2026-05-23T08:35:37.417Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-22T16:31:12.740Z",
+      "fetchedAt": "2026-05-23T08:35:43.327Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-22T16:31:19.186Z",
+      "fetchedAt": "2026-05-23T08:35:52.101Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-22T16:31:19.762Z",
+      "fetchedAt": "2026-05-23T08:35:52.650Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-22T16:31:21.916Z",
+      "fetchedAt": "2026-05-23T08:35:55.093Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-22T16:31:22.444Z",
+      "fetchedAt": "2026-05-23T08:35:56.183Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-22T16:31:22.765Z",
+      "fetchedAt": "2026-05-23T08:35:57.028Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-22T16:31:23.395Z",
+      "fetchedAt": "2026-05-23T08:35:57.635Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +194,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-22T16:31:26.434Z",
+      "fetchedAt": "2026-05-23T08:36:01.113Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-22T16:31:28.483Z",
+      "fetchedAt": "2026-05-23T08:36:02.792Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-22T16:31:29.245Z",
+      "fetchedAt": "2026-05-23T08:36:02.946Z",
       "ok": true,
       "error": null,
       "source": {
