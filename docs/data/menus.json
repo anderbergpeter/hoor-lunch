@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-23T08:36:03.416Z",
+  "generatedAt": "2026-05-25T08:45:28.362Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-23T08:35:33.042Z",
+      "fetchedAt": "2026-05-25T08:44:47.485Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 21 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 18/5 Lunch: Dansk fläskestek, rödkål, äppelkompott, stekt potatis, gräddsås Vegetarisk: Linsgryta, tomat, kapris, oliver, crèmefraiche, vitlöks krutonger Tisdag 19/5 Lunch: Kyckling i gröncurry med kokos, morot, paprika, blomkål, Pak Choi, rostade cashewnötter, jasminris Vegetarisk: Tofu i gröncurry med kokos, morot, paprika, blomkål rostade cashewnötter, jasminris Onsdag 20/5 Lunch: Ugnsbakad kolja, tomat och saffransås, aioli, räkor, kokt färskpotatis, bakad fänkål Vegetarisk: Frittata med svamp, zucchini, lök, spenat, ost och örtcrème Torsdag 21/5 Lunch: Ugnsbakad kalkonlårfilé, potatisstomp, salviagräddsås, svartvinbärsgelé, gröna bönor Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Fredag 22/5 Lunch: Rimmad oxbringa, rostade rotfrukter, picklad rödlök, färskpotatis, senaps crème Vegetarisk: Vegetarisk lasagne, tomat och mozzarellasallad Lördag 23/5 Lunch: Kalvfärsbiffar, brynt smör, gröna ärtor, rårörda lingon, potatispuré Vegetarisk: Vegetariska Wallenbergare, brynt smör, gröna ärtor, rårörda lingon, potatispuré Söndag 24/5 Lunch: Panko panerad spätta, tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Bakad portabello, soltorkad tomat, fröer, grana padana Lunchmeny v. 22 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 25/5 Lunch"
+        "text": "Lunchmeny v. 22 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 25/5 Lunch: Sesam och teriyakibakad kycklinglårfilé med basmatiris, chili och limecrème, mangochutney Vegetarisk: Sesam och teriyakibakad tofu med basmatiris, chili och limecrème, mangochutney Tisdag 26/5 Lunch: Helstekt karré med rostad vitlökspotatis, tzatziki, grekisk sallad Vegetarisk: Oumph gyros med rostad vitlökspotatis, tzatziki, grekisk sallad Onsdag 27/5 Lunch: Ugngrillad sej med franska ärter, pepparrot, brynt smör, krasse, citron Vegetarisk: Hel bakad blomkål med parmesan, chimichurri, rostade fröer Torsdag 28/5 Lunch: Pannbiff med löksauté, saltgurka, färsk potatis, skysås, rårörda lingon Vegetarisk: Morot och panoummi biffar med löksauté, örtcrème, färsk potatis Fredag 29/5 Lunch: Krämig högrevsgryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Vegetarisk: Vegetarisk gryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Lördag 30/6 Lunch: Fläskfilé med nässelpesto, gnocchi, rostade sommargrönsaker, grana padano Vegetarisk: Quorn med gnocchi, nässelpesto, rostade sommargrönsaker, grana padano Söndag 31/5 SMAKER FRÅN ÅKERSBERG A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar oc"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-23T08:35:33.719Z",
+      "fetchedAt": "2026-05-25T08:44:48.527Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - ONS 20/5 2026\nDAGENS - FRE 22/5 2026\nIdag firar vi fredag här på Rälsen med Stekt Kycklingfilé med Potatismos och Rälsens Dragonsås🥰🌞🌞🌞🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - MÅN 25/5 2026\nHelstekt Fläskytterfilé med Vitvins- och - Gräslöksås med kokt potatis och Stekta gröna bönor bjuds det idag vänner. Och Solsken I långa banor🌞🌞🌞.\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-23T08:35:34.363Z",
+      "fetchedAt": "2026-05-25T08:44:49.394Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,14 +48,14 @@
       "week": null,
       "raw": {
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/05/dagens-v21-2026-pdf.jpg",
-        "ocrText": "TA\nLi\nSS na\nMmm Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12.år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris (50:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG:  Färsbiff, gräddsås, lingon, potatis & pressgurka\nONSDAG: Kyckling iröd curry med basmatiris\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillad karré, örtereme & rostad potatis. .\nLÖRDAG: Grillad karré, örtereme & rostad potatis. Alt. Äggakaka med\nstekt fläsk & lingon (225:-)\nVEG Blomkålsteak, tryffelcreme, picklad rödlök & rostade kikärtor\nsms Pg TSE == i;\nmy\nf HÖÖRS\nHOT )E a aah\nFa ANNO 1692\nFER Saugfoarogård\n”Poka på 0413-220 10 Stör infochoorsgastis.se"
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/05/dagens-v22-2026-pdf.jpg",
+        "ocrText": "1 TINIOL vu 99\na Se AN Vin om VW\nSS IULUINYUIT VAG\nMä Vår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:\nTisdag- Fredag kl. 11.30-13.30 Pris I50:-\nLördag 12-14 Pris I75:- Välkomna!\nTISDAG: — Fläskfilé, rödvinssky, potatis & gröna bönor\nONSDAG: Köttfärslimpa, svampsås, kokt potatis & vinbärsgelé\nORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Tonkatsu (schnitzel), ris, sriracha mayo & pressgurka\nLÖRDAG: Tonkatsu (schnitzel), ris, sriracha mayo & pressgurka\nAlternativ: Äggakaka med stekt fläsk & lingon (225:-)\nVEG Rökt tofu, stekt potatis, gröna bönor, svamp & sojasås\nsem PER TSTE— = = i\n1 ÅN HÖÖRS\nua Sc\nK anno NEG 1692\nRen = Gätgfvarcgård\nEka på 0413-220 10 Slför infoshoorsgastis.se"
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-23T08:35:37.417Z",
+      "fetchedAt": "2026-05-25T08:44:53.617Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-23T08:35:43.327Z",
+      "fetchedAt": "2026-05-25T08:45:03.284Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-23T08:35:52.101Z",
+      "fetchedAt": "2026-05-25T08:45:14.555Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-23T08:35:52.650Z",
+      "fetchedAt": "2026-05-25T08:45:15.505Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-23T08:35:55.093Z",
+      "fetchedAt": "2026-05-25T08:45:17.277Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-23T08:35:56.183Z",
+      "fetchedAt": "2026-05-25T08:45:18.566Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-23T08:35:57.028Z",
+      "fetchedAt": "2026-05-25T08:45:19.378Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,24 +177,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-23T08:35:57.635Z",
+      "fetchedAt": "2026-05-25T08:45:20.302Z",
       "ok": true,
       "error": null,
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-21-SVE-1.pdf"
+        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-22-SVE.pdf"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-21-SVE-1.pdf",
-        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Mörbakad svensk fläskkarré med  barbecuesås, rostad majs, potatis, melon-  och gurksalsa med chili och koriander,  rostade sesamfrön  Tisdag  Örtbakad sejfilé med ris, citrongräs-  och chilimajonnäs, dillpanko, kokos-  och limevelouté, jordnötter, pak choi  och morot  Onsdag  Lammfärsbiffar med fetaost, picklad röd  spetskål, myntamarinerad gurka,  potatispuré, harissayoghurt  Torsdag  Menuierstekt fisk med dill- och  vitvinssås, syrad gurka, potatisstomp,  rostad pumpakärnsemulsion, rostad  butternutpumpa  Fredag  Cordon Bleu på kyckling med vitvinssky,  potatis, haricot verte, svamp, purjolök,  citronemulsion  Veckans vegetariska  Honungsgratinerad chevré med  saltrostade valnötter, rödbetshummus,  ruccola balsamico e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 21  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00 Lördag  Varmrätt 225kr  Stekt svensk pluma med pepparsky,  basilikaemulsion, jordgubb- och  chilichutney, timjanbakad palsternacka,  potatiskaka, friterad lök  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
+        "url": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-22-SVE.pdf",
+        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Helstekt svensk kotlettrad med café de  Parissmör, timjansky, sotad blomkål,  potatis, citron- och persiljeemulsion  Tisdag  Halstrad lax med kokt nypotatis, brynt  smör, vit sparrisemulsion, morotscrème,  rostad grön sparris, mandel  Onsdag  Kycklingrillette smaksatt med vitlök och  örter, kokt ris, pico de gallo, vitlöksaioli,  grillad zucchini  Torsdag  Stekt lubbfilé med sandefjordsås,  sockerärtor, ramslöksemulsion,  rädisor, dillkrisp, potatis  Fredag  Stekt p annbiff på oxe med karamelliserad  lök, plommongel, rökt dijonnaise, rostad  potatis, peppargräddsky  Veckans vegetariska  Ramslöksrisotto med rostade  marconamandlar, parmesan, bakad pumpa,  körsbärstomat e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 22  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Svensk tupp med chili- och  citronemulsion, rostad paprikasås,  potatisbrioche, timjanmarinerad  salladskål, bakad lök  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-23T08:36:01.113Z",
+      "fetchedAt": "2026-05-25T08:45:24.395Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-23T08:36:02.792Z",
+      "fetchedAt": "2026-05-25T08:45:26.809Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-23T08:36:02.946Z",
+      "fetchedAt": "2026-05-25T08:45:27.719Z",
       "ok": true,
       "error": null,
       "source": {
