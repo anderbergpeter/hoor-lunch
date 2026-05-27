@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-26T08:06:25.980Z",
+  "generatedAt": "2026-05-27T08:25:12.989Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-26T08:05:59.101Z",
+      "fetchedAt": "2026-05-27T08:24:46.397Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-26T08:05:59.863Z",
+      "fetchedAt": "2026-05-27T08:24:47.103Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - MÅN 25/5 2026\nHelstekt Fläskytterfilé med Vitvins- och - Gräslöksås med kokt potatis och Stekta gröna bönor bjuds det idag vänner. Och Solsken I långa banor🌞🌞🌞.\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - TIS 26/5 2026\nHärliga Pannbiffar med Dillstuvad Potatis bjuds det idag vänner!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-26T08:06:00.715Z",
+      "fetchedAt": "2026-05-27T08:24:47.957Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-26T08:06:03.842Z",
+      "fetchedAt": "2026-05-27T08:24:51.269Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-26T08:06:08.623Z",
+      "fetchedAt": "2026-05-27T08:24:57.363Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-26T08:06:13.707Z",
+      "fetchedAt": "2026-05-27T08:25:05.848Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-26T08:06:14.353Z",
+      "fetchedAt": "2026-05-27T08:25:06.302Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-26T08:06:15.769Z",
+      "fetchedAt": "2026-05-27T08:25:07.637Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-26T08:06:16.833Z",
+      "fetchedAt": "2026-05-27T08:25:08.559Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-26T08:06:17.170Z",
+      "fetchedAt": "2026-05-27T08:25:09.038Z",
       "ok": true,
       "error": null,
       "source": {
@@ -177,24 +177,25 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-26T08:06:17.930Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-05-27T08:25:09.942Z",
+      "ok": false,
+      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-22-SVE.pdf"
+        "pageUrl": "https://elisefarm.se/restaurang/"
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.-22-SVE.pdf",
-        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Helstekt svensk kotlettrad med café de  Parissmör, timjansky, sotad blomkål,  potatis, citron- och persiljeemulsion  Tisdag  Halstrad lax med kokt nypotatis, brynt  smör, vit sparrisemulsion, morotscrème,  rostad grön sparris, mandel  Onsdag  Kycklingrillette smaksatt med vitlök och  örter, kokt ris, pico de gallo, vitlöksaioli,  grillad zucchini  Torsdag  Stekt lubbfilé med sandefjordsås,  sockerärtor, ramslöksemulsion,  rädisor, dillkrisp, potatis  Fredag  Stekt p annbiff på oxe med karamelliserad  lök, plommongel, rökt dijonnaise, rostad  potatis, peppargräddsky  Veckans vegetariska  Ramslöksrisotto med rostade  marconamandlar, parmesan, bakad pumpa,  körsbärstomat e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 22  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00  Lördag  Varmrätt 225kr  Svensk tupp med chili- och  citronemulsion, rostad paprikasås,  potatisbrioche, timjanmarinerad  salladskål, bakad lök  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
+        "ok": false,
+        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+        "url": "https://elisefarm.se/restaurang/"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-26T08:06:23.110Z",
+      "fetchedAt": "2026-05-27T08:25:10.477Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,7 +212,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-26T08:06:25.045Z",
+      "fetchedAt": "2026-05-27T08:25:12.276Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,7 +229,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-26T08:06:25.415Z",
+      "fetchedAt": "2026-05-27T08:25:12.602Z",
       "ok": true,
       "error": null,
       "source": {
