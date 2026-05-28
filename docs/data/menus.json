@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-05-27T11:55:34.323Z",
+  "generatedAt": "2026-05-28T08:28:41.919Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-05-27T11:55:13.345Z",
+      "fetchedAt": "2026-05-28T08:26:04.568Z",
       "ok": true,
       "error": null,
       "source": {
@@ -16,13 +16,13 @@
       "week": null,
       "raw": {
         "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 22 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 25/5 Lunch: Sesam och teriyakibakad kycklinglårfilé med basmatiris, chili och limecrème, mangochutney Vegetarisk: Sesam och teriyakibakad tofu med basmatiris, chili och limecrème, mangochutney Tisdag 26/5 Lunch: Helstekt karré med rostad vitlökspotatis, tzatziki, grekisk sallad Vegetarisk: Oumph gyros med rostad vitlökspotatis, tzatziki, grekisk sallad Onsdag 27/5 Lunch: Ugngrillad sej med franska ärter, pepparrot, brynt smör, krasse, citron Vegetarisk: Hel bakad blomkål med parmesan, chimichurri, rostade fröer Torsdag 28/5 Lunch: Pannbiff med löksauté, saltgurka, färsk potatis, skysås, rårörda lingon Vegetarisk: Morot och panoummi biffar med löksauté, örtcrème, färsk potatis Fredag 29/5 Lunch: Krämig högrevsgryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Vegetarisk: Vegetarisk gryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Lördag 30/6 Lunch: Fläskfilé med nässelpesto, gnocchi, rostade sommargrönsaker, grana padano Vegetarisk: Quorn med gnocchi, nässelpesto, rostade sommargrönsaker, grana padano Söndag 31/5 SMAKER FRÅN ÅKERSBERG A la carte Köket serverar under måndag-lördag kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Med reservation för ändringar. Säsongsbetonade smaker med utvalda viner Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar oc"
+        "text": "Lunchmeny v. 22 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 25/5 Lunch: Sesam och teriyakibakad kycklinglårfilé med basmatiris, chili och limecrème, mangochutney Vegetarisk: Sesam och teriyakibakad tofu med basmatiris, chili och limecrème, mangochutney Tisdag 26/5 Lunch: Helstekt karré med rostad vitlökspotatis, tzatziki, grekisk sallad Vegetarisk: Oumph gyros med rostad vitlökspotatis, tzatziki, grekisk sallad Onsdag 27/5 Lunch: Ugngrillad sej med franska ärter, pepparrot, brynt smör, krasse, citron Vegetarisk: Hel bakad blomkål med parmesan, chimichurri, rostade fröer Torsdag 28/5 Lunch: Pannbiff med löksauté, saltgurka, färsk potatis, skysås, rårörda lingon Vegetarisk: Morot och panoummi biffar med löksauté, örtcrème, färsk potatis Fredag 29/5 Lunch: Krämig högrevsgryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Vegetarisk: Vegetarisk gryta med dijon, dragon, champinjoner, purjolök, persiljepotatis Lördag 30/6 Lunch: Fläskfilé med nässelpesto, gnocchi, rostade sommargrönsaker, grana padano Vegetarisk: Quorn med gnocchi, nässelpesto, rostade sommargrönsaker, grana padano Söndag 31/5 SMAKER FRÅN ÅKERSBERG Lunchmeny v. 23 Lunchmeny serveras Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Dagens lunch, vardagar 150kr, helger och röda dagar 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 1/6 Lunch: Stekt fläsk med löksås, kokt färskpotatis och rårörda lingon Vegetarisk: Pasta med svamp, edamamebönor, rucola, grana padana Tisd"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-05-27T11:55:14.039Z",
+      "fetchedAt": "2026-05-28T08:26:05.268Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT - TIS 26/5 2026\nHärliga Pannbiffar med Dillstuvad Potatis bjuds det idag vänner!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT - tors 28/5 2026\nRälsens Korv Stroganoff bjuds det idag vänner!🌞🌞🌞\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-05-27T11:55:14.608Z",
+      "fetchedAt": "2026-05-28T08:26:06.122Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-05-27T11:55:17.844Z",
+      "fetchedAt": "2026-05-28T08:26:09.319Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-05-27T11:55:22.311Z",
+      "fetchedAt": "2026-05-28T08:26:13.032Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +91,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-05-27T11:55:27.119Z",
+      "fetchedAt": "2026-05-28T08:26:18.326Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-05-27T11:55:27.846Z",
+      "fetchedAt": "2026-05-28T08:26:18.927Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-05-27T11:55:29.213Z",
+      "fetchedAt": "2026-05-28T08:26:21.086Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-05-27T11:55:29.959Z",
+      "fetchedAt": "2026-05-28T08:26:22.796Z",
       "ok": true,
       "error": null,
       "source": {
@@ -160,9 +160,9 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-05-27T11:55:30.715Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-05-28T08:26:23.408Z",
+      "ok": false,
+      "error": "request to https://onuma.se/ failed, reason: connect ETIMEDOUT 185.76.64.223:443",
       "source": {
         "type": "generic-html",
         "url": "https://onuma.se/",
@@ -170,14 +170,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://onuma.se/",
-        "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nNr.21 Rödcurry gryta\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Ghäng Kiao Wan.\nGryta med grönsaker, bambuskott, kokosmjölk o"
+        "ok": false,
+        "error": "request to https://onuma.se/ failed, reason: connect ETIMEDOUT 185.76.64.223:443",
+        "url": "https://onuma.se/"
       }
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-05-27T11:55:31.434Z",
+      "fetchedAt": "2026-05-28T08:28:39.008Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -195,7 +196,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-05-27T11:55:31.952Z",
+      "fetchedAt": "2026-05-28T08:28:39.490Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +213,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-05-27T11:55:33.643Z",
+      "fetchedAt": "2026-05-28T08:28:41.320Z",
       "ok": true,
       "error": null,
       "source": {
@@ -229,7 +230,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-05-27T11:55:33.837Z",
+      "fetchedAt": "2026-05-28T08:28:41.410Z",
       "ok": true,
       "error": null,
       "source": {
