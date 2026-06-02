@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-01T14:37:33.881Z",
+  "generatedAt": "2026-06-02T08:52:01.576Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-01T14:36:57.846Z",
+      "fetchedAt": "2026-06-02T08:51:27.313Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-01T14:36:58.614Z",
+      "fetchedAt": "2026-06-02T08:51:28.090Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT -MÅN 1/6 2026\nRälsens Köttfärslåda med potatis, Kryddsymfoni och Grädde bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT -TIS 2/6 2026\nHawaiikassler- Kassler I sötsur sås med ananas och grönsaker bjuds det idag som Dagens vänner. Eller härliga Mackor o gofika. Och så lite solsken på det🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-01T14:36:59.485Z",
+      "fetchedAt": "2026-06-02T08:51:29.217Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-01T14:37:02.885Z",
+      "fetchedAt": "2026-06-02T08:51:33.901Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-01T14:37:10.952Z",
+      "fetchedAt": "2026-06-02T08:51:41.205Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,24 +91,23 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-01T14:37:19.336Z",
-      "ok": false,
-      "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
+      "fetchedAt": "2026-06-02T08:51:48.767Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "kreta-html",
         "url": "https://pizzeriakreta.se/meny/"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
-        "url": "https://pizzeriakreta.se/meny/"
+        "url": "https://pizzeriakreta.se/meny/",
+        "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis"
       }
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-01T14:37:19.868Z",
+      "fetchedAt": "2026-06-02T08:51:49.625Z",
       "ok": true,
       "error": null,
       "source": {
@@ -126,7 +125,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-01T14:37:21.223Z",
+      "fetchedAt": "2026-06-02T08:51:52.524Z",
       "ok": true,
       "error": null,
       "source": {
@@ -144,7 +143,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-01T14:37:22.287Z",
+      "fetchedAt": "2026-06-02T08:51:53.461Z",
       "ok": true,
       "error": null,
       "source": {
@@ -161,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-01T14:37:23.463Z",
+      "fetchedAt": "2026-06-02T08:51:54.216Z",
       "ok": true,
       "error": null,
       "source": {
@@ -178,25 +177,24 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-01T14:37:24.400Z",
-      "ok": false,
-      "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
+      "fetchedAt": "2026-06-02T08:51:55.001Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "elisefarm-pdf",
         "url": "https://elisefarm.se/restaurang/",
-        "pageUrl": "https://elisefarm.se/restaurang/"
+        "pageUrl": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.23-SVE.pdf"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
-        "url": "https://elisefarm.se/restaurang/"
+        "url": "https://elisefarm.se/wp-content/uploads/2026/05/Lunch-v.23-SVE.pdf",
+        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Rimmad oxbringa med pepparrotssås,  ångad morot, potatis, ört- och  senapscrème fraiche, riven pepparrot  Tisdag  Halstrad lax med rödbetscrème,  basilikaemulsion, silverlök,  mandelcrumble, potatis  Onsdag  Kalvfärsbiffar med dijon och örter med  dragongräddsås, potatispuré, syrad gurka,  rårörda lingon, gröna ärtor  Torsdag  Bakad fisk med tomatsås, aioli,  krutonger, potatis, syrad fänkål,  handskalade räkor  Fredag  Citronmarinerad majskyckling med  blomkålscrème, kapris, persiljepotatis,  citronsky, bakad persiljerot  Veckans vegetariska  Bakad spetskål med parmesancrème,  saltrostade hasselnötter, brynt smör,  smörbönscrème, citronmarinerad morot e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 23  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras kl. 11:30-15:00 Lördag  Varmrätt 225kr  Helstekt entrecôte med bordelaisesås,  broccolini, rostad vitlöksemulsion, friterad  potatis, bakad tomat  Söndag  Brunch 425kr  Njut av vår omtalade brunch på  Elisefarm varje söndag. Vi serverar  säsongsbetonade rätter, lagade från  grunden med lokala råvaror.  hemgjorda sötsaker  två chokladtryfflar 35 kr | biskvi 45 kr |   glaserad chokladtårta 55 kr  morotskaka vit chokladcrème 55 kr | chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr"
       }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-01T14:37:24.999Z",
+      "fetchedAt": "2026-06-02T08:51:58.108Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +211,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-01T14:37:26.992Z",
+      "fetchedAt": "2026-06-02T08:51:59.990Z",
       "ok": true,
       "error": null,
       "source": {
@@ -230,9 +228,9 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-01T14:37:33.290Z",
-      "ok": false,
-      "error": "request to https://eddisgrill.se/ failed, reason: ",
+      "fetchedAt": "2026-06-02T08:52:00.870Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "generic-html",
         "url": "https://eddisgrill.se/",
@@ -240,9 +238,8 @@
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "request to https://eddisgrill.se/ failed, reason: ",
-        "url": "https://eddisgrill.se/"
+        "url": "https://eddisgrill.se/",
+        "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill"
       }
     }
   ]
