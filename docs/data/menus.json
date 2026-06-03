@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-03T09:13:18.795Z",
+  "generatedAt": "2026-06-03T12:56:24.892Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-03T09:12:53.141Z",
+      "fetchedAt": "2026-06-03T12:55:57.869Z",
       "ok": false,
       "error": "page_fetch_failed:415",
       "source": {
@@ -23,7 +23,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-03T09:12:53.959Z",
+      "fetchedAt": "2026-06-03T12:55:58.500Z",
       "ok": true,
       "error": null,
       "source": {
@@ -39,7 +39,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-03T09:12:55.462Z",
+      "fetchedAt": "2026-06-03T12:55:59.638Z",
       "ok": true,
       "error": null,
       "source": {
@@ -56,7 +56,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-03T09:12:59.634Z",
+      "fetchedAt": "2026-06-03T12:56:03.186Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -74,7 +74,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-03T09:13:06.276Z",
+      "fetchedAt": "2026-06-03T12:56:10.940Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -92,7 +92,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-03T09:13:11.169Z",
+      "fetchedAt": "2026-06-03T12:56:18.826Z",
       "ok": false,
       "error": "page_fetch_failed:503",
       "source": {
@@ -109,7 +109,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-03T09:13:12.064Z",
+      "fetchedAt": "2026-06-03T12:56:19.517Z",
       "ok": false,
       "error": "wp_api_failed:415",
       "source": {
@@ -128,7 +128,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-03T09:13:12.661Z",
+      "fetchedAt": "2026-06-03T12:56:20.092Z",
       "ok": false,
       "error": "wp_api_failed:415",
       "source": {
@@ -147,7 +147,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-03T09:13:13.397Z",
+      "fetchedAt": "2026-06-03T12:56:20.932Z",
       "ok": true,
       "error": null,
       "source": {
@@ -164,7 +164,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-03T09:13:14.094Z",
+      "fetchedAt": "2026-06-03T12:56:21.717Z",
       "ok": true,
       "error": null,
       "source": {
@@ -181,7 +181,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-03T09:13:14.909Z",
+      "fetchedAt": "2026-06-03T12:56:22.783Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -199,7 +199,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-03T09:13:15.639Z",
+      "fetchedAt": "2026-06-03T12:56:23.391Z",
       "ok": false,
       "error": "page_fetch_failed:415",
       "source": {
@@ -217,7 +217,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-03T09:13:16.672Z",
+      "fetchedAt": "2026-06-03T12:56:23.926Z",
       "ok": true,
       "error": null,
       "source": {
@@ -234,7 +234,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-03T09:13:17.938Z",
+      "fetchedAt": "2026-06-03T12:56:24.209Z",
       "ok": false,
       "error": "page_fetch_failed:503",
       "source": {
