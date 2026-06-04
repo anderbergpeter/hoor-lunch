@@ -1,29 +1,28 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-03T12:56:24.892Z",
+  "generatedAt": "2026-06-04T08:38:27.330Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-03T12:55:57.869Z",
-      "ok": false,
-      "error": "page_fetch_failed:415",
+      "fetchedAt": "2026-06-04T08:37:50.759Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "akersberg-html",
         "url": "https://akersberg.se/mat-dryck/"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "page_fetch_failed:415",
-        "url": "https://akersberg.se/mat-dryck/"
+        "url": "https://akersberg.se/mat-dryck/",
+        "text": "Lunchmeny v. 23 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 1/6 Lunch: Stekt fläsk med löksås, kokt färskpotatis och rårörda lingon Vegetarisk: Pasta med svamp, edamamebönor, rucola, grana padana Tisdag 2/6 Lunch: Helstekt kotlett med rostade rotfrukter, sky, ost och timjancrème, tomat och löksallad Vegetarisk: Stekt pannoumi med rostade rotfrukter, sky, ost och timjancrème, tomat och löksallad Onsdag 3/6 Lunch: Havets Wallenbergare med potatispuré, skirat smör, gröna ärtor och rårörda lingon Vegetarisk: Grillad aubergine med humus, fetaost och tomatsallad Torsdag 4/6 Lunch: Köttfärslimpa med soltorkadtomat och fetaost, ljummen couscoussallad och gremolatayoghurt Vegetarisk: Vegetariska biffar med soltorkadtomat och fetaost, ljummen couscoussallad och gremolatayoghurt Fredag 5/6 Lunch: Cajunkryddad kyckling med friterad potatis, grillade grönsaker, lime och vitlökssås Vegetarisk: Cajunkryddad Quorn med friterad potatis, grillade grönsaker, lime och vitlökssås Lördag 6/6 Lunch: Schnitzel med krämig nypotatissallad, brynt kapris, gräslöksmör, citron Vegetarisk: Selleri Schnitzel med krämig nypotatissallad, brynt kapris, gräslöksmör, citron Söndag 7/6 Lunch: Ugnsbakad fisk med hackat ägg, vitvinssås, smörstekta rädisor, kokt potatis Vegetarisk: Krämig polenta med bakade tomater, granapadana, örtsallad, mandel Lunchmeny v. 24 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Mån"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-03T12:55:58.500Z",
+      "fetchedAt": "2026-06-04T08:37:51.842Z",
       "ok": true,
       "error": null,
       "source": {
@@ -33,13 +32,13 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT -ONS 3/6 2026\nEn härlig Baconfylld Köttfärslimpa med Gräddsås och kokt/ stekt potatis kan man njuta av som Dagens idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT -TORS 4/6\nRälsens Kyckling Curry gryta med bl.a Röd Curry, Ingefära, Vitlök, Chili, Lime, kokos, etc med ris till bjuds det idag vänner.\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-03T12:55:59.638Z",
+      "fetchedAt": "2026-06-04T08:37:52.996Z",
       "ok": true,
       "error": null,
       "source": {
@@ -56,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-03T12:56:03.186Z",
+      "fetchedAt": "2026-06-04T08:37:56.588Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -74,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-03T12:56:10.940Z",
+      "fetchedAt": "2026-06-04T08:38:07.921Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -92,9 +91,9 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-03T12:56:18.826Z",
+      "fetchedAt": "2026-06-04T08:38:19.164Z",
       "ok": false,
-      "error": "page_fetch_failed:503",
+      "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
       "source": {
         "type": "kreta-html",
         "url": "https://pizzeriakreta.se/meny/"
@@ -102,16 +101,16 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "page_fetch_failed:503",
+        "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
         "url": "https://pizzeriakreta.se/meny/"
       }
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-03T12:56:19.517Z",
-      "ok": false,
-      "error": "wp_api_failed:415",
+      "fetchedAt": "2026-06-04T08:38:19.592Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "wp-api",
         "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
@@ -120,17 +119,16 @@
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "wp_api_failed:415",
-        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages"
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
+        "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny"
       }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-03T12:56:20.092Z",
-      "ok": false,
-      "error": "wp_api_failed:415",
+      "fetchedAt": "2026-06-04T08:38:21.213Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "wp-api",
         "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
@@ -139,15 +137,14 @@
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "wp_api_failed:415",
-        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages"
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
+        "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning"
       }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-03T12:56:20.932Z",
+      "fetchedAt": "2026-06-04T08:38:22.343Z",
       "ok": true,
       "error": null,
       "source": {
@@ -164,7 +161,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-03T12:56:21.717Z",
+      "fetchedAt": "2026-06-04T08:38:23.101Z",
       "ok": true,
       "error": null,
       "source": {
@@ -181,7 +178,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-03T12:56:22.783Z",
+      "fetchedAt": "2026-06-04T08:38:24.135Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -199,9 +196,9 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-03T12:56:23.391Z",
-      "ok": false,
-      "error": "page_fetch_failed:415",
+      "fetchedAt": "2026-06-04T08:38:24.574Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "generic-html",
         "url": "https://hardys.nu/",
@@ -209,15 +206,14 @@
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "page_fetch_failed:415",
-        "url": "https://hardys.nu/"
+        "url": "https://hardys.nu/",
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nNu är det dags att starta upp Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!"
       }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-03T12:56:23.926Z",
+      "fetchedAt": "2026-06-04T08:38:26.574Z",
       "ok": true,
       "error": null,
       "source": {
@@ -234,9 +230,9 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-03T12:56:24.209Z",
+      "fetchedAt": "2026-06-04T08:38:26.872Z",
       "ok": false,
-      "error": "page_fetch_failed:503",
+      "error": "request to https://eddisgrill.se/ failed, reason: ",
       "source": {
         "type": "generic-html",
         "url": "https://eddisgrill.se/",
@@ -245,7 +241,7 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "page_fetch_failed:503",
+        "error": "request to https://eddisgrill.se/ failed, reason: ",
         "url": "https://eddisgrill.se/"
       }
     }
