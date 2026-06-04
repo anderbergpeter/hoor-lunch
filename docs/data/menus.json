@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-04T08:38:27.330Z",
+  "generatedAt": "2026-06-04T11:34:42.496Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-04T08:37:50.759Z",
+      "fetchedAt": "2026-06-04T11:34:12.015Z",
       "ok": true,
       "error": null,
       "source": {
@@ -22,7 +22,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-04T08:37:51.842Z",
+      "fetchedAt": "2026-06-04T11:34:12.709Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-04T08:37:52.996Z",
+      "fetchedAt": "2026-06-04T11:34:13.438Z",
       "ok": true,
       "error": null,
       "source": {
@@ -55,7 +55,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-04T08:37:56.588Z",
+      "fetchedAt": "2026-06-04T11:34:15.921Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +73,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-04T08:38:07.921Z",
+      "fetchedAt": "2026-06-04T11:34:24.326Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,9 +91,9 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-04T08:38:19.164Z",
+      "fetchedAt": "2026-06-04T11:34:32.986Z",
       "ok": false,
-      "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
+      "error": "page_fetch_failed:503",
       "source": {
         "type": "kreta-html",
         "url": "https://pizzeriakreta.se/meny/"
@@ -101,14 +101,14 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
+        "error": "page_fetch_failed:503",
         "url": "https://pizzeriakreta.se/meny/"
       }
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-04T08:38:19.592Z",
+      "fetchedAt": "2026-06-04T11:34:33.931Z",
       "ok": true,
       "error": null,
       "source": {
@@ -126,7 +126,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-04T08:38:21.213Z",
+      "fetchedAt": "2026-06-04T11:34:36.601Z",
       "ok": true,
       "error": null,
       "source": {
@@ -144,7 +144,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-04T08:38:22.343Z",
+      "fetchedAt": "2026-06-04T11:34:37.851Z",
       "ok": true,
       "error": null,
       "source": {
@@ -161,7 +161,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-04T08:38:23.101Z",
+      "fetchedAt": "2026-06-04T11:34:38.597Z",
       "ok": true,
       "error": null,
       "source": {
@@ -178,7 +178,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-04T08:38:24.135Z",
+      "fetchedAt": "2026-06-04T11:34:39.337Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -196,7 +196,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-04T08:38:24.574Z",
+      "fetchedAt": "2026-06-04T11:34:39.761Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-04T08:38:26.574Z",
+      "fetchedAt": "2026-06-04T11:34:41.647Z",
       "ok": true,
       "error": null,
       "source": {
@@ -230,9 +230,9 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-04T08:38:26.872Z",
+      "fetchedAt": "2026-06-04T11:34:41.824Z",
       "ok": false,
-      "error": "request to https://eddisgrill.se/ failed, reason: ",
+      "error": "page_fetch_failed:503",
       "source": {
         "type": "generic-html",
         "url": "https://eddisgrill.se/",
@@ -241,7 +241,7 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "request to https://eddisgrill.se/ failed, reason: ",
+        "error": "page_fetch_failed:503",
         "url": "https://eddisgrill.se/"
       }
     }
