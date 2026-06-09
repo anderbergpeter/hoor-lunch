@@ -1,28 +1,29 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-08T12:47:00.621Z",
+  "generatedAt": "2026-06-09T08:06:20.842Z",
   "sourcesUpdatedAt": "2026-04-07T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-08T12:46:32.349Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-06-09T08:05:59.072Z",
+      "ok": false,
+      "error": "page_fetch_failed:415",
       "source": {
         "type": "akersberg-html",
         "url": "https://akersberg.se/mat-dryck/"
       },
       "week": null,
       "raw": {
-        "url": "https://akersberg.se/mat-dryck/",
-        "text": "Lunchmeny v. 24 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 8/6 Lunch: Pytt Bellman, gräddsås, stekt ägg, saltgurka, inlagda rödbetor, persilja, Dijon crème Vegetarisk: Vegetarisk Pytt Bellman, gräddsås, stekt ägg, saltgurka, persilja Tisdag 9/6 Lunch: Karré med kimchi fried rice, soja och chilimajonnäs, böngroddar, salladslök, chili picklad gurka, rostade jordnötter Vegetarisk: Tofu med kimchi fried rice, soja och chilimajonnäs, böngroddar, salladslök, chili picklad gurka, rostade jordnötter Onsdag 10/6 Lunch: Gremolata bakad fisk, hummersås, fänkålscrudite, dillpotatis Vegetarisk: Gremolata stekt sommarkål, yoghurtcrème, dillpotatis, hasselnötter Torsdag 11/6 Lunch: Krämig kyckling, champinjoner, purjolök, timjan, soltorkade tomater, potatispuré Vegetarisk: Bakad Quorn, champinjoner, purjolök, timjan, soltorkade tomater, potatispuré Fredag 12/6 Lunch: Dijon och pankostekt kotlett, dill och citronstuvad spetskål, rostad färskpotatis Vegetarisk: Dijon och pankostekt aubergine, dill och citronstuvad spetskål, rostad färskpotatis Lördag 13/6 Lunch: Ört fylld porchetta med röd pesto, ljummen potatissallad, rucola Vegetarisk: Fylld zucchini med röd pesto, ljummen potatissallad, rucola Söndag 14/6 Lunch: Ugnsbakad lax, färsk potatis, caesardressing, bakad fänkål, grillad tomat Vegetarisk: Tortellini med stekta grönsaker, pesto, grana padano A la carte Köket serverar måndag-lördag, kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Säsongsbetonade smaker med utvalda viner. Med reservation för ändringar. Boka bord Åkersbergs signaturmeny -1195 kr Champagne och "
+        "ok": false,
+        "error": "page_fetch_failed:415",
+        "url": "https://akersberg.se/mat-dryck/"
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-08T12:46:33.096Z",
+      "fetchedAt": "2026-06-09T08:06:00.340Z",
       "ok": true,
       "error": null,
       "source": {
@@ -32,30 +33,26 @@
       "week": null,
       "raw": {
         "url": "https://www.caferalsen.se/var-meny/",
-        "text": "DAGENS RÄTT -MÅN 8/6 2026\nRälsens Kotlettgryta med örter, Persilja och grädde i sällskap av kokt potatis bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
+        "text": "DAGENS RÄTT -TIS 9/6 2026\nKöttbullar med Currysås och ris bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!"
       }
     },
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-08T12:46:33.881Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-06-09T08:06:01.402Z",
+      "ok": false,
+      "error": "request to https://hoorsgastis.se/restaurang/lunch/ failed, reason: ",
       "source": {
         "type": "gastis-image",
         "pageUrl": "https://hoorsgastis.se/restaurang/lunch/"
       },
       "week": null,
-      "raw": {
-        "pageUrl": "https://hoorsgastis.se/restaurang/lunch/",
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/06/dagens-v24-2026-1-pdf-300x300.jpg",
-        "ocrText": "SN LUNCH v.24\nSR LUNU VA\nämm vårtråscha kaffe & ka un 3-12år,8\nTisdag-Fredag kl. I.30-13.30 Pris I50:-\nlördag 12-14 Pria 175:- Välkomna!\nsoaG: Kyckling, gräddig persilje & dlonsås med rostad potatis\nONSDAG: Fläskschnitzel, rödvinsky, potatis, örtsmör, ärtor & citron\nJRSDAC SARA KENESDNR IRANIER\nLÖRDAG: räder siren, på ve AT min\nAltemativ: Åggakaga med stekt fläsk & lingon (225)\nvEG Risotto, grön pesto, rostade nötter, bakad tomat & parmesan\nEN 4\n1 1 ardörsa\nslik og\nfo VV a SG Ren\nER rna"
-      }
+      "raw": null
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-08T12:46:37.757Z",
+      "fetchedAt": "2026-06-09T08:06:02.478Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -73,7 +70,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-08T12:46:43.867Z",
+      "fetchedAt": "2026-06-09T08:06:07.072Z",
       "ok": false,
       "error": "facebook_all_attempts_failed",
       "source": {
@@ -91,7 +88,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-08T12:46:50.821Z",
+      "fetchedAt": "2026-06-09T08:06:13.973Z",
       "ok": false,
       "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
       "source": {
@@ -108,9 +105,9 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-08T12:46:51.223Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-06-09T08:06:14.619Z",
+      "ok": false,
+      "error": "wp_api_failed:415",
       "source": {
         "type": "wp-api",
         "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
@@ -119,16 +116,17 @@
       },
       "week": null,
       "raw": {
-        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages",
-        "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny"
+        "ok": false,
+        "error": "wp_api_failed:415",
+        "url": "https://hoor.pizzeriavikingen.se/wp-json/wp/v2/pages"
       }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-08T12:46:54.014Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-06-09T08:06:15.302Z",
+      "ok": false,
+      "error": "wp_api_failed:415",
       "source": {
         "type": "wp-api",
         "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
@@ -137,14 +135,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages",
-        "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning"
+        "ok": false,
+        "error": "wp_api_failed:415",
+        "url": "https://xn--mrtenpizzeria-pfb.se/wp-json/wp/v2/pages"
       }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-08T12:46:54.932Z",
+      "fetchedAt": "2026-06-09T08:06:16.153Z",
       "ok": true,
       "error": null,
       "source": {
@@ -161,7 +160,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-08T12:46:55.494Z",
+      "fetchedAt": "2026-06-09T08:06:16.841Z",
       "ok": true,
       "error": null,
       "source": {
@@ -178,7 +177,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-08T12:46:56.235Z",
+      "fetchedAt": "2026-06-09T08:06:18.684Z",
       "ok": false,
       "error": "request to https://elisefarm.se/restaurang/ failed, reason: ",
       "source": {
@@ -196,9 +195,9 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-08T12:46:57.003Z",
-      "ok": true,
-      "error": null,
+      "fetchedAt": "2026-06-09T08:06:19.222Z",
+      "ok": false,
+      "error": "page_fetch_failed:415",
       "source": {
         "type": "generic-html",
         "url": "https://hardys.nu/",
@@ -206,14 +205,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://hardys.nu/",
-        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nNu är det dags att starta upp Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!"
+        "ok": false,
+        "error": "page_fetch_failed:415",
+        "url": "https://hardys.nu/"
       }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-08T12:46:58.849Z",
+      "fetchedAt": "2026-06-09T08:06:19.932Z",
       "ok": true,
       "error": null,
       "source": {
@@ -230,7 +230,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-08T12:47:00.221Z",
+      "fetchedAt": "2026-06-09T08:06:20.140Z",
       "ok": false,
       "error": "request to https://eddisgrill.se/ failed, reason: ",
       "source": {
