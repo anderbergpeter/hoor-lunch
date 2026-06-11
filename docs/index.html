@@ -237,11 +237,11 @@ function blueprintScoreLine(line){
   // Växtprotein (quorn, oumph, tofu, tempeh, falafel, bönbiff)
   if (/(quorn|oumph|tofu|tempeh|falafel|bönbiff|växtbaserad|vegansk)/.test(s)) add(+14, 'växtprotein');
   // Fullkorn – i måttlig mängd positivt
-  if (/(quinoa|fullkorn|råg|havre|bulgur|bovete)/.test(s)) add(+8, 'fullkorn');
-  // Fisk – bra protein, omega-3 (särskilt lax, sill, makrill)
-  if (/(fisk|lax|torsk|kummel|kolja|regnbåge|sejfilé|sej|sill|sardiner|makrill|abborre)/.test(s)) add(+10, 'fisk');
+  if (/(quinoa|fullkorn|råg|havre|bulgur|bovete)/.test(s)) add(+5, 'fullkorn');
+  // Fisk – äts EJ i Blueprint (helt växtbaserat), men mindre avvikelse än kött
+  if (/(fisk|lax|torsk|kummel|kolja|regnbåge|sejfilé|sej|sill|sardiner|makrill|abborre|skaldjur|räk|musslor)/.test(s)) add(-5, 'fisk (ej Blueprint)');
   // Bär – polyfenolrika, Blueprint-favorit
-  if (/(blåbär|hallon|jordgubb|lingon|bär\b)/.test(s)) add(+5, 'bär');
+  if (/(blåbär|hallon|jordgubb|lingon|bär\b)/.test(s)) add(+8, 'bär');
   // Vitlök & ingefära – dagliga Blueprint-ingredienser
   if (/(vitlök|ingefära|gurkmeja)/.test(s)) add(+5, 'vitlök/ingefära');
   // Avokado – bra fett
@@ -256,8 +256,10 @@ function blueprintScoreLine(line){
   if (/(bacon|korv|köttbullar?|pannbiff|kebab|salami|skinka)/.test(s)) add(-18, 'processat kött');
   // Rött kött – uteslutet i Blueprint
   if (/(nötfärs|nötkött|biff|entrecôte|entrecote|oxfilé|oxkött|kalv|lamm|fläsk|karré|revben|ryggbiff|högrev|bog\b)/.test(s) && !/(bönbiff)/.test(s)) add(-14, 'rött kött');
-  // Kyckling/fågel – mestadels undvikt
-  if (/(kyckling|kalkon|tupp|anka|fågel|höns)/.test(s)) add(-6, 'fågel');
+  // Kyckling/fågel – utesluten i Blueprint
+  if (/(kyckling|kalkon|tupp|anka|fågel|höns)/.test(s)) add(-9, 'fågel');
+  // Ägg – uteslutet i Blueprint
+  if (/(\bägg\b|äggakaga|äggröra|omelett|stekt ägg|kokt ägg|pocherat ägg)/.test(s)) add(-7, 'ägg');
   // Tung mejeri – grädde, créme (helt uteslutet i Blueprint)
   if (/(grädd|cream|beurre|cr[eè]me|béarnaise|hollandaise)/.test(s)) add(-12, 'tung mejeri');
   // Smör / ost / lätt mejeri – garnering (mindre negativt)
@@ -674,7 +676,7 @@ function render(results, q='') {
       ...(r.linkOnly ? [] : [el('details', { class: 'why' }, [
         el('summary', {}, ['Varför denna score? (klicka)']),
         el('div', { class: 'subtle', style: 'margin-top:.5rem' }, [
-          'Score är en heuristik mot Bryan Johnsons Blueprint-stil (näringstäta råvaror, mycket grönsaker/baljväxter, minimalt processat, lite socker).'
+          'Score är en heuristik mot Bryan Johnsons Blueprint-protokoll: 100% = helt i linje med vad han äter (växtbaserat: baljväxter, grönsaker, svamp, nötter/frön, bär, olivolja), fallande för allt som avviker (kött, fisk, ägg, mejeri, friterat, socker, raffinerade kolhydrater).'
         ]),
         ...(scored.length
           ? scored.map(x => el('div', { class: 'subtle', style: 'margin-top:.35rem' }, [

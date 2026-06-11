@@ -182,11 +182,9 @@
       "id": "ringsjo-wardshus",
       "name": "Ringsjö Krog & Wärdshus",
       "address": "Stenskogen Stenlycke 202, Höör",
-      "source": {
-        "type": "link-only",
-        "pageUrl": "https://www.ringsjowardshus.love/",
-        "note": "Menyn finns inte maskinläsbar online – se webbplatsen"
-      }
+      "active": false,
+      "hasLunch": false,
+      "note": "Serverar ej lunch"
     },
     {
       "id": "jernkallaren",
