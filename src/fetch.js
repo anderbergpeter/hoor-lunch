@@ -52,11 +52,11 @@ function withTimeout(promise, ms, label) {
 }
 
 // Run an adapter with one retry on failure/exception.
-async function runAdapter(label, fn) {
+async function runAdapter(label, fn, timeoutMs = ADAPTER_TIMEOUT_MS) {
   let last = null;
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
-      const out = await withTimeout(fn(), ADAPTER_TIMEOUT_MS, label);
+      const out = await withTimeout(fn(), timeoutMs, label);
       if (out?.ok) return out;
       last = out;
     } catch (err) {
@@ -76,6 +76,7 @@ import { fetchWpApiMenu } from './adapters/wpapi.js';
 import { fetchEatsmartMenu } from './adapters/eatsmart.js';
 import { fetchGenericMenu } from './adapters/generic.js';
 import { fetchElisefarmMenu } from './adapters/elisefarm.js';
+import { fetchFacebookApifyMenu } from './adapters/facebookApify.js';
 
 function adapterFor(p) {
   const type = p.source?.type;
@@ -89,6 +90,8 @@ function adapterFor(p) {
       return () => fetchRalsenMenu({ url: p.source.url });
     case 'facebook':
       return () => fetchFacebookMenu({ pageUrl: p.source.pageUrl });
+    case 'facebook-apify':
+      return () => fetchFacebookApifyMenu({ pageUrl: p.source.pageUrl, scrapeUrl: p.source.scrapeUrl });
     case 'kreta-html':
       return () => fetchKretaMenu({ url: p.source.url });
     case 'wp-api':
@@ -143,7 +146,7 @@ async function buildMenus(sources, previous) {
     }
 
     console.log(`Fetching ${p.id}...`);
-    const out = await runAdapter(p.id, adapter);
+    const out = await runAdapter(p.id, adapter, p.source.timeoutMs || ADAPTER_TIMEOUT_MS);
 
     if (out?.ok) {
       results.push({
@@ -154,7 +157,8 @@ async function buildMenus(sources, previous) {
           pdfUrl: out.pdfUrl || null,
           imageUrl: out.imageUrl || null,
           text: out.text || null,
-          ocrText: out.ocrText || null
+          ocrText: out.ocrText || null,
+          postedAt: out.postedAt || null
         }
       });
       continue;
@@ -166,6 +170,18 @@ async function buildMenus(sources, previous) {
     if (prev?.ok && !prev.linkOnly && prevAge < STALE_MAX_AGE_MS) {
       console.warn(`  ${p.id}: fetch failed (${out?.error}), reusing previous result from ${prev.fetchedAt}`);
       results.push({ ...prev, source: p.source || prev.source, stale: true, staleError: out?.error || null });
+      continue;
+    }
+
+    // Sources with a link fallback degrade to a plain link card instead of an error.
+    if (p.source.fallback === 'link' && p.source.pageUrl) {
+      console.warn(`  ${p.id}: fetch failed (${out?.error}), falling back to link-only card`);
+      results.push({
+        ...base,
+        ok: true,
+        linkOnly: true,
+        raw: { url: p.source.pageUrl, note: p.source.note || null }
+      });
       continue;
     }
 

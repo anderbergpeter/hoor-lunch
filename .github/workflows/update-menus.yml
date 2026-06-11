@@ -41,6 +41,8 @@ jobs:
 
       - name: Fetch menus
         run: npm run fetch
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
 
       - name: Copy menus into GitHub Pages folder
         run: |

@@ -461,6 +461,21 @@ function parseElisefarm(text){
   return Object.keys(out).length ? out : null;
 }
 
+function parseDaySections(text){
+  var dayRe = /(m\u00e5ndag|tisdag|onsdag|torsdag|fredag|l\u00f6rdag|s\u00f6ndag)\s*[:\-.]?/gi;
+  var matches = [];
+  var m;
+  while ((m = dayRe.exec(text))) matches.push({ day: m[1].toUpperCase(), idx: m.index, end: m.index + m[0].length });
+  if (matches.length < 2) return null;
+  var out = {};
+  for (var i = 0; i < matches.length; i++) {
+    var bodyEnd = (i + 1 < matches.length) ? matches[i + 1].idx : text.length;
+    var body = text.slice(matches[i].end, bodyEnd).replace(/\s+/g, ' ').trim();
+    if (body.length > 3 && !out[matches[i].day]) out[matches[i].day] = body;
+  }
+  return Object.keys(out).length >= 2 ? out : null;
+}
+
 function pickToday(r, now){
   if (r.linkOnly) {
     return { today: null, week: null, note: (r.raw && r.raw.note) || 'Menyn finns p\u00e5 restaurangens egen sida \u2013 f\u00f6lj l\u00e4nken' };
@@ -557,6 +572,32 @@ function pickToday(r, now){
       }
       return { today: todayDish || null, week: weekParts.join(String.fromCharCode(10) + String.fromCharCode(10)) || text, note: note };
     }
+  }
+
+  if (sourceType === 'facebook-apify') {
+    var fbDays = parseDaySections(text);
+    if (fbDays && wdUpper && fbDays[wdUpper]) {
+      var fbWeekParts = [];
+      var fbKeys = Object.keys(fbDays);
+      for (var fi = 0; fi < fbKeys.length; fi++) {
+        fbWeekParts.push(fbKeys[fi][0] + fbKeys[fi].slice(1).toLowerCase() + ': ' + fbDays[fbKeys[fi]]);
+      }
+      return { today: fbDays[wdUpper], week: fbWeekParts.join(String.fromCharCode(10)), note: null };
+    }
+    // No day structure: if the post is from today, treat the whole post as today's menu.
+    var postedAt = r.raw && r.raw.postedAt ? r.raw.postedAt : null;
+    var postedYmd = null;
+    if (postedAt) {
+      try {
+        var pp = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Stockholm', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date(postedAt));
+        postedYmd = pp;
+      } catch (e) { postedYmd = null; }
+    }
+    if (postedYmd && postedYmd === now.ymd) {
+      return { today: text, week: null, note: null };
+    }
+    var postedNote = postedAt ? 'Senaste Facebook-inl\u00e4gget (' + (postedYmd || '') + ') \u2013 kan vara \u00e4ldre \u00e4n idag' : 'Senaste Facebook-inl\u00e4gget \u2013 datum ok\u00e4nt';
+    return { today: null, week: text, note: postedNote };
   }
 
   return { today: null, week: text, note: null };

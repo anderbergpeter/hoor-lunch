@@ -37,9 +37,12 @@
       "name": "Tai's restaurang",
       "address": "Friluftsvägen 14, Höör",
       "source": {
-        "type": "link-only",
+        "type": "facebook-apify",
         "pageUrl": "https://www.facebook.com/profile.php?id=100054351798414",
-        "note": "Lunchmenyn publiceras på Facebook och kan inte hämtas automatiskt"
+        "scrapeUrl": "https://www.facebook.com/p/Tais-restaurang-100054351798414/",
+        "fallback": "link",
+        "timeoutMs": 240000,
+        "note": "Lunchmenyn publiceras på Facebook"
       }
     },
     {
@@ -47,9 +50,11 @@
       "name": "Café Old Fashion Höör",
       "address": "Storgatan 29, Höör",
       "source": {
-        "type": "link-only",
+        "type": "facebook-apify",
         "pageUrl": "https://www.facebook.com/cafeoldfashion/",
-        "note": "Lunchmenyn publiceras på Facebook/Instagram och kan inte hämtas automatiskt"
+        "fallback": "link",
+        "timeoutMs": 240000,
+        "note": "Lunchmenyn publiceras på Facebook/Instagram"
       }
     },
     {
