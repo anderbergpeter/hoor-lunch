@@ -9,6 +9,8 @@ import fetch from 'node-fetch';
 const ACTOR_ENDPOINT = 'https://api.apify.com/v2/acts/apify~facebook-posts-scraper/run-sync-get-dataset-items';
 
 const LUNCH_RE = /(dagens|lunch|meny|veckans|vecka\s*\d)/i;
+// Strong menu signal: avoids false positives from posts that merely hashtag #lunch.
+const MENU_RE = /(dagens\s*(rätt|lunch)|lunchmeny|veckans\s*(lunch|meny|rätt)|vecka\s*\d|lunch\s*v\.?\s*\d)/i;
 const DAY_RE = /(måndag|tisdag|onsdag|torsdag|fredag|lördag|söndag)/i;
 
 function dedupe(arr) {
@@ -50,7 +52,9 @@ export function collectImageUrls(obj, out = []) {
 export function pickLunchTextPost(items) {
   for (const it of items) {
     const text = postText(it);
-    if (text.length > 60 && LUNCH_RE.test(text) && (DAY_RE.test(text) || text.length > 120)) {
+    const dayCount = new Set((text.toLowerCase().match(/(måndag|tisdag|onsdag|torsdag|fredag|lördag|söndag)/g) || [])).size;
+    if ((MENU_RE.test(text) && text.length > 30)
+        || (LUNCH_RE.test(text) && dayCount >= 3 && text.length > 60)) {
       return it;
     }
   }
@@ -79,7 +83,7 @@ export async function fetchFacebookApifyMenu({ pageUrl, scrapeUrl, token = proce
     body: JSON.stringify({
       startUrls: [{ url: scrapeUrl || pageUrl }],
       resultsLimit: 6,
-      onlyPostsNewerThan: '14 days'
+      onlyPostsNewerThan: '30 days'
     })
   });
 
