@@ -11,6 +11,10 @@ on:
     - cron: '0 14 * * 5'
     # Saturday 08:30 Europe/Stockholm (fresh weekend data)
     - cron: '30 6 * * 6'
+    # Sunday 08:30 Europe/Stockholm (weekend menus, e.g. MAT & KaKa helgmeny)
+    - cron: '30 6 * * 0'
+    # Monday 12:30 Europe/Stockholm (extra retry - many places publish the new week late Monday morning)
+    - cron: '30 10 * * 1'
 
 permissions:
   contents: write
