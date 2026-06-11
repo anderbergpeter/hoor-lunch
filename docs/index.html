@@ -179,9 +179,18 @@ function el(tag, attrs={}, children=[]) {
 
 function safeText(x){ return (x == null) ? '' : String(x); }
 
-function statusBadge(ok, error) {
-  const dot = el('span', { class: 'dot ' + (ok ? 'ok' : 'bad') });
-  const label = ok ? 'OK' : (error || 'fel');
+function statusBadge(r) {
+  if (r.linkOnly) {
+    const dot = el('span', { class: 'dot' });
+    return el('span', { class: 'badge', title: 'Menyn kan inte l\u00e4sas automatiskt \u2013 f\u00f6lj l\u00e4nken' }, [dot, 'L\u00e4nk']);
+  }
+  if (r.ok && r.stale) {
+    const dot = el('span', { class: 'dot ok' });
+    const when = r.fetchedAt ? new Date(r.fetchedAt).toLocaleString('sv-SE') : 'ok\u00e4nt';
+    return el('span', { class: 'badge', title: 'Senaste h\u00e4mtning misslyckades \u2013 visar data fr\u00e5n ' + when }, [dot, 'OK (\u00e4ldre data)']);
+  }
+  const dot = el('span', { class: 'dot ' + (r.ok ? 'ok' : 'bad') });
+  const label = r.ok ? 'OK' : (r.error || 'fel');
   return el('span', { class: 'badge', title: label }, [dot, label]);
 }
 
@@ -453,6 +462,9 @@ function parseElisefarm(text){
 }
 
 function pickToday(r, now){
+  if (r.linkOnly) {
+    return { today: null, week: null, note: (r.raw && r.raw.note) || 'Menyn finns p\u00e5 restaurangens egen sida \u2013 f\u00f6lj l\u00e4nken' };
+  }
   if (!r.ok) {
     if ((r.error || '').includes('facebook')) {
       return { today: null, week: null, note: 'Menyn finns bara p\u00e5 Facebook och kan inte h\u00e4mtas automatiskt. Bes\u00f6k restaurangens Facebook-sida.' };
@@ -594,7 +606,7 @@ function render(results, q='') {
         el('div', { class: 'titleRow' }, [
           el('strong', {}, [title]),
           asLink(src),
-          statusBadge(r.ok, r.error),
+          statusBadge(r),
           ...(hasToday ? [el('span', { class: 'todayPill', title: 'Har tydlig dagens lunch' }, ['IDAG'])] : []),
           ...(bestScore != null ? [scoreBadge(bestScore)] : [])
         ]),
@@ -618,7 +630,7 @@ function render(results, q='') {
         )
       ]),
 
-      el('details', { class: 'why' }, [
+      ...(r.linkOnly ? [] : [el('details', { class: 'why' }, [
         el('summary', {}, ['Varför denna score? (klicka)']),
         el('div', { class: 'subtle', style: 'margin-top:.5rem' }, [
           'Score är en heuristik mot Bryan Johnsons Blueprint-stil (näringstäta råvaror, mycket grönsaker/baljväxter, minimalt processat, lite socker).'
@@ -630,12 +642,12 @@ function render(results, q='') {
             ]))
           : [el('div', { class: 'subtle', style: 'margin-top:.35rem' }, ['Ingen scoring (saknar tydliga rader).'])]
         )
-      ]),
+      ])]),
 
-      el('details', { class: 'week' }, [
+      ...(r.linkOnly ? [] : [el('details', { class: 'week' }, [
         el('summary', {}, ['Resten av veckan / detaljer']),
         el('pre', { class: 'menu' }, [picked.week || normalizeMenuText(r) || ''])
-      ])
+      ])])
     ]);
 
     root.appendChild(details);

@@ -17,7 +17,8 @@ app.use('/data', express.static(path.join(__dirname, '..', 'data'), {
   maxAge: '60s'
 }));
 
-app.use('/', express.static(path.join(__dirname, '..', 'web')));
+// Serve the same files as GitHub Pages so local dev matches production.
+app.use('/', express.static(path.join(__dirname, '..', 'docs')));
 
 app.listen(PORT, () => {
   console.log(`hoor-lunch listening on http://127.0.0.1:${PORT}`);
