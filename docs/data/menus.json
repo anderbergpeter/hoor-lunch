@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-14T10:07:34.820Z",
+  "generatedAt": "2026-06-15T10:43:37.474Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-14T10:02:10.173Z",
+      "fetchedAt": "2026-06-15T10:42:25.525Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "Lunchmeny v. 24 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 8/6 Lunch: Pytt Bellman, gräddsås, stekt ägg, saltgurka, inlagda rödbetor, persilja, Dijon crème Vegetarisk: Vegetarisk Pytt Bellman, gräddsås, stekt ägg, saltgurka, persilja Tisdag 9/6 Lunch: Karré med kimchi fried rice, soja och chilimajonnäs, böngroddar, salladslök, chili picklad gurka, rostade jordnötter Vegetarisk: Tofu med kimchi fried rice, soja och chilimajonnäs, böngroddar, salladslök, chili picklad gurka, rostade jordnötter Onsdag 10/6 Lunch: Gremolata bakad fisk, hummersås, fänkålscrudite, dillpotatis Vegetarisk: Gremolata stekt sommarkål, yoghurtcrème, dillpotatis, hasselnötter Torsdag 11/6 Lunch: Krämig kyckling, champinjoner, purjolök, timjan, soltorkade tomater, potatispuré Vegetarisk: Bakad Quorn, champinjoner, purjolök, timjan, soltorkade tomater, potatispuré Fredag 12/6 Lunch: Dijon och pankostekt kotlett, dill och citronstuvad spetskål, rostad färskpotatis Vegetarisk: Dijon och pankostekt aubergine, dill och citronstuvad spetskål, rostad färskpotatis Lördag 13/6 Lunch: Ört fylld porchetta med röd pesto, ljummen potatissallad, rucola Vegetarisk: Fylld zucchini med röd pesto, ljummen potatissallad, rucola Söndag 14/6 Lunch: Ugnsbakad lax, färsk potatis, caesardressing, bakad fänkål, grillad tomat Vegetarisk: Tortellini med stekta grönsaker, pesto, grana padano Lunchmeny v. 25 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsva",
+        "text": "Lunchmeny v. 25 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 15/6 Lunch: Ugnsbakad kalkonlårfilé, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: Ugnsbakad spetskål, ratatouille, rostad potatis, fetaost, kapris, oliver Tisdag 16/6 Lunch: Honungsglaserad fläsksida, BBQ sås, friterad färskpotatis, rostad majs, coleslaw Vegetarisk: Friterad pannoumi, BBQ sås, coleslaw, friterad potatis Onsdag 17/6 Lunch: Panerad spätta, gubbröra, brynt smör, dillslungad färskpotatis, crudité på rädisor och gulbetor Vegetarisk: Vegetarisk lasagne med tomat, zucchini, mozzarella, ruccolasallad Torsdag 18/6 Lunch: Stekt Glennkorv med bacon, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Vegetarisk: Stekt vegetarisk korv, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Fredag 19/6 Stängt Lördag 20/6 Stängt Söndag 21/6 Stängt A la carte Köket serverar måndag-lördag, kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Säsongsbetonade smaker med utvalda viner. Med reservation för ändringar. Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter Välj en eller flera Pilgrimsmussla Kallrökt kammussla med äpple, dillolja, pepparrot och citronmeliss Laxtartar Laxtartar med yuzupuré, gräslöksolja, syrad sås och crudité på gurka Blomkål Skummande blomkålssoppa med tryffelmarinerad blomkålscou",
         "ocrText": null,
         "postedAt": null
       }
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-14T10:02:11.009Z",
+      "fetchedAt": "2026-06-15T10:42:26.206Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT -FRE 12/6 2026\nPasta Carbonara bjuds det denna första fredag på barnens Sommarlov 🥰!\nUt och fånga livet i en fart alla små troll🥰!\nHjärtans Välkommen igen som vanligt i morgon torsdag🥰, och hoppas ni alla får en fin skolavslutning!\n/p&gt; Glöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT -MÅN 15/6 2026\nRälsens Pestokyckling med ris bjuds det idag vänner!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-14T10:02:12.395Z",
+      "fetchedAt": "2026-06-15T10:42:26.912Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-14T10:02:15.020Z",
+      "fetchedAt": "2026-06-15T10:42:29.302Z",
       "ok": true,
       "error": null,
       "source": {
@@ -105,12 +105,14 @@
         "text": null,
         "ocrText": "Grönt är Skönt🌺 Vår trädgård i Caféet Välkomnar att slå sej ner med en #gofika ,\n#frukost #lunchtime eller en #glass från vår #glasskiosk 🌺🌿🌺🌿🌺🌿🌺🌿\n\nPå Lördag 6e JUNI 🇸🇪  Har vi som vanligt\nÖppet 10-16 🇸🇪\nVarmt Välkommen 🌺🌿🌺🌿🌺\n\nSIE TR AES LC I VR KX\nRA 2 fe VA\nESS STR. aff)\nNA RR BR SN\nSL RR STR\n2 SET Å be bye ,\nFN EG\n; , Ch å Å A 3\nSN PrgRS RR RA\nARD\nAV fd a SNR JR\nST 2\npe É Lä RR SR\nösa NE ee SAL TAR\nLOV PTS SRS\n\n(ÄN ög SEEN SG äg\n> af aorin RER\nMR DD CER\n\nx 4 Sö j - z SE SIR\npå Ag - SARA\nfre ANGES NP STR ME\nSE SSE EE SÖAE  A\nLAST Orr ITEM MAR rg KANE AN",
         "postedAt": "2026-06-02T03:38:57.000Z"
-      }
+      },
+      "stale": true,
+      "staleError": "apify_no_lunch_post_found: ocr https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-hou1-1.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-14T10:03:21.052Z",
+      "fetchedAt": "2026-06-15T10:43:27.663Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-14T10:03:21.673Z",
+      "fetchedAt": "2026-06-15T10:43:28.230Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-14T10:03:23.085Z",
+      "fetchedAt": "2026-06-15T10:43:29.434Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-14T10:03:24.054Z",
+      "fetchedAt": "2026-06-15T10:43:30.634Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-13T09:43:49.144Z",
+      "fetchedAt": "2026-06-15T10:43:30.865Z",
       "ok": true,
       "error": null,
       "source": {
@@ -211,14 +213,12 @@
         "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nNr.21 Rödcurry gryta\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Ghäng Kiao Wan.\nGryta med grönsaker, bambuskott, kokosmjölk o",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "timeout_120000ms:onuma"
+      }
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-14T10:07:27.698Z",
+      "fetchedAt": "2026-06-15T10:43:31.418Z",
       "ok": true,
       "error": null,
       "source": {
@@ -239,7 +239,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-14T10:07:30.586Z",
+      "fetchedAt": "2026-06-15T10:43:33.890Z",
       "ok": true,
       "error": null,
       "source": {
@@ -260,7 +260,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-14T10:07:32.470Z",
+      "fetchedAt": "2026-06-15T10:43:35.792Z",
       "ok": true,
       "error": null,
       "source": {
@@ -281,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-14T10:07:33.913Z",
+      "fetchedAt": "2026-06-15T10:43:37.019Z",
       "ok": true,
       "error": null,
       "source": {
