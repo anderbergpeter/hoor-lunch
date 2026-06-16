@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-15T16:09:37.609Z",
+  "generatedAt": "2026-06-16T09:40:34.561Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-15T16:07:44.210Z",
+      "fetchedAt": "2026-06-16T09:39:17.865Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-15T16:07:44.828Z",
+      "fetchedAt": "2026-06-16T09:39:20.013Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT -MÅN 15/6 2026\nRälsens Pestokyckling med ris bjuds det idag vänner!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT -TIS 16/6 2026\nEn mustig Spagetti Bolognese bjuds det idag vänner!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-15T16:07:45.383Z",
+      "fetchedAt": "2026-06-16T09:39:20.974Z",
       "ok": true,
       "error": null,
       "source": {
@@ -56,9 +56,9 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/06/dagens-v24-2026-1.pdf",
+        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/06/dagens-v25-2026.pdf",
         "imageUrl": null,
-        "text": "LUNCH v. 24\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Kyckling, gräddig persilje & dijonsås med rostad potatis\nONSDAG: Fläskschnitzel, rödvinsky, potatis, örtsmör, ärtor & citron\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillbuffé\nLÖRDAG: Köttbullar i gräddsås, lingon, pressgurka & kokt potatis\nAlternativ: Äggakaga med stekt fläsk & lingon (225:-)\nVEG Risotto, grön pesto, rostade nötter, bakad tomat & parmesan\nBoka på 0413-220 10 eller info@hoorsgastis.se",
+        "text": "LUNCH v. 25\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Onsdag kl. 11.30-13.30 Pris 150:-\n(Torsdag Midsommarbuffeé Pris 175:-)\nTISDAG: Kyckling med ris och curry\nONSDAG: Pannbiff, löksky, kokt potatis & lingon\nTORSDAG: Midsommarbuffé, 175:-\nVEG Arrancini med parmesan & basilikacrème\nFREDAG - LÖRDAG: Stängt\nBoka på 0413-220 10 eller info@hoorsgastis.se",
         "ocrText": null,
         "postedAt": null
       }
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-15T16:07:47.230Z",
+      "fetchedAt": "2026-06-16T09:39:24.049Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,12 +107,12 @@
         "postedAt": "2026-06-02T03:38:57.000Z"
       },
       "stale": true,
-      "staleError": "apify_no_lunch_post_found: ocr https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-ord5-3.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
+      "staleError": "apify_no_lunch_post_found: ocr https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-atl3-3.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-15T16:09:28.424Z",
+      "fetchedAt": "2026-06-16T09:40:26.166Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-15T16:09:28.987Z",
+      "fetchedAt": "2026-06-16T09:40:26.734Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-15T16:09:30.200Z",
+      "fetchedAt": "2026-06-16T09:40:27.990Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-15T16:09:31.175Z",
+      "fetchedAt": "2026-06-16T09:40:28.590Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-15T16:09:31.645Z",
+      "fetchedAt": "2026-06-16T09:40:28.974Z",
       "ok": true,
       "error": null,
       "source": {
@@ -218,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-15T16:09:32.277Z",
+      "fetchedAt": "2026-06-16T09:40:29.565Z",
       "ok": true,
       "error": null,
       "source": {
@@ -239,7 +239,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-15T16:09:35.215Z",
+      "fetchedAt": "2026-06-16T09:40:32.115Z",
       "ok": true,
       "error": null,
       "source": {
@@ -260,7 +260,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-15T16:09:37.089Z",
+      "fetchedAt": "2026-06-16T09:40:33.871Z",
       "ok": true,
       "error": null,
       "source": {
@@ -281,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-15T16:09:37.202Z",
+      "fetchedAt": "2026-06-16T09:40:34.110Z",
       "ok": true,
       "error": null,
       "source": {
