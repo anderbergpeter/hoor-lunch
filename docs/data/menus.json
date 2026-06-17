@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-17T09:20:26.544Z",
+  "generatedAt": "2026-06-17T12:38:17.451Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-16T13:13:26.355Z",
+      "fetchedAt": "2026-06-17T12:36:43.469Z",
       "ok": true,
       "error": null,
       "source": {
@@ -21,14 +21,12 @@
         "text": "Lunchmeny v. 25 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 15/6 Lunch: Ugnsbakad kalkonlårfilé, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: Ugnsbakad spetskål, ratatouille, rostad potatis, fetaost, kapris, oliver Tisdag 16/6 Lunch: Honungsglaserad fläsksida, BBQ sås, friterad färskpotatis, rostad majs, coleslaw Vegetarisk: Friterad pannoumi, BBQ sås, coleslaw, friterad potatis Onsdag 17/6 Lunch: Panerad spätta, gubbröra, brynt smör, dillslungad färskpotatis, crudité på rädisor och gulbetor Vegetarisk: Vegetarisk lasagne med tomat, zucchini, mozzarella, ruccolasallad Torsdag 18/6 Lunch: Stekt Glennkorv med bacon, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Vegetarisk: Stekt vegetarisk korv, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Fredag 19/6 Stängt Lördag 20/6 Stängt Söndag 21/6 Stängt A la carte Köket serverar måndag-lördag, kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Säsongsbetonade smaker med utvalda viner. Med reservation för ändringar. Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter Välj en eller flera Pilgrimsmussla Kallrökt kammussla med äpple, dillolja, pepparrot och citronmeliss Laxtartar Laxtartar med yuzupuré, gräslöksolja, syrad sås och crudité på gurka Blomkål Skummande blomkålssoppa med tryffelmarinerad blomkålscou",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "page_fetch_failed:415"
+      }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-17T09:19:03.637Z",
+      "fetchedAt": "2026-06-17T12:36:44.279Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-17T09:19:04.469Z",
+      "fetchedAt": "2026-06-17T12:36:45.109Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-17T09:19:07.293Z",
+      "fetchedAt": "2026-06-17T12:36:47.747Z",
       "ok": true,
       "error": null,
       "source": {
@@ -109,12 +107,12 @@
         "postedAt": "2026-06-02T03:38:57.000Z"
       },
       "stale": true,
-      "staleError": "apify_no_lunch_post_found: ocr https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-mia3-2.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
+      "staleError": "apify_no_lunch_post_found: ocr https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-bos5-1.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-17T09:20:10.084Z",
+      "fetchedAt": "2026-06-17T12:38:05.875Z",
       "ok": true,
       "error": null,
       "source": {
@@ -134,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-16T13:14:37.081Z",
+      "fetchedAt": "2026-06-17T12:38:06.561Z",
       "ok": true,
       "error": null,
       "source": {
@@ -151,14 +149,12 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "wp_api_failed:415"
+      }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-16T13:14:38.278Z",
+      "fetchedAt": "2026-06-17T12:38:09.558Z",
       "ok": true,
       "error": null,
       "source": {
@@ -175,14 +171,12 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "wp_api_failed:415"
+      }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-17T09:20:18.180Z",
+      "fetchedAt": "2026-06-17T12:38:10.523Z",
       "ok": true,
       "error": null,
       "source": {
@@ -203,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-17T09:20:18.696Z",
+      "fetchedAt": "2026-06-17T12:38:11.139Z",
       "ok": true,
       "error": null,
       "source": {
@@ -224,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-17T09:20:19.376Z",
+      "fetchedAt": "2026-06-17T12:38:11.831Z",
       "ok": true,
       "error": null,
       "source": {
@@ -245,7 +239,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-16T13:14:42.487Z",
+      "fetchedAt": "2026-06-17T12:38:14.769Z",
       "ok": true,
       "error": null,
       "source": {
@@ -261,14 +255,12 @@
         "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nNu är det dags att starta upp Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "page_fetch_failed:415"
+      }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-17T09:20:25.740Z",
+      "fetchedAt": "2026-06-17T12:38:16.686Z",
       "ok": true,
       "error": null,
       "source": {
@@ -289,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-17T09:20:25.991Z",
+      "fetchedAt": "2026-06-17T12:38:16.895Z",
       "ok": true,
       "error": null,
       "source": {
