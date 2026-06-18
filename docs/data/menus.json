@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-17T12:38:17.451Z",
+  "generatedAt": "2026-06-18T09:01:03.439Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-17T12:36:43.469Z",
+      "fetchedAt": "2026-06-18T08:59:27.875Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-17T12:36:44.279Z",
+      "fetchedAt": "2026-06-18T08:59:28.533Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - ONS 17/6 2026\nRälsens härliga Pannbiffar med Potatisgratäng med Purjo och kryddsymfoni bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - TORS 18/6 2026\nEn härlig \"Rälsen- panna\" med bl.a rökt Fläskytterfilé, Svamp, Bacon och grädde bjuds det idag så här dagen innan Midsommarafton🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-17T12:36:45.109Z",
+      "fetchedAt": "2026-06-18T08:59:29.355Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-17T12:36:47.747Z",
+      "fetchedAt": "2026-06-18T08:59:31.278Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,12 +107,12 @@
         "postedAt": "2026-06-02T03:38:57.000Z"
       },
       "stale": true,
-      "staleError": "apify_no_lunch_post_found: ocr https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-bos5-1.xx.fbcdn.net/v/t51.71878-10/723931234_2080185225897020_1: no lunch text (6 chars) | ocr https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
+      "staleError": "apify_no_lunch_post_found: ocr https://scontent.fagc1-1.fna.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_: no lunch text (0 chars) | ocr https://scontent.fagc1-2.fna.fbcdn.net/v/t51.71878-10/723931234_2080185225897020: no lunch text (6 chars) | ocr https://scontent.fagc1-1.fna.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_: no lunch text (0 chars)"
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-17T12:38:05.875Z",
+      "fetchedAt": "2026-06-18T09:00:53.990Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-17T12:38:06.561Z",
+      "fetchedAt": "2026-06-18T09:00:54.455Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-17T12:38:09.558Z",
+      "fetchedAt": "2026-06-18T09:00:55.286Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-17T12:38:10.523Z",
+      "fetchedAt": "2026-06-18T09:00:57.075Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-17T12:38:11.139Z",
+      "fetchedAt": "2026-06-18T09:00:57.671Z",
       "ok": true,
       "error": null,
       "source": {
@@ -218,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-17T12:38:11.831Z",
+      "fetchedAt": "2026-06-18T09:00:58.406Z",
       "ok": true,
       "error": null,
       "source": {
@@ -239,7 +239,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-17T12:38:14.769Z",
+      "fetchedAt": "2026-06-18T09:01:01.074Z",
       "ok": true,
       "error": null,
       "source": {
@@ -260,7 +260,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-17T12:38:16.686Z",
+      "fetchedAt": "2026-06-18T09:01:02.843Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +273,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 25: 15-18 /5 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 13-14 juni se nedan:\nMidsommarmeny se nedan:\nDagens:\nMåndag:\nFläskpannkaka med rårörda lingon & spetskålsallad.\n​ ​\nTisdag:\nFläskytterfil&eacute; med gorgonzolasås, pressgurka & potatis .\n​\nOnsdag:\nOxrullad med senap & lök i tomatsås, serveras med .\n​\nTorsdag:\nKöttfärslimpa med gräddsås, potatis & rårörda lingon.\n​\nFredag:\n​\nse annan meny\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nMatjesill med kokt potatis, gräddfil, gräslök & rödlök. 175:-\nR estaurangen är öppen från 8,30\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\nHELGMENY 13-14 juni kl. 11,30-14,00\n​Rödtunga med räkor, kokt potatis & vit vinsås. 235kr\nFlankstek med potatis, ramslöksmarinerad sallad & sweetchilisås. 235kr\nRäksmörgås. 209kr\nCeasarsallad med bacon & varmrökt tupp eller räkor. 180kr/ 205kr.\nBakad potatis med grönsaksröra & syltad rödlök. 195Kr​\nMidsommarmeny 19-21 juni: 11,30-14,00\nKaffe ingår.\nSilltallrik med ägg & kokt potatis. 195kr\nVarmrökt lax med kokt potatis, sparrissallad & citron- dillsås. 240kr\nGrillad pluma med marinerad sallad och rostad potatis 225kr\nHögrevsburgare med pommes & coleslaw, 240 kr\nMatjesilltårta på grovt bröd med rädissallad. 195 kr\n( mindre rätt)\n​\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 25: 15-18 /6 kl; 11,30-13,30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 13-14 juni se nedan:\nMidsommarmeny se nedan:\nDagens:\nMåndag:\nFläskpannkaka med rårörda lingon & spetskålsallad.\n​ ​\nTisdag:\nFläskytterfil&eacute; med gorgonzolasås, pressgurka & potatis .\n​\nOnsdag:\nOxrullad med senap & lök i tomatsås, serveras med .\n​\nTorsdag:\nKöttfärslimpa med gräddsås, potatis & rårörda lingon.\n​\nFredag:\n​\nse annan meny\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nMatjesill med kokt potatis, gräddfil, gräslök & rödlök. 175:-\nR estaurangen är öppen från 8,30\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nMidsommarmeny 19-21 juni: 11,30-14,00\nKaffe ingår.\nSilltallrik med ägg & kokt potatis. 195kr\nVarmrökt lax med kokt potatis, sparrissallad & citron- dillsås. 240kr\nGrillad pluma med marinerad sallad och rostad potatis 225kr\nHögrevsburgare med pommes & coleslaw, 240 kr\nMatjesilltårta på grovt bröd med rädissallad. 195 kr\n( mindre rätt)\n​\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -281,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-17T12:38:16.895Z",
+      "fetchedAt": "2026-06-18T09:01:02.981Z",
       "ok": true,
       "error": null,
       "source": {
