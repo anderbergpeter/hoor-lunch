@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-19T16:36:23.872Z",
+  "generatedAt": "2026-06-20T09:51:34.406Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -21,12 +21,14 @@
         "text": "Lunchmeny v. 25 Måndag- fredag 11:30 &#8211; 13:30 Lördag, söndag och helgdagar 11:30 &#8211; 14:00 Vardagar &#8211; 150kr Helg & röda dagar &#8211; 185kr Dagens söta 95 kr I lunchmenyn ingår hembakad bröd, smör, salladsbuffé, bordsvatten, kaffe och liten kaka Måndag 15/6 Lunch: Ugnsbakad kalkonlårfilé, ratatouille, rostad potatis, fetaost, kapris, oliver Vegetarisk: Ugnsbakad spetskål, ratatouille, rostad potatis, fetaost, kapris, oliver Tisdag 16/6 Lunch: Honungsglaserad fläsksida, BBQ sås, friterad färskpotatis, rostad majs, coleslaw Vegetarisk: Friterad pannoumi, BBQ sås, coleslaw, friterad potatis Onsdag 17/6 Lunch: Panerad spätta, gubbröra, brynt smör, dillslungad färskpotatis, crudité på rädisor och gulbetor Vegetarisk: Vegetarisk lasagne med tomat, zucchini, mozzarella, ruccolasallad Torsdag 18/6 Lunch: Stekt Glennkorv med bacon, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Vegetarisk: Stekt vegetarisk korv, krämig potatissallad, senap, karamelliserad lök, bakade körsbärstomater Fredag 19/6 Stängt Lördag 20/6 Stängt Söndag 21/6 Stängt A la carte Köket serverar måndag-lördag, kl 16:30-20:30. Sitt gärna kvar längre eller mys i brasrummet. Säsongsbetonade smaker med utvalda viner. Med reservation för ändringar. Boka bord Åkersbergs signaturmeny -1195 kr Champagne och 10 g Baerii kaviar, 3 rätters middag, vinpaket, kaffe med något sött 3 rätters middag bestämts av köket Champagne och 10 g Baerii kaviar – 395 kr 1 glas champagne serveras med Baerii kaviar och snacks 10 g Baerii kaviar– 275 kr Rätter Välj en eller flera Pilgrimsmussla Kallrökt kammussla med äpple, dillolja, pepparrot och citronmeliss Laxtartar Laxtartar med yuzupuré, gräslöksolja, syrad sås och crudité på gurka Blomkål Skummande blomkålssoppa med tryffelmarinerad blomkålscou",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://akersberg.se/mat-dryck/ failed, reason: certificate has expired"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-19T16:35:08.249Z",
+      "fetchedAt": "2026-06-20T09:49:54.574Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-19T16:35:09.932Z",
+      "fetchedAt": "2026-06-20T09:49:55.866Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-19T16:35:12.276Z",
+      "fetchedAt": "2026-06-20T09:49:58.277Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-19T16:35:32.147Z",
+      "fetchedAt": "2026-06-20T09:50:22.381Z",
       "ok": true,
       "error": null,
       "source": {
@@ -122,12 +124,14 @@
         "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "page_fetch_failed:503"
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-19T16:36:11.296Z",
+      "fetchedAt": "2026-06-20T09:51:20.832Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +153,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-19T16:36:12.347Z",
+      "fetchedAt": "2026-06-20T09:51:22.146Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +175,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-19T16:36:13.739Z",
+      "fetchedAt": "2026-06-20T09:51:23.102Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +196,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-19T16:36:14.702Z",
+      "fetchedAt": "2026-06-20T09:51:23.588Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +217,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-19T12:33:35.593Z",
+      "fetchedAt": "2026-06-20T09:51:24.586Z",
       "ok": true,
       "error": null,
       "source": {
@@ -229,14 +233,12 @@
         "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Panerad kalvfärsbiff med rårörda lingon,  pressgurka, potatispuré, brynt smör,  gröna ärtor  Tisdag  Dagens fisk med rostad grön sparris,  dillslungad potatis, vitvinssås,  citronmarinerade räkor,  sparrisemulsion, surdegspangrattato  Onsdag  Mörbakad pluma med persiljevelouté, sotad  broccoli, gräddstuvad majs, rostad potatis,  picklad lök  Torsdag  Havets wallenbergare med rökt  dijonnaise, citrongel, potatis, rostad  blomkål, brynt smör, dillolja  Fredag  Matjes sill med nypotatis, brynt smör,  äggcrème, gräslök, citronsyrade rädisor,  smörslungad blomkål, gravad äggula,  surdegskrisp  Veckans vegetariska  Confiterad potatis med smör- och  kaprisslungade bönor, rostad  portabellosvamp, rökt morotscrème,  västerbottenostchips, , rostade  pumpakärnor e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 25  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras lördag och söndag kl. 11:30-15:00  225kr  Rostlock på kalv med tomatchutney,  pepparemulsion, rostad spetskål,  rödvinssås, friterad lök, potatisbrioche  hemgjorda sötsaker  T vå chokladtryfflar 35 kr | Biskvi 45 kr |  G laserad chokladtårta 55 kr  Morotskaka vit chokladcrème 55 kr |  Chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr  -Helgvarmrätt 225kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://elisefarm.se/restaurang/ failed, reason: "
+      }
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-19T16:36:19.608Z",
+      "fetchedAt": "2026-06-20T09:51:27.526Z",
       "ok": true,
       "error": null,
       "source": {
@@ -257,7 +259,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-19T16:36:21.712Z",
+      "fetchedAt": "2026-06-20T09:51:29.432Z",
       "ok": true,
       "error": null,
       "source": {
@@ -294,7 +296,9 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "page_fetch_failed:503"
     }
   ]
 }
