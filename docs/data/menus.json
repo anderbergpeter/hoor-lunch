@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-25T08:00:43.980Z",
+  "generatedAt": "2026-06-25T11:17:43.821Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-06-25T07:59:29.937Z",
+      "fetchedAt": "2026-06-25T11:16:40.585Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-25T07:59:30.598Z",
+      "fetchedAt": "2026-06-25T11:16:41.264Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - ONS 24/6 2026\nEn krämig Korvstroganoff med ris bjuds det som Dagens idag vänner, samt solsken, mackor av diverse slag, gofika, hemgjord glass och iskaffe för den som önskar🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - TORS 25/5 2026\nEn mustig Chilli Con Carne att njuta av i solen eller skuggan bjuds detv dag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-25T07:59:31.467Z",
+      "fetchedAt": "2026-06-25T11:16:42.914Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-25T07:59:33.376Z",
+      "fetchedAt": "2026-06-25T11:16:45.256Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-25T08:00:05.847Z",
+      "fetchedAt": "2026-06-25T11:17:11.222Z",
       "ok": true,
       "error": null,
       "source": {
@@ -101,7 +101,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1303869744802873/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0ghgAYfgTWYQ7kNvwHsxzn9&_nc_oc=AdrU8hAwrvTawWhI3tQERUxKYtotOc0LfKxoU5wxQ-cpR2X04wnx35W9opOqYHHUJAU&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=-enruStDdNO90aiq0n9tog&_nc_ss=72289&oh=00_Af_AJlZZiEsK8Q4T394bpGZN4Ze3j9K4DrIgqEN5CypH3Q&oe=6A42BB5B",
+        "imageUrl": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=0ghgAYfgTWYQ7kNvwGi5m4T&_nc_oc=AdpEgwm_ShQuvWpA4IThiJqZg3vIwwpLRMWmDjVJi0I3Ra-Z0bQOHRLmz7BViLU7_t0&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=qM7sCuAArUbTMZPl6ecPpg&_nc_ss=72289&oh=00_Af9-5gb53MTpWOOALs-CAPl5k7g2HVvPIZ0CRovTIvtbTw&oe=6A42F39B",
         "text": null,
         "ocrText": "Varmt Välkommen till Oss! Vi finns på Storgatan 29 i Höör.\nÖppet hela sommaren, sju dagar i veckan!\n#frukost #lunchtime #gofika\n\nNS Ås ; |\nSA UA 2\nTT SR | Ne EL\nNR fr 5\n| ÄN mu fr\nnen Lu Le\nMAA de LR\n| 1) I SER RS\n| ME RES a SK SA\ner Al 1 HR :\nKV aa NÄRg SR C\n[IS SE je FSE ; AR 5\n—— SN / RN TY\n— Ze ff ho SAL NS\n= = | 2 & ES =\nLe Je\n————L & VATAE är\nAJ 5. ER\nRE 3: MEN FSE\n$ bär SR",
         "postedAt": "2026-06-21T11:41:32.000Z"
@@ -110,7 +110,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-25T08:00:33.466Z",
+      "fetchedAt": "2026-06-25T11:17:33.319Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +130,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-06-25T08:00:34.022Z",
+      "fetchedAt": "2026-06-25T11:17:33.886Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +152,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-06-25T08:00:35.691Z",
+      "fetchedAt": "2026-06-25T11:17:35.154Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +174,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-25T08:00:36.594Z",
+      "fetchedAt": "2026-06-25T11:17:36.518Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-25T08:00:38.339Z",
+      "fetchedAt": "2026-06-25T11:17:36.873Z",
       "ok": true,
       "error": null,
       "source": {
@@ -232,12 +232,14 @@
         "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Rostat kycklinglår med Alfredosås,  Rigatoni, Marinerad tomat,  rödlökschutney, cashew  Tisdag  Halstrad lax med Ndujasås, rostad  vårlök, kokt nypotatis, brödkrisp,  slungad spenat & lök  Onsdag  Köttfärslimpa med löksky, potatispuré med  syrad grädde, syltade vinbär, bakad kål  Torsdag  Dagens fisk med ört Beurre blanc,  syrad pak choi, bakad morot, ris,  rostad tomatemulsion, pumpakärnor  Fredag  Fläsk schnitzel med sardellsmör,  rödvinssky, haricot verts, smashed  potatis, krispig lök  Veckans vegetariska  Rödbetsfritters med myntayoghurt,  blomkåls crème, syrad silverlök, kanderad  pistage, rostad potatis e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  vecka 26  Dagens Lunch  Serveras kl. 11:30-14:00, 170kr  Helg på Elisefarm  Serveras lördag och söndag kl. 11:30-15:00  225kr  Nötinnanlår med pepparsås, potatiskaka  med västerbottenost, szechuangel,  balsamicobakad roscofflök, brynt  smörpanko  hemgjorda sötsaker  T vå chokladtryfflar 35 kr | Biskvi 45 kr |  G laserad chokladtårta 55 kr  Morotskaka vit chokladcrème 55 kr |  Chokladboll 35 kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka 95 kr  Glass med bär 65 kr\ne  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 Alltid på Elisefarm  M åndag-Fredag kl. 11:30-14:00   Lördag kl. 11:30-15:00  Vänligen informera personalen om eventuella allergier.  ost- och charkbricka  Skånska charkuterier och ostar, friterade fläskesvålar, fröknäcke, marmelad,  oliver och cornichon 245   kr  Friterat hembakt pitabröd  Serveras med rödbetshummus m. saltrostade valnötter, confiterad  vitlökscrème, tomatconcassé med torkade oliver   145 kr  Rostade betor  Serveras med getostcrème, brynt smör, rödlökschutney och cashewnötter  145 kr  Friterade räkkroketter  Serveras med dillolja, chilicrème och picklad jalapeno   175 kr  Kycklinglårfilé  Rostad i paprika- och vitlöksolja med persiljepanko, brynt blomkålscrème,  syrad rödlök   155 kr  Flapsteak  Bakad i mörk öl från fulltofta, friterad färskpotatis, havgusemulsion, syrad  fänkål och salladslök, hasselnötter   195 kr  Friterad potatisbakelse  Serveras med 63° ägg, kallrökt lax, stenbitsrom, dill, örtcrème fraiche   185 kr  hamburgare  Skånsk oxe från Blentarp alternativt vegetarisk pannoumi, briochebröd,  chipotle- och parmesanemulsion, soltorkad tomatpesto, sallad,  karamelliserad lök, portabellosvamp och pommes frites   215 kr",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://elisefarm.se/restaurang/ failed, reason: "
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-06-25T08:00:41.494Z",
+      "fetchedAt": "2026-06-25T11:17:41.400Z",
       "ok": true,
       "error": null,
       "source": {
@@ -258,7 +260,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-25T08:00:43.445Z",
+      "fetchedAt": "2026-06-25T11:17:43.127Z",
       "ok": true,
       "error": null,
       "source": {
@@ -279,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-25T08:00:43.602Z",
+      "fetchedAt": "2026-06-25T11:17:43.359Z",
       "ok": true,
       "error": null,
       "source": {
