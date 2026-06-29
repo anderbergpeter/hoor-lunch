@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-06-29T09:15:08.304Z",
+  "generatedAt": "2026-06-29T12:47:35.980Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -21,12 +21,14 @@
         "text": "Lunchmeny Serveras alla dagar 11.30 – 14.00 Alltid med smör och bröd vid sidan. Serveras alla dagar 11.30 – 14.00 Alltid med smör och bröd vid sidan. Dagens lunch Meny presenteras samma dag. Dagens varmrätt: 225 kr Dagens varmrätt med efterrätt: 325 kr Under lunchen kan du även välja rätter från vår a la carte-meny: Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter och getostkrokett – 155 kr Huvudrätter Dagens fisk med sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och färskpotatis – 265 Desserter Brie Josefin från Brostorps med rostat rågbröd och blåbärsmarmelad – 115 kr Fläderblomsmarinerade jordgubbar, jordgubbssorbet och vit chokladparfait – 115 kr Barnmeny -95 kr Friterad rödspätta med pommes frites och remouladsås Pasta bolognese Kycklingschnitzel med potatis Vaniljglass med jordgubbar – 55 kr Hundmeny &#8211; 45 kr Fryst kalvfond med kalv bitar Snacks & tilltugg Hemgjorda fläsksvålar med ramslök – 85 Räkchips med finsk löjrom – 85 Nocellaraoliver – 35 Baerri kaviar med blinis, cremefraiche och gräslök – 275 A la carte 22 juni–9 augusti Boka bord Serveras alla dagar 17.00 – 20.30 Observera att vårt innergård stänger 21,30 Med reservation för ändringar . Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter samt getostkrokett – 155 kr Huvudrätter Dagens fisk med grön sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och stekt färskpotatis – 265 kr Panerat marinerat rotselleri med grönpeppar, skånsk senap, syrade ramslökskapris och stekt färskpotatis – 265 kr Kalv T-bone (400 g) med luftig dragonsås, stekt hjärt",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "page_fetch_failed:415"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-06-29T09:14:19.960Z",
+      "fetchedAt": "2026-06-29T12:46:41.957Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-06-29T09:14:20.930Z",
+      "fetchedAt": "2026-06-29T12:46:42.879Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-06-29T09:14:22.749Z",
+      "fetchedAt": "2026-06-29T12:46:44.809Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-06-29T09:14:42.347Z",
+      "fetchedAt": "2026-06-29T12:47:06.530Z",
       "ok": true,
       "error": null,
       "source": {
@@ -101,7 +103,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1303869744802873/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=MjoFoPiZGdQQ7kNvwEt5WpU&_nc_oc=AdrkXcwZUiOAMPVAvJH0Lkh0Nr8NuDcSKWHbgJjesUABXQ7ig0Sp2Ryhi8jPBNoPMFw&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=I2pScrNF-5PeuzmJQZo_Eg&_nc_ss=72289&oh=00_Af9P77Jfpku87W5RBWs4E59T8tpedjBiqbbPV5uWvsYqow&oe=6A48015B",
+        "imageUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=MjoFoPiZGdQQ7kNvwH6ViTA&_nc_oc=AdqaUNfFu8d1jR2g0HB-QQ2sox8YgD03Yw9wEcF-oFYRB3w8Z5uGKyTE0DhjDAB27-w&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=RF2TiUfzrVKWRRVrLnZtxA&_nc_ss=72289&oh=00_Af9SRyjaTqn0NSSuhBqG79BYIq_93naF0XmHwfSZjXlHgg&oe=6A48399B",
         "text": null,
         "ocrText": "Varmt Välkommen till Oss! Vi finns på Storgatan 29 i Höör.\nÖppet hela sommaren, sju dagar i veckan!\n#frukost #lunchtime #gofika\n\nNS Ås ; |\nSA UA 2\nTT SR | Ne EL\nNR fr 5\n| ÄN mu fr\nnen Lu Le\nMAA de LR\n| 1) I SER RS\n| ME RES a SK SA\ner Al 1 HR :\nKV aa NÄRg SR C\n[IS SE je FSE ; AR 5\n—— SN / RN TY\n— Ze ff ho SAL NS\n= = | 2 & ES =\nLe Je\n————L & VATAE är\nAJ 5. ER\nRE 3: MEN FSE\n$ bär SR",
         "postedAt": "2026-06-21T11:41:32.000Z"
@@ -110,7 +112,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-06-29T09:14:58.038Z",
+      "fetchedAt": "2026-06-29T12:47:20.487Z",
       "ok": true,
       "error": null,
       "source": {
@@ -147,7 +149,9 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "wp_api_failed:415"
     },
     {
       "placeId": "martens",
@@ -169,12 +173,14 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "wp_api_failed:415"
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-06-29T09:15:00.979Z",
+      "fetchedAt": "2026-06-29T12:47:28.188Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +201,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-06-29T09:15:01.507Z",
+      "fetchedAt": "2026-06-29T12:47:28.593Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +222,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-06-29T09:15:02.320Z",
+      "fetchedAt": "2026-06-29T12:47:29.221Z",
       "ok": true,
       "error": null,
       "source": {
@@ -253,12 +259,14 @@
         "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nKom ihåg Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "page_fetch_failed:415"
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-06-29T09:15:06.975Z",
+      "fetchedAt": "2026-06-29T12:47:35.453Z",
       "ok": true,
       "error": null,
       "source": {
@@ -279,7 +287,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-06-29T09:15:07.895Z",
+      "fetchedAt": "2026-06-29T12:47:35.560Z",
       "ok": true,
       "error": null,
       "source": {
