@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-03T15:56:44.702Z",
+  "generatedAt": "2026-07-04T09:21:58.509Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-03T15:55:30.682Z",
+      "fetchedAt": "2026-07-04T09:05:38.017Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-03T15:55:31.606Z",
+      "fetchedAt": "2026-07-04T09:05:38.694Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-03T15:55:32.917Z",
+      "fetchedAt": "2026-07-04T09:05:39.622Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-03T15:55:35.445Z",
+      "fetchedAt": "2026-07-04T09:05:42.377Z",
       "ok": true,
       "error": null,
       "source": {
@@ -105,12 +105,14 @@
         "text": null,
         "ocrText": "Varmt Välkommen till Oss! Vi finns på Storgatan 29 i Höör.\nÖppet hela sommaren, sju dagar i veckan!\n#frukost #lunchtime #gofika\n\nNS Ås ; |\nSA UA 2\nTT SR | Ne EL\nNR fr 5\n| ÄN mu fr\nnen Lu Le\nMAA de LR\n| 1) I SER RS\n| ME RES a SK SA\ner Al 1 HR :\nKV aa NÄRg SR C\n[IS SE je FSE ; AR 5\n—— SN / RN TY\n— Ze ff ho SAL NS\n= = | 2 & ES =\nLe Je\n————L & VATAE är\nAJ 5. ER\nRE 3: MEN FSE\n$ bär SR",
         "postedAt": "2026-06-21T11:41:32.000Z"
-      }
+      },
+      "stale": true,
+      "staleError": "timeout_240000ms:old-fashion"
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-03T15:56:31.565Z",
+      "fetchedAt": "2026-07-04T09:21:48.557Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-03T15:56:32.376Z",
+      "fetchedAt": "2026-07-04T09:21:49.127Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-03T15:56:33.837Z",
+      "fetchedAt": "2026-07-04T09:21:50.248Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-03T15:56:35.238Z",
+      "fetchedAt": "2026-07-04T09:21:51.511Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-03T15:56:36.024Z",
+      "fetchedAt": "2026-07-04T09:21:51.904Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-03T15:56:36.865Z",
+      "fetchedAt": "2026-07-04T09:21:52.492Z",
       "ok": true,
       "error": null,
       "source": {
@@ -237,7 +239,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-03T15:56:40.117Z",
+      "fetchedAt": "2026-07-04T09:21:55.077Z",
       "ok": true,
       "error": null,
       "source": {
@@ -258,7 +260,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-03T15:56:42.439Z",
+      "fetchedAt": "2026-07-04T09:21:57.094Z",
       "ok": true,
       "error": null,
       "source": {
@@ -279,7 +281,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-03T15:56:43.914Z",
+      "fetchedAt": "2026-07-04T09:21:58.030Z",
       "ok": true,
       "error": null,
       "source": {
