@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-06T12:26:18.351Z",
+  "generatedAt": "2026-07-06T14:08:17.110Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-06T12:25:14.045Z",
+      "fetchedAt": "2026-07-06T14:07:08.101Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-06T12:25:14.689Z",
+      "fetchedAt": "2026-07-06T14:07:08.808Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-06T12:25:15.330Z",
+      "fetchedAt": "2026-07-06T14:07:09.379Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-06T12:25:19.886Z",
+      "fetchedAt": "2026-07-06T14:07:13.535Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-06T12:25:48.230Z",
+      "fetchedAt": "2026-07-06T14:07:33.437Z",
       "ok": true,
       "error": null,
       "source": {
@@ -101,7 +101,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1303869744802873/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-atl3-2.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HKjKaSXn8UoQ7kNvwEsoh3y&_nc_oc=AdpTvDFaasEnTaZF8EXmI7Qq9OCupqjZ6gYO4gqfGaTq_cjIA-W9McT-08Y69ytNEZM&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=h57VZvUZPwZI_zU_-MCmug&_nc_ss=72289&oh=00_AQCn_hPuD6HYqb_ljsaNMoyBTMNiZEQKW3BN4JGudcvASQ&oe=6A51741B",
+        "imageUrl": "https://scontent-hou1-1.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HKjKaSXn8UoQ7kNvwGoDJ6P&_nc_oc=Adqt6HfCU9_DbT1bCZ8JDG9sQfTzT5GLSG-YvSPBYzSsjDUB3bUY4vzdF4Se2Z5tlQs&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=KYWhUosG5FmQDfZoxr3Stg&_nc_ss=72289&oh=00_AQDAkMQnmgfzQNXGc8Dm4eCRMBMV5gMQIvDVUfTtK1B0tA&oe=6A51741B",
         "text": null,
         "ocrText": "Varmt Välkommen till Oss! Vi finns på Storgatan 29 i Höör.\nÖppet hela sommaren, sju dagar i veckan!\n#frukost #lunchtime #gofika\n\nNS Ås ; |\nSA UA 2\nTT SR | Ne EL\nNR fr 5\n| ÄN mu fr\nnen Lu Le\nMAA de LR\n| 1) I SER RS\n| ME RES a SK SA\ner Al 1 HR :\nKV aa NÄRg SR C\n[IS SE je FSE ; AR 5\n—— SN / RN TY\n— Ze ff ho SAL NS\n= = | 2 & ES =\nLe Je\n————L & VATAE är\nAJ 5. ER\nRE 3: MEN FSE\n$ bär SR",
         "postedAt": "2026-06-21T11:41:32.000Z"
@@ -110,7 +110,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-06T12:26:07.542Z",
+      "fetchedAt": "2026-07-06T14:08:04.235Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +130,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-06T12:26:08.148Z",
+      "fetchedAt": "2026-07-06T14:08:04.805Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +152,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-06T12:26:09.225Z",
+      "fetchedAt": "2026-07-06T14:08:05.888Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +174,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-06T12:26:10.450Z",
+      "fetchedAt": "2026-07-06T14:08:06.740Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-06T12:26:11.495Z",
+      "fetchedAt": "2026-07-06T14:08:07.176Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +216,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-06T12:26:12.039Z",
+      "fetchedAt": "2026-07-06T14:08:07.849Z",
       "ok": true,
       "error": null,
       "source": {
@@ -237,7 +237,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-06T12:26:15.777Z",
+      "fetchedAt": "2026-07-06T14:08:14.773Z",
       "ok": true,
       "error": null,
       "source": {
@@ -258,7 +258,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-06T12:26:17.653Z",
+      "fetchedAt": "2026-07-06T14:08:16.523Z",
       "ok": true,
       "error": null,
       "source": {
@@ -279,7 +279,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-06T12:26:17.758Z",
+      "fetchedAt": "2026-07-06T14:08:16.624Z",
       "ok": true,
       "error": null,
       "source": {
