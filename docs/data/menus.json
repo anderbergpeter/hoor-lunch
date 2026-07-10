@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-10T11:27:30.726Z",
+  "generatedAt": "2026-07-10T16:29:13.303Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-10T11:26:17.308Z",
+      "fetchedAt": "2026-07-10T16:28:00.801Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-10T11:26:19.704Z",
+      "fetchedAt": "2026-07-10T16:28:01.431Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-10T11:26:20.381Z",
+      "fetchedAt": "2026-07-10T16:28:02.154Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-10T11:26:24.757Z",
+      "fetchedAt": "2026-07-10T16:28:06.575Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-06T14:07:33.437Z",
+      "fetchedAt": "2026-07-10T16:28:25.572Z",
       "ok": true,
       "error": null,
       "source": {
@@ -99,20 +99,15 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/reel/1303869744802873/",
-        "pdfUrl": null,
-        "imageUrl": "https://scontent-hou1-1.xx.fbcdn.net/v/t51.71878-10/728225701_2810836385937608_94037657083472636_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=102&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=HKjKaSXn8UoQ7kNvwGoDJ6P&_nc_oc=Adqt6HfCU9_DbT1bCZ8JDG9sQfTzT5GLSG-YvSPBYzSsjDUB3bUY4vzdF4Se2Z5tlQs&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=KYWhUosG5FmQDfZoxr3Stg&_nc_ss=72289&oh=00_AQDAkMQnmgfzQNXGc8Dm4eCRMBMV5gMQIvDVUfTtK1B0tA&oe=6A51741B",
-        "text": null,
-        "ocrText": "Varmt Välkommen till Oss! Vi finns på Storgatan 29 i Höör.\nÖppet hela sommaren, sju dagar i veckan!\n#frukost #lunchtime #gofika\n\nNS Ås ; |\nSA UA 2\nTT SR | Ne EL\nNR fr 5\n| ÄN mu fr\nnen Lu Le\nMAA de LR\n| 1) I SER RS\n| ME RES a SK SA\ner Al 1 HR :\nKV aa NÄRg SR C\n[IS SE je FSE ; AR 5\n—— SN / RN TY\n— Ze ff ho SAL NS\n= = | 2 & ES =\nLe Je\n————L & VATAE är\nAJ 5. ER\nRE 3: MEN FSE\n$ bär SR",
-        "postedAt": "2026-06-21T11:41:32.000Z"
+        "url": "https://www.facebook.com/cafeoldfashion/",
+        "note": "Lunchmenyn publiceras på Facebook/Instagram"
       },
-      "stale": true,
-      "staleError": "apify_no_lunch_post_found: ocr https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-lax7-1.xx.fbcdn.net/v/t39.30808-6/741636294_1691145159684476_83: no lunch text (56 chars) | ocr https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
+      "linkOnly": true
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-10T11:27:20.212Z",
+      "fetchedAt": "2026-07-10T16:29:02.098Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-10T11:27:20.895Z",
+      "fetchedAt": "2026-07-10T16:29:02.644Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-10T11:27:22.272Z",
+      "fetchedAt": "2026-07-10T16:29:04.118Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-10T11:27:23.883Z",
+      "fetchedAt": "2026-07-10T16:29:05.110Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-10T11:27:24.384Z",
+      "fetchedAt": "2026-07-10T16:29:05.540Z",
       "ok": true,
       "error": null,
       "source": {
@@ -218,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-10T11:27:24.958Z",
+      "fetchedAt": "2026-07-10T16:29:06.146Z",
       "ok": true,
       "error": null,
       "source": {
@@ -228,10 +223,10 @@
       },
       "week": null,
       "raw": {
-        "url": "https://elisefarm.se/wp-content/uploads/2026/07/Lunch-v.-28-SVE.pdf",
+        "url": "https://elisefarm.se/wp-content/uploads/2026/07/Lunch-v.29-SVE.pdf",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "Vänligen informera personalen om eventuella allergier.  Måndag  Dijon- och persiljebiffar på oxe med  timjansky, potatispuré, rårörda  lingon, crudite på färsk vitkål och  vårlök, kanderade pistagenötter  Tisdag  Spätta meunière med bakade betor,  kapris, sardellsmör, rostad  dillfröemulsion, färskpotatis, rostade  pumpakärnor  Onsdag  Helstekt kotlettrad med plommon- och  körsbärschutney, syrad gurka, gräddsås,  rostad potatis, sotad blomkål, rostad  schalottenlök  Torsdag  Dagens fisk med krämig hummersås,  dillmarinerad fänkål och purjolök, kokt  ris, rostad mandel, räkkrokett  Fredag  He l stekt kalvrostbiff med rostad  tomatemulsion, haricot verte,  fänkålssky, potatis, picklad lök,  persilja  Veckans vegetariska  Rigatoni i krämig pestovelouté med  burrata, friterad kronärtskocka, rostade  pinjenötter, parmesan e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  Helg på Elisefarm  Serveras lördag & söndag  kl. 11:30-15:00, 225kr  S tekt flapsteak med havgusemulsion,  rödvinssky, rostad färskpotatis,  palsternackscrème, semitorkade  tomater, friterad lök  hemgjorda sötsaker  Två chokladtryfflar 35 kr  Biskvi 45 kr  Glaserad chokladtårta 55 kr  Morotskaka vit chokladcrème 55 kr  Chokladboll 35 kr  vecka 28  Dagens Lunch  Serveras kl. 11:30-15:00, 170kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka, 95 kr  Glass med bär, 65 kr\nost- och charkbricka   (2p)  sk ånska ch arkuterier och ostar, friterade  fläskesvålar, fröknäcke, marmelad, oliver,  cornichon 245kr friterat hembakat pitabröd  m ojo rojo, confiterad vitlökscrème, salsa  verde 145kr rökta rödbetor  s tracciatella, friterade marconamandlar,  honung- och grapefruktvinaigrette 165kr räkmacka   liten  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 150kr friterat krispigt kycklinglår  c hilicrème, honung, mango- och  schalottenlökssalsa med lime 165kr gremolatamarinerad  flankstek  saltrostade cashewnötter, rostad  paprikacrème, picklad rödlök, ruccola 195kr pulled pork sliders x 2  cole slaw, kumminmajonnäs, äppelchutney 175kr pepparrökt laxfilé  färskpo tatis, picklade senapsfrön, vit  sparris, dill, cidersenapscrème 195kr e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 dagens lunch 170kr veckans vegetariska 170kr räkmacka   stor  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 215kr elisefarms hamburgare  skånskt nötkött, briochebröd, sallad  tryffelmajonnäs, rödlökschutney,  västerbottenost, bacon, pommes frites 215kr vegetarisk hamburgare  s kånsk pannoumi, briochebröd, sallad,  tryffelmajonnäs, rödlökschutney, pommes  frites 215kr Vänligen informera personalen om eventuella allergier.  elisefarms sommarmeny  Serveras   måndag-söndag kl. 11:30-15:00  Vår sommarmeny består av både mellanrätter, skapade för att kombineras,  och större varmrätter. Vi rekommenderar 2–3 mellanrätter per person eller  en av våra större rätter för den bästa smakupplevelsen  mellan rätter  större rätter",
+        "text": "Vänligen informera personalen om eventuella allergier.  måndag  Oxfärsspett, tzatziki med mynta, ris,  grillad paprika, marinerad vårlök,  cashew  tisdag  Halstrad lax med citronsås, slungad  potatis & spenat, krispiga risnudlar,  picklad tomat, pak choi & gurka  onsdag  Bakad fläsksida med äppelsky, rösti,  fänkålssallad, äppelchutney  torsdag  D agens fisk med krämig tomatsås,  parmesan & pumpaflarn, rostad sparris,  rigatoni, picklad kål  fredag  Wa llenbergare med brynt smör, gröna  ärtor, potatispuré, syrad gurka, lingon  veckans vegetariska  Rotsellerischnitzel med tartarsås, rostad  potatis, brynt smör, syrad rotselleri,  pistage e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  helg på elisefarm  Serveras lördag & söndag  kl. 11:30-15:00, 225kr  Bräse rad oxkind med sky, tryffelpure,  syrad steklök, rostad mandel, slungad  svamp, blåbär  hemgjorda sötsaker  Två chokladtryfflar 35 kr  Biskvi 45 kr  Glaserad chokladtårta 55 kr  Morotskaka vit chokladcrème 55 kr  Chokladboll 35 kr  vecka 29  Dagens Lunch  Serveras kl. 11:30-15:00, 170kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka, 95 kr  Glass med bär, 65 kr\nost- och charkbricka   (2p)  sk ånska ch arkuterier och ostar, friterade  fläskesvålar, fröknäcke, marmelad, oliver,  cornichon 245kr friterat hembakat pitabröd  m ojo rojo, confiterad vitlökscrème, salsa  verde 145kr rökta rödbetor  s tracciatella, friterade marconamandlar,  honung- och grapefruktvinaigrette 165kr räkmacka   liten  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 150kr friterat krispigt kycklinglår  c hilicrème, honung, mango- och  schalottenlökssalsa med lime 165kr gremolatamarinerad  flankstek  saltrostade cashewnötter, rostad  paprikacrème, picklad rödlök, ruccola 195kr pulled pork sliders x 2  cole slaw, kumminmajonnäs, äppelchutney 175kr pepparrökt laxfilé  färskpo tatis, picklade senapsfrön, vit  sparris, dill, cidersenapscrème 195kr e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 dagens lunch 170kr veckans vegetariska 170kr räkmacka   stor  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 215kr elisefarms hamburgare  skånskt nötkött, briochebröd, sallad  tryffelmajonnäs, rödlökschutney,  västerbottenost, bacon, pommes frites 215kr vegetarisk hamburgare  s kånsk pannoumi, briochebröd, sallad,  tryffelmajonnäs, rödlökschutney, pommes  frites 215kr Vänligen informera personalen om eventuella allergier.  elisefarms sommarmeny  Serveras   måndag-söndag kl. 11:30-15:00  Vår sommarmeny består av både mellanrätter, skapade för att kombineras,  och större varmrätter. Vi rekommenderar 2–3 mellanrätter per person eller  en av våra större rätter för den bästa smakupplevelsen  mellan rätter  större rätter",
         "ocrText": null,
         "postedAt": null
       }
@@ -239,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-10T11:27:28.236Z",
+      "fetchedAt": "2026-07-10T16:29:09.347Z",
       "ok": true,
       "error": null,
       "source": {
@@ -260,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-10T11:27:30.018Z",
+      "fetchedAt": "2026-07-10T16:29:11.349Z",
       "ok": true,
       "error": null,
       "source": {
@@ -281,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-10T11:27:30.224Z",
+      "fetchedAt": "2026-07-10T16:29:12.851Z",
       "ok": true,
       "error": null,
       "source": {
