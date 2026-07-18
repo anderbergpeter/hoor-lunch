@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-17T15:20:27.613Z",
+  "generatedAt": "2026-07-18T08:22:34.284Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-17T15:19:19.368Z",
+      "fetchedAt": "2026-07-18T08:21:28.281Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-17T15:19:20.120Z",
+      "fetchedAt": "2026-07-18T08:21:29.182Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-17T15:19:21.042Z",
+      "fetchedAt": "2026-07-18T08:21:30.370Z",
       "ok": true,
       "error": null,
       "source": {
@@ -57,16 +57,16 @@
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
         "pdfUrl": null,
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/07/IMG_1090.jpeg",
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/07/sommardagens-v30.jpeg",
         "text": null,
-        "ocrText": "LUNCH PÅ GÄSTIS\nNINE v. 29 tisd-lörd kl. 12-15\nDAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Krämig fläskfilégryta med basmatiris\nONSDAG: Köttfärslimpa, svampsås, kokt potatis & vinbärsgelé\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG:  Griljerad kyckling, bulgursallad & fetaostcréme\nVEG: Grillad foccacia med kantareller, karameliserad lök & parmesan\nFREDAGAR SOMMARSALLAD\nVår populära Grillbuffé Romansallad, parmesan, krutonger\n(175 kr) & Caesardressing med:\nALLA DAGAR Kyckling 165:-\nÄggakaka med stekt fläsk Halloumi (veg) 175:-- — 7\n& lingon (225:-) Räkor 205:-\nHÖORS\na CET\nbl | , ANN 692\n! EG PI\nSS ANV Ni Sfästgsfvaregård\nBoka nå 0413-220 10 eller inföehoorsgastis.se |",
+        "ocrText": "LUNCH PÅ GÄSTIS\nFINE v. 30 tisd-lörd kl. 12-15\nDAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Kyckling Coq au vin, potatisstomp, bacon, syltlök & svamp\nONSDAG: Schnitzel, rostad potatis, skysås, örtsmör, ärtor & citron\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG: Köttbullar, potatis, gräddsås, lingon & pressgurka\nVEG: Blomkålsteak, tryffelcréme, picklad rödlök & rostade kikärtor\nFREDAGAR SOMMARSALLAD\nVår populära Grillbuffé Romansallad, parmesan, krutonger\n(175 kr) & Caesardressing med:\nALLA DAGAR Kyckling 165:-\nÄggakaka med stekt fläsk Halloumi (veg) 175:- ===\n& lingon (225:-) Räkor 205:-\n: : HÖÖRS\n\nmögel amt\n\nio. 3 öd vå ANN 692\n\nAe VE\nES ANV ( bGäsgifvaregård\nBoka på 0413-220 10 eller Inföehoorsgastis så",
         "postedAt": null
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-17T15:19:25.283Z",
+      "fetchedAt": "2026-07-18T08:21:35.727Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-17T15:19:45.627Z",
+      "fetchedAt": "2026-07-18T08:21:50.688Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-17T15:20:17.537Z",
+      "fetchedAt": "2026-07-18T08:22:20.216Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-17T15:20:18.289Z",
+      "fetchedAt": "2026-07-18T08:22:21.016Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-17T15:20:19.179Z",
+      "fetchedAt": "2026-07-18T08:22:23.455Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-17T15:20:20.031Z",
+      "fetchedAt": "2026-07-18T08:22:25.295Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-17T15:20:20.709Z",
+      "fetchedAt": "2026-07-18T08:22:25.961Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-17T15:20:21.558Z",
+      "fetchedAt": "2026-07-18T08:22:26.880Z",
       "ok": true,
       "error": null,
       "source": {
@@ -234,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-17T15:20:24.883Z",
+      "fetchedAt": "2026-07-18T08:22:30.401Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-17T15:20:26.740Z",
+      "fetchedAt": "2026-07-18T08:22:32.369Z",
       "ok": true,
       "error": null,
       "source": {
@@ -268,7 +268,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 29: 13-17 /7 kl; 11,30-14,00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 11-12 juli se nedan:\nDagens:\nMåndag:\nKöttfärslimpa med svampsås, potatis & inlagd gurka.\n​ ​\nTisdag:\n​\nGulaschgryta med pressad potatis.\n​\nOnsdag:\n​\nDansk fläskstek på vårt vis med rödkål, sås, potatis& äpplemos..\n​\nTorsdag:\nRaggmunk med stekt fläsk och rårörda lingon.\n​\nFredag:\n​\nWallenbergare på tupp med potatis, gräddsås & lingongele.\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nPasta med pesto och halstrade vannabieräkor. 170:-​\nHögrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad) 240:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 11-12 juli: 11,30-14,00\nsalladsbuff&eacute; & kaffe ingår\nUgnsbakad lax med kall räksås, kokt potatis.. 245:-\nBookmaker med pommes (oxfil&eacute;, dijon, pepparrot & äggula). 260:-\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHalloumiburgare med pommes. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 29: 13-17 /7 kl; 11,30-14,00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 11-12 juli se nedan:\nDagens:\nMåndag:\nKöttfärslimpa med svampsås, potatis & inlagd gurka.\n​ ​\nTisdag:\n​\nGulaschgryta med pressad potatis.\n​\nOnsdag:\n​\nDansk fläskstek på vårt vis med rödkål, sås, potatis& äpplemos..\n​\nTorsdag:\nRaggmunk med stekt fläsk och rårörda lingon.\n​\nFredag:\n​\nWallenbergare på tupp med potatis, gräddsås & lingongele.\n​\nHela veckan:\nRäksmörgås. 209:-\nC easarsallad med varmrökt tupp, bacon eller Räkor. 180:-/205:-\nPasta med pesto och halstrade vannabieräkor. 170:-​\nHögrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad) 240:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 18-19 juli: 11,30-14,00\nsalladsbuff&eacute; & kaffe ingår\nTorsk med kall pepparrotsås, potatis & grönt. 225:-\nFlankstek med gorgenzolasås, grönsaker & chilipotatis. 235:-\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller räkor. 180/205:-\nCeasarsallad med räkor. 205:-\nFetaostfylld rostad paprika med citronsås & chilipotatis. 210:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -276,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-17T15:20:27.001Z",
+      "fetchedAt": "2026-07-18T08:22:33.364Z",
       "ok": true,
       "error": null,
       "source": {
