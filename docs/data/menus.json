@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-24T07:06:39.488Z",
+  "generatedAt": "2026-07-24T10:35:30.010Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -21,12 +21,14 @@
         "text": "Lunchmeny Serveras alla dagar 11.30 – 14.00 Alltid med smör och bröd vid sidan. Serveras alla dagar 11.30 – 14.00 Alltid med smör och bröd vid sidan. Dagens lunch Meny presenteras samma dag. Dagens varmrätt: 225 kr Dagens varmrätt med efterrätt: 325 kr Under lunchen kan du även välja rätter från vår a la carte-meny: Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter och getostkrokett – 155 kr Huvudrätter Dagens fisk med sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och färskpotatis – 265 Desserter Brie Josefin från Brostorps med rostat rågbröd och blåbärsmarmelad – 115 kr Fläderblomsmarinerade jordgubbar, jordgubbssorbet och vit chokladparfait – 115 kr Barnmeny -95 kr Friterad rödspätta med pommes frites och remouladsås Pasta bolognese Kycklingschnitzel med potatis Vaniljglass med jordgubbar – 55 kr Hundmeny &#8211; 45 kr Fryst kalvfond med kalv bitar Snacks & tilltugg Hemgjorda fläsksvålar med ramslök – 85 Räkchips med finsk löjrom – 85 Nocellaraoliver – 35 Baerri kaviar med blinis, cremefraiche och gräslök – 275 A la carte 22 juni–9 augusti Boka bord Serveras alla dagar 17.00 – 20.30 Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter samt getostkrokett – 155 kr Huvudrätter Dagens fisk med grön sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och stekt färskpotatis – 265 kr Panerat marinerat rotselleri med grönpeppar, skånsk senap, syrade ramslökskapris och stekt färskpotatis – 265 kr Kalv T-bone (400 g) med luftig dragonsås, stekt hjärtsallad med prästost och stekt färskpotartis – 595 kr Desserter Brie Josefin",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "lunch_block_not_found"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-24T07:05:26.175Z",
+      "fetchedAt": "2026-07-24T10:34:08.496Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-24T07:05:26.852Z",
+      "fetchedAt": "2026-07-24T10:34:09.587Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-24T07:05:30.833Z",
+      "fetchedAt": "2026-07-24T10:34:13.269Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-24T07:05:52.827Z",
+      "fetchedAt": "2026-07-24T10:34:34.946Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +109,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-24T07:06:27.790Z",
+      "fetchedAt": "2026-07-24T10:35:15.098Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +129,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-24T07:06:28.390Z",
+      "fetchedAt": "2026-07-24T10:35:15.847Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +151,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-24T07:06:29.726Z",
+      "fetchedAt": "2026-07-24T10:35:18.363Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +173,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-24T07:06:31.616Z",
+      "fetchedAt": "2026-07-24T10:35:20.239Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +194,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-24T07:06:32.027Z",
+      "fetchedAt": "2026-07-24T10:35:20.955Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +215,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-24T07:06:32.657Z",
+      "fetchedAt": "2026-07-24T10:35:21.778Z",
       "ok": true,
       "error": null,
       "source": {
@@ -234,7 +236,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-24T07:06:36.279Z",
+      "fetchedAt": "2026-07-24T10:35:27.224Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +257,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-24T07:06:38.012Z",
+      "fetchedAt": "2026-07-24T10:35:29.123Z",
       "ok": true,
       "error": null,
       "source": {
@@ -276,7 +278,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-24T07:06:38.987Z",
+      "fetchedAt": "2026-07-24T10:35:29.391Z",
       "ok": true,
       "error": null,
       "source": {
