@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-26T08:46:04.361Z",
+  "generatedAt": "2026-07-27T08:01:50.281Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -23,12 +23,12 @@
         "postedAt": null
       },
       "stale": true,
-      "staleError": "lunch_block_not_found"
+      "staleError": "page_fetch_failed:415"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-26T08:44:36.245Z",
+      "fetchedAt": "2026-07-27T08:00:01.851Z",
       "ok": true,
       "error": null,
       "source": {
@@ -40,7 +40,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - FRE 24/7 STÄNGT\nI morgon fredag den 24/7 håller Rälsen STÄNGT, så ses vi på måndag igen då vi har öppet som vanligt.\nTrevlig Helg och var rädda om varandra🥰🙏🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - MÅN 27/7\nRälsens Köttbullar med Gräddsås och kokt potatis bjuds det idag vänner🥰🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -48,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-26T08:44:37.595Z",
+      "fetchedAt": "2026-07-27T08:00:02.594Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-26T08:44:42.381Z",
+      "fetchedAt": "2026-07-27T08:00:06.905Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-26T08:45:07.650Z",
+      "fetchedAt": "2026-07-27T08:00:42.730Z",
       "ok": true,
       "error": null,
       "source": {
@@ -109,7 +109,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-26T08:45:52.115Z",
+      "fetchedAt": "2026-07-27T08:01:33.797Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,9 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "wp_api_failed:415"
     },
     {
       "placeId": "martens",
@@ -168,12 +170,14 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "wp_api_failed:415"
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-26T08:45:55.836Z",
+      "fetchedAt": "2026-07-27T08:01:41.623Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +198,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-26T08:45:56.387Z",
+      "fetchedAt": "2026-07-27T08:01:41.969Z",
       "ok": true,
       "error": null,
       "source": {
@@ -215,7 +219,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-26T08:45:57.277Z",
+      "fetchedAt": "2026-07-27T08:01:42.488Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,12 +256,14 @@
         "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nKom ihåg Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "page_fetch_failed:415"
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-26T08:46:02.636Z",
+      "fetchedAt": "2026-07-27T08:01:49.667Z",
       "ok": true,
       "error": null,
       "source": {
@@ -278,7 +284,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-26T08:46:03.834Z",
+      "fetchedAt": "2026-07-27T08:01:49.821Z",
       "ok": true,
       "error": null,
       "source": {
