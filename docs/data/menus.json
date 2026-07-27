@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-27T08:01:50.281Z",
+  "generatedAt": "2026-07-27T11:54:33.497Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -23,12 +23,12 @@
         "postedAt": null
       },
       "stale": true,
-      "staleError": "page_fetch_failed:415"
+      "staleError": "lunch_block_not_found"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-27T08:00:01.851Z",
+      "fetchedAt": "2026-07-27T11:53:31.853Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-27T08:00:02.594Z",
+      "fetchedAt": "2026-07-27T11:53:32.740Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-27T08:00:06.905Z",
+      "fetchedAt": "2026-07-27T11:53:37.332Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-27T08:00:42.730Z",
+      "fetchedAt": "2026-07-27T11:53:55.091Z",
       "ok": true,
       "error": null,
       "source": {
@@ -109,7 +109,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-27T08:01:33.797Z",
+      "fetchedAt": "2026-07-27T11:54:22.881Z",
       "ok": true,
       "error": null,
       "source": {
@@ -129,7 +129,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-26T08:45:52.845Z",
+      "fetchedAt": "2026-07-27T11:54:23.396Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,14 +146,12 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "wp_api_failed:415"
+      }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-26T08:45:54.361Z",
+      "fetchedAt": "2026-07-27T11:54:24.543Z",
       "ok": true,
       "error": null,
       "source": {
@@ -170,14 +168,12 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "wp_api_failed:415"
+      }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-27T08:01:41.623Z",
+      "fetchedAt": "2026-07-27T11:54:25.418Z",
       "ok": true,
       "error": null,
       "source": {
@@ -198,7 +194,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-27T08:01:41.969Z",
+      "fetchedAt": "2026-07-27T11:54:25.873Z",
       "ok": true,
       "error": null,
       "source": {
@@ -219,7 +215,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-07-27T08:01:42.488Z",
+      "fetchedAt": "2026-07-27T11:54:26.486Z",
       "ok": true,
       "error": null,
       "source": {
@@ -240,7 +236,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-26T08:46:00.704Z",
+      "fetchedAt": "2026-07-27T11:54:29.501Z",
       "ok": true,
       "error": null,
       "source": {
@@ -256,14 +252,12 @@
         "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nKom ihåg Fototävlingen!\nDu har hela sommaren på dig att skicka in, sista dagen för inskick är 1 augusti 2026.\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "page_fetch_failed:415"
+      }
     },
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-27T08:01:49.667Z",
+      "fetchedAt": "2026-07-27T11:54:31.273Z",
       "ok": true,
       "error": null,
       "source": {
@@ -276,7 +270,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 30: 20-24 /7 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 25-26 juli se nedan:\nDagens:\nMåndag:\nSkinkschnitzel med grönpepparsås, potatis & gröna böner. ​ ​​\nTisdag: ​\nTupp från Tockafarmen på två vis, med sås, klyftpotatis & grönt ​ ​.\nOnsdag:​\nUngsbakad falukorv med potatis eller Stekt falukorv med blomkålstuvning. ​ ​\nTorsdag:\nPanerat fläsk, kokt potatis, purjolöksås & rårörda lingon. ​ ​\nFredag: ​\nFläskytterfil&eacute; på potatis & grönsakswok med pepparsås.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​\nHögrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 25-26 juli: 11,30-14,00\nsalladsbuff&eacute; & kaffe ingår\nSmörstekt gös från Ringsjön med sandefjordsås & knaperstekt bacon, potatis & grönt. 260:-\nGrilltallrik med honey bbq-sås, pommes & grönt. 245:-\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nUgnsbakad potatis med tångkaviar, cr&egrave;me fraische & rostade grönsaker.. 220:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 31: 26-31 /7 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 1-2 aug kommer snart:\nDagens:\nMåndag:\nPasta med fläskkött, & grönsaker i het sås.\nTisdag: ​\nLamm på två vis, med vitlök- & rosepepparsås, potatis & grönt ​ ​.\nOnsdag:​\nPluma med klyftpotatis, bbq-sås & ugnsbakade grönsaker. ​ ​\nTorsdag:\nOxgryta med grönsaker & kokt ris. ( kan fås med potatis) ​​\nFredag: ​\nMarinerat fläsk med kall löksås, ugnsbakad potatis.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nBroccolikaka med kall citronsås & potatis.\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 25-26 juli: 11,30-14,00\nsalladsbuff&eacute; & kaffe ingår\nSmörstekt gös från Ringsjön med sandefjordsås & knaperstekt bacon, potatis & grönt. 260:-\nGrilltallrik med honey bbq-sås, pommes & grönt. 245:-\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nUgnsbakad potatis med tångkaviar, cr&egrave;me fraische & rostade grönsaker.. 220:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -284,7 +278,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-27T08:01:49.821Z",
+      "fetchedAt": "2026-07-27T11:54:33.008Z",
       "ok": true,
       "error": null,
       "source": {
