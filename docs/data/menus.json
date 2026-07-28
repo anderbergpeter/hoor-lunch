@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-28T07:12:10.089Z",
+  "generatedAt": "2026-07-28T10:59:31.264Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-28T07:10:55.574Z",
+      "fetchedAt": "2026-07-28T10:58:19.975Z",
       "ok": false,
       "error": "lunch_block_not_found",
       "source": {
@@ -23,7 +23,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-28T07:10:59.886Z",
+      "fetchedAt": "2026-07-28T10:58:24.084Z",
       "ok": true,
       "error": null,
       "source": {
@@ -35,7 +35,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - MÅN 27/7\nRälsens Köttbullar med Gräddsås och kokt potatis bjuds det idag vänner🥰🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - TOS 28/7 2026\nRälsens Korvgryta med Bacon, Basilika och Vitlök I sällskap av ris bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-28T07:11:00.754Z",
+      "fetchedAt": "2026-07-28T10:58:25.046Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-28T07:11:06.157Z",
+      "fetchedAt": "2026-07-28T10:58:29.676Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-28T07:11:29.825Z",
+      "fetchedAt": "2026-07-28T10:58:51.501Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-28T07:11:57.064Z",
+      "fetchedAt": "2026-07-28T10:59:16.949Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-28T07:11:57.833Z",
+      "fetchedAt": "2026-07-28T10:59:17.641Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-28T07:11:59.324Z",
+      "fetchedAt": "2026-07-28T10:59:19.208Z",
       "ok": true,
       "error": null,
       "source": {
@@ -168,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-28T07:12:00.486Z",
+      "fetchedAt": "2026-07-28T10:59:20.204Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-28T07:12:01.128Z",
+      "fetchedAt": "2026-07-28T10:59:20.665Z",
       "ok": true,
       "error": null,
       "source": {
@@ -226,12 +226,14 @@
         "text": "Vänligen informera personalen om eventuella allergier.  måndag  Vitlöksmarinerad kyckling med  dragonvelouté, potatispuré, haricots  verts, timjanrostade körsbärstomater,  hasselnöt  tisdag  Krämig fiskgryta med vitt vin, purjolök  och blekselleri, handskalade räkor,  kokt färskpotatis, slungade  sockerärtor, surdegskrisp  onsdag  Mörbakad fläskkarré med svart  vinbärscoulis, sotad spetskål, rostad  färskpotatis, dijongräddsky, picklad rödlök  torsdag  D agens fisk med pepparrotssyrad gurka,  bakade rödbetor, potatisstomp med dill,  brynt sandefjordsås, friterad rotselleri  fredag  Pa nerad fläskschnitzel med tryffelsky,  persilje- och vitlökssmör, rostad  potatis, rostade champinjoner,  rödlökschutney  veckans vegetariska  Ragoût med svamp, rostade rotfrukter,  tomat och rött vin, picklad gulbeta, crème  fraiche, gröna ärtor, vitlöksbröd e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005  helg på elisefarm  Serveras lördag & söndag  kl. 11:30-15:00, 225kr  Wallenbe rgare på kalv med brynt smör,  pressgurka, potatispuré, rårörda  lingon, gröna ärtor  hemgjorda sötsaker  Två chokladtryfflar 35 kr  Biskvi 45 kr  Glaserad chokladtårta 55 kr  Morotskaka vit chokladcrème 55 kr  Chokladboll 35 kr  vecka 31  Dagens Lunch  Serveras kl. 11:30-15:00, 170kr  yngre gäster (3-11 år)  Hemmagjorda köttbullar med potatis,   gräddsås, lingon & pressgurka, 95 kr  Glass med bär, 65 kr\nost- och charkbricka   (2p)  sk ånska ch arkuterier och ostar, friterade  fläskesvålar, fröknäcke, marmelad, oliver,  cornichon 245kr friterat hembakat pitabröd  m ojo rojo, confiterad vitlökscrème, salsa  verde 145kr rökta rödbetor  s tracciatella, friterade marconamandlar,  honung- och grapefruktvinaigrette 165kr räkmacka   liten  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 150kr friterat krispigt kycklinglår  c hilicrème, honung, mango- och  schalottenlökssalsa med lime 165kr gremolatamarinerad  flankstek  saltrostade cashewnötter, rostad  paprikacrème, picklad rödlök, ruccola 195kr pulled pork sliders x 2  cole slaw, kumminmajonnäs, äppelchutney 175kr pepparrökt laxfilé  färskpo tatis, picklade senapsfrön, rostad  grön sparris, dill, cidersenapscrème 195kr e  l  i  s  e  f  a  r  m  2  0  y e  a  r  s e  l  i  s  e  f  a   r  m  2  0  y  e  a  r  s Est. 2005 dagens lunch 170kr veckans vegetariska 170kr räkmacka   stor  h andskalade räkor, filmjölksbröd, sallad,  kapris- och dijonmajonnäs, syrad gurka  och silverlök, stenbitsrom, ägg, dill 215kr elisefarms hamburgare  skånskt nötkött, briochebröd, sallad  tryffelmajonnäs, rödlökschutney,  västerbottenost, bacon, pommes frites 215kr vegetarisk hamburgare  s kånsk pannoumi, briochebröd, sallad,  tryffelmajonnäs, rödlökschutney, pommes  frites 215kr Vänligen informera personalen om eventuella allergier.  elisefarms sommarmeny  Serveras   måndag-söndag kl. 11:30-15:00  Vår sommarmeny består av både mellanrätter, skapade för att kombineras,  och större varmrätter. Vi rekommenderar 2–3 mellanrätter per person eller  en av våra större rätter för den bästa smakupplevelsen  mellan rätter  större rätter",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "no_pdf_link_found"
     },
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-28T07:12:05.375Z",
+      "fetchedAt": "2026-07-28T10:59:28.151Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,7 +254,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-28T07:12:07.389Z",
+      "fetchedAt": "2026-07-28T10:59:30.226Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +275,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-28T07:12:09.410Z",
+      "fetchedAt": "2026-07-28T10:59:30.585Z",
       "ok": true,
       "error": null,
       "source": {
