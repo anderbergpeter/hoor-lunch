@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-29T07:18:18.470Z",
+  "generatedAt": "2026-07-29T11:04:59.180Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-07-29T07:17:10.276Z",
+      "fetchedAt": "2026-07-29T11:03:49.220Z",
       "ok": false,
       "error": "lunch_block_not_found",
       "source": {
@@ -23,7 +23,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-07-29T07:17:14.598Z",
+      "fetchedAt": "2026-07-29T11:03:53.473Z",
       "ok": true,
       "error": null,
       "source": {
@@ -35,7 +35,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - TOS 28/7 2026\nRälsens Korvgryta med Bacon, Basilika och Vitlök I sällskap av ris bjuds det idag vänner🥰!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - ONS 29/7 2026\nRälsens Kycklingpasta Florentine bjuds det idag vänner. Pasta i en härlig Vitvinssås med bl.a. vitlök, ost och spenat🌞🌞🌞!\nGlöm inte andas in solen nu, rakt in i hjärtat🌞🌞🌞\nHjärtans Välkommen är Du🥰\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-07-29T07:17:15.703Z",
+      "fetchedAt": "2026-07-29T11:03:54.331Z",
       "ok": true,
       "error": null,
       "source": {
@@ -53,17 +53,17 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": null,
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/07/sommardagens-v30.jpeg",
-        "text": null,
-        "ocrText": "LUNCH PÅ GÄSTIS\nFINE v. 30 tisd-lörd kl. 12-15\nDAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Kyckling Coq au vin, potatisstomp, bacon, syltlök & svamp\nONSDAG: Schnitzel, rostad potatis, skysås, örtsmör, ärtor & citron\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG: Köttbullar, potatis, gräddsås, lingon & pressgurka\nVEG: Blomkålsteak, tryffelcréme, picklad rödlök & rostade kikärtor\nFREDAGAR SOMMARSALLAD\nVår populära Grillbuffé Romansallad, parmesan, krutonger\n(175 kr) & Caesardressing med:\nALLA DAGAR Kyckling 165:-\nÄggakaka med stekt fläsk Halloumi (veg) 175:- ===\n& lingon (225:-) Räkor 205:-\n: : HÖÖRS\n\nmögel amt\n\nio. 3 öd vå ANN 692\n\nAe VE\nES ANV ( bGäsgifvaregård\nBoka på 0413-220 10 eller Inföehoorsgastis så",
+        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/07/sommardagens-v31-1.pdf",
+        "imageUrl": null,
+        "text": "DAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Kyckling, persiljesås & kokt potatis\nONSDAG: Fläskfilé, pepparsås & rostad potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG: Grillspett, potatis, tzatziki, bearnaisesås, bbqsås\nVEG: Grön ärt/citronrisotto, parmesan, rostade nötter & bakad tomat\nFREDAGAR\nVår populära Grillbuffé\n(175 kr)\nALLA DAGAR\nÄggakaka med stekt fläsk\n& lingon (225:-)\nSOMMARSALLAD\nRomansallad, parmesan, krutonger\n& Caesardressing med:\nKyckling 165:-\nHalloumi (veg) 175:-\nRäkor 205:-\nBoka på 0413-220 10 eller info@hoorsgastis.se\nLUNCH PÅ GÄSTIS\nSPECIAL v. 31 tisd-lörd kl. 12-15",
+        "ocrText": null,
         "postedAt": null
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-07-29T07:17:20.534Z",
+      "fetchedAt": "2026-07-29T11:03:57.388Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-07-29T07:17:35.227Z",
+      "fetchedAt": "2026-07-29T11:04:14.628Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-07-29T07:18:03.443Z",
+      "fetchedAt": "2026-07-29T11:04:45.018Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-07-29T07:18:04.392Z",
+      "fetchedAt": "2026-07-29T11:04:45.855Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-07-29T07:18:05.753Z",
+      "fetchedAt": "2026-07-29T11:04:47.095Z",
       "ok": true,
       "error": null,
       "source": {
@@ -168,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-07-29T07:18:06.576Z",
+      "fetchedAt": "2026-07-29T11:04:47.938Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-07-29T07:18:07.322Z",
+      "fetchedAt": "2026-07-29T11:04:48.512Z",
       "ok": true,
       "error": null,
       "source": {
@@ -233,7 +233,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-07-29T07:18:15.487Z",
+      "fetchedAt": "2026-07-29T11:04:56.218Z",
       "ok": true,
       "error": null,
       "source": {
@@ -254,7 +254,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-07-29T07:18:17.517Z",
+      "fetchedAt": "2026-07-29T11:04:58.396Z",
       "ok": true,
       "error": null,
       "source": {
@@ -275,7 +275,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-07-29T07:18:17.703Z",
+      "fetchedAt": "2026-07-29T11:04:58.558Z",
       "ok": true,
       "error": null,
       "source": {
