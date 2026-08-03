@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-02T08:44:00.026Z",
+  "generatedAt": "2026-08-03T07:57:24.690Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-02T08:42:41.706Z",
+      "fetchedAt": "2026-08-03T07:55:49.072Z",
       "ok": false,
       "error": "lunch_block_not_found",
       "source": {
@@ -23,7 +23,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-02T08:42:45.718Z",
+      "fetchedAt": "2026-08-03T07:55:53.439Z",
       "ok": true,
       "error": null,
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-02T08:42:46.439Z",
+      "fetchedAt": "2026-08-03T07:55:54.405Z",
       "ok": true,
       "error": null,
       "source": {
@@ -53,17 +53,17 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/07/sommardagens-v31-1.pdf",
-        "imageUrl": null,
-        "text": "DAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Kyckling, persiljesås & kokt potatis\nONSDAG: Fläskfilé, pepparsås & rostad potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG: Grillspett, potatis, tzatziki, bearnaisesås, bbqsås\nVEG: Grön ärt/citronrisotto, parmesan, rostade nötter & bakad tomat\nFREDAGAR\nVår populära Grillbuffé\n(175 kr)\nALLA DAGAR\nÄggakaka med stekt fläsk\n& lingon (225:-)\nSOMMARSALLAD\nRomansallad, parmesan, krutonger\n& Caesardressing med:\nKyckling 165:-\nHalloumi (veg) 175:-\nRäkor 205:-\nBoka på 0413-220 10 eller info@hoorsgastis.se\nLUNCH PÅ GÄSTIS\nSPECIAL v. 31 tisd-lörd kl. 12-15",
-        "ocrText": null,
+        "pdfUrl": null,
+        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/08/sommardagens-v32.jpeg",
+        "text": null,
+        "ocrText": "LUNCH PÅ GÄSTIS\nFJ 3NE v. 32 tisd-lörd kl. 12-15\nDAGENS PÅ BUFFÉ\nVår fräscha salladsbuffé, kaffe & kaka ingår. Tis-tors 150:-, lör 175:-, Barn 3-12 år, 85:-\nTISDAG: Pannbiff, löksky, kokt potatis & lingon\nONSDAG: Thailändsk kycklingcurry med ris\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nLÖRDAG: Nattbakad högrev, rödvinsås & stekt potatis\nVEG: Tzay, kokosgrädde, röd curry, lime & ris\nFREDAGAR SOMMARSALLAD\nVår populära Grillbuffé Romansallad, parmesan, krutonger\n(175 kr) & Caesardressing med:\nALLA DAGAR Kyckling 165:\nÄggakaka med stekt fläsk Halloumi (veg) 175:- =\n& lingon (225:-) Räkor 205:-\n! OORS\n\" T a\nanse oc di\nför A 3 i ANN 692\nES ANV ( bGäsgifvaregård\nBoka på 0413-220 10 eller Inföehoorsgastis så",
         "postedAt": null
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-02T08:42:48.825Z",
+      "fetchedAt": "2026-08-03T07:55:59.967Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-02T08:43:15.982Z",
+      "fetchedAt": "2026-08-03T07:56:18.575Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-02T08:43:45.193Z",
+      "fetchedAt": "2026-08-03T07:57:07.507Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-02T08:43:45.796Z",
+      "fetchedAt": "2026-08-03T07:57:08.413Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-02T08:43:47.147Z",
+      "fetchedAt": "2026-08-03T07:57:11.276Z",
       "ok": true,
       "error": null,
       "source": {
@@ -168,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-02T08:43:48.130Z",
+      "fetchedAt": "2026-08-03T07:57:12.500Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-02T08:43:48.520Z",
+      "fetchedAt": "2026-08-03T07:57:13.242Z",
       "ok": true,
       "error": null,
       "source": {
@@ -210,7 +210,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-02T08:43:49.359Z",
+      "fetchedAt": "2026-08-03T07:57:14.098Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-02T08:43:55.723Z",
+      "fetchedAt": "2026-08-03T07:57:21.296Z",
       "ok": true,
       "error": null,
       "source": {
@@ -249,7 +249,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-02T08:43:58.125Z",
+      "fetchedAt": "2026-08-03T07:57:23.630Z",
       "ok": true,
       "error": null,
       "source": {
@@ -270,7 +270,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-02T08:43:59.539Z",
+      "fetchedAt": "2026-08-03T07:57:23.943Z",
       "ok": true,
       "error": null,
       "source": {
