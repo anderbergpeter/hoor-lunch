@@ -1,29 +1,32 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-05T11:02:25.684Z",
+  "generatedAt": "2026-08-06T07:15:26.595Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-05T11:00:59.875Z",
-      "ok": false,
-      "error": "lunch_block_not_found",
+      "fetchedAt": "2026-08-06T07:14:13.295Z",
+      "ok": true,
+      "error": null,
       "source": {
         "type": "akersberg-html",
         "url": "https://akersberg.se/mat-dryck/"
       },
       "week": null,
       "raw": {
-        "ok": false,
-        "error": "lunch_block_not_found",
-        "url": "https://akersberg.se/mat-dryck/"
+        "url": "https://akersberg.se/mat-dryck/",
+        "pdfUrl": null,
+        "imageUrl": null,
+        "text": "LUNCHMENY V. 33 Måndag-fredag 11:30-13:30, 150kr. Lördag-söndag & helgdagar 11:30-14:00, 185kr. I lunchbuffé ingår hembakad bröd, smör, salladsbuffé, bordsvatten och kaffe. Måndag 10/8 Lunch: Stekt fläsk med löksås, rårörda lingon, kokt färskpotatis Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Tisdag 11/8 Lunch: Sesammarinerad karré med teriyakisås, basmatiris, asiatisk coleslaw Vegetarisk: Sesammarinerad tofu med teriyakisås, basmatiris, asiatisk coleslaw Onsdag 12/8 Lunch: Ugnsbakad sej med hummersås, räkor, kokt färskpotatis, smörslungade rädisor Vegetarisk: Spenat och ricotta fylld tortellini med stekta grönsaker, pesto, burrata Torsdag 13/8 Lunch: Caesarsallad med helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad med stekt Quorn, friterad panoummi, krutonger, grana padana Fredag 14/8 Lunch: Krispig kalkonlårfilé med stekt potatis, gräddsås, äppelkompott, rödkål, persilja Vegetarisk: Friterad panoummi, krämig tomatsås, sallad på oliver, fänkål, selleri Lördag 15/8 Lunch: Porchetta med soltorkadtomatsky, rostad potatis, sallad på fänkål, oliver, selleri och lagrad ost Vegetarisk: Friterad panoummi, krämig tomatsås. Sallad på oliver, fänkål, selleri Söndag 16/8 Lunch: örtbakad lax med hollandaisesås, smörfrästa ärtor, dill, citron, färskpotatis Vegetarisk: Pankopanerad fetaost, friterad färskpotatis, tomat, vitlöksyoghurt A la carte 22 juni–9 augusti Boka bord Köket öppet alla dagar 17.00 – 20.30. Serveringen har öppet längre. Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter samt getostkrokett – 155 kr Huvudrätter Dagens fisk med grön sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och stekt fär",
+        "ocrText": null,
+        "postedAt": null
       }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-05T11:01:04.611Z",
+      "fetchedAt": "2026-08-06T07:14:14.023Z",
       "ok": true,
       "error": null,
       "source": {
@@ -43,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-05T11:01:05.743Z",
+      "fetchedAt": "2026-08-06T07:14:14.940Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-05T11:01:10.111Z",
+      "fetchedAt": "2026-08-06T07:14:19.385Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-05T11:01:27.953Z",
+      "fetchedAt": "2026-08-06T07:14:40.191Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-05T11:02:06.451Z",
+      "fetchedAt": "2026-08-06T07:15:10.817Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-04T11:05:19.062Z",
+      "fetchedAt": "2026-08-06T07:15:11.467Z",
       "ok": true,
       "error": null,
       "source": {
@@ -141,14 +144,12 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-04T11:05:22.276Z",
+      "fetchedAt": "2026-08-06T07:15:14.563Z",
       "ok": true,
       "error": null,
       "source": {
@@ -165,14 +166,12 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-05T11:02:15.580Z",
+      "fetchedAt": "2026-08-06T07:15:15.542Z",
       "ok": true,
       "error": null,
       "source": {
@@ -193,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-05T11:02:16.218Z",
+      "fetchedAt": "2026-08-06T07:15:16.127Z",
       "ok": true,
       "error": null,
       "source": {
@@ -214,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-05T11:02:16.983Z",
+      "fetchedAt": "2026-08-06T07:15:16.711Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -232,7 +231,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-05T11:02:23.984Z",
+      "fetchedAt": "2026-08-06T07:15:23.594Z",
       "ok": true,
       "error": null,
       "source": {
@@ -245,7 +244,7 @@
         "url": "https://hardys.nu/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "One moment, please...\nLoader\nPlease wait while your request is being verified...",
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nFototävlingen är avslutad och vi kommer snart att presentera vinnarna!\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
       }
@@ -253,7 +252,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-05T11:02:24.749Z",
+      "fetchedAt": "2026-08-06T07:15:25.689Z",
       "ok": true,
       "error": null,
       "source": {
@@ -274,7 +273,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-05T11:02:25.055Z",
+      "fetchedAt": "2026-08-06T07:15:26.024Z",
       "ok": true,
       "error": null,
       "source": {
