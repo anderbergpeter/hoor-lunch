@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-10T09:59:19.557Z",
+  "generatedAt": "2026-08-10T11:30:36.575Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-10T09:58:50.080Z",
+      "fetchedAt": "2026-08-10T11:30:07.137Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 33 Måndag-fredag 11:30-13:30, 150kr. Lördag-söndag & helgdagar 11:30-14:00, 185kr. I lunchbuffé ingår hembakad bröd, smör, salladsbuffé, bordsvatten och kaffe. Måndag 10/8 Lunch: Stekt fläsk med löksås, rårörda lingon, kokt färskpotatis Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Tisdag 11/8 Lunch: Sesammarinerad karré med teriyakisås, basmatiris, asiatisk coleslaw Vegetarisk: Sesammarinerad tofu med teriyakisås, basmatiris, asiatisk coleslaw Onsdag 12/8 Lunch: Ugnsbakad sej med hummersås, räkor, kokt färskpotatis, smörslungade rädisor Vegetarisk: Spenat och ricotta fylld tortellini med stekta grönsaker, pesto, burrata Torsdag 13/8 Lunch: Caesarsallad med helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad med stekt Quorn, friterad panoummi, krutonger, grana padana Fredag 14/8 Lunch: Porchetta med soltorkadtomatsky, rostad potatis, sallad på fänkål, oliver, selleri och lagrad ost Vegetarisk: Friterad panoummi, krämig tomatsås. Sallad på oliver, fänkål, selleri Lördag 15/8 Lunch: Krispig kalkonlårfilé med stekt potatis, gräddsås, äppelkompott, rödkål, persilja Vegetarisk: Friterad panoummi, krämig tomatsås, sallad på oliver, fänkål, selleri Söndag 16/8 Lunch: örtbakad lax med hollandaisesås, smörfrästa ärtor, dill, citron, färskpotatis Vegetarisk: Pankopanerad fetaost, friterad färskpotatis, tomat, vitlöksyoghurt A la carte 22 juni–9 augusti Boka bord Köket öppet alla dagar 17.00 – 20.30. Serveringen har öppet längre. Förrätter &#8221;Räksallad&#8221; på Åkersbergs vis – 145 kr Sallad med säsongens läckerheter samt getostkrokett – 155 kr Huvudrätter Dagens fisk med grön sparris, sauce mousseline på brynt smör och färskpotatis – 265 kr Kycklingschnitzel med grönpeppar, skånsk senap, syrade ramslökskapris och stekt fär",
+        "text": "LUNCHMENY V. 33 Måndag-fredag 11:30-13:30, 150kr. Lördag-söndag & helgdagar 11:30-14:00, 185kr. I lunchbuffé ingår hembakad bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagen kaka 55 kr Måndag 10/8 Lunch: Stekt fläsk med löksås, rårörda lingon, kokt färskpotatis Vegetarisk: Gnocchi med tomatragu, grana padana, basilika Tisdag 11/8 Lunch: Sesammarinerad karré med teriyakisås, basmatiris, asiatisk coleslaw Vegetarisk: Sesammarinerad tofu med teriyakisås, basmatiris, asiatisk coleslaw Onsdag 12/8 Lunch: Ugnsbakad sej med hummersås, räkor, kokt färskpotatis, smörslungade rädisor Vegetarisk: Spenat och ricotta fylld tortellini med stekta grönsaker, pesto, burrata Torsdag 13/8 Lunch: Caesarsallad med helstekt kycklingbröst, fläsk, krutonger, grana padana Vegetarisk: Caesarsallad med stekt Quorn, friterad panoummi, krutonger, grana padana Fredag 14/8 Lunch: Porchetta med soltorkadtomatsky, rostad potatis, sallad på fänkål, oliver, selleri och lagrad ost Vegetarisk: Friterad panoummi, krämig tomatsås. Sallad på oliver, fänkål, selleri Lördag 15/8 Lunch: Krispig kalkonlårfilé med stekt potatis, gräddsås, äppelkompott, rödkål, persilja Vegetarisk: Friterad panoummi, krämig tomatsås, sallad på oliver, fänkål, selleri Söndag 16/8 Lunch: örtbakad lax med hollandaisesås, smörfrästa ärtor, dill, citron, färskpotatis Vegetarisk: Pankopanerad fetaost, friterad färskpotatis, tomat, vitlöksyoghurt A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål Stekt blomkål serverad med en krämig färskostsås, lagrad prästost och färskriven tryffel Huvudrätter Kalventrecôte Kalventrecôte serverad med Karl Johansvampsås, l",
         "ocrText": null,
         "postedAt": null
       }
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-10T09:58:50.796Z",
+      "fetchedAt": "2026-08-10T11:30:08.029Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-10T09:58:51.566Z",
+      "fetchedAt": "2026-08-10T11:30:08.963Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-10T09:58:55.413Z",
+      "fetchedAt": "2026-08-10T11:30:14.565Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-10T09:58:58.637Z",
+      "fetchedAt": "2026-08-10T11:30:17.942Z",
       "ok": true,
       "error": null,
       "source": {
@@ -107,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-10T09:59:01.714Z",
+      "fetchedAt": "2026-08-10T11:30:21.124Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-10T09:59:02.482Z",
+      "fetchedAt": "2026-08-10T11:30:21.895Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-10T09:59:05.549Z",
+      "fetchedAt": "2026-08-10T11:30:23.577Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-10T09:59:06.315Z",
+      "fetchedAt": "2026-08-10T11:30:24.793Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-10T09:59:06.965Z",
+      "fetchedAt": "2026-08-10T11:30:25.406Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-10T09:59:07.618Z",
+      "fetchedAt": "2026-08-10T11:30:26.204Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -231,7 +231,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-10T09:59:15.041Z",
+      "fetchedAt": "2026-08-10T11:30:33.010Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,7 +252,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-10T09:59:16.949Z",
+      "fetchedAt": "2026-08-10T11:30:35.629Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +273,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-10T09:59:18.919Z",
+      "fetchedAt": "2026-08-10T11:30:35.990Z",
       "ok": true,
       "error": null,
       "source": {
