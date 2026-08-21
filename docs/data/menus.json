@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-21T05:04:02.237Z",
+  "generatedAt": "2026-08-21T09:09:43.761Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-21T05:03:16.658Z",
+      "fetchedAt": "2026-08-21T09:08:56.187Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-21T05:03:17.238Z",
+      "fetchedAt": "2026-08-21T09:08:56.867Z",
       "ok": true,
       "error": null,
       "source": {
@@ -38,7 +38,7 @@
         "url": "https://www.caferalsen.se/var-meny/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "DAGENS RÄTT - TORS 20/8 2026\nEn mustig Ajvargryta med kotlett i sällskap av ris bjuds det idag vänner🥰!\nHjärtans Välkommen är Du🥰A\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
+        "text": "DAGENS RÄTT - FRE 21/8 2026\nRälsens Fisk med Dillsås och potatismos bjuds det idag vänner 🥰!\nHjärtans Välkommen är Du🥰A\nPris; 140 kr inkl dricka. 135 kr \"ta med\" endast mat!\nHjärtans Välkommen 🥰!",
         "ocrText": null,
         "postedAt": null
       }
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-21T05:03:17.881Z",
+      "fetchedAt": "2026-08-21T09:08:57.880Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-21T05:03:20.696Z",
+      "fetchedAt": "2026-08-21T09:08:59.814Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-21T05:03:36.409Z",
+      "fetchedAt": "2026-08-21T09:09:18.358Z",
       "ok": true,
       "error": null,
       "source": {
@@ -99,9 +99,9 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0eSbHaptFdWmr2sHp1vFKvyKXuzxMwR6wNTJAjq3fYxTpfsxN9p71RcMS3XgrBi5tl",
+        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid02iJ2zmVp5UqpyyHUUyUM4kPmqNC2Wb3N8WY8WGuQQVdwLqjjMMwmzus29E2fm3vAcl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3mpaDVpsJ5UQ7kNvwHoJkpL&_nc_oc=Adq9zuDZT0e6438ole9aW2YtbWK4V_eb1Cer2QVQJHseXO6DmyQ-G2lReznl527mHxR4_AonLW-gSByhkWVYWnLm&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=GQy41gKPD3Yd8MPBsIBnxA&_nc_ss=72289&oh=00_AQFIOqyKtSvuKsqodPNhpGlbfFBFXKcLqm9gmSPL44bNFw&oe=6A8DAD30",
+        "imageUrl": "https://scontent-lax3-2.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GXvVe07eBzUQ7kNvwE0LbgN&_nc_oc=AdpSGl4lT58zHDCNCkbaUWcoT_i03kxwwqTEBoRsnSzkpCTIzYNwyb5SGKcvugNH3Wo&_nc_zt=14&_nc_ht=scontent-lax3-2.xx&_nc_gid=BWnlUiVvWN5dAi09iZC_Tw&_nc_ss=72289&oh=00_AQHWS4dQeC7GmDh3MoFX3GIBCzmSd9peE_dAqys6BvPoEg&oe=6A8DE570",
         "text": null,
         "ocrText": "Tio somrar i trädgården! \nEtt stort tack till alla er som besökt vårt café i år. Att få välkomna er för fika, lunch eller ett glas vin är en sann glädje.\nAlla tidiga morgnar och timmar i köket glöms bort när vi hör era fina komplimanger. Er respons ger oss ny kraft att fortsätta. Tack för att ni förgyller våra somrar! 🙏\n\nJag vill också tacka mina fina tjejer som jobbat och jobbar för att hålla min dröm verklig, ni är guld värda allihop ❤️\nTill sist, men absolut inte minst, min käre sambo Patrik: Stort tack till dej för all hjälp och stöttning du ger mej ❤️\nVARMT VÄLKOMMEN TILL OSS\nCafé Old Fashion Höör\n\nRT h\nll. ANS |\n| MSE tack till Tora\nNR nor\n1 +\n| NESSER\n| ER SE A Dis EN\nINN <4 & RA\nHE ”-\nI\nJE TÅ",
         "postedAt": "2026-08-19T08:38:31.000Z"
@@ -110,7 +110,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-21T05:03:48.119Z",
+      "fetchedAt": "2026-08-21T09:09:30.378Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +130,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-21T05:03:48.685Z",
+      "fetchedAt": "2026-08-21T09:09:30.967Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +152,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-21T05:03:51.202Z",
+      "fetchedAt": "2026-08-21T09:09:33.391Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +174,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-21T05:03:51.851Z",
+      "fetchedAt": "2026-08-21T09:09:34.146Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-21T05:03:52.234Z",
+      "fetchedAt": "2026-08-21T09:09:34.491Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +216,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-21T05:03:52.816Z",
+      "fetchedAt": "2026-08-21T09:09:35.014Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -234,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-21T05:03:59.694Z",
+      "fetchedAt": "2026-08-21T09:09:41.408Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-21T05:04:01.681Z",
+      "fetchedAt": "2026-08-21T09:09:43.205Z",
       "ok": true,
       "error": null,
       "source": {
@@ -276,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-21T05:04:01.855Z",
+      "fetchedAt": "2026-08-21T09:09:43.355Z",
       "ok": true,
       "error": null,
       "source": {
