@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-20T09:11:54.046Z",
+  "generatedAt": "2026-08-21T05:04:02.237Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-20T05:03:20.556Z",
+      "fetchedAt": "2026-08-21T05:03:16.658Z",
       "ok": true,
       "error": null,
       "source": {
@@ -21,14 +21,12 @@
         "text": "LUNCHMENY V. 34 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 17/8 Lunch: Helstekt kotlett med gremolata, stekt svamp, rödvinssky med svarta vinbär, vitlöksrostad potatis Vegetarisk: Marinerad Quorn med gremolata, stekt svamp, sky med svarta vinbär, vitlöksrostad potatis Tisdag 18/8 Lunch: Ungersk Gulasch på biff med vispad crèmefraiche, saltgurka och potatispuré Vegetarisk: Vegetarisk gulasch med crèmefraiche, saltgurka och potatispuré Onsdag 19/8 Lunch: Ugnsbakad kolja med brynt kaprissmör, rödbetor, dill, färskpotatis Vegetarisk: Gnocchi med örtcrème, spenat, sockerärtor, picklad rödlök, grana padana Torsdag 20/8 Lunch: Ölbräserad pannbiff med lök, pressgurka, rårörda lingon, kokt potatis, persilja Vegetarisk: Anamma färsbiffar med lök, pressgurka, rårörda lingon, kokt potatis, persilja Fredag 21/8 Lunch: Kyckling med röd pesto, tzatziki, grekisk sallad, och citron rostad potatis Vegetarisk: Friterad panoummi, med röd pesto, tzatziki, grekisk sallad, citron, rostad potatis Lördag 22/8 Lunch: Nattbakad oxbringa med rostade rotfrukter, senap och dragoncrème, bakad lök Vegetarisk: Bakad Spetskål med rostade rotfrukter, senap och dragoncrème, bakad lök Söndag 23/8 Lunch: Ångad torskrygg med brynt smör, räkor, pepparrot, fänkålscrudite, dillpotatis, citron Vegetarisk: Panko panerad friterad getost med balsamico, couscousssallad, valnötter LUNCHMENY V. 35 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 24/8 Lunch: ” Jägarschnitzel” med krämi",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "lunch_block_not_found"
+      }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-20T09:06:52.089Z",
+      "fetchedAt": "2026-08-21T05:03:17.238Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-20T09:06:53.244Z",
+      "fetchedAt": "2026-08-21T05:03:17.881Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-20T09:06:56.725Z",
+      "fetchedAt": "2026-08-21T05:03:20.696Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-20T09:07:18.070Z",
+      "fetchedAt": "2026-08-21T05:03:36.409Z",
       "ok": true,
       "error": null,
       "source": {
@@ -103,7 +101,7 @@
       "raw": {
         "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0eSbHaptFdWmr2sHp1vFKvyKXuzxMwR6wNTJAjq3fYxTpfsxN9p71RcMS3XgrBi5tl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3mpaDVpsJ5UQ7kNvwFgqoth&_nc_oc=Adr9lK-P1l_R206a1lIhrcTBhcyiIadXEdO4tZQwoc3xFY4vWAcYMjweW-pHQjJ6cmQ&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=dbattySMkpbirw1bdVyF4w&_nc_ss=72289&oh=00_AQFphXCyknuaHr9CNnpTU-LBxmyt3SjSSt9byIh77B9Tcw&oe=6A8C93F0",
+        "imageUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3mpaDVpsJ5UQ7kNvwHoJkpL&_nc_oc=Adq9zuDZT0e6438ole9aW2YtbWK4V_eb1Cer2QVQJHseXO6DmyQ-G2lReznl527mHxR4_AonLW-gSByhkWVYWnLm&_nc_zt=14&_nc_ht=scontent-iad6-1.xx&_nc_gid=GQy41gKPD3Yd8MPBsIBnxA&_nc_ss=72289&oh=00_AQFIOqyKtSvuKsqodPNhpGlbfFBFXKcLqm9gmSPL44bNFw&oe=6A8DAD30",
         "text": null,
         "ocrText": "Tio somrar i trädgården! \nEtt stort tack till alla er som besökt vårt café i år. Att få välkomna er för fika, lunch eller ett glas vin är en sann glädje.\nAlla tidiga morgnar och timmar i köket glöms bort när vi hör era fina komplimanger. Er respons ger oss ny kraft att fortsätta. Tack för att ni förgyller våra somrar! 🙏\n\nJag vill också tacka mina fina tjejer som jobbat och jobbar för att hålla min dröm verklig, ni är guld värda allihop ❤️\nTill sist, men absolut inte minst, min käre sambo Patrik: Stort tack till dej för all hjälp och stöttning du ger mej ❤️\nVARMT VÄLKOMMEN TILL OSS\nCafé Old Fashion Höör\n\nRT h\nll. ANS |\n| MSE tack till Tora\nNR nor\n1 +\n| NESSER\n| ER SE A Dis EN\nINN <4 & RA\nHE ”-\nI\nJE TÅ",
         "postedAt": "2026-08-19T08:38:31.000Z"
@@ -112,7 +110,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-20T09:07:29.352Z",
+      "fetchedAt": "2026-08-21T05:03:48.119Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +130,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-20T05:03:51.727Z",
+      "fetchedAt": "2026-08-21T05:03:48.685Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,14 +147,12 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-20T05:03:53.060Z",
+      "fetchedAt": "2026-08-21T05:03:51.202Z",
       "ok": true,
       "error": null,
       "source": {
@@ -173,14 +169,12 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-20T09:07:38.271Z",
+      "fetchedAt": "2026-08-21T05:03:51.851Z",
       "ok": true,
       "error": null,
       "source": {
@@ -201,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-20T05:03:53.986Z",
+      "fetchedAt": "2026-08-21T05:03:52.234Z",
       "ok": true,
       "error": null,
       "source": {
@@ -217,14 +211,12 @@
         "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nSöndag 19/7-26\nHej! Vi vill meddela att Onuma Thai Take Away öppnar 16.30 idag!\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Gh",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "timeout_120000ms:onuma"
+      }
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-20T09:11:42.125Z",
+      "fetchedAt": "2026-08-21T05:03:52.816Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -242,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-20T09:11:49.335Z",
+      "fetchedAt": "2026-08-21T05:03:59.694Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +247,7 @@
         "url": "https://hardys.nu/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "One moment, please...\nLoader\nPlease wait while your request is being verified...",
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nFototävlingen är avslutad och nu presenterar vi alla vinnare!\nVälkomna till Glassbaren!",
         "ocrText": null,
         "postedAt": null
       }
@@ -263,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-20T09:11:50.440Z",
+      "fetchedAt": "2026-08-21T05:04:01.681Z",
       "ok": true,
       "error": null,
       "source": {
@@ -284,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-20T09:11:50.658Z",
+      "fetchedAt": "2026-08-21T05:04:01.855Z",
       "ok": true,
       "error": null,
       "source": {
