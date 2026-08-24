@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-24T09:26:19.454Z",
+  "generatedAt": "2026-08-24T11:02:39.316Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-24T09:25:02.946Z",
+      "fetchedAt": "2026-08-24T11:01:42.258Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-24T09:25:04.045Z",
+      "fetchedAt": "2026-08-24T11:01:43.660Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-24T09:25:04.959Z",
+      "fetchedAt": "2026-08-24T11:01:44.647Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-24T09:25:10.793Z",
+      "fetchedAt": "2026-08-24T11:01:47.447Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-24T09:25:28.885Z",
+      "fetchedAt": "2026-08-24T11:02:05.224Z",
       "ok": true,
       "error": null,
       "source": {
@@ -101,7 +101,7 @@
       "raw": {
         "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0eaEoZBuyozazUvEDfvHmwwdacWRnfQr1Fv2Wd4SrYDYHnNbub3amj8eK9Sa2qwksl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfKd-OZ0CQ0Q7kNvwFw8U_u&_nc_oc=AdoejZwWTqTEy31ygyNsrLt5c_P3oIGvyeBLgb8_WHK1SGjOsFKqJVEEtOl6YdHg8VjnLn6NIkUiMUWYEOrh__7w&_nc_zt=14&_nc_ht=scontent-mia3-3.xx&_nc_gid=9Ihle2dTR9pDCHmCzbja9Q&_nc_ss=7d289&oh=00_AQErX1CJLkWunKHsxOBk82c5LNCDAJDCRu1Qh65FlMKJJw&oe=6A91D9F0",
+        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfKd-OZ0CQ0Q7kNvwHieY63&_nc_oc=AdoZ46Yr8yvdmfgWROXpDB-5zK-O18B70okWMTyqkPeIalSw8GDLn4a7FLJJ1Sm9arYgcP-RPkEnpt0688EMwS4C&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a4ocdxyv3i52r35d94glfQ&_nc_ss=72289&oh=00_AQEnbrZmBf4glYov4QBHawNgF0b1HFFD5Le4PyqnMZ5z7Q&oe=6A921230",
         "text": null,
         "ocrText": "Tio somrar i trädgården! \nEtt stort tack till alla er som besökt vårt café i år. Att få välkomna er för fika, lunch eller ett glas vin är en sann glädje.\nAlla tidiga morgnar och timmar i köket glöms bort när vi hör era fina komplimanger. Er respons ger oss ny kraft att fortsätta. Tack för att ni förgyller våra somrar! 🙏\n\nJag vill också tacka mina fina tjejer som jobbat och jobbar för att hålla min dröm verklig, ni är guld värda allihop ❤️\nTill sist, men absolut inte minst, min käre sambo Patrik: Stort tack till dej för all hjälp och stöttning du ger mej ❤️\nVARMT VÄLKOMMEN TILL OSS\nCafé Old Fashion Höör\n\nRT h\nll. ANS |\n| MSE tack till Tora\nNR nor\n1 +\n| NESSER\n| ER SE A Dis EN\nINN <4 & RA\nHE ”-\nI\nJE TÅ",
         "postedAt": "2026-08-19T08:38:31.000Z"
@@ -110,7 +110,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-24T05:10:43.827Z",
+      "fetchedAt": "2026-08-24T11:02:21.953Z",
       "ok": true,
       "error": null,
       "source": {
@@ -125,14 +125,12 @@
         "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://pizzeriakreta.se/meny/ failed, reason: "
+      }
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-24T09:25:58.219Z",
+      "fetchedAt": "2026-08-24T11:02:22.672Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +152,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-24T09:26:01.355Z",
+      "fetchedAt": "2026-08-24T11:02:26.283Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +174,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-24T09:26:03.905Z",
+      "fetchedAt": "2026-08-24T11:02:27.307Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-24T09:26:04.722Z",
+      "fetchedAt": "2026-08-24T11:02:28.020Z",
       "ok": true,
       "error": null,
       "source": {
@@ -218,7 +216,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-24T09:26:05.427Z",
+      "fetchedAt": "2026-08-24T11:02:28.694Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -236,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-24T09:26:12.988Z",
+      "fetchedAt": "2026-08-24T11:02:36.017Z",
       "ok": true,
       "error": null,
       "source": {
@@ -257,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-24T09:26:15.352Z",
+      "fetchedAt": "2026-08-24T11:02:38.300Z",
       "ok": true,
       "error": null,
       "source": {
@@ -278,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-24T05:10:57.544Z",
+      "fetchedAt": "2026-08-24T11:02:38.615Z",
       "ok": true,
       "error": null,
       "source": {
@@ -294,9 +292,7 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://eddisgrill.se/ failed, reason: "
+      }
     }
   ]
 }
