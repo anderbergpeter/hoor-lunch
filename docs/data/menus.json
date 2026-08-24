@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-24T05:10:57.998Z",
+  "generatedAt": "2026-08-24T09:26:19.454Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-24T05:10:15.528Z",
+      "fetchedAt": "2026-08-24T09:25:02.946Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 34 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 17/8 Lunch: Helstekt kotlett med gremolata, stekt svamp, rödvinssky med svarta vinbär, vitlöksrostad potatis Vegetarisk: Marinerad Quorn med gremolata, stekt svamp, sky med svarta vinbär, vitlöksrostad potatis Tisdag 18/8 Lunch: Ungersk Gulasch på biff med vispad crèmefraiche, saltgurka och potatispuré Vegetarisk: Vegetarisk gulasch med crèmefraiche, saltgurka och potatispuré Onsdag 19/8 Lunch: Ugnsbakad kolja med brynt kaprissmör, rödbetor, dill, färskpotatis Vegetarisk: Gnocchi med örtcrème, spenat, sockerärtor, picklad rödlök, grana padana Torsdag 20/8 Lunch: Ölbräserad pannbiff med lök, pressgurka, rårörda lingon, kokt potatis, persilja Vegetarisk: Anamma färsbiffar med lök, pressgurka, rårörda lingon, kokt potatis, persilja Fredag 21/8 Lunch: Kyckling med röd pesto, tzatziki, grekisk sallad, och citron rostad potatis Vegetarisk: Friterad panoummi, med röd pesto, tzatziki, grekisk sallad, citron, rostad potatis Lördag 22/8 Lunch: Nattbakad oxbringa med rostade rotfrukter, senap och dragoncrème, bakad lök Vegetarisk: Bakad Spetskål med rostade rotfrukter, senap och dragoncrème, bakad lök Söndag 23/8 Lunch: Ångad torskrygg med brynt smör, räkor, pepparrot, fänkålscrudite, dillpotatis, citron Vegetarisk: Panko panerad friterad getost med balsamico, couscousssallad, valnötter LUNCHMENY V. 35 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 24/8 Lunch: ” Jägarschnitzel” med krämi",
+        "text": "LUNCHMENY V. 35 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 24/8 Lunch: ” Jägarschnitzel” med krämig svampsås, stekt potatis, gröna ärtor och citron Vegetarisk: Frasig sellerischnitzel med krämig svampsås, stekt potatis, gröna ärtor & citron Tisdag 25/8 Lunch: Pulled pork med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Vegetarisk: BBQ Oumph med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Onsdag 26/8 Lunch: Ugnsbakad fisk med citronsmörsås, räkor, bakad fänkål, dillpotatis Vegetarisk: Tortellini med basilikapesto, rostade grönsaker, buratta Torsdag 27/8 &#8211; Fullbokad Lunch: Kalvfärslimpa med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Vegetarisk: Anamma färsbiffar med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Fredag 28/8 &#8211; Fullbokad Lunch: Kalkonbröst med soltorkadtomatsky, rostade grönsaker, fetaost, potatisstomp Vegetarisk: Friterad falafel med hummus, rostade grönsaker, fetaost, potatisstomp Lördag 29/8 Lunch: Parmesan Grillad kycklingfilé med rostad tomat sås, gnocchi, basilikaolja, grana padana Vegetarisk: Parmesan grillad aubergine med rostad tomat sås, gnocchi, basilikaolja, grana padana Söndag 30/8 Lunch: Pankopanerad kolja med tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Panko panerad friterad panoummi med tartarsås, citron, kokt potatis A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål Stekt blomkål serverad ",
         "ocrText": null,
         "postedAt": null
       }
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-24T05:10:16.659Z",
+      "fetchedAt": "2026-08-24T09:25:04.045Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-24T05:10:17.429Z",
+      "fetchedAt": "2026-08-24T09:25:04.959Z",
       "ok": true,
       "error": null,
       "source": {
@@ -56,9 +56,9 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/08/dagens-v34-2026.pdf",
+        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/08/dagens-v35-2026.pdf",
         "imageUrl": null,
-        "text": "LUNCH v. 34\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Dansk flæskesteg med traditionella tillbehör\nONSDAG: Köttfärslimpa, potatismos, gräddsås & lingon\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillbuffé (175:-)\nLÖRDAG: Nattbakad karré, potatisgratäng & gremolatasky\nVEG: Arancini med basilikacrème\nALLTID: Äggakaka med stekt fläsk & lingon (225:-)\nBoka på 0413-220 10 eller info@hoorsgastis.se",
+        "text": "LUNCH v. 35\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Pannbiff, löksky, potatis & lingon\nONSDAG: Långbakad kotlett, svampsås & rostad potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillbuffé (175:-)\nLÖRDAG: Nattbakad kalvfransyska, choronsås & rostade rotfrukter\nVEG: Lasagne, tomatsallad & ruccola\nALLTID: Äggakaga med stekt fläsk & lingon (225:-)\nBoka på 0413-220 10 eller info@hoorsgastis.se",
         "ocrText": null,
         "postedAt": null
       }
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-24T05:10:20.785Z",
+      "fetchedAt": "2026-08-24T09:25:10.793Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-24T05:10:34.022Z",
+      "fetchedAt": "2026-08-24T09:25:28.885Z",
       "ok": true,
       "error": null,
       "source": {
@@ -99,9 +99,9 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid02i7szUMYLfH6Xb8w7uU7gsPqx2GFQXE85MHTZbHMunMMS5KLbQLtog7pDAc64iNSjl",
+        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0eaEoZBuyozazUvEDfvHmwwdacWRnfQr1Fv2Wd4SrYDYHnNbub3amj8eK9Sa2qwksl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=GXvVe07eBzUQ7kNvwFTcnod&_nc_oc=AdquMlMnP8V4CM9gd-HNEpz1Cg3b44SPw4L7RRe18DpGo7XzshLrxmcs-vxIQJRdyZQ&_nc_zt=14&_nc_ht=scontent-phl2-1.xx&_nc_gid=0UdL5JhvDT34EkpDHnUWpQ&_nc_ss=7c289&oh=00_AQFFusvE5vORD147OIHzy-c99QfZU97phdQ4ee3jcVttEw&oe=6A91A1B0",
+        "imageUrl": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfKd-OZ0CQ0Q7kNvwFw8U_u&_nc_oc=AdoejZwWTqTEy31ygyNsrLt5c_P3oIGvyeBLgb8_WHK1SGjOsFKqJVEEtOl6YdHg8VjnLn6NIkUiMUWYEOrh__7w&_nc_zt=14&_nc_ht=scontent-mia3-3.xx&_nc_gid=9Ihle2dTR9pDCHmCzbja9Q&_nc_ss=7d289&oh=00_AQErX1CJLkWunKHsxOBk82c5LNCDAJDCRu1Qh65FlMKJJw&oe=6A91D9F0",
         "text": null,
         "ocrText": "Tio somrar i trädgården! \nEtt stort tack till alla er som besökt vårt café i år. Att få välkomna er för fika, lunch eller ett glas vin är en sann glädje.\nAlla tidiga morgnar och timmar i köket glöms bort när vi hör era fina komplimanger. Er respons ger oss ny kraft att fortsätta. Tack för att ni förgyller våra somrar! 🙏\n\nJag vill också tacka mina fina tjejer som jobbat och jobbar för att hålla min dröm verklig, ni är guld värda allihop ❤️\nTill sist, men absolut inte minst, min käre sambo Patrik: Stort tack till dej för all hjälp och stöttning du ger mej ❤️\nVARMT VÄLKOMMEN TILL OSS\nCafé Old Fashion Höör\n\nRT h\nll. ANS |\n| MSE tack till Tora\nNR nor\n1 +\n| NESSER\n| ER SE A Dis EN\nINN <4 & RA\nHE ”-\nI\nJE TÅ",
         "postedAt": "2026-08-19T08:38:31.000Z"
@@ -125,12 +125,14 @@
         "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://pizzeriakreta.se/meny/ failed, reason: "
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-24T05:10:44.324Z",
+      "fetchedAt": "2026-08-24T09:25:58.219Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-24T05:10:47.099Z",
+      "fetchedAt": "2026-08-24T09:26:01.355Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-24T05:10:48.028Z",
+      "fetchedAt": "2026-08-24T09:26:03.905Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-24T05:10:48.397Z",
+      "fetchedAt": "2026-08-24T09:26:04.722Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-24T05:10:49.069Z",
+      "fetchedAt": "2026-08-24T09:26:05.427Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -234,7 +236,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-24T05:10:55.768Z",
+      "fetchedAt": "2026-08-24T09:26:12.988Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +257,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-24T05:10:57.469Z",
+      "fetchedAt": "2026-08-24T09:26:15.352Z",
       "ok": true,
       "error": null,
       "source": {
@@ -292,7 +294,9 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://eddisgrill.se/ failed, reason: "
     }
   ]
 }
