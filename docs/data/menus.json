@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-24T11:02:39.316Z",
+  "generatedAt": "2026-08-25T05:04:39.455Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-24T11:01:42.258Z",
+      "fetchedAt": "2026-08-25T05:03:47.369Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-24T11:01:43.660Z",
+      "fetchedAt": "2026-08-25T05:03:48.219Z",
       "ok": true,
       "error": null,
       "source": {
@@ -46,7 +46,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-24T11:01:44.647Z",
+      "fetchedAt": "2026-08-25T05:03:49.016Z",
       "ok": true,
       "error": null,
       "source": {
@@ -66,7 +66,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-24T11:01:47.447Z",
+      "fetchedAt": "2026-08-25T05:03:51.367Z",
       "ok": true,
       "error": null,
       "source": {
@@ -87,7 +87,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-24T11:02:05.224Z",
+      "fetchedAt": "2026-08-25T05:04:09.781Z",
       "ok": true,
       "error": null,
       "source": {
@@ -99,18 +99,18 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0eaEoZBuyozazUvEDfvHmwwdacWRnfQr1Fv2Wd4SrYDYHnNbub3amj8eK9Sa2qwksl",
+        "url": "https://www.facebook.com/reel/1040526265562280/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/780140050_1939015677483660_4503083964390876760_n.png?stp=dst-jpg_tt6&cstp=mx1623x2048&ctp=s640x640&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfKd-OZ0CQ0Q7kNvwHieY63&_nc_oc=AdoZ46Yr8yvdmfgWROXpDB-5zK-O18B70okWMTyqkPeIalSw8GDLn4a7FLJJ1Sm9arYgcP-RPkEnpt0688EMwS4C&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=a4ocdxyv3i52r35d94glfQ&_nc_ss=72289&oh=00_AQEnbrZmBf4glYov4QBHawNgF0b1HFFD5Le4PyqnMZ5z7Q&oe=6A921230",
+        "imageUrl": "https://scontent-hou1-1.xx.fbcdn.net/v/t51.71878-10/786106816_945446618593559_2698263439510621386_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=1bJwyW7qBEUQ7kNvwGSYruC&_nc_oc=AdobagQ2TtqRSiBVJgwR1di5xzJil9CTKMC9Lk96tf6ZjEEpHNQlmkBLzBAKlTx46YiyxGpm29ZY3CL4qzAA931u&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=qYJPlU2UqpiwXCMVQVJ14g&_nc_ss=7c289&oh=00_AQHqP-5lBZSSW7mQok7Q2JX33AeHzIqRJDJ2Zm1dYNXC2g&oe=6A92F28E",
         "text": null,
-        "ocrText": "Tio somrar i trädgården! \nEtt stort tack till alla er som besökt vårt café i år. Att få välkomna er för fika, lunch eller ett glas vin är en sann glädje.\nAlla tidiga morgnar och timmar i köket glöms bort när vi hör era fina komplimanger. Er respons ger oss ny kraft att fortsätta. Tack för att ni förgyller våra somrar! 🙏\n\nJag vill också tacka mina fina tjejer som jobbat och jobbar för att hålla min dröm verklig, ni är guld värda allihop ❤️\nTill sist, men absolut inte minst, min käre sambo Patrik: Stort tack till dej för all hjälp och stöttning du ger mej ❤️\nVARMT VÄLKOMMEN TILL OSS\nCafé Old Fashion Höör\n\nRT h\nll. ANS |\n| MSE tack till Tora\nNR nor\n1 +\n| NESSER\n| ER SE A Dis EN\nINN <4 & RA\nHE ”-\nI\nJE TÅ",
-        "postedAt": "2026-08-19T08:38:31.000Z"
+        "ocrText": "#frukost #lunchtime #våffelmeny #gofika☕️ #höör\n\nEE 0 CAFÉ OLD FASHION HÖÖR 5\n\nERE a nn RN =\n\n2 Från och med SA\n\nV.35 Sens st\n\n( Har vi öpped = j\n\n€ Som vanligt: =\n\n3 Måndag 10-17\n\n[ Tisd-fred 8-17 €\n\ni Lördag 10-16 /\n\n> Söndag 12-16 b\n> &frukost\n\nÉ PVs RSA\n\n| SE Hlunch '\n\n= os fpttgofikoXz jä",
+        "postedAt": "2026-08-25T03:51:03.000Z"
       }
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-24T11:02:21.953Z",
+      "fetchedAt": "2026-08-25T05:04:21.814Z",
       "ok": true,
       "error": null,
       "source": {
@@ -130,7 +130,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-24T11:02:22.672Z",
+      "fetchedAt": "2026-08-25T05:04:22.551Z",
       "ok": true,
       "error": null,
       "source": {
@@ -152,7 +152,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-24T11:02:26.283Z",
+      "fetchedAt": "2026-08-25T05:04:24.279Z",
       "ok": true,
       "error": null,
       "source": {
@@ -174,7 +174,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-24T11:02:27.307Z",
+      "fetchedAt": "2026-08-25T05:04:25.240Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-24T11:02:28.020Z",
+      "fetchedAt": "2026-08-25T05:04:26.036Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +216,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-24T11:02:28.694Z",
+      "fetchedAt": "2026-08-25T05:04:26.816Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -234,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-24T11:02:36.017Z",
+      "fetchedAt": "2026-08-25T05:04:33.778Z",
       "ok": true,
       "error": null,
       "source": {
@@ -255,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-24T11:02:38.300Z",
+      "fetchedAt": "2026-08-25T05:04:36.426Z",
       "ok": true,
       "error": null,
       "source": {
@@ -276,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-24T11:02:38.615Z",
+      "fetchedAt": "2026-08-25T05:04:38.734Z",
       "ok": true,
       "error": null,
       "source": {
