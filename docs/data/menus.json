@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-26T09:20:33.758Z",
+  "generatedAt": "2026-08-27T15:23:58.070Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-26T09:19:42.222Z",
+      "fetchedAt": "2026-08-27T15:23:09.744Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 35 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 24/8 Lunch: ” Jägarschnitzel” med krämig svampsås, stekt potatis, gröna ärtor och citron Vegetarisk: Frasig sellerischnitzel med krämig svampsås, stekt potatis, gröna ärtor & citron Tisdag 25/8 Lunch: Pulled pork med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Vegetarisk: BBQ Oumph med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Onsdag 26/8 Lunch: Ugnsbakad fisk med citronsmörsås, räkor, bakad fänkål, dillpotatis Vegetarisk: Tortellini med basilikapesto, rostade grönsaker, buratta Torsdag 27/8 &#8211; Fullbokad Lunch: Kalvfärslimpa med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Vegetarisk: Anamma färsbiffar med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Fredag 28/8 &#8211; Fullbokad Lunch: Kalkonbröst med soltorkadtomatsky, rostade grönsaker, fetaost, potatisstomp Vegetarisk: Friterad falafel med hummus, rostade grönsaker, fetaost, potatisstomp Lördag 29/8 Lunch: Parmesan Grillad kycklingfilé med rostad tomat sås, gnocchi, basilikaolja, grana padana Vegetarisk: Parmesan grillad aubergine med rostad tomat sås, gnocchi, basilikaolja, grana padana Söndag 30/8 Lunch: Pankopanerad kolja med tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Panko panerad friterad panoummi med tartarsås, citron, kokt potatis A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål Stekt blomkål serverad ",
+        "text": "LUNCHMENY V. 35 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 24/8 Lunch: ” Jägarschnitzel” med krämig svampsås, stekt potatis, gröna ärtor och citron Vegetarisk: Frasig sellerischnitzel med krämig svampsås, stekt potatis, gröna ärtor & citron Tisdag 25/8 Lunch: Pulled pork med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Vegetarisk: BBQ Oumph med BBQ sås, chili och tortillabröd, inlagd rödlök, klyftpotatis Onsdag 26/8 Lunch: Ugnsbakad fisk med citronsmörsås, räkor, bakad fänkål, dillpotatis Vegetarisk: Tortellini med basilikapesto, rostade grönsaker, buratta Torsdag 27/8 &#8211; Fullbokad Lunch: Kalvfärslimpa med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Vegetarisk: Anamma färsbiffar med rostade rotfrukter, svartvinbärsgelé, timjangräddsås, persilja Fredag 28/8 &#8211; Fullbokad Lunch: Kalkonbröst med soltorkadtomatsky, rostade grönsaker, fetaost, potatisstomp Vegetarisk: Friterad falafel med hummus, rostade grönsaker, fetaost, potatisstomp Lördag 29/8 Lunch: Parmesan Grillad kycklingfilé med rostad tomat sås, gnocchi, basilikaolja, grana padana Vegetarisk: Parmesan grillad aubergine med rostad tomat sås, gnocchi, basilikaolja, grana padana Söndag 30/8 Lunch: Pankopanerad kolja med tartarsås, citron, kokt potatis, fänkål och dill crudité Vegetarisk: Panko panerad friterad panoummi med tartarsås, citron, kokt potatis LUNCHMENY V. 36 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 31/8 Lunch: Pytt Bellm",
         "ocrText": null,
         "postedAt": null
       }
@@ -48,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-26T09:19:47.536Z",
+      "fetchedAt": "2026-08-27T15:23:15.759Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-26T09:19:49.872Z",
+      "fetchedAt": "2026-08-27T15:23:17.779Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-26T09:20:03.870Z",
+      "fetchedAt": "2026-08-27T15:23:32.414Z",
       "ok": true,
       "error": null,
       "source": {
@@ -101,18 +101,18 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/reel/1040526265562280/",
+        "url": "https://www.facebook.com/reel/1602618484708130/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-mia3-3.xx.fbcdn.net/v/t51.71878-10/786106816_945446618593559_2698263439510621386_n.jpg?stp=dst-jpg_tt6&cstp=mx640x1136&ctp=s960x960&_nc_cat=107&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=1bJwyW7qBEUQ7kNvwGBQ-63&_nc_oc=AdryjewflvgOFUyeNyH2RW0ebWpcJa41vBL6rl2ES0OmJOkVA6lejwYN05YdfNw3u2I&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=chyDXQ9bVMT-w0tCPpFL2A&_nc_ss=72289&oh=00_AQGrjZSJJ-qbVAM1_d36z9VuEvd1E5y492c53XHbpSKCgA&oe=6A947C4E",
+        "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwEnvoL7&_nc_oc=AdqAAa7XyUcpYafrrzUFKxxv9YegrNFFBwnol36nZ_jKYA1J89lEKmFXH4rYvGnJ1z8&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=ICB2TsBDTxBbmV1eknSltw&_nc_ss=73289&oh=00_AQGUhPMcgCKwVJSrg4gPbJzhLaqLSzwVR5NnxGHzLkeF4w&oe=6A96269B",
         "text": null,
-        "ocrText": "#frukost #lunchtime #våffelmeny #gofika☕️ #höör\n\nEE 0 CAFÉ OLD FASHION HÖÖR 5\n\nERE a nn RN =\n\n2 Från och med SA\n\nV.35 Sens st\n\n( Har vi öpped = j\n\n€ Som vanligt: =\n\n3 Måndag 10-17\n\n[ Tisd-fred 8-17 €\n\ni Lördag 10-16 /\n\n> Söndag 12-16 b\n> &frukost\n\nÉ PVs RSA\n\n| SE Hlunch '\n\n= os fpttgofikoXz jä",
-        "postedAt": "2026-08-25T03:51:03.000Z"
+        "ocrText": "En torsdag varje\nMånad-...s ij\n+ —]I— 00 s\n/ fi I N\nfr Bea a\nSe J le | I Sö V (v a SS\n| N Å HÖ söss!!\nON | / | 6s\nin atum och tider\nKommer snart",
+        "postedAt": "2026-08-27T04:51:07.000Z"
       }
     },
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-26T09:20:17.740Z",
+      "fetchedAt": "2026-08-27T15:23:44.988Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-26T09:20:18.445Z",
+      "fetchedAt": "2026-08-27T15:23:45.502Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-26T09:20:21.441Z",
+      "fetchedAt": "2026-08-27T15:23:46.844Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-26T09:20:22.235Z",
+      "fetchedAt": "2026-08-27T15:23:47.883Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-26T09:20:22.845Z",
+      "fetchedAt": "2026-08-27T15:23:48.379Z",
       "ok": true,
       "error": null,
       "source": {
@@ -218,7 +218,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-26T09:20:23.771Z",
+      "fetchedAt": "2026-08-27T15:23:48.874Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -236,7 +236,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-26T09:20:30.661Z",
+      "fetchedAt": "2026-08-27T15:23:55.399Z",
       "ok": true,
       "error": null,
       "source": {
@@ -257,7 +257,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-26T09:20:32.910Z",
+      "fetchedAt": "2026-08-27T15:23:57.527Z",
       "ok": true,
       "error": null,
       "source": {
@@ -278,7 +278,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-26T09:20:33.201Z",
+      "fetchedAt": "2026-08-27T15:23:57.603Z",
       "ok": true,
       "error": null,
       "source": {
