@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-27T19:14:17.720Z",
+  "generatedAt": "2026-08-28T16:53:11.985Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-27T19:13:28.763Z",
+      "fetchedAt": "2026-08-28T16:48:17.360Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-27T19:13:33.789Z",
+      "fetchedAt": "2026-08-28T16:48:22.314Z",
       "ok": true,
       "error": null,
       "source": {
@@ -58,9 +58,9 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/08/dagens-v35-2026.pdf",
+        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/08/dagens-v35-2026-1.pdf",
         "imageUrl": null,
-        "text": "LUNCH v. 35\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Pannbiff, löksky, potatis & lingon\nONSDAG: Långbakad kotlett, svampsås & rostad potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillbuffé (175:-)\nLÖRDAG: Nattbakad kalvfransyska, choronsås & rostade rotfrukter\nVEG: Lasagne, tomatsallad & ruccola\nALLTID: Äggakaga med stekt fläsk & lingon (225:-)\nBoka på 0413-220 10 eller info@hoorsgastis.se",
+        "text": "LUNCH v. 35\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Pannbiff, löksky, potatis & lingon\nONSDAG: Långbakad kotlett, svampsås & rostad potatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Grillbuffé (175:-)\nLÖRDAG: Nattbakad skinkstek, choronsås & rostade rotfrukter\nVEG: Lasagne, tomatsallad & ruccola\nALLTID: Äggakaga med stekt fläsk & lingon (225:-)\nBoka på 0413-220 10 eller info@hoorsgastis.se",
         "ocrText": null,
         "postedAt": null
       }
@@ -68,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-27T19:13:36.801Z",
+      "fetchedAt": "2026-08-28T16:48:25.221Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-27T19:13:52.176Z",
+      "fetchedAt": "2026-08-28T16:48:41.523Z",
       "ok": true,
       "error": null,
       "source": {
@@ -103,7 +103,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1602618484708130/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent.fmem1-1.fna.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwFp5bc7&_nc_oc=AdrR5bSw5_c-wDBIlC4MHUGVeY_yNgpvNvyZdwMNcjcBQILmLau0mKola3DfCIVRwySB_5qNB63AtDVXVkMzkHwv&_nc_zt=23&_nc_ht=scontent.fmem1-1.fna&_nc_gid=2QNal5hc0XHKzEtNhmKoyA&_nc_ss=73289&oh=00_AQHVXwfnfzOzINp8i0IQSpIyvyvLZ_QKnW7b74XAUqwCMw&oe=6A965EDB",
+        "imageUrl": "https://scontent.fpit1-1.fna.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwG1_u2S&_nc_oc=Adqaue3DJMYCwu5QniWozxJAFGvhkH1JKBsGXAXhyxEy6a1caeBHi8FTmvJQHQmB3qM&_nc_zt=23&_nc_ht=scontent.fpit1-1.fna&_nc_gid=FclakZTIo2R5tO_XNjxEPw&_nc_ss=73289&oh=00_AQFqjQu2CNrfdeat3KzLRM_6IPlYoz5ww9iRGYrNUrwyBA&oe=6A97781B",
         "text": null,
         "ocrText": "En torsdag varje\nMånad-...s ij\n+ —]I— 00 s\n/ fi I N\nfr Bea a\nSe J le | I Sö V (v a SS\n| N Å HÖ söss!!\nON | / | 6s\nin atum och tider\nKommer snart",
         "postedAt": "2026-08-27T04:51:07.000Z"
@@ -112,7 +112,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-27T19:14:02.563Z",
+      "fetchedAt": "2026-08-28T16:48:52.897Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-27T19:14:03.261Z",
+      "fetchedAt": "2026-08-28T16:48:53.823Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-27T19:14:04.830Z",
+      "fetchedAt": "2026-08-28T16:48:55.373Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-27T19:14:06.685Z",
+      "fetchedAt": "2026-08-28T16:48:56.588Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,12 +213,14 @@
         "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nSöndag 19/7-26\nHej! Vi vill meddela att Onuma Thai Take Away öppnar 16.30 idag!\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Gh",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "timeout_120000ms:onuma"
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-27T19:14:07.998Z",
+      "fetchedAt": "2026-08-28T16:53:00.302Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -236,7 +238,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-27T19:14:14.505Z",
+      "fetchedAt": "2026-08-28T16:53:07.490Z",
       "ok": true,
       "error": null,
       "source": {
@@ -257,7 +259,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-27T19:14:16.706Z",
+      "fetchedAt": "2026-08-28T16:53:10.299Z",
       "ok": true,
       "error": null,
       "source": {
@@ -270,7 +272,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 35: 24-28 /8 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 29-30 aug kommer snart se nedan:\nDagens:\nMåndag\nKöttfärslimpa med gräddsås, potatis & pressgurka.\nTisdag: ​\nBiff stroganoff med kokt ris.\nOnsdag:\nhelstekt kotlett med grönpepparsås, potatishalvor & grönt . ​ ​\nTorsdag:\nBlandfärsbiff med grönpeppar, potatis & grönt.\nFredag: ​\nPasta med fläskytterfil&eacute; med grönsaker i krämigas.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nGrönsakaksfylld zucchini med citronsås & potatis. 170:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 29-30 aug: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\n​\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 35: 24-28 /8 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 29-30 aug se nedan:\nDagens:\nMåndag\nKöttfärslimpa med gräddsås, potatis & pressgurka.\nTisdag: ​\nBiff stroganoff med kokt ris.\nOnsdag:\nhelstekt kotlett med grönpepparsås, potatishalvor & grönt . ​ ​\nTorsdag:\nBlandfärsbiff med grönpeppar, potatis & grönt.\nFredag: ​\nPasta med fläskytterfil&eacute; med grönsaker i krämigas.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nGrönsakaksfylld zucchini med citronsås & potatis. 170:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 29-30 aug: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\nVarmrökt lax med dillsås, kokt potatis & spetskål. 255:-​\nFlankstek med pestomarinerad grönsaker, pommes & limesås. 230:-\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -278,7 +280,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-27T19:14:17.155Z",
+      "fetchedAt": "2026-08-28T16:53:11.215Z",
       "ok": true,
       "error": null,
       "source": {
