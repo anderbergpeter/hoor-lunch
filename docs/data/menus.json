@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-28T16:53:11.985Z",
+  "generatedAt": "2026-08-28T20:20:39.594Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-28T16:48:17.360Z",
+      "fetchedAt": "2026-08-28T20:19:46.660Z",
       "ok": true,
       "error": null,
       "source": {
@@ -48,7 +48,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-28T16:48:22.314Z",
+      "fetchedAt": "2026-08-28T20:19:52.372Z",
       "ok": true,
       "error": null,
       "source": {
@@ -68,7 +68,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-28T16:48:25.221Z",
+      "fetchedAt": "2026-08-28T20:19:55.242Z",
       "ok": true,
       "error": null,
       "source": {
@@ -89,7 +89,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-28T16:48:41.523Z",
+      "fetchedAt": "2026-08-28T20:20:11.826Z",
       "ok": true,
       "error": null,
       "source": {
@@ -103,7 +103,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1602618484708130/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent.fpit1-1.fna.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwG1_u2S&_nc_oc=Adqaue3DJMYCwu5QniWozxJAFGvhkH1JKBsGXAXhyxEy6a1caeBHi8FTmvJQHQmB3qM&_nc_zt=23&_nc_ht=scontent.fpit1-1.fna&_nc_gid=FclakZTIo2R5tO_XNjxEPw&_nc_ss=73289&oh=00_AQFqjQu2CNrfdeat3KzLRM_6IPlYoz5ww9iRGYrNUrwyBA&oe=6A97781B",
+        "imageUrl": "https://scontent-phl2-1.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwGAsMch&_nc_oc=AdoYbATHvOdZDXa5DJPh8sxpAuWm4MLRN7e2lVYApGwBHNddA-RDA2LoNKOVsPMdKem_I8nbpfUVFK83eYzkSZC_&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=7naXQ_dm4Lxy4C9412LxTg&_nc_ss=73289&oh=00_AQG6zLy-JDeGF0Lbs-HA89XOCJBc-rr1hlmUAvEVfWd3Jw&oe=6A97B05B",
         "text": null,
         "ocrText": "En torsdag varje\nMånad-...s ij\n+ —]I— 00 s\n/ fi I N\nfr Bea a\nSe J le | I Sö V (v a SS\n| N Å HÖ söss!!\nON | / | 6s\nin atum och tider\nKommer snart",
         "postedAt": "2026-08-27T04:51:07.000Z"
@@ -112,7 +112,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-28T16:48:52.897Z",
+      "fetchedAt": "2026-08-28T20:20:24.041Z",
       "ok": true,
       "error": null,
       "source": {
@@ -132,7 +132,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-28T16:48:53.823Z",
+      "fetchedAt": "2026-08-28T20:20:24.807Z",
       "ok": true,
       "error": null,
       "source": {
@@ -154,7 +154,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-28T16:48:55.373Z",
+      "fetchedAt": "2026-08-28T20:20:26.385Z",
       "ok": true,
       "error": null,
       "source": {
@@ -176,7 +176,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-28T16:48:56.588Z",
+      "fetchedAt": "2026-08-28T20:20:27.418Z",
       "ok": true,
       "error": null,
       "source": {
@@ -197,7 +197,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-27T19:14:07.426Z",
+      "fetchedAt": "2026-08-28T20:20:28.427Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,14 +213,12 @@
         "text": "Meny | On-Uma Thai Restaurang & Take Away\nTHAI RESTAURANG & TAKE AWAY\nMeny\nSöndag 19/7-26\nHej! Vi vill meddela att Onuma Thai Take Away öppnar 16.30 idag!\nRing gärna och beställ då vi ibland har lång väntetid.\nFörrätt (som huvudrätt 115:-)\n1. Räkchips 50:-\n2. Vårrullar-Vegetarisk-Mini. 65:-\nRisnudlar, vitkål, morot, svamp, potatis, gröna bönor, lök, palmolja, sesamolja samt peppar och salt. Serveras med sötsur sås\n3. Vårrullar-Nötkött. 85:-\nGlasnudlar, nötfärs, kål, morot, veg. olja samt kryddor. Serveras med sötsur sås\nNudelrätter\n4. Padd Thai.\nWokade risnudlar med ägg, svart bönsoya, grönsaker och jordnötter\n5. Padd Si Lo.\nWokade risnudlar med ägg, svart bönsoya och grönsaker\n6. Padd Thai Kee Mao.\nWokade risnudlar med ägg, svart bönsoya, grönsaker, jordnötter, bambuskott och keemao curry- stark\n7. Tiao Padd.\nWokade äggnudlar med svart bönsoya och grönsaker\n8. Padd Wonsen.\nWokade glasnudlar med ägg, grönsaker och bambuskott\nWokat (serveras med ris)\n9. Padd Prik Gäng Panäng.\nWokad med grönsaker och panäng curry\n10. Kao Padd.\nWokad ris med ägg, svart soya och grönsaker\n11. Padd Prik.\nWokad med grönsaker, lök, paprika- stark\n12. Padd Chilipasta.\nWokad med grönsaker, bambuskott och chilipasta\n13. Padd Prik Ghäng Däng.\nWokad med grönsaker, bambuskott och röd curry- stark\n14. Padd Gaeng Kiao Wan.\nWokad med bambuskott och grön curry- stark\n15. Padd Nam Man Hoi.\nWokad med grönsaker och ostronsås\n16. Padd Krapao.\nWokad med grönsaker, chili och krapao blad (basilika)- stark\n17. Padd Priao Waan.\nWokad med grönsaker och ananas i sötsur sås\n18. Padd Khing.\nWokad med grönsaker och ingefära\n19. Padd Cashewnötter.\nWokad med grönsaker och cashewnötter\n20. Padd Kee Mao.\nWokad med grönsaker och keemao curry- mycket stark\nGrytor(serveras med ris)\n21. Ghäng Däng.\nGryta med grönsaker, bambuskott, kokosmjölk och röd curry- stark (Innehåller komjölk - går att få laktosfri)\n22. Ghäng Panäng.\nGryta med grönsaker, kokosmjölk och panäng curry\n(Innehåller komjölk - går att få laktosfri)\n23. Gh",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "timeout_120000ms:onuma"
+      }
     },
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-28T16:53:00.302Z",
+      "fetchedAt": "2026-08-28T20:20:29.131Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -238,7 +236,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-28T16:53:07.490Z",
+      "fetchedAt": "2026-08-28T20:20:36.320Z",
       "ok": true,
       "error": null,
       "source": {
@@ -259,7 +257,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-28T16:53:10.299Z",
+      "fetchedAt": "2026-08-28T20:20:38.729Z",
       "ok": true,
       "error": null,
       "source": {
@@ -280,7 +278,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-28T16:53:11.215Z",
+      "fetchedAt": "2026-08-28T20:20:38.949Z",
       "ok": true,
       "error": null,
       "source": {
