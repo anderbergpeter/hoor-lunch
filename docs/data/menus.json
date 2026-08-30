@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-29T12:48:41.547Z",
+  "generatedAt": "2026-08-30T12:06:40.025Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-08-29T12:47:50.375Z",
+      "fetchedAt": "2026-08-30T12:05:44.669Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-08-29T12:47:51.137Z",
+      "fetchedAt": "2026-08-30T12:05:45.509Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-08-29T12:47:55.257Z",
+      "fetchedAt": "2026-08-30T12:05:49.963Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-08-29T12:47:58.127Z",
+      "fetchedAt": "2026-08-30T12:05:52.578Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-08-29T12:48:13.542Z",
+      "fetchedAt": "2026-08-30T12:06:07.318Z",
       "ok": true,
       "error": null,
       "source": {
@@ -98,7 +98,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1602618484708130/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=voAIUsUwKfIQ7kNvwGPHNtT&_nc_oc=Adox8Zb4LZOUzMX7m4V_Uqzj4H0UCsBfOCG0RgXFcO5nLCKjUgyWOCvFmdYmIY1q62Q&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=WcS4WWJ9lfQjirk3Xnx4xg&_nc_ss=73289&oh=00_AQLtZTk2z8h3MZsnaJVbVqyuQ5ctxwMIpEaJfo5ta_9I2w&oe=6A98915B",
+        "imageUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=G9BwCCO1vHsQ7kNvwFlhKyM&_nc_oc=AdouEEqMrp3EzfU4MtSB0vl12KUzg-OqlbGpYgaQWEv5VDZjqh26kaCRQic95U0pJftTQDbD-oRJgcGB2TBVX4n8&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=nvEbT3Hp97oUapCDI9dm2A&_nc_ss=73289&oh=00_AQJ1uzhO9LNqSe3yO5TJfzpA_ajt_s7ejfLiDOxWvkopvg&oe=6A99E2DB",
         "text": null,
         "ocrText": "En torsdag varje\nMånad-...s ij\n+ —]I— 00 s\n/ fi I N\nfr Bea a\nSe J le | I Sö V (v a SS\n| N Å HÖ söss!!\nON | / | 6s\nin atum och tider\nKommer snart",
         "postedAt": "2026-08-27T04:51:07.000Z"
@@ -107,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-08-29T12:48:24.590Z",
+      "fetchedAt": "2026-08-30T12:06:24.710Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-08-29T12:48:25.337Z",
+      "fetchedAt": "2026-08-30T12:06:25.415Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-08-29T12:48:27.182Z",
+      "fetchedAt": "2026-08-30T12:06:27.478Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-08-29T12:48:28.913Z",
+      "fetchedAt": "2026-08-30T12:06:28.288Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-08-29T12:48:29.476Z",
+      "fetchedAt": "2026-08-30T12:06:29.033Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-08-29T12:48:30.292Z",
+      "fetchedAt": "2026-08-30T12:06:29.773Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -231,7 +231,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-08-29T12:48:37.097Z",
+      "fetchedAt": "2026-08-30T12:06:36.660Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,7 +252,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-08-29T12:48:39.646Z",
+      "fetchedAt": "2026-08-30T12:06:38.954Z",
       "ok": true,
       "error": null,
       "source": {
@@ -265,7 +265,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 35: 24-28 /8 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 29-30 aug se nedan:\nDagens:\nMåndag\nKöttfärslimpa med gräddsås, potatis & pressgurka.\nTisdag: ​\nBiff stroganoff med kokt ris.\nOnsdag:\nhelstekt kotlett med grönpepparsås, potatishalvor & grönt . ​ ​\nTorsdag:\nBlandfärsbiff med grönpeppar, potatis & grönt.\nFredag: ​\nPasta med fläskytterfil&eacute; med grönsaker i krämigas.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nGrönsakaksfylld zucchini med citronsås & potatis. 170:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 29-30 aug: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\nVarmrökt lax med dillsås, kokt potatis & spetskål. 255:-​\nFlankstek med pestomarinerad grönsaker, pommes & limesås. 230:-\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 36: 31 /8-4/9 kl; 11:30-14:00 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 29-30 aug se nedan:\nDagens:\nMåndag\nFläskytterfil&eacute; med rödvins, potatis & grönt.\nTisdag: ​\nSpätta med räksås, kokt potatis & ärtor.\nOnsdag:\nRaggmunk med stekt fläsk & rårörda lingon. ​ ​\nTorsdag:\nKålpudding med potatis, gräddsås & lingon.\nFredag: ​\nPanerad kyckling med limesås, potatis & grönt.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nDagens fisk med limesås, potatis & grönt. 185:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,00\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 29-30 aug: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\nVarmrökt lax med dillsås, kokt potatis & spetskål. 255:-​\nFlankstek med pestomarinerad grönsaker, pommes & limesås. 230:-\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -273,7 +273,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-08-29T12:48:40.683Z",
+      "fetchedAt": "2026-08-30T12:06:39.315Z",
       "ok": true,
       "error": null,
       "source": {
