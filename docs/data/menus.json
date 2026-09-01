@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-01T09:32:21.655Z",
+  "generatedAt": "2026-09-01T13:39:26.873Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-09-01T09:31:28.251Z",
+      "fetchedAt": "2026-09-01T13:38:25.304Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-09-01T09:31:29.131Z",
+      "fetchedAt": "2026-09-01T13:38:26.241Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-09-01T09:31:33.456Z",
+      "fetchedAt": "2026-09-01T13:38:30.353Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-09-01T09:31:36.590Z",
+      "fetchedAt": "2026-09-01T13:38:33.133Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-09-01T09:31:50.911Z",
+      "fetchedAt": "2026-09-01T13:38:49.843Z",
       "ok": true,
       "error": null,
       "source": {
@@ -98,7 +98,7 @@
       "raw": {
         "url": "https://www.facebook.com/reel/1602618484708130/",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=G9BwCCO1vHsQ7kNvwEgY70x&_nc_oc=AdqCiHlL7U4ORDwla30AYlo7uHOHScoV2Q1uslR-qjtVrNqjKAHWoK8g587OVr2qRjW_oYMKYWQDLo1SM9whfIWI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=QnXzDhsyUxfL4l0-xT006Q&_nc_ss=73289&oh=00_AQJCQ9Ux9rVWDCRnjjk17o2q1y9Gry5YAjQb5ydv2DUVKg&oe=6A9C85DB",
+        "imageUrl": "https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/786971319_2415581272301546_4860917682092544465_n.jpg?stp=dst-jpg_tt6&cstp=mx720x1280&ctp=s960x960&_nc_cat=103&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=G9BwCCO1vHsQ7kNvwHMBD6j&_nc_oc=AdrOC0MaRr9nZoEQH4-dSvP0IYTfmSQExGGX1g_EzqnFFQd2f5Ur6ZuEs9hV9S7XeMGPoHdekgz7zu6Y59p0uBjR&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=HOArXqT2YXqUKcFQjhqIEg&_nc_ss=73289&oh=00_AQLLA1p7-2ryUYa2biVjvYrhg-qJ-kL_-04zLIDbCmbgaQ&oe=6A9CBE1B",
         "text": null,
         "ocrText": "En torsdag varje\nMånad-...s ij\n+ —]I— 00 s\n/ fi I N\nfr Bea a\nSe J le | I Sö V (v a SS\n| N Å HÖ söss!!\nON | / | 6s\nin atum och tider\nKommer snart",
         "postedAt": "2026-08-27T04:51:07.000Z"
@@ -107,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-09-01T09:32:04.489Z",
+      "fetchedAt": "2026-09-01T13:39:09.043Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-09-01T09:32:05.241Z",
+      "fetchedAt": "2026-09-01T13:39:11.070Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-09-01T09:32:08.304Z",
+      "fetchedAt": "2026-09-01T13:39:12.600Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-09-01T09:32:09.359Z",
+      "fetchedAt": "2026-09-01T13:39:14.365Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-09-01T09:32:10.060Z",
+      "fetchedAt": "2026-09-01T13:39:15.164Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-09-01T09:32:10.959Z",
+      "fetchedAt": "2026-09-01T13:39:16.079Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -231,7 +231,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-09-01T09:32:18.000Z",
+      "fetchedAt": "2026-09-01T13:39:23.621Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,7 +252,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-09-01T09:32:20.798Z",
+      "fetchedAt": "2026-09-01T13:39:25.904Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +273,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-09-01T09:32:21.048Z",
+      "fetchedAt": "2026-09-01T13:39:26.247Z",
       "ok": true,
       "error": null,
       "source": {
