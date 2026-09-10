@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-09T13:07:29.410Z",
+  "generatedAt": "2026-09-10T09:04:26.227Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-09-09T13:06:09.244Z",
+      "fetchedAt": "2026-09-10T09:03:13.922Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 37 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 7/9 Lunch: Indisk het kycklingklubbfilé, tikka masalasås, basmatiris, raita Vegetarisk: Vegetarisk indisk gryta, tikka masalasås, basmatiris, raita Tisdag 8/9 Lunch: Äppelbräserad grissida, lingonchutney, stuvad spetskål, potatis Vegetarisk: Gnocchi med stekt svamp, spenat, grana padano Onsdag 9/9 Lunch: Ugnsbakad kolja, sandefjordsås, gröna ärtor, potatiskompott Vegetarisk: Tortellini med spenat och ricotta i tomatsås, stekt panoummi Torsdag 10/9 Lunch: Baconlindad köttfärslimpa, Dijongräddsås, persilja, saltgurka, rostade rotfrukter Vegetarisk: Anamma färsbiffar, senapssås, rostade rotfrukter, saltgurka Fredag 11/9 Lunch: Helstekt kotlett, fetaostcrème, rostad potatis, oliver, ugnsgrillade grönsaker Vegetarisk: Fylld portabello, fetaostcrème, rostad potatis, ugnsgrillade grönsaker Lördag 12/9 Lunch: Kalvköttbullar, rårörda lingon, pressgurka, potatispuré, gräddsås Vegetarisk: Zucchini och pannoumibiffar, olivtapenade, potatisgratäng, stekta haricotsverts Söndag 13/9 Lunch: Ugnsbakad lax med citron och dillcrème, ljummen potatissallad, spenat, citron Vegetarisk: Krämig polenta, bakade tomater, granapadana, örtsallad, mandel A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål Stekt blomkål serverad med en krämig färskostsås, lagrad prästost och färskriven tryffel Huvudrätter Kalventrecôte Kalventrecôte serverad med Karl Johansvampsås, lökpuré och morot Torsk Lättbaka",
+        "text": "LUNCHMENY V. 37 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 7/9 Lunch: Indisk het kycklingklubbfilé, tikka masalasås, basmatiris, raita Vegetarisk: Vegetarisk indisk gryta, tikka masalasås, basmatiris, raita Tisdag 8/9 Lunch: Äppelbräserad grissida, lingonchutney, stuvad spetskål, potatis Vegetarisk: Gnocchi med stekt svamp, spenat, grana padano Onsdag 9/9 Lunch: Ugnsbakad kolja, sandefjordsås, gröna ärtor, potatiskompott Vegetarisk: Tortellini med spenat och ricotta i tomatsås, stekt panoummi Torsdag 10/9 Lunch: Baconlindad köttfärslimpa, Dijongräddsås, persilja, saltgurka, rostade rotfrukter Vegetarisk: Anamma färsbiffar, senapssås, rostade rotfrukter, saltgurka Fredag 11/9 Lunch: Helstekt kotlett, fetaostcrème, rostad potatis, oliver, ugnsgrillade grönsaker Vegetarisk: Fylld portabello, fetaostcrème, rostad potatis, ugnsgrillade grönsaker Lördag 12/9 Lunch: Kalvköttbullar, rårörda lingon, pressgurka, potatispuré, gräddsås Vegetarisk: Zucchini och pannoumibiffar, olivtapenade, potatisgratäng, stekta haricotsverts Söndag 13/9 Lunch: Ugnsbakad lax med citron och dillcrème, ljummen potatissallad, spenat, citron Vegetarisk: Krämig polenta, bakade tomater, granapadana, örtsallad, mandel LUNCHMENY V. 38 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 14/9 Lunch : Stekt kalkonlårfilé med gräddsky, stekt brysselkål, potatisstomp med fänkål, svartvinbärsgelé Vegetarisk : Vegetarisk lasagne med tomat och mozzarellasallad Tisdag 15/9 Lunch : Skå",
         "ocrText": null,
         "postedAt": null
       }
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-09-09T13:06:10.118Z",
+      "fetchedAt": "2026-09-10T09:03:14.630Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-09-09T13:06:14.516Z",
+      "fetchedAt": "2026-09-10T09:03:18.650Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-09-09T13:06:16.995Z",
+      "fetchedAt": "2026-09-10T09:03:21.172Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-09-09T13:06:38.415Z",
+      "fetchedAt": "2026-09-10T09:03:35.532Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-09-09T13:07:12.346Z",
+      "fetchedAt": "2026-09-10T09:04:11.952Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-09-09T13:07:13.080Z",
+      "fetchedAt": "2026-09-10T09:04:12.528Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-09-09T13:07:14.841Z",
+      "fetchedAt": "2026-09-10T09:04:13.901Z",
       "ok": true,
       "error": null,
       "source": {
@@ -168,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-09-09T13:07:16.157Z",
+      "fetchedAt": "2026-09-10T09:04:14.693Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-09-09T13:07:16.875Z",
+      "fetchedAt": "2026-09-10T09:04:15.358Z",
       "ok": true,
       "error": null,
       "source": {
@@ -210,7 +210,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-09-09T13:07:17.635Z",
+      "fetchedAt": "2026-09-10T09:04:15.996Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-09-09T13:07:24.987Z",
+      "fetchedAt": "2026-09-10T09:04:22.645Z",
       "ok": true,
       "error": null,
       "source": {
@@ -249,7 +249,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-09-09T13:07:27.377Z",
+      "fetchedAt": "2026-09-10T09:04:25.566Z",
       "ok": true,
       "error": null,
       "source": {
@@ -270,7 +270,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-09-09T13:07:28.806Z",
+      "fetchedAt": "2026-09-10T09:04:25.766Z",
       "ok": true,
       "error": null,
       "source": {
