@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-19T11:23:40.751Z",
+  "generatedAt": "2026-09-20T11:41:16.116Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -21,12 +21,14 @@
         "text": "LUNCHMENY V. 38 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 14/9 Lunch : Stekt kalkonlårfilé med gräddsky, stekt brysselkål, potatisstomp med fänkål, svartvinbärsgelé Vegetarisk : Vegetarisk lasagne med tomat och mozzarellasallad Tisdag 15/9 Lunch : Skånsk kalops med inkokt morot, inlagda rödbetor, kokt potatis Vegetarisk : Vegetarisk kalops med linser, portabello, morötter Onsdag 16/9 Lunch : Paella med ugnsbakad fisk, räkor, aioli, citron, musslor Vegetarisk : Pumpasoppa med rostade fröer, surdegsbröd, ostcrème Torsdag 17/9 Lunch : Pannbiff med lök, gräddsås, rårörda lingon, kokt potatis Vegetarisk : Anamma färsbiffar med lök, gräddsås, rårörda lingon, kokt potatis Fredag 18/9 Lunch : Cajunkryddad kyckling, rostad potatis, grillade grönsaker, lime och vitlökssås Vegetarisk : Cajunkryddad Quorn, rostad potatis, grillade grönsaker, lime och vitlökssås Lördag 19/9 Lunch : Helstekt fläskfilé med kantarellsås, rostade rotfrukter, persilja Vegetarisk : Pasta med kantarellsås, rostade grönsaker, grana padano Söndag 20/9 Lunch : Gremolatabakad fisk, hummersås, smörstekta rädisor, dillpotatis Vegetarisk : Gremolatastekt spetskål, yoghurtcrème, dillpotatis, hasselnötter LUNCHMENY V. 39 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakat bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 21/9 Lunch: Rimmad oxbringa, rotfruktstomp, pepparrotssås, persilja, senap Vegetarisk: Rödbetsbiffar med Chevré crème, rotfruktstomp, broccoli Tisdag 22/9 Lunch: Svensk karré med miso, asiatisk sojamajonnäs, stekt g",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "lunch_block_not_found"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-09-19T11:22:52.796Z",
+      "fetchedAt": "2026-09-20T11:40:19.271Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +45,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-09-19T11:22:57.043Z",
+      "fetchedAt": "2026-09-20T11:40:23.583Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +65,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-09-19T11:23:00.312Z",
+      "fetchedAt": "2026-09-20T11:40:25.973Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +86,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-09-19T11:23:15.966Z",
+      "fetchedAt": "2026-09-20T11:40:41.988Z",
       "ok": true,
       "error": null,
       "source": {
@@ -96,9 +98,9 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0G4s7ghKHZ6QqNCh2LznYo9TUTqJs6cbYaTjVMZ9bovv8wUCgan7bLkURkFcAzLeWl",
+        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid02KvJpsNF7QWZgu57jtKGfrtHURYSeMPy87AqASEV9NzS4JShp9cNpffHvMqjHBWD6l",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/814740687_1765833398882318_2457880685685005043_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RjySBBgrdLsQ7kNvwFA_Nan&_nc_oc=AdqljIBzZbIGYbVOKO5FFnqbW2uDLM49ggisetIFpidwpM9R3pg8QsHCwxXjNzGCUmZkiMwOKf_q9utDY1fNY1M7&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=lcLdkOWRx1FtbvYEGnBIpQ&_nc_ss=73289&oh=00_AQI6FZneSCjHYKMNvj6aIS_R7Ej1wsTimJrK7YYHLSW_hQ&oe=6AB437E4",
+        "imageUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/814740687_1765833398882318_2457880685685005043_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CU0zzzhUrecQ7kNvwFKuEkP&_nc_oc=AdrSEJaXrlvKZAnq7FSwDqIUnwSjk3UC8Zd_sZ0wcP5_4nBPY0Lh5iugOwQP_aZP_MA&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&_nc_gid=M9pQZCbxd3ukiYgt93xP_w&_nc_ss=73289&oh=00_AQLLfqJZ7PhsKHrKIsSqzU5kLnGW8inV0OpHjVEfzmQpzQ&oe=6AB58964",
         "text": null,
         "ocrText": "Idag lördag öppnar vi kl.10 \nVi serverar frukosttallrik,varm eller kall, till kl.11.30 🍁🍂🍁\n\nLunch serveras från kl.11 #bakpotatis med olika fyllningar, #matpaj #sallader #våffelmeny #matigasmörgåsar \n\nIdag serverar vi även  \"raggarmacka\" en surdegsbulle fylld med köttbullar, rödbetssallad och karamelliserad lök!\n\nVÄLKOMMEN IN FRÅN HÖSTRUSKET\n🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁\n\nLAS |\nfas 0\na jo — Sö a\n” - od Å | 4 > Få ; RS\nSS - d ] =\nNS e € rg ÅS :\n; - åa 3 SÅ\n| FN NN\no3> R\né £. po\nTA ON Oo\näl ä d - VN",
         "postedAt": "2026-09-19T07:33:20.000Z"
@@ -107,7 +109,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-09-19T11:23:25.234Z",
+      "fetchedAt": "2026-09-20T11:40:56.665Z",
       "ok": true,
       "error": null,
       "source": {
@@ -144,7 +146,9 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
     },
     {
       "placeId": "martens",
@@ -166,12 +170,14 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-09-19T11:23:28.429Z",
+      "fetchedAt": "2026-09-20T11:41:05.566Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +198,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-09-19T11:23:29.099Z",
+      "fetchedAt": "2026-09-20T11:41:06.190Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +219,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-09-19T11:23:29.925Z",
+      "fetchedAt": "2026-09-20T11:41:06.883Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -231,7 +237,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-09-19T11:23:37.026Z",
+      "fetchedAt": "2026-09-20T11:41:14.078Z",
       "ok": true,
       "error": null,
       "source": {
@@ -244,7 +250,7 @@
         "url": "https://hardys.nu/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nFototävlingen är avslutad och nu presenterar vi alla vinnare!\nVälkomna till Glassbaren!",
+        "text": "One moment, please...\nLoader\nPlease wait while your request is being verified...",
         "ocrText": null,
         "postedAt": null
       }
@@ -252,7 +258,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-09-19T11:23:39.100Z",
+      "fetchedAt": "2026-09-20T11:41:15.374Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +279,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-09-19T11:23:39.899Z",
+      "fetchedAt": "2026-09-20T11:41:15.551Z",
       "ok": true,
       "error": null,
       "source": {
