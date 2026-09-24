@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-24T09:27:11.695Z",
+  "generatedAt": "2026-09-24T13:44:32.521Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-09-24T09:25:35.228Z",
+      "fetchedAt": "2026-09-24T13:43:29.936Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-09-24T09:25:35.865Z",
+      "fetchedAt": "2026-09-24T13:43:30.763Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-09-24T09:25:39.697Z",
+      "fetchedAt": "2026-09-24T13:43:34.719Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-09-24T09:25:42.475Z",
+      "fetchedAt": "2026-09-24T13:43:38.498Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-09-24T09:26:46.644Z",
+      "fetchedAt": "2026-09-24T13:43:58.632Z",
       "ok": true,
       "error": null,
       "source": {
@@ -98,7 +98,7 @@
       "raw": {
         "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid02L3xLqjGqbDoNXqTit2RCK4m97e7qZnEzaWqJx3WrZNJ1E96DAqpiNSNrUWNWtUCXl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-6/814740687_1765833398882318_2457880685685005043_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oqnjo7a0JUEQ7kNvwFFLGl7&_nc_oc=AdrpTZc69Lo8LinY7CnJQQSnuQ6zWcYPgL1kRgEgKcXsZtezM5qvhUpjALxUXRNghlM&_nc_zt=23&_nc_ht=scontent-phl2-1.xx&_nc_gid=zxibA5h7FNVFWq7FXyOxRw&_nc_ss=73289&oh=00_AQKS1ZF_V5sUCl52o40j1Ee_5vKLFKSfXQbx8cqbujWt7Q&oe=6ABACF64",
+        "imageUrl": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/814740687_1765833398882318_2457880685685005043_n.jpg?stp=dst-jpg_tt6&cstp=mx1440x1440&ctp=s590x590&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oqnjo7a0JUEQ7kNvwHyWf_V&_nc_oc=AdosqSW1eB3xSr79bGsTwEW7KSk-0mEzDAHefK1xCvqO0t2mO8ZfWLuieV80MFYrzkI&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=YswJ76-rVTwbE4RVDAaFLA&_nc_ss=73289&oh=00_AQIOUPVN_fH4XjWLMFt39_Bdy8OS8RjKUOTEbI0dD-F83w&oe=6ABB07A4",
         "text": null,
         "ocrText": "Idag lördag öppnar vi kl.10 \nVi serverar frukosttallrik,varm eller kall, till kl.11.30 🍁🍂🍁\n\nLunch serveras från kl.11 #bakpotatis med olika fyllningar, #matpaj #sallader #våffelmeny #matigasmörgåsar \n\nIdag serverar vi även  \"raggarmacka\" en surdegsbulle fylld med köttbullar, rödbetssallad och karamelliserad lök!\n\nVÄLKOMMEN IN FRÅN HÖSTRUSKET\n🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁🍂🍁\n\nLAS |\nfas 0\na jo — Sö a\n” - od Å | 4 > Få ; RS\nSS - d ] =\nNS e € rg ÅS :\n; - åa 3 SÅ\n| FN NN\no3> R\né £. po\nTA ON Oo\näl ä d - VN",
         "postedAt": "2026-09-19T07:33:20.000Z"
@@ -107,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-09-24T09:26:57.553Z",
+      "fetchedAt": "2026-09-24T13:44:14.832Z",
       "ok": true,
       "error": null,
       "source": {
@@ -127,7 +127,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-09-24T09:26:58.116Z",
+      "fetchedAt": "2026-09-24T13:44:16.799Z",
       "ok": true,
       "error": null,
       "source": {
@@ -149,7 +149,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-09-24T09:27:00.382Z",
+      "fetchedAt": "2026-09-24T13:44:19.581Z",
       "ok": true,
       "error": null,
       "source": {
@@ -171,7 +171,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-09-24T09:27:01.299Z",
+      "fetchedAt": "2026-09-24T13:44:20.401Z",
       "ok": true,
       "error": null,
       "source": {
@@ -192,7 +192,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-09-24T09:27:01.666Z",
+      "fetchedAt": "2026-09-24T13:44:21.164Z",
       "ok": true,
       "error": null,
       "source": {
@@ -213,7 +213,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-09-24T09:27:02.421Z",
+      "fetchedAt": "2026-09-24T13:44:21.956Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -231,7 +231,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-09-24T09:27:09.262Z",
+      "fetchedAt": "2026-09-24T13:44:28.782Z",
       "ok": true,
       "error": null,
       "source": {
@@ -252,7 +252,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-09-24T09:27:11.081Z",
+      "fetchedAt": "2026-09-24T13:44:30.980Z",
       "ok": true,
       "error": null,
       "source": {
@@ -273,7 +273,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-09-24T09:27:11.233Z",
+      "fetchedAt": "2026-09-24T13:44:31.948Z",
       "ok": true,
       "error": null,
       "source": {
