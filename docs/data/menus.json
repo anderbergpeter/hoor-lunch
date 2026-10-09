@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-08T15:49:45.673Z",
+  "generatedAt": "2026-10-09T11:28:09.210Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-10-08T15:48:24.789Z",
+      "fetchedAt": "2026-10-09T11:26:40.131Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-10-08T15:48:26.931Z",
+      "fetchedAt": "2026-10-09T11:26:41.040Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-10-08T15:48:30.809Z",
+      "fetchedAt": "2026-10-09T11:26:45.059Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-10-08T15:48:32.850Z",
+      "fetchedAt": "2026-10-09T11:26:47.794Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
         "postedAt": "2026-10-03T15:49:10.000Z"
       },
       "stale": true,
-      "staleError": "apify_no_lunch_post_found: ocr https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/839884985_1107900668405366_34: no lunch text (89 chars) | ocr https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
+      "staleError": "apify_no_lunch_post_found: ocr https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars) | ocr https://scontent-atl3-2.xx.fbcdn.net/v/t15.5256-10/839884985_1107900668405366_34: no lunch text (89 chars) | ocr https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/245387827_5198241433524180_97: no lunch text (0 chars)"
     },
     {
       "placeId": "kreta",
@@ -124,12 +124,14 @@
         "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://pizzeriakreta.se/meny/ failed, reason: "
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-10-08T15:49:32.589Z",
+      "fetchedAt": "2026-10-09T11:27:49.641Z",
       "ok": true,
       "error": null,
       "source": {
@@ -151,7 +153,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-10-08T15:49:33.953Z",
+      "fetchedAt": "2026-10-09T11:27:52.888Z",
       "ok": true,
       "error": null,
       "source": {
@@ -173,7 +175,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-10-08T15:49:34.891Z",
+      "fetchedAt": "2026-10-09T11:27:53.701Z",
       "ok": true,
       "error": null,
       "source": {
@@ -194,7 +196,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-10-08T15:49:35.510Z",
+      "fetchedAt": "2026-10-09T11:27:54.462Z",
       "ok": true,
       "error": null,
       "source": {
@@ -215,7 +217,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-10-08T15:49:36.268Z",
+      "fetchedAt": "2026-10-09T11:27:55.172Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -233,7 +235,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-10-08T15:49:42.545Z",
+      "fetchedAt": "2026-10-09T11:28:02.435Z",
       "ok": true,
       "error": null,
       "source": {
@@ -254,7 +256,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-10-08T15:49:44.756Z",
+      "fetchedAt": "2026-10-09T11:28:04.644Z",
       "ok": true,
       "error": null,
       "source": {
@@ -267,7 +269,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 41: 5-9/10 kl; 11:30-13:30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 10-11 oktober kommer snart se nedan:\nDagens:\nMåndag\nStekt fläsk med löksås, kokt potatis & rårörda lingon.\nTisdag: ​\nDansk fläskstek med rödkål, potatis & gräddsås.\nOnsdag:\nSpätta med citronsås, kokt potatis & ärtor. ​ ​\nTorsdag:\nKöttfärslimpa med gräddsås, lingon, pressgurka & potatis.\nFredag: ​\nTupp på 2 vis med citronsås, potatis & grönt.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nGrönsaksfylld paprika med limesås & potatis. 170:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,30\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 10-11 okt: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\n​\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\n​\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 41: 5-9/10 kl; 11:30-13:30 Salladsbuff&eacute;, bröd & kaffe 150:-\nHelgmeny 10-11 oktober se nedan:\nDagens:\nMåndag\nStekt fläsk med löksås, kokt potatis & rårörda lingon.\nTisdag: ​\nDansk fläskstek med rödkål, potatis & gräddsås.\nOnsdag:\nSpätta med citronsås, kokt potatis & ärtor. ​ ​\nTorsdag:\nKöttfärslimpa med gräddsås, lingon, pressgurka & potatis.\nFredag: ​\nTupp på 2 vis med citronsås, potatis & grönt.\n​\nHela veckan:\nRäksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon eller Räkor. 180:-/205:-\n​ Högrevsburgare med pommes (200g, dressing,tomat,gurka, syltad lök & sallad). 240:-\nGrönsaksfylld paprika med limesås & potatis. 170:-\nFråga oss om vegetarisk eller barnmeny.\nR estaurangen är öppen från kl, 8,30\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 10-11 okt: 11,30-14,00\nSalladsbuff&eacute; & kaffe ingår\n​Torskrygg med citronsås och korianderolja & grönt. 215:-\nFläskfil&eacute; med rosepepparsås, potatis & grönsaker. 205:-\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\nTomat/ grönsakssoppa med krutonger & crem&eacute; fraiche. 195:-\n​\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -291,7 +293,9 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "request to https://eddisgrill.se/ failed, reason: "
     }
   ]
 }
