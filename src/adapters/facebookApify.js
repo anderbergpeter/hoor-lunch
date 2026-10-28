@@ -61,14 +61,44 @@ export function pickLunchTextPost(items) {
   return null;
 }
 
+const OCR_TIMEOUT_MS = 60_000;
+
+// Download the image ourselves so we can verify it really is an image before
+// handing it to tesseract. Facebook CDN links expire and may answer with HTML,
+// which makes tesseract's native reader fail hard (see ocrImage below).
+async function downloadImage(imageUrl) {
+  const res = await fetch(imageUrl, { redirect: 'follow' });
+  if (!res.ok) throw new Error(`image http ${res.status}`);
+  const type = (res.headers.get('content-type') || '').toLowerCase();
+  if (!/^image\/(jpe?g|png|webp|bmp|gif|tiff?)/.test(type)) {
+    throw new Error(`not an image (content-type: ${type || 'unknown'})`);
+  }
+  const buf = Buffer.from(await res.arrayBuffer());
+  if (buf.length < 100) throw new Error(`image too small (${buf.length} bytes)`);
+  return buf;
+}
+
 async function ocrImage(imageUrl) {
+  const buf = await downloadImage(imageUrl);
   const { createWorker } = await import('tesseract.js');
-  const worker = await createWorker('swe');
+
+  // tesseract.js reports "Error attempting to read image" as an 'error' event on
+  // the worker, not as a rejected recognize() promise. Without an errorHandler
+  // that event is rethrown on process.nextTick and kills the whole process.
+  let rejectWorker;
+  const workerFailed = new Promise((_, reject) => { rejectWorker = reject; });
+  const worker = await createWorker('swe', undefined, {
+    errorHandler: (err) => rejectWorker(err instanceof Error ? err : new Error(String(err?.message || err)))
+  });
+
+  const timeout = new Promise((_, reject) =>
+    setTimeout(() => reject(new Error(`ocr timeout after ${OCR_TIMEOUT_MS}ms`)), OCR_TIMEOUT_MS).unref());
+
   try {
-    const { data: { text } } = await worker.recognize(imageUrl);
+    const { data: { text } } = await Promise.race([worker.recognize(buf), workerFailed, timeout]);
     return (text || '').trim();
   } finally {
-    await worker.terminate();
+    await worker.terminate().catch(() => {});
   }
 }
 
