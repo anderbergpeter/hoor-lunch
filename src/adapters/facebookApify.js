@@ -66,16 +66,29 @@ const OCR_TIMEOUT_MS = 60_000;
 // Download the image ourselves so we can verify it really is an image before
 // handing it to tesseract. Facebook CDN links expire and may answer with HTML,
 // which makes tesseract's native reader fail hard (see ocrImage below).
-async function downloadImage(imageUrl) {
+export async function downloadImage(imageUrl) {
   const res = await fetch(imageUrl, { redirect: 'follow' });
   if (!res.ok) throw new Error(`image http ${res.status}`);
   const type = (res.headers.get('content-type') || '').toLowerCase();
-  if (!/^image\/(jpe?g|png|webp|bmp|gif|tiff?)/.test(type)) {
+  if (!/^image\//.test(type)) {
     throw new Error(`not an image (content-type: ${type || 'unknown'})`);
   }
   const buf = Buffer.from(await res.arrayBuffer());
   if (buf.length < 100) throw new Error(`image too small (${buf.length} bytes)`);
-  return buf;
+  return normalizeForOcr(buf);
+}
+
+// Facebook now serves photos as AVIF (and sometimes WebP), which tesseract's
+// native image reader cannot decode. Re-encode everything to PNG via sharp,
+// and upscale small images a bit since OCR accuracy drops on low-res text.
+async function normalizeForOcr(buf) {
+  const sharp = (await import('sharp')).default;
+  const img = sharp(buf, { failOn: 'none' });
+  const meta = await img.metadata();
+  const width = meta.width || 0;
+  let pipeline = img.rotate(); // respect EXIF orientation
+  if (width > 0 && width < 1200) pipeline = pipeline.resize({ width: 1600, withoutEnlargement: false });
+  return pipeline.flatten({ background: '#ffffff' }).png().toBuffer();
 }
 
 async function ocrImage(imageUrl) {
