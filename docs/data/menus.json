@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-02T18:48:17.464Z",
+  "generatedAt": "2026-11-02T20:29:29.581Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-11-02T18:44:49.798Z",
+      "fetchedAt": "2026-11-02T20:27:39.795Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-11-02T18:44:50.541Z",
+      "fetchedAt": "2026-11-02T20:27:40.513Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-11-02T18:44:54.727Z",
+      "fetchedAt": "2026-11-02T20:27:44.510Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-11-02T18:44:57.859Z",
+      "fetchedAt": "2026-11-02T20:27:47.533Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-11-02T18:45:56.339Z",
+      "fetchedAt": "2026-11-02T20:28:07.007Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-11-02T12:45:55.902Z",
+      "fetchedAt": "2026-11-02T20:29:15.840Z",
       "ok": true,
       "error": null,
       "source": {
@@ -119,14 +119,12 @@
         "text": "Lunch erbjudande\nLunch erbjudande 1+2\nValfri dricka, bröd, smör och kaffe ingår.\nServeras mån-fre 11:00 - 14:00.\nVi tar emot stora beställningar från företag eller privata fester. Pris enligt överenskommelse.\nPommestallrik..............................50:-\nLunch erbjudande 1. 115:-\nPizza 01-14\nHamburgertallrik 90 gr\nFalafelrulle\nFalafeltallrik\nKebab i bröd\nLunch erbjudande 2. 115:-\nPizza 15-80\nKebab\nSallader\nFalafel\nBakad potatis\nA la carte (ej fläskfilé)\nStudentrabatt med studentkort!\nVår meny\nA la carte\n01.\nGrillbiff\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n02.\nSchnitzel\n120:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\n03.\nRödspätta\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n04.\nKycklingfilé\n120:-\nstekt potatis eller pommes, mix sallad, remouladesås\n05.\nFläskfilé\n138:-\nstekt potatis eller pommes, mix sallad, bearnaisesås\nSallader\nVi serverar nybakat bröd till alla sallader\n01.\nKebabsallad\n110:-\nkebabkött, sallad, tomat, gurka, lök, majs, feferoni, valfri sås\n02.\nRäksallad\n110:-\nräkor, sallad, tomat, gurka, lök, majs, citron, valfri sås\n03.\nKycklingsallad\n110:-\nkyckling, sallad, tomat, gurka, lök, majs, valfri sås\n04.\nTonfis",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://pizzeriakreta.se/meny/ failed, reason: "
+      }
     },
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-11-02T18:48:00.380Z",
+      "fetchedAt": "2026-11-02T20:29:16.415Z",
       "ok": true,
       "error": null,
       "source": {
@@ -148,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-11-02T18:48:02.051Z",
+      "fetchedAt": "2026-11-02T20:29:17.842Z",
       "ok": true,
       "error": null,
       "source": {
@@ -170,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-11-02T18:48:03.057Z",
+      "fetchedAt": "2026-11-02T20:29:18.572Z",
       "ok": true,
       "error": null,
       "source": {
@@ -191,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-11-02T18:48:03.681Z",
+      "fetchedAt": "2026-11-02T20:29:18.875Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +210,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-11-02T18:48:04.499Z",
+      "fetchedAt": "2026-11-02T20:29:19.482Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -230,7 +228,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-11-02T18:48:11.258Z",
+      "fetchedAt": "2026-11-02T20:29:25.642Z",
       "ok": true,
       "error": null,
       "source": {
@@ -251,7 +249,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-11-02T18:48:13.428Z",
+      "fetchedAt": "2026-11-02T20:29:27.514Z",
       "ok": true,
       "error": null,
       "source": {
@@ -264,7 +262,7 @@
         "url": "https://www.matokaka.se/meny-1",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "-->\nMeny | Matokaka\ntop of page Meny\nVecka 44: 31/10 kl; 11:30-13:30\nSe meny nedan\nSista dagen vi har öppet är 31 oktober,\nTack för denna säsongen.\nVi öppnar igen 15 mars 2027.\n&Ouml;nskas catering vänligen kontakta oss på\ninfo@matokaka.se\nR estaurangen är öppen från kl, 8,30\nVi serverar alltid potatis från Orupsgården och svenskt kött.\nMed reservation för slutförsäljning & felskrivning.\n​\nHelgmeny 31 okt: 11,30-13,30\nSalladsbuff&eacute; & kaffe ingår\n​Smörstekt Gös från Ringsjön med kokt potatis, smält smör & grönt. 265:-\nMajskyckling, citronsås, potatis & grönt. 220:-\n​ Räksmörgås. 209:-\nCeasarsallad med varmrökt tupp & bacon. 180:-\nCeasarsallad med räkor. 205:-\nHögrevsburgare med pommes. 240:- ​ ​ ( 200g, dressing, sallad, tomat, gurka & syltad rödlök)\nPumpasoppa med krutonger & rostade pumpakärnor. 205:-\n​\n​Vi serverar alltid potatis från Orupsgården & svenskt kött.\nMed reservation för slutförsäljning & felskrivning,\n​\n​\n​\nbottom of page",
+        "text": "-->\nMeny | Matokaka\ntop of page Meny\nTack för denna säsongen.\nVi öppnar igen 15 mars 2027.\n&Ouml;nskas catering vänligen kontakta oss på\ninfo@matokaka.se\nR estaurangen är stängt för säsongen\n​\n​\n​\n​\nbottom of page",
         "ocrText": null,
         "postedAt": null
       }
@@ -272,7 +270,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-11-02T12:46:10.327Z",
+      "fetchedAt": "2026-11-02T20:29:29.108Z",
       "ok": true,
       "error": null,
       "source": {
@@ -288,9 +286,7 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://eddisgrill.se/ failed, reason: "
+      }
     }
   ]
 }
