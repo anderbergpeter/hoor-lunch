@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-04T16:30:15.384Z",
+  "generatedAt": "2026-11-05T12:38:18.638Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-11-04T16:29:40.238Z",
+      "fetchedAt": "2026-11-05T12:37:46.511Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,7 +18,7 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 45 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 2/11 Lunch: Pytt Bellman, gräddsås, stekt ägg, inlagda rödbetor, persilja, saltgurka Vegetarisk: Vegetarisk Pytt Bellman, gräddsås, stekt ägg, saltgurka, persilja Tisdag 3/11 Lunch: Miso marinerad fläsksida, asiatisk sojamajonnäs, jasminris, krispig kålsallad Vegetarisk: Miso marinerad tofu, asiatisk sojamajonnäs, jasminris, krispig kålsallad Onsdag 4/11 Lunch: Ugnsbakad kolja, brynt smör, kokt potatis, fräs på gulbeta, kapris, lök, bacon Vegetarisk: Jordärtskockssoppa, krutonger och jordärtskockschips Torsdag 5/11 Lunch: ”Pannbiff Bourgogne”, mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Smörstekt gnocchi, kryddsmör, svamp, picklad zucchini, lagrad ost, krasse Fredag 6/11 Lunch: Helstekt fläskfilé, rödvinssås, bearnaisesås, friterad klyftpotatis, bakad tomat Vegetarisk: Quorn, vegetarisk rödvinssås, bearnaisesås, friterad klyftpotatis, bakad tomat Lördag 7/11 Lunch: Stekt kyckling, röd pesto, tzatziki, grekisk sallad, örtrostad potatis Vegetarisk: Spenat och ricotta fylld tortellini, röd pesto och stekta grönsaker Söndag 8/11 Farsdag 265 kr Salladsbuffé med tre sorters sill, ägg och bröd Anka med rödvinssås, pumpapuré, friterad brysselkål, picklad majrova (serveras på tallrik) Tårtbuffé A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla &#8211; 135 kr Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål &#8211; 135 kr Stekt blomkål serverad med en krämig färskostsås, lagrad prästost och ",
+        "text": "LUNCHMENY V. 45 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 2/11 Lunch: Pytt Bellman, gräddsås, stekt ägg, inlagda rödbetor, persilja, saltgurka Vegetarisk: Vegetarisk Pytt Bellman, gräddsås, stekt ägg, saltgurka, persilja Tisdag 3/11 Lunch: Miso marinerad fläsksida, asiatisk sojamajonnäs, jasminris, krispig kålsallad Vegetarisk: Miso marinerad tofu, asiatisk sojamajonnäs, jasminris, krispig kålsallad Onsdag 4/11 Lunch: Ugnsbakad kolja, brynt smör, kokt potatis, fräs på gulbeta, kapris, lök, bacon Vegetarisk: Jordärtskockssoppa, krutonger och jordärtskockschips Torsdag 5/11 Lunch: ”Pannbiff Bourgogne”, mustig rödvinssky, sidfläsk, timjan, morot, syltlök, potatispuré Vegetarisk: Smörstekt gnocchi, kryddsmör, svamp, picklad zucchini, lagrad ost, krasse Fredag 6/11 Lunch: Helstekt fläskfilé, rödvinssås, bearnaisesås, friterad klyftpotatis, bakad tomat Vegetarisk: Quorn, vegetarisk rödvinssås, bearnaisesås, friterad klyftpotatis, bakad tomat Lördag 7/11 Lunch: Stekt kyckling, röd pesto, tzatziki, grekisk sallad, örtrostad potatis Vegetarisk: Spenat och ricotta fylld tortellini, röd pesto och stekta grönsaker Söndag 8/11 &#8211; FULLBOKAD Farsdag 265 kr Salladsbuffé med tre sorters sill, ägg och bröd Anka med rödvinssås, pumpapuré, friterad brysselkål, picklad majrova (serveras på tallrik) Tårtbuffé LUNCHMENY V. 46 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 9/11 Lunch: Grillad kycklinglårfilé, potatis och palsternbackspuré, brynt sojasmör",
         "ocrText": null,
         "postedAt": null
       }
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-11-04T16:29:41.104Z",
+      "fetchedAt": "2026-11-05T12:37:48.305Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-11-04T16:29:45.465Z",
+      "fetchedAt": "2026-11-05T12:37:52.395Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-11-04T16:29:49.626Z",
+      "fetchedAt": "2026-11-05T12:37:55.530Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-11-04T16:29:52.924Z",
+      "fetchedAt": "2026-11-05T12:37:58.845Z",
       "ok": true,
       "error": null,
       "source": {
@@ -104,7 +104,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-11-04T16:29:56.063Z",
+      "fetchedAt": "2026-11-05T12:38:01.991Z",
       "ok": true,
       "error": null,
       "source": {
@@ -124,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-11-04T16:29:56.817Z",
+      "fetchedAt": "2026-11-05T12:38:02.834Z",
       "ok": true,
       "error": null,
       "source": {
@@ -146,7 +146,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-11-04T16:29:58.125Z",
+      "fetchedAt": "2026-11-05T12:38:06.326Z",
       "ok": true,
       "error": null,
       "source": {
@@ -168,7 +168,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-11-04T16:29:59.407Z",
+      "fetchedAt": "2026-11-05T12:38:07.414Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-11-04T16:30:00.269Z",
+      "fetchedAt": "2026-11-05T12:38:08.306Z",
       "ok": true,
       "error": null,
       "source": {
@@ -210,7 +210,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-11-04T16:30:01.286Z",
+      "fetchedAt": "2026-11-05T12:38:09.066Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -228,7 +228,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-11-04T16:30:12.155Z",
+      "fetchedAt": "2026-11-05T12:38:15.763Z",
       "ok": true,
       "error": null,
       "source": {
@@ -249,7 +249,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-11-04T16:30:14.579Z",
+      "fetchedAt": "2026-11-05T12:38:17.809Z",
       "ok": true,
       "error": null,
       "source": {
@@ -270,7 +270,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-11-04T16:30:14.777Z",
+      "fetchedAt": "2026-11-05T12:38:17.972Z",
       "ok": true,
       "error": null,
       "source": {
