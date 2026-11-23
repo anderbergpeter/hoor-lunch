@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-22T14:48:03.263Z",
+  "generatedAt": "2026-11-23T15:08:50.270Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-11-22T14:46:15.839Z",
+      "fetchedAt": "2026-11-23T15:07:28.477Z",
       "ok": true,
       "error": null,
       "source": {
@@ -26,7 +26,7 @@
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-11-22T14:46:16.662Z",
+      "fetchedAt": "2026-11-23T15:07:29.364Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-11-22T14:46:20.585Z",
+      "fetchedAt": "2026-11-23T15:07:33.360Z",
       "ok": true,
       "error": null,
       "source": {
@@ -53,17 +53,17 @@
       "week": null,
       "raw": {
         "url": "https://hoorsgastis.se/restaurang/lunch/",
-        "pdfUrl": null,
-        "imageUrl": "https://hoorsgastis.se/wp-content/uploads/2026/11/dagens-v47.jpeg",
-        "text": null,
-        "ocrText": "OT\nSK LUNCH v.47\nSN []\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag Fredag kl. 1.30-13.30 Pris 150:-\nlördag 12-14 Pris I75.- Välkomna!\nTISDAG: Köttfärslimpa, kokt potatis, lingon & gräddsås\nONSDAG: Griljerad kyckling, bulgursallad, fetaostcråéme & haricots verts\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Sesamstektschnitzel, asiatisk sky, pak choi & ris\nLÖRDAG: Sesamstekt schnitzel, asiatisk sky, pak choi & ris\nVEG: Asiatisk tzaygryta, kokosgrädde, lime & ris\nALLTID:  Äggakaga med stekt fläsk & lingon (225:-)\nTEA\nam 8 anda vÖÖRs\nTI fre FX\njoka på 0413-220 10 eller infoehoorsgastis.se fer",
+        "pdfUrl": "https://hoorsgastis.se/wp-content/uploads/2026/11/dagens-v48.pdf",
+        "imageUrl": null,
+        "text": "LUNCH v. 48\nVår fräscha salladsbuffé, kaffe & kaka ingår. Barn 3-12 år, 85:-\nTisdag-Fredag kl. 11.30-13.30 Pris 150:-\nLördag 12-14 Pris 175:- Välkomna!\nTISDAG: Färsbiff bourguignon, bacon, svamp, syltlök & potatisstomp\nONSDAG: Panerad flundra, remouladsås, ärtor & kokt dillpotatis\nTORSDAG: Raggmunk, stekt fläsk & lingon. Pannkakor, sylt & grädde\nFREDAG: Fläskfilé, pepparsås, stekt potatis & haricots verts\nLÖRDAG: Fläskfilé, pepparsås, stekt potatis & haricots verts\nVEG: Okonomiyaki toppad med BBQsås, ingefärsmajo & grönt\nALLTID: Äggakaga med stekt fläsk & lingon (225:-)\nBoka på 0413-220 10 eller info@hoorsgastis.se",
+        "ocrText": null,
         "postedAt": null
       }
     },
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-11-22T14:46:23.936Z",
+      "fetchedAt": "2026-11-23T15:07:35.824Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-11-22T14:46:36.993Z",
+      "fetchedAt": "2026-11-23T15:07:48.905Z",
       "ok": true,
       "error": null,
       "source": {
@@ -126,7 +126,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-11-22T14:47:50.236Z",
+      "fetchedAt": "2026-11-23T15:08:36.299Z",
       "ok": true,
       "error": null,
       "source": {
@@ -148,7 +148,7 @@
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-11-22T14:47:51.896Z",
+      "fetchedAt": "2026-11-23T15:08:38.140Z",
       "ok": true,
       "error": null,
       "source": {
@@ -170,7 +170,7 @@
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-11-22T14:47:52.848Z",
+      "fetchedAt": "2026-11-23T15:08:39.446Z",
       "ok": true,
       "error": null,
       "source": {
@@ -191,7 +191,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-11-22T14:47:53.207Z",
+      "fetchedAt": "2026-11-23T15:08:40.384Z",
       "ok": true,
       "error": null,
       "source": {
@@ -212,7 +212,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-11-22T14:47:54.094Z",
+      "fetchedAt": "2026-11-23T15:08:41.088Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -230,7 +230,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-11-22T14:48:00.249Z",
+      "fetchedAt": "2026-11-23T15:08:47.567Z",
       "ok": true,
       "error": null,
       "source": {
@@ -251,7 +251,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-11-22T14:48:02.560Z",
+      "fetchedAt": "2026-11-23T15:08:49.468Z",
       "ok": true,
       "error": null,
       "source": {
@@ -272,7 +272,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-11-22T14:48:02.758Z",
+      "fetchedAt": "2026-11-23T15:08:49.596Z",
       "ok": true,
       "error": null,
       "source": {
