@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-26T14:11:03.341Z",
+  "generatedAt": "2026-11-26T18:35:35.046Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
       "placeId": "akersberg",
       "placeName": "Stiftsgården Åkersberg",
-      "fetchedAt": "2026-11-25T18:47:20.554Z",
+      "fetchedAt": "2026-11-26T18:34:47.968Z",
       "ok": true,
       "error": null,
       "source": {
@@ -18,17 +18,15 @@
         "url": "https://akersberg.se/mat-dryck/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "LUNCHMENY V. 47 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 16/11 Lunch: Dansk fläskstek, rödkål, äppelkompott, gräddsås, sockerstekt potatis Vegetarisk: Rostad pumpasoppa, crèmefraiche, rostade fröer Tisdag 17/11 Lunch: Kalkonbröst, soltorkadtomatsky, rostad potatis, fetaost, grillad paprika Vegetarisk: Friterad rödbetsfalafel, soltorkadtomatcrème, rostad potatis, fetaost, grillad paprika Onsdag 18/11 Lunch: Paella, ugnsbakad fisk, räkor, aioli, citron, vitvinskokta musslor Vegetarisk: Paella med pannoumi, saffran, parmesanbakad fänkål Torsdag 19/11 Lunch: Ungersk Gulasch på biff, crèmefraiche, saltgurka, potatispuré Vegetarisk: Vegetarisk gulasch, crèmefraiche, saltgurka, potatispuré Fredag 20/11 Lunch: Öl bräserad pannbiff, lök, pressgurka, rårörda lingon, kokt potatis, persilja Vegetarisk: Anamma färsbiffar, lök, pressgurka, rårörda lingon, kokt potatis, Lördag 21/11 Lunch: Stekt kycklinglårfilé, rostade rotfrukter, svampsås, friterad brysselkål Vegetarisk: Quorn, rostade rotfrukter, svampsås, friterad brysselkål Söndag 22/11 Lunch: Ångad kolja, vitvinssås, gröna ärtor, fänkålscrudité, kokt potatis Vegetarisk: Rigatoni, gorgonzola, svamp, grönkål LUNCHMENY V. 48 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 23/11 Lunch: Stekt kyckling, ratatouille, smulad fetaost, vitlöksrostad potatis Vegetarisk: Stekt Quorn, ratatouille, smulad fetaost, vitlöksrostad potatis Tisdag 24/11 Lunch: Soja marinerad fläsksida, teriyakisås, stekt svamp, j",
+        "text": "LUNCHMENY V. 48 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 23/11 Lunch: Stekt kyckling, ratatouille, smulad fetaost, vitlöksrostad potatis Vegetarisk: Stekt Quorn, ratatouille, smulad fetaost, vitlöksrostad potatis Tisdag 24/11 Lunch: Soja marinerad fläsksida, teriyakisås, stekt svamp, jasminris, krispig gurksallad Vegetarisk: Soja marinerad tofu, teriyakisås, stekt svamp, jasminris, krispig gurksallad Onsdag 25/11 Lunch: Pocherad fisk, ägg och pepparrotssås, kokt potatis, gröna ärtor Vegetarisk: Gnocchi, stekt svamp, grana padana crème, grönkål Torsdag 26/11 Lunch: Klassisk biff stroganoff, potatismos, saltgurka, crèmefraiche Vegetarisk: Vegetarisk stroganoff, pannoumi, potatismos, saltgurka Fredag 27/11 Lunch: Pannbiff, gräddsås, kokt potatis, pressgurka, rårörda lingon, smörstekta morötter Vegetarisk: Vegetarisk pannbiff, gräddsås, kokt potatis, pressgurka, rårörda lingon, smörstekta morötter Lördag 28/11 Lunch: Ugnsbakad kalkonfilé, rostade rotfrukter, dragongräddsås, svartvinbärsgelé, smörstekt svartrot Vegetarisk: Grillad polenta, friterad svamp, dragoncrème, smörstekt svartrot Söndag 29/11 Lunch: Fish and chips med tartarsås, friterad klyftpotatis, crudité på fänkål, äpple, dill Vegetarisk: Stekt fetaost med tartarsås, friterad klyftpotatis, crudité på fänkål, äpple A la carte Boka bord Köket öppet måndag &#8211; lördag 16.30 – 20.30. Serveringen har öppet längre. Förrätter Pilgrimsmussla &#8211; 135 kr Ekrökt pilgrimsmussla serverad med jordärtskockspuré, krispiga jordärtskockschips och röda vinbär Blomkål &#8211; 135 kr Stekt blomkål serverad med en krämig färskostsås, lagrad prästost och fär",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "lunch_block_not_found"
+      }
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-11-26T14:10:03.127Z",
+      "fetchedAt": "2026-11-26T18:34:49.848Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -45,7 +43,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-11-26T14:10:07.360Z",
+      "fetchedAt": "2026-11-26T18:34:53.956Z",
       "ok": true,
       "error": null,
       "source": {
@@ -65,7 +63,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-11-26T14:10:09.948Z",
+      "fetchedAt": "2026-11-26T18:34:56.650Z",
       "ok": true,
       "error": null,
       "source": {
@@ -86,7 +84,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-11-26T14:10:24.614Z",
+      "fetchedAt": "2026-11-26T18:35:08.882Z",
       "ok": true,
       "error": null,
       "source": {
@@ -100,7 +98,7 @@
       "raw": {
         "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0wnafjG86M9BbCzXXmDKKsoPY7E6G78zf7Cvx6uTMcWQH6Nuu5q6tPwEzVoVsEuhQl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-lax7-1.xx.fbcdn.net/v/t39.99422-6/921035213_1593122425902318_3036282625503029665_n.png?stp=dst-jpg_tt6&cstp=mx1440x1665&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ya0BSkALQQoQ7kNvwGaZmXq&_nc_oc=AdpPM9jWCGVak7YIcXNuhCj55EpiY_PDULVwrhlNbRAsmkyEZJA7VBobxsLzuYY05N5ZUM3uarUPH2H2XOiBSUxZ&_nc_zt=14&_nc_ht=scontent-lax7-1.xx&_nc_gid=T9Bt-ssX8q6XxP5FhiPwlQ&_nc_ss=70389&oh=00_AQTWfg9nytNVKe3HuaSpbKuJI9ipK6DA_oIVTU7Hz08VqQ&oe=6B0E151C",
+        "imageUrl": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/921035213_1593122425902318_3036282625503029665_n.png?stp=dst-jpg_tt6&cstp=mx1440x1665&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ya0BSkALQQoQ7kNvwEYcAu4&_nc_oc=Adq2aVuu_9Ls8i9b2GXL_1ENB96jqsopLGFmpmJgssZ1wUAaXbCObywl0ucLOdFhon55KI9bEvflVane9_K0mnDq&_nc_zt=14&_nc_ht=scontent-ord5-1.xx&_nc_gid=J-EfyRR_9FFRw4j7q391fw&_nc_ss=70389&oh=00_AQQYnV0Ou5byGnliaSDemRlsbpTl0yRHTbW2klm5g3N64w&oe=6B0E4D5C",
         "text": null,
         "ocrText": "\"\"Oppettider.hös:oss\nOver julen:t år:\nLCillejul 23e :\n12-16 0\nSöndagen 27dé--\n12-16\na\nJ Wafton, juldagen\nHch annandagen\nFS NG ee NN\nYXYOIStäöngt Nk",
         "postedAt": "2026-11-22T16:26:59.000Z"
@@ -109,7 +107,7 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-11-26T14:10:40.371Z",
+      "fetchedAt": "2026-11-26T18:35:18.106Z",
       "ok": false,
       "error": "page_fetch_failed:503",
       "source": {
@@ -126,7 +124,7 @@
     {
       "placeId": "viking",
       "placeName": "Pizzeria Viking",
-      "fetchedAt": "2026-11-25T18:48:13.987Z",
+      "fetchedAt": "2026-11-26T18:35:21.741Z",
       "ok": true,
       "error": null,
       "source": {
@@ -143,14 +141,12 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "martens",
       "placeName": "Mårtens Pizzeria",
-      "fetchedAt": "2026-11-25T18:48:17.305Z",
+      "fetchedAt": "2026-11-26T18:35:23.484Z",
       "ok": true,
       "error": null,
       "source": {
@@ -167,14 +163,12 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+      }
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-11-26T14:10:52.586Z",
+      "fetchedAt": "2026-11-26T18:35:24.573Z",
       "ok": true,
       "error": null,
       "source": {
@@ -195,7 +189,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-11-26T14:10:53.204Z",
+      "fetchedAt": "2026-11-26T18:35:25.141Z",
       "ok": true,
       "error": null,
       "source": {
@@ -216,7 +210,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-11-26T14:10:54.106Z",
+      "fetchedAt": "2026-11-26T18:35:25.894Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -234,7 +228,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-11-26T14:11:00.834Z",
+      "fetchedAt": "2026-11-26T18:35:32.261Z",
       "ok": true,
       "error": null,
       "source": {
@@ -247,7 +241,7 @@
         "url": "https://hardys.nu/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "One moment, please...\nLoader\nPlease wait while your request is being verified...",
+        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nFredagen den 20 november är det PREMIÄR för\nvåra goda Jultallrikar! Välkomna!",
         "ocrText": null,
         "postedAt": null
       }
@@ -255,7 +249,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-11-26T14:11:02.271Z",
+      "fetchedAt": "2026-11-26T18:35:34.335Z",
       "ok": true,
       "error": null,
       "source": {
@@ -276,7 +270,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-11-26T14:11:02.542Z",
+      "fetchedAt": "2026-11-26T18:35:34.515Z",
       "ok": true,
       "error": null,
       "source": {
