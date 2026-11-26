@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-25T18:48:31.638Z",
+  "generatedAt": "2026-11-26T14:11:03.341Z",
   "sourcesUpdatedAt": "2026-06-11T12:00:00+02:00",
   "results": [
     {
@@ -21,12 +21,14 @@
         "text": "LUNCHMENY V. 47 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 16/11 Lunch: Dansk fläskstek, rödkål, äppelkompott, gräddsås, sockerstekt potatis Vegetarisk: Rostad pumpasoppa, crèmefraiche, rostade fröer Tisdag 17/11 Lunch: Kalkonbröst, soltorkadtomatsky, rostad potatis, fetaost, grillad paprika Vegetarisk: Friterad rödbetsfalafel, soltorkadtomatcrème, rostad potatis, fetaost, grillad paprika Onsdag 18/11 Lunch: Paella, ugnsbakad fisk, räkor, aioli, citron, vitvinskokta musslor Vegetarisk: Paella med pannoumi, saffran, parmesanbakad fänkål Torsdag 19/11 Lunch: Ungersk Gulasch på biff, crèmefraiche, saltgurka, potatispuré Vegetarisk: Vegetarisk gulasch, crèmefraiche, saltgurka, potatispuré Fredag 20/11 Lunch: Öl bräserad pannbiff, lök, pressgurka, rårörda lingon, kokt potatis, persilja Vegetarisk: Anamma färsbiffar, lök, pressgurka, rårörda lingon, kokt potatis, Lördag 21/11 Lunch: Stekt kycklinglårfilé, rostade rotfrukter, svampsås, friterad brysselkål Vegetarisk: Quorn, rostade rotfrukter, svampsås, friterad brysselkål Söndag 22/11 Lunch: Ångad kolja, vitvinssås, gröna ärtor, fänkålscrudité, kokt potatis Vegetarisk: Rigatoni, gorgonzola, svamp, grönkål LUNCHMENY V. 48 Måndag-fredag 11:30-13:30, 150kr. Barn 2-12år 75kr Lördag-söndag & helgdagar 11:30-14:00, 185kr. Barn 2-12år 95kr I lunchbuffé ingår hembakt bröd, smör, salladsbuffé, bordsvatten och kaffe. Dagens kaka 55 kr Måndag 23/11 Lunch: Stekt kyckling, ratatouille, smulad fetaost, vitlöksrostad potatis Vegetarisk: Stekt Quorn, ratatouille, smulad fetaost, vitlöksrostad potatis Tisdag 24/11 Lunch: Soja marinerad fläsksida, teriyakisås, stekt svamp, j",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "lunch_block_not_found"
     },
     {
       "placeId": "caferalsen",
       "placeName": "Café Rälsen",
-      "fetchedAt": "2026-11-25T18:47:21.294Z",
+      "fetchedAt": "2026-11-26T14:10:03.127Z",
       "ok": false,
       "error": "page_fetch_failed:404",
       "source": {
@@ -43,7 +45,7 @@
     {
       "placeId": "hoors-gastis",
       "placeName": "Höörs Gästgifwaregård",
-      "fetchedAt": "2026-11-25T18:47:25.324Z",
+      "fetchedAt": "2026-11-26T14:10:07.360Z",
       "ok": true,
       "error": null,
       "source": {
@@ -63,7 +65,7 @@
     {
       "placeId": "tais",
       "placeName": "Tai's restaurang",
-      "fetchedAt": "2026-11-25T18:47:27.508Z",
+      "fetchedAt": "2026-11-26T14:10:09.948Z",
       "ok": true,
       "error": null,
       "source": {
@@ -84,7 +86,7 @@
     {
       "placeId": "old-fashion",
       "placeName": "Café Old Fashion Höör",
-      "fetchedAt": "2026-11-25T18:47:39.552Z",
+      "fetchedAt": "2026-11-26T14:10:24.614Z",
       "ok": true,
       "error": null,
       "source": {
@@ -96,9 +98,9 @@
       },
       "week": null,
       "raw": {
-        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid031LDreRkTCExkQfd7JWcN4z5UZXag3vgU3dkjFSN89DpnZj3AGm2vpytvDs93VaNUl",
+        "url": "https://www.facebook.com/cafeoldfashion/posts/pfbid0wnafjG86M9BbCzXXmDKKsoPY7E6G78zf7Cvx6uTMcWQH6Nuu5q6tPwEzVoVsEuhQl",
         "pdfUrl": null,
-        "imageUrl": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.99422-6/921035213_1593122425902318_3036282625503029665_n.png?stp=dst-jpg_tt6&cstp=mx1440x1665&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Qlz0n0l4W28Q7kNvwGiQHH8&_nc_oc=AdrwHxI4-hND5hOU9WCMgxzFLB7m-ObQmMstKBpgExfuCt4sP4AVWs9CLuFke77HocE&_nc_zt=14&_nc_ht=scontent-mia5-1.xx&_nc_gid=Q2t2HqeHcpvShu0MaIu_JA&_nc_ss=70389&oh=00_AQQeYSR3Xxe7QZJzsbb6__kQNgSf3WrGU3a9j4xqv3V9Lg&oe=6B0CFBDC",
+        "imageUrl": "https://scontent-lax7-1.xx.fbcdn.net/v/t39.99422-6/921035213_1593122425902318_3036282625503029665_n.png?stp=dst-jpg_tt6&cstp=mx1440x1665&ctp=s590x590&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Ya0BSkALQQoQ7kNvwGaZmXq&_nc_oc=AdpPM9jWCGVak7YIcXNuhCj55EpiY_PDULVwrhlNbRAsmkyEZJA7VBobxsLzuYY05N5ZUM3uarUPH2H2XOiBSUxZ&_nc_zt=14&_nc_ht=scontent-lax7-1.xx&_nc_gid=T9Bt-ssX8q6XxP5FhiPwlQ&_nc_ss=70389&oh=00_AQTWfg9nytNVKe3HuaSpbKuJI9ipK6DA_oIVTU7Hz08VqQ&oe=6B0E151C",
         "text": null,
         "ocrText": "\"\"Oppettider.hös:oss\nOver julen:t år:\nLCillejul 23e :\n12-16 0\nSöndagen 27dé--\n12-16\na\nJ Wafton, juldagen\nHch annandagen\nFS NG ee NN\nYXYOIStäöngt Nk",
         "postedAt": "2026-11-22T16:26:59.000Z"
@@ -107,9 +109,9 @@
     {
       "placeId": "kreta",
       "placeName": "Pizzeria Kreta",
-      "fetchedAt": "2026-11-25T18:48:10.227Z",
+      "fetchedAt": "2026-11-26T14:10:40.371Z",
       "ok": false,
-      "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
+      "error": "page_fetch_failed:503",
       "source": {
         "type": "kreta-html",
         "url": "https://pizzeriakreta.se/meny/"
@@ -117,7 +119,7 @@
       "week": null,
       "raw": {
         "ok": false,
-        "error": "request to https://pizzeriakreta.se/meny/ failed, reason: ",
+        "error": "page_fetch_failed:503",
         "url": "https://pizzeriakreta.se/meny/"
       }
     },
@@ -141,7 +143,9 @@
         "text": "ummer: 123 184 1337\nLunchpaket\nLunch\nMåndag-Fredag\n11.00 – 14.00\nGäller avhämtning & servering.\nTill alla lunchpaket  ingår 33 cl dryck.\nLUNCHPAKET I 125:-\nPizza nr 1–36,\nHamburgertallrik 90 gr,\nFalafeltallrik,\nFalafelrulle,\nKebab m bröd\nPasträtter 1-3\nLUNCHPAKET II 135:-\nPizza nr 37-59,\nVeganpizzor\nKebabrätter\nFalafel de Lux\nPastarätt nr. 4\nA la Carte nr. 1-3\nHamburgertallrik 150 gr.\nI alla våra goda pizzor ingår tomat och ost\nValfri pizza med glutenfri deg + 40 kr\nAlla pizzor kan fås med mozzarella eller ruccola för +14 kr\nEXTRA PÅLÄGG: Kött +40 kr, Övrigt +20 kr\nVår meny",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
     },
     {
       "placeId": "martens",
@@ -163,12 +167,14 @@
         "text": "Avhämtning\nVår meny\nDAGENS LUNCH 1     PRIS: 115KR\nPIZZA 1-9, HALLOUMI, KEBAB I BOX, KYCKLING I BOX, FALAFEL, HAMBURGARE.\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, bdör och kaffe ingår\nDAGENS LUNCH 2     PRIS: 125KR\nPIZZA 10-69, BAKAD POTATIS, SALLAD, A LA CARTÉ, KEBAB, KYCKLING\nSERVERAS MÅNDAG – FREDAG 11.00 – 14.00\n33 cl läsk, sallad, smör och kaffe ingår\nBeställ Avhämtning\nVill du komma i kontakt med oss\nBeställ Avhämtning",
         "ocrText": null,
         "postedAt": null
-      }
+      },
+      "stale": true,
+      "staleError": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
     },
     {
       "placeId": "frosta",
       "placeName": "Frosta Pizzeria",
-      "fetchedAt": "2026-11-25T18:48:18.110Z",
+      "fetchedAt": "2026-11-26T14:10:52.586Z",
       "ok": true,
       "error": null,
       "source": {
@@ -189,7 +195,7 @@
     {
       "placeId": "onuma",
       "placeName": "On-Uma Thai Mat",
-      "fetchedAt": "2026-11-25T18:48:18.633Z",
+      "fetchedAt": "2026-11-26T14:10:53.204Z",
       "ok": true,
       "error": null,
       "source": {
@@ -210,7 +216,7 @@
     {
       "placeId": "elisefarm",
       "placeName": "Elisefarm",
-      "fetchedAt": "2026-11-25T18:48:19.283Z",
+      "fetchedAt": "2026-11-26T14:10:54.106Z",
       "ok": false,
       "error": "no_pdf_link_found",
       "source": {
@@ -228,7 +234,7 @@
     {
       "placeId": "hardys",
       "placeName": "Hardys",
-      "fetchedAt": "2026-11-25T18:48:25.569Z",
+      "fetchedAt": "2026-11-26T14:11:00.834Z",
       "ok": true,
       "error": null,
       "source": {
@@ -241,7 +247,7 @@
         "url": "https://hardys.nu/",
         "pdfUrl": null,
         "imageUrl": null,
-        "text": "Hem - Hardys\nSkip to content\nTel. 0413-242 11\nFredagen den 20 november är det PREMIÄR för\nvåra goda Jultallrikar! Välkomna!",
+        "text": "One moment, please...\nLoader\nPlease wait while your request is being verified...",
         "ocrText": null,
         "postedAt": null
       }
@@ -249,7 +255,7 @@
     {
       "placeId": "matokaka",
       "placeName": "MAT & KaKa",
-      "fetchedAt": "2026-11-25T18:48:27.759Z",
+      "fetchedAt": "2026-11-26T14:11:02.271Z",
       "ok": true,
       "error": null,
       "source": {
@@ -270,7 +276,7 @@
     {
       "placeId": "eddisgrill",
       "placeName": "Eddi's Grill",
-      "fetchedAt": "2026-11-25T14:47:17.747Z",
+      "fetchedAt": "2026-11-26T14:11:02.542Z",
       "ok": true,
       "error": null,
       "source": {
@@ -286,9 +292,7 @@
         "text": "Eddis Grill Hem Meny\nTakeaway\nOm oss\nKontakt\nEddis Grill\nEddis Grill\nBeställ Online Smakrika Snabbmatsrätter hos Eddis Grill i Höör!\nÖppet Alla Dagar 10:30 - 21:00\nSe menyn Eddi's: Din destination för äkta svensk snabbmat i hjärtat av Skåne\nVälkommen till Eddis, en älskad destination i Höör sedan 1988 för äkta, välsmakande svensk snabbmat. Hos oss är kvaliteten alltid i fokus, oavsett om du väljer en klassisk rätt eller något nytt och spännande.Vi startade med en enkel vision att leverera högkvalitativ snabbmat, och det har gjort oss till en central del av Höör. Vårt engagemang för vänligt bemötande och god mat har gjort oss till en favorit bland både lokalbefolkning och besökare.Eddis är mer än en restaurang; det är en samlingsplats för gemenskap och goda minnen. Vi ser fram emot att välkomna dig till Eddis.\nKONTAKTA OSS\n0413-23922 Längtar du efter mumsig snabbmat? Ring Eddis Grill för att beställa din favorit idag. Ät på plats eller ta med hem - vi har det du behöver. Ring nu och njut av en smakrik måltid!\nÖppettider\nMåndag - Söndag 10:30 - 21:00 Adress\nNya Sätoftavägen 1\n243 34 Höör\nSweden Eddis Grill\nEddis Grill",
         "ocrText": null,
         "postedAt": null
-      },
-      "stale": true,
-      "staleError": "request to https://eddisgrill.se/ failed, reason: "
+      }
     }
   ]
 }
